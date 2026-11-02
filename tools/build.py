@@ -32,7 +32,7 @@ class Code:
 def main():
     src=(ROOT/'rom/original.gen').read_bytes()
     assert hashlib.sha256(src).hexdigest()==EXPECTED,'Unexpected source ROM'
-    rom=bytearray(src)+bytearray(0x14000)
+    rom=bytearray(src)+bytearray(0x18000)
     reference=next((ROOT/'rom/reference').glob('*.md')).read_bytes()
     assert hashlib.sha256(reference).hexdigest()==REFERENCE_SHA,'Unexpected font reference ROM'
     font,alternate,font_tiles,latin_map,cyr_map=pack_static(reference,src)
@@ -260,7 +260,7 @@ def main():
         ips.extend(start.to_bytes(3,'big')+len(data).to_bytes(2,'big')+data)
     ips.extend(b'EOF'); (dest/'genghis2-ru-experimental.ips').write_bytes(ips)
     (dest/'applied.json').write_text(json.dumps(applied,ensure_ascii=False,indent=2),encoding='utf-8')
-    manifest=dict(version='0.4.1',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['title subtitle','Yes button B9','No button BA']+list(graphics),checksum=f'{checksum:04X}')
+    manifest=dict(version='0.4.2',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['title subtitle','Yes button B9','No button BA']+list(graphics),checksum=f'{checksum:04X}')
     (dest/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
     print(f'Built {len(applied)} replacements; checksum {checksum:04X}; {len(rom)} bytes')
 

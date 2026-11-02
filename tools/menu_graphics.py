@@ -9,7 +9,7 @@ def address(index,resource):
 
 def render(raw,resource,caption,font,src):
     tiles=len(raw)//64; width=tiles*8
-    assert len(raw) in (256,384,512)
+    assert len(raw) in (192,256,384,512)
     attribute=0x9a<=resource<=0x9f
     background,foreground=(10,8) if attribute else (9,14)
     px=[[0]*width for _ in range(16)]
