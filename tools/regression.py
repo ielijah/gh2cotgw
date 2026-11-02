@@ -13,6 +13,9 @@ cases=[('intro-ru',1800,[]),('intro-later-ru',4500,[]),('new-game-ru',4000,basic
 cases.append(('buttons-no-ru',8000,choices+[[7900,7905,7]]))
 game=choices+[[t,t+10,8] for t in range(8100,15001,600)]
 cases += [('self-orders-ru',11500,game),('orders-prompt-ru',12100,game),('commands-ru',13200,[i for i in game if i[0]<=11700]),('action-cost-ru',15200,game)]
+cases.append(('finish-question-ru',14500,[i for i in game if i[0]<=11700]+[[13250,13255,0]]))
+table_inputs=[i for i in game if i[0]<=11700]+[[13250,13255,7],[13400,13405,5],[13550,13555,5],[13700,13705,5],[13850,13855,8],[14650,14655,7],[14800,14805,8]]
+cases.append(('character-table-ru',15500,table_inputs))
 for name,frames,inputs in cases:
     subprocess.run([sys.executable,str(ROOT/'tools/emulate.py'),str(ROOT/'build/genghis2-ru-experimental.gen'),str(frames),json.dumps(inputs)],cwd=ROOT,check=True,capture_output=True)
     shutil.copyfile(ROOT/'analysis/screen-genghis2-ru-experimental.png',ROOT/'analysis'/f'{name}.png')
@@ -49,6 +52,18 @@ _,_,original=read_png(ROOT/'analysis/screen-original.png')
 _,_,translated=read_png(ROOT/'analysis/action-cost-ru.png')
 action_diff=sum(original[(y*w+x)*3:(y*w+x)*3+3]!=translated[(y*w+x)*3:(y*w+x)*3+3] for y in range(40,56) for x in range(72,112))
 assert action_diff==0,('Action indicator differs from original',action_diff)
-report=dict(action_indicator_changed_pixels=action_diff,cases=[dict(name=n,frames=f,inputs=i) for n,f,i in cases],button_ink_rgb=[238,238,238],scenario_redraw_changed_pixels=changed,price_indicator_changed_pixels=0,status='PASS',scope='Launch, intro, menu selection, setup prompts and title; not a full playthrough')
+# Keep identical text/name/RNG state; restore just the original table headers.
+control=bytearray(rom);clean=(ROOT/'rom/original.gen').read_bytes()
+for resource in (0xed,0xee,0xef):
+    address=0xa663c+resource*4
+    control[address:address+4]=clean[address:address+4]
+control_path=ROOT/'build/diagnostics/table-original-headers.gen'
+control_path.write_bytes(control)
+subprocess.run([sys.executable,str(ROOT/'tools/emulate.py'),str(control_path),'15500',json.dumps(table_inputs)],cwd=ROOT,check=True,capture_output=True)
+_,_,original_table=read_png(ROOT/'analysis/screen-table-original-headers.png')
+_,_,translated_table=read_png(ROOT/'analysis/character-table-ru.png')
+table_diff=sum(original_table[(y*w+x)*3:(y*w+x)*3+3]!=translated_table[(y*w+x)*3:(y*w+x)*3+3] for y in range(48,200) for x in range(136,248))
+assert table_diff==0,('Character grades or health changed',table_diff)
+report=dict(character_table_stats_changed_pixels=table_diff,action_indicator_changed_pixels=action_diff,cases=[dict(name=n,frames=f,inputs=i) for n,f,i in cases],button_ink_rgb=[238,238,238],scenario_redraw_changed_pixels=changed,price_indicator_changed_pixels=0,status='PASS',scope='Launch, intro, menu selection, setup prompts and title; not a full playthrough')
 (ROOT/'analysis/regression.json').write_text(json.dumps(report,indent=2),encoding='utf-8')
 print('PASS: expanded scenario menu identical after down/up; Price HUD unchanged across menus')

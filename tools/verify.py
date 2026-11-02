@@ -6,6 +6,7 @@ sys.path.insert(0,str(ROOT/'tools'))
 from build import encode,EXPECTED
 from import_font import pack_static,REFERENCE_SHA
 from graphics_codec import decode,encode_literals
+from menu_graphics import address as graphic_address
 src=(ROOT/'rom/original.gen').read_bytes()
 assert hashlib.sha256(src).hexdigest()==EXPECTED
 rom=(ROOT/'build/genghis2-ru-experimental.gen').read_bytes()
@@ -24,6 +25,7 @@ applied=json.loads((ROOT/'build/applied.json').read_text(encoding='utf-8'))
 for item in applied:
     off=int(item['offset'],16); text=encode(item['ru'])
     assert rom[off:off+len(text)]==text,item
+    if item.get('terminate'): assert rom[off+len(text)]==0,item
     if item.get('kind')=='field':
         assert rom[off+len(text):off+item['capacity']]==bytes(item['capacity']-len(text))
         following=off+item['capacity']
@@ -41,12 +43,13 @@ assert rom[0x5c10:0x5c18].hex()=='4ef900100c004e71'
 assert rom[0xd12c2:0xd14a2]!=src[0xd12c2:0xd14a2]
 assert rom[0x5e7c:0x5e7e].hex()=='2004','Glyph index must replace all of D0'
 graphics=json.loads((ROOT/'translation/graphics.json').read_text(encoding='utf-8'))
-resources=[(0xb9,0x102000),(0xba,0x102200)]+[(int(key,16),0x108000+i*0x200) for i,key in enumerate(graphics)]
+resources=[(0xb9,0x102000),(0xba,0x102200)]+[(int(key,16),graphic_address(i,int(key,16))) for i,key in enumerate(graphics)]
 for resource,address in resources:
     table=0xa663c+resource*4
     assert int.from_bytes(rom[table:table+4],'big')==address
-    decoded,_=decode(rom[address:]); assert len(decoded)==256
+    decoded,_=decode(rom[address:])
     original,_=decode(src[int.from_bytes(src[table:table+4],'big'):])
+    assert len(decoded)==len(original)
     assert decoded!=original
     if 0x9a<=resource<=0x9f:
         def pixel(data,x,y):
@@ -81,3 +84,19 @@ for index,ch in enumerate(alphabet):
     assert bytes(rebuilt)==font[ch],ch
 assert encode('Ёё')==bytes([0x1c,0x7f])
 print(f'PASS: IPS replay ({records} records), hashes, checksum, {len(applied)} translations, relocations, both reference fonts, 66 permanent glyphs, compressed buttons')
+
+# Every province and every generator table entry now points to translated text.
+for start,count,stride in ((0x48dd2,14,15),(0x48fc1,33,15)):
+    for i in range(count):
+        value=rom[start+i*stride:start+(i+1)*stride].split(b'\0')[0]
+        assert value and not any(65<=c<=90 or 97<=c<=122 for c in value),(hex(start+i*stride),value)
+for address in range(0x49cee,0x4a0be,4):
+    old=int.from_bytes(src[address:address+4],'big')
+    if not 0x39544<=old<=0x39a06 or src[old] in (0,32): continue
+    target=int.from_bytes(rom[address:address+4],'big')
+    assert 0x10c000<=target<0x110000,hex(address)
+    value=rom[target:target+32].split(b'\0')[0]
+    assert value and not any(65<=c<=90 or 97<=c<=122 for c in value),(hex(address),value)
+assert rom[0x394ae:0x394b2]==encode('Осн')+b'\0'
+assert rom[0x49c20:0x49c30].split(b'\0')[0]==encode('Вы закончили')
+print('PASS: 47 province labels, generator pointer tables, Osn season, single-question prompt')

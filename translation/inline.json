@@ -52,7 +52,8 @@
   {
     "offset": "049C20",
     "source": "Are you finished",
-    "ru": "Вы закончили?"
+    "ru": "Вы закончили",
+    "terminate": true
   },
   {
     "offset": "049C32",

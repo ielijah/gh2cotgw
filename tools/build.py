@@ -4,6 +4,7 @@ import hashlib,json,struct,re,sys
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'tools'))
 from graphics_codec import decode,encode_literals
+from menu_graphics import render as render_caption, address as graphic_address
 from import_font import pack_static,REFERENCE_SHA
 EXPECTED='94efa72e970266710995b489a1d6b88e1a03635a230b41d9a5cd2268757f25d4'
 
@@ -31,7 +32,7 @@ class Code:
 def main():
     src=(ROOT/'rom/original.gen').read_bytes()
     assert hashlib.sha256(src).hexdigest()==EXPECTED,'Unexpected source ROM'
-    rom=bytearray(src)+bytearray(0x10000)
+    rom=bytearray(src)+bytearray(0x14000)
     reference=next((ROOT/'rom/reference').glob('*.md')).read_bytes()
     assert hashlib.sha256(reference).hexdigest()==REFERENCE_SHA,'Unexpected font reference ROM'
     font,alternate,font_tiles,latin_map,cyr_map=pack_static(reference,src)
@@ -164,8 +165,12 @@ def main():
         assert src[pos:pos+len(en)]==en.encode('ascii'),item
         check_format(en,ru)
         assert len(new)<=len(en),item
-        rom[pos:pos+len(en)]=new+b' '*(len(en)-len(new))
-        applied.append(dict(offset=f'{pos:06X}',en=en,ru=ru))
+        padding=len(en)-len(new)
+        if item.get('terminate'):
+            assert padding>0
+            rom[pos:pos+len(en)]=new+bytes(padding)
+        else: rom[pos:pos+len(en)]=new+b' '*padding
+        applied.append(dict(offset=f'{pos:06X}',en=en,ru=ru,terminate=item.get('terminate',False)))
     fields=json.loads((ROOT/'translation/fields.json').read_text(encoding='utf-8'))
     for group,capacity in [('people',12),('countries',22)]:
         for en,ru in fields[group].items():
@@ -230,53 +235,14 @@ def main():
     # Buttons B9/BA are compressed resources, not plain text or raw tiles.
     graphics=json.loads((ROOT/'translation/graphics.json').read_text(encoding='utf-8'))
     buttons=[(0xb9,'Да',0x102000),(0xba,'Нет',0x102200)]
-    buttons += [(int(key,16),caption,0x108000+i*0x200) for i,(key,caption) in enumerate(graphics.items())]
+    buttons += [(int(key,16),caption,graphic_address(i,int(key,16))) for i,(key,caption) in enumerate(graphics.items())]
     for resource,caption,address in buttons:
         pointer=0xa663c+resource*4
         original_address=int.from_bytes(src[pointer:pointer+4],'big')
-        raw,_=decode(src[original_address:]); assert len(raw)==256
-        attribute=0x9a<=resource<=0x9f
-        background,foreground=(10,8) if attribute else (9,14)
-        px=[[0]*32 for _ in range(16)]
-        for y in range(16):
-            for x in range(32):
-                value=raw[(y//8*4+x//8)*32+(y%8)*4+(x%8)//2]
-                px[y][x]=(value>>(4 if x%2==0 else 0))&15
-                if 0<x<32 and y<15: px[y][x]=background
-        columns=[]
-        for ch in caption:
-            button_font=alternate if resource not in (0xb9,0xba) else font
-            glyph=button_font[ch] if ch in button_font else src[0x46244+(ord(ch)-32)*16:0x46254+(ord(ch)-32)*16]
-            occupied=[x for x in range(8) if any(row&(128>>x) for row in glyph[:15])]
-            for x in range(min(occupied),max(occupied)+1):
-                columns.append([bool(row&(128>>x)) for row in glyph[:15]])
-            if resource in (0xb9,0xba): columns.append([False]*15)
-        if resource in (0xb9,0xba): columns.pop()
-        if resource not in (0xb9,0xba):
-            # Narrow hand-drawn menu face: full captions without resampling strokes.
-            menu_font=json.loads((ROOT/'translation/menu-font.json').read_text(encoding='utf-8'))
-            columns=[]
-            for ch in caption:
-                rows=menu_font[ch]
-                assert all(len(row)==len(rows[0]) for row in rows)
-                top=3 if ch.isupper() else 5
-                for x in range(len(rows[0])):
-                    columns.append([top<=y<top+len(rows) and rows[y-top][x]=='1' for y in range(15)])
-                columns.append([False]*15)
-            columns.pop()
-        width=len(columns); assert width<=31,(caption,width)
-        left=max(1,(32-width)//2)
-        ink=[(left+x,y) for x in range(width) for y in range(15) if columns[x][y]]
-        # Original B9/BA: E is white ink, F is the black lower-left shadow.
-        for x,y in ink:
-            if not attribute and 0<x-1<31 and y+1<15: px[y+1][x-1]=15
-        for x,y in ink: px[y][x]=foreground
-        changed=bytearray(raw)
-        for y in range(16):
-            for x in range(0,32,2):
-                changed[(y//8*4+x//8)*32+(y%8)*4+(x%8)//2]=(px[y][x]<<4)|px[y][x+1]
+        raw,_=decode(src[original_address:])
+        changed=render_caption(raw,resource,caption,font,src)
         packed=encode_literals(changed)
-        assert len(packed)<=0x200
+        assert len(packed)<=(0x400 if resource in (0xed,0xee) else 0x200)
         assert address+len(packed)<=len(rom)
         rom[address:address+len(packed)]=packed
         rom[pointer:pointer+4]=struct.pack('>I',address)
@@ -294,7 +260,7 @@ def main():
         ips.extend(start.to_bytes(3,'big')+len(data).to_bytes(2,'big')+data)
     ips.extend(b'EOF'); (dest/'genghis2-ru-experimental.ips').write_bytes(ips)
     (dest/'applied.json').write_text(json.dumps(applied,ensure_ascii=False,indent=2),encoding='utf-8')
-    manifest=dict(version='0.4',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['title subtitle','Yes button B9','No button BA']+list(graphics),checksum=f'{checksum:04X}')
+    manifest=dict(version='0.4.1',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['title subtitle','Yes button B9','No button BA']+list(graphics),checksum=f'{checksum:04X}')
     (dest/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
     print(f'Built {len(applied)} replacements; checksum {checksum:04X}; {len(rom)} bytes')
 
