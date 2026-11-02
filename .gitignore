@@ -1,4 +1,5 @@
 .runtime/
+.vs/
 rom/
 build/
 __pycache__/
