@@ -1,93 +1,102 @@
-# GH2cotgw
+# Genghis Khan II — экспериментальная русификация Mega Drive / Genesis
 
+**Версия 0.3.5: шрифты из предоставленного пользователем перевода, терминология по обсуждению Chief-Net. Полная русификация не завершена.**
 
+## Что сделано
 
-## Getting started
+- Исходный архив распакован в `rom/original.gen`; оригинал не изменён.
+- Подтверждены платформа, векторы запуска и хеш исходника.
+- Получен линейный листинг 68000 `analysis/m68k-linear.asm`. Он содержит также интерпретацию данных как команд и не является полным восстановленным исходным кодом или проектом обратной сборки.
+- Найдены основной шрифт 8×16 по адресу `0x046244`, вывод текста `0x005E16`, преобразование глифа `0x005CF8`, загрузка шрифта `0x005C10`.
+- Импортированы оба варианта русского шрифта из пользовательского ROM в архиве `D:/SMD [T+Rus]/Genghis Khan II - Clan of the Gray Wolf (USA).7z`. По 61 глифу каждого начертания перенесены из источника; отсутствующие прописные Й/Ё/Ъ/Ы/Ь построены на его основе. Поддерживаются все 66 русских букв, включая Ё/ё. Происхождение: `analysis/font-provenance.json`.
+- Внесено 1218 замен текстовых фрагментов и полей, включая повторяющиеся записи. Переведены основная часть извлечённых диалогов, боевые команды, виды войск, дипломатия, управление землями, семейные реплики, события, сезоны, настройка игры и подсказки. Добавлены основные монгольские имена и названия держав. Это число замен, а не оценка процента готовности.
+- Переводы хранятся в `translation/reviewed.json`, `batch-*.json`, `inline.json` и `fields.json`. Профессиональная редактура ещё не проведена. Для имён и держав используется подтверждённое нулевое заполнение полей 12/22 байта; параметры соседних полей сохранены.
+- Постоянный шрифт упакован в штатные 192 тайла за счёт повторного использования одинаковых половинок букв. Русские буквы сохраняют регистр. Индикатор «Цена» и другие постоянные подписи больше не зависят от временного кольцевого буфера; временные реплики используют кэш с учётом цвета и начертания. Старые повреждения постоянных подписей при открытии меню устранены в проверенных сценариях. Подробности: `analysis/renderer-notes.md`.
+- По форуму приведены к единой норме «юнит — легион — армия», исправлены имена, оставлены латинские оценки A–E. Сценарии получили полные названия «Завоевание Монголии», «Династия Юань», «Завоевание мира»: строки перенесены по указателям, окно расширено, исправлен связанный с шириной размер буфера выделения. Решения и спорные варианты перечислены в `translation/GLOSSARY.md`.
+- Перерисована графическая надпись **CLAN OF THE GRAY WOLF → КЛАН СЕРОГО ВОЛКА**: 15 тайлов 4bpp по адресам `0x0D12C2..0x0D14A1`. Расположение подтверждено сопоставлением всех 15 тайлов с кадром эмулятора.
+- Восстановлен кодек сжатой графики KOEI; графические кнопки **Yes / No** заменены на **Да / Нет**, сохранены размер и механизм выделения. В 0.3.1 исправлен цвет букв: белый (индекс E) с чёрной тенью (F), как в оригинале; добавлены 24 замены имён создаваемых персонажей.
+- Созданы ROM и IPS-патч, обновлены размер ROM в заголовке и контрольная сумма.
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## Результат
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+- `build/genghis2-ru-experimental.gen` — экспериментальный ROM.
+- `build/genghis2-ru-experimental.ips` — патч для указанного ниже оригинала.
+- `build/applied.json` — адреса применённых переводов.
+- `build/manifest.json` — версия, количество замен и SHA-256 результатов.
+- `analysis/title-ru.png`, `intro-ru.png`, `intro-later-ru.png`, `new-game-ru.png`, `scenario-ru.png`, `buttons-ru.png` — проверочные кадры.
+- `analysis/regression.json` — выполненные сценарии проверки.
 
-## Add your files
+SHA-256 оригинала:
 
-* [Create](https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file) or [upload](https://docs.gitlab.com/user/project/repository/web_editor/#upload-a-file) files
-* [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
+`94efa72e970266710995b489a1d6b88e1a03635a230b41d9a5cd2268757f25d4`
 
+SHA-256 ROM — источника шрифтов:
+
+`593ab1fef1f30ac3bf13a75be211f4536a765f24404fb1bfb92cdad81084161d`
+
+Исходник для патча по-прежнему чистый американский ROM. Шрифтовой ROM используется только как источник ресурсов; его прочие изменения не переносятся.
+
+## Сборка и проверка
+
+Из каталога проекта в PowerShell (локальный runtime уже подготовлен):
+
+```powershell
+# При необходимости заново установить локальные инструменты:
+./tools/bootstrap.ps1
+& ./.runtime/python/python.exe tools/analyze.py
+& ./.runtime/python/python.exe tools/import_font.py
+& ./.runtime/python/python.exe tools/build.py
+& ./.runtime/python/python.exe tools/verify.py
+& ./.runtime/python/python.exe tools/test_cache_cpu.py
+& ./.runtime/python/python.exe tools/regression.py
 ```
-cd existing_repo
-git remote add origin https://gitlab.com/ielijah/gh2cotgw.git
-git branch -M main
-git push -uf origin main
+
+На обычном Python достаточно установить `requirements.txt` для анализа; сборка и проверка используют стандартную библиотеку. Эмулятор требует Windows x64 и локальную DLL Genesis Plus GX. Источники инструментов: [Python](https://www.python.org/), [Capstone](https://github.com/capstone-engine/capstone), [Genesis Plus GX](https://github.com/libretro/Genesis-Plus-GX).
+
+`verify.py` проверяет точное восстановление ROM из IPS, исходный хеш, заголовок, контрольную сумму, применённые переводы, заполнение полей, хуки, графические ресурсы и граничные размеры потоков кодека. При сборке проверяются спецификаторы форматирования и допустимые символы.
+
+Проверяются также оба заимствованных начертания и восстановление всех 66 постоянных глифов из упакованных тайлов. Сборке нужен распакованный шрифтовой ROM в `rom/reference/`; он уже подготовлен в этом рабочем каталоге.
+
+`test_cache_cpu.py` исполняет инструкции исправления на эмулируемом 68000: проверяет инвалидирование при чётных/нечётных адресах и загрузках 0/1/2/3 тайлов, поиск прописных/строчных глифов, палитры, ключи цветов и сохранение позиции аллокатора при попадании в кэш. Создаваемые им тестовые ROM предназначены только для диагностики.
+
+`regression.py` делает двенадцать снимков русской версии и контрольный кадр оригинала: две стадии вступления, новое меню, выбор сценария, возврат выделения, кнопки в настройке и титульный экран. Полная область расширенного выбора сценария должна совпадать пиксель в пиксель после нажатия вниз и обратно вверх. Область индикатора «Цена» должна оставаться неизменной в разных меню. Белый цвет букв кнопок проверяется по пикселям кадров до и после переключения выбора.
+
+`emulate.py ROM FRAMES JSON_INPUT` принимает нажатия в виде `[начальный_кадр, конечный_кадр, libretro_button_id]`. Start = 3, кнопка подтверждения в проверенном меню = 8. Пример перехода к меню сценариев:
+
+```powershell
+& ./.runtime/python/python.exe tools/emulate.py build/genghis2-ru-experimental.gen 4500 '[[1900,1910,3],[3000,3010,3],[4100,4110,8]]'
 ```
 
-## Integrate with your tools
+## Что осталось
 
-* [Set up project integrations](https://gitlab.com/ielijah/gh2cotgw/-/settings/integrations)
+- Перевести оставшиеся имена всех сценариев, генератор имён детей, возможные ещё не извлечённые строки и остальные графические надписи. Текущий `translation/strings.json` — кандидаты из части ROM, а не полный текстовый дамп; некоторые записи содержат фрагменты данных. Управляющие последовательности проверяются по мере разбора.
+- Перерисовать основной титульный логотип **Genghis Khan II**. Пока переведены графический подзаголовок и кнопки Yes/No.
+- Протестировать новые таблицы шрифта и временный кэш на всех окнах и длительных игровых сессиях. Под таблицу тегов занято 2 КиБ RAM и дополнительное слово для номера начертания. Проверенные экраны больше не воспроизводят старую проблему, но это не проверка всей игры.
+- Проверить бои, события, сохранение/загрузку и все сценарии. Автоматически проверены запуск, вступление, титульный экран, начальные меню и часть настройки сценария; полного игрового тестирования не было. Наличие переведённых сообщений сохранения не означает, что сохранение уже проверено.
+- Уточнить переводы связанных фрагментов фраз и сокращения. Большинство строк ещё укладывается в исходное место; три названия сценариев уже перенесены по указателям. Для слишком длинных имён применяются краткие формы из глоссария, а не замены на других исторических лиц.
+- Остаточная латиница в статическом режиме выводится прописными. Ради размещения полного русского алфавита в штатной области некоторые редкие знаки имеют упрощённые формы; таблица соответствует `ALIASES` в `tools/import_font.py`. Латинские оценки A–E сохранены. Дальнейшая полная локализация имён уменьшит зависимость от остаточной латиницы.
+- Восстановить границы процедур/данных, таблицы переходов и Z80-код. Линейный листинг 68000 не заменяет эту работу.
 
-## Collaborate with your team
+Исходник и runtime исключены из Git. ROM предназначен для локальной проверки владельцем исходного файла; для переноса изменений достаточно IPS-патча.
 
-* [Invite team members and collaborators](https://docs.gitlab.com/user/project/members/)
-* [Create a new merge request](https://docs.gitlab.com/user/project/merge_requests/creating_merge_requests/)
-* [Automatically close issues from merge requests](https://docs.gitlab.com/user/project/issues/managing_issues/#closing-issues-automatically)
-* [Enable merge request approvals](https://docs.gitlab.com/user/project/merge_requests/approvals/)
-* [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
+## Изменения 0.3.2
 
-## Test and Deploy
+- Переведены пять пропущенных реплик в блоке 049C08–049C90 и «Река Онон».
+- Перерисованы 11 ресурсов кнопок команд, включая варианты главного меню FD/FE/F6. Использованы исходные пиксели заимствованного кириллического шрифта без масштабирования; изменены только межбуквенные поля. Узкие подписи: «Курс», «Указ», «Люди», «Вой.», «Хоз.», «Дип.», «Торг», «Инфо». Таблица: translation/graphics.json.
+- Исправлен лишний символ возле индикатора действий: MOVE.B при передаче индекса глифа оставлял старшие биты D0. Теперь передаётся полный очищенный индекс через MOVE.L по адресу 005E7C. Это индикатор действий и стоимости приказа, а не возраст.
+- Проверяется совпадение области индикатора с чистым ROM пиксель в пиксель; добавлены кадры реплик, главного меню и стоимости приказа. Полное прохождение не выполнено.
 
-Use the built-in continuous integration in GitLab.
+## Изменения 0.3.3
 
-* [Get started with GitLab CI/CD](https://docs.gitlab.com/ci/quick_start/)
-* [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/user/application_security/sast/)
-* [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/topics/autodevops/requirements/)
-* [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/user/clusters/agent/)
-* [Set up protected environments](https://docs.gitlab.com/ci/environments/protected_environments/)
+- Главное меню и варианты кнопок команд получили более тонкое альтернативное начертание из предоставленного ROM. Контуры букв не масштабируются и не подвергаются автоматическому утончению. На кнопках сохранены белая заливка и чёрная тень; «Да / Нет» используют прежнее начертание.
+- Переведено 41 дополнительное географическое название: все 33 области мировой карты и восемь названий на монгольской карте. Поля имеют подтверждённую ёмкость 15 байт; сборка сохраняет завершение и не выходит за границы поля. Данные: translation/geography.json.
 
-***
+## Изменения 0.3.4
 
-# Editing this README
+Переведены шесть графических подписей характеристик: Polit → Пол. (политика), Lead → Лид. (лидерство), War → Вой. (военное дело), Charm → Хар. (харизма), Body → Здр. (здоровье), Age → Лет. Ресурсы 9A–9F используют тонкое начертание, жёлтые буквы без тени (индекс 8), серый фон (A) и исходную рамку (F). Латинские оценки и числовые данные не изменены. Число текстовых замен остаётся 1218, поскольку эти изменения относятся к графике.
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+Проверка ресурсов подтверждает сохранение палитры и границ каждого тайла. Отдельные заголовки сводной таблицы персонажей Name / PolWarLdChm / Body ещё не переведены.
 
-## Suggestions for a good README
+## Изменения 0.3.5
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+Главное меню приведено к пользовательскому образцу: «Полит. / Приказ / Кадры / Война» слева, «Хоз-во / Дип. / Рынок / Инфо» справа. Для полного размещения надписей в кнопках 32×16 создано узкое пиксельное начертание с прописными засечками; контуры заданы в translation/menu-font.json и не масштабируются. Сохранены палитра, рамки и механизм выбора. Обновлены также дублирующие ресурсы подписей B1/B2/B8.

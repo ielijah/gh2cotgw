@@ -1,0 +1,278 @@
+[
+  {
+    "offset": "048FC1",
+    "source": "Mongolia",
+    "ru": "Монголия",
+    "capacity": 15
+  },
+  {
+    "offset": "048FD0",
+    "source": "Dzungaria",
+    "ru": "Джунгария",
+    "capacity": 15
+  },
+  {
+    "offset": "048FDF",
+    "source": "Kipchak",
+    "ru": "Кипчак",
+    "capacity": 15
+  },
+  {
+    "offset": "048FEE",
+    "source": "Liaodong",
+    "ru": "Ляодун",
+    "capacity": 15
+  },
+  {
+    "offset": "048FFD",
+    "source": "Hopei",
+    "ru": "Хэбэй",
+    "capacity": 15
+  },
+  {
+    "offset": "04900C",
+    "source": "Gansu",
+    "ru": "Ганьсу",
+    "capacity": 15
+  },
+  {
+    "offset": "04901B",
+    "source": "Kao-Chang",
+    "ru": "Гаочан",
+    "capacity": 15
+  },
+  {
+    "offset": "04902A",
+    "source": "Turkestan",
+    "ru": "Туркестан",
+    "capacity": 15
+  },
+  {
+    "offset": "049039",
+    "source": "Tibet",
+    "ru": "Тибет",
+    "capacity": 15
+  },
+  {
+    "offset": "049048",
+    "source": "Korea",
+    "ru": "Корея",
+    "capacity": 15
+  },
+  {
+    "offset": "049057",
+    "source": "Japan",
+    "ru": "Япония",
+    "capacity": 15
+  },
+  {
+    "offset": "049066",
+    "source": "Hunan",
+    "ru": "Хунань",
+    "capacity": 15
+  },
+  {
+    "offset": "049075",
+    "source": "Annam",
+    "ru": "Аннам",
+    "capacity": 15
+  },
+  {
+    "offset": "049084",
+    "source": "Burma",
+    "ru": "Бирма",
+    "capacity": 15
+  },
+  {
+    "offset": "049093",
+    "source": "Asia Minor",
+    "ru": "Малая Азия",
+    "capacity": 15
+  },
+  {
+    "offset": "0490A2",
+    "source": "Syria",
+    "ru": "Сирия",
+    "capacity": 15
+  },
+  {
+    "offset": "0490B1",
+    "source": "Maghreb",
+    "ru": "Магриб",
+    "capacity": 15
+  },
+  {
+    "offset": "0490C0",
+    "source": "Egypt",
+    "ru": "Египет",
+    "capacity": 15
+  },
+  {
+    "offset": "0490CF",
+    "source": "Arabia",
+    "ru": "Аравия",
+    "capacity": 15
+  },
+  {
+    "offset": "0490DE",
+    "source": "Persia",
+    "ru": "Персия",
+    "capacity": 15
+  },
+  {
+    "offset": "0490ED",
+    "source": "Punjab",
+    "ru": "Пенджаб",
+    "capacity": 15
+  },
+  {
+    "offset": "0490FC",
+    "source": "Hindustan",
+    "ru": "Индостан",
+    "capacity": 15
+  },
+  {
+    "offset": "04910B",
+    "source": "Southern India",
+    "ru": "Южная Индия",
+    "capacity": 15
+  },
+  {
+    "offset": "04911A",
+    "source": "Russia",
+    "ru": "Русь",
+    "capacity": 15
+  },
+  {
+    "offset": "049129",
+    "source": "Balkans",
+    "ru": "Балканы",
+    "capacity": 15
+  },
+  {
+    "offset": "049138",
+    "source": "Baltic Coast",
+    "ru": "Берег Балтики",
+    "capacity": 15
+  },
+  {
+    "offset": "049147",
+    "source": "Poland",
+    "ru": "Польша",
+    "capacity": 15
+  },
+  {
+    "offset": "049156",
+    "source": "Hungary",
+    "ru": "Венгрия",
+    "capacity": 15
+  },
+  {
+    "offset": "049165",
+    "source": "Germany",
+    "ru": "Германия",
+    "capacity": 15
+  },
+  {
+    "offset": "049174",
+    "source": "Italy",
+    "ru": "Италия",
+    "capacity": 15
+  },
+  {
+    "offset": "049183",
+    "source": "England",
+    "ru": "Англия",
+    "capacity": 15
+  },
+  {
+    "offset": "049192",
+    "source": "France",
+    "ru": "Франция",
+    "capacity": 15
+  },
+  {
+    "offset": "0491A1",
+    "source": "Iberia",
+    "ru": "Иберия",
+    "capacity": 15
+  },
+  {
+    "offset": "048DE1",
+    "source": "Kerulen River",
+    "ru": "Река Керулен",
+    "capacity": 15
+  },
+  {
+    "offset": "048DFF",
+    "source": "Inner Mongolia",
+    "ru": "Внутр.Монголия",
+    "capacity": 15
+  },
+  {
+    "offset": "048E3B",
+    "source": "Lake Baikal",
+    "ru": "Озеро Байкал",
+    "capacity": 15
+  },
+  {
+    "offset": "048E4A",
+    "source": "Selenge River",
+    "ru": "Река Селенга",
+    "capacity": 15
+  },
+  {
+    "offset": "048E59",
+    "source": "Angaran Steppe",
+    "ru": "Степь Ангары",
+    "capacity": 15
+  },
+  {
+    "offset": "048E77",
+    "source": "Hangay Mtns",
+    "ru": "Горы Хангай",
+    "capacity": 15
+  },
+  {
+    "offset": "048E86",
+    "source": "Yenesei River",
+    "ru": "Река Енисей",
+    "capacity": 15
+  },
+  {
+    "offset": "048E95",
+    "source": "Altai Mtns",
+    "ru": "Горы Алтая",
+    "capacity": 15
+  },
+  {
+    "offset": "048DF0",
+    "source": "Bogodo Mtns",
+    "ru": "Горы Богдо",
+    "capacity": 15
+  },
+  {
+    "offset": "048E0E",
+    "source": "Barguchin Mtns",
+    "ru": "Горы Баргучин",
+    "capacity": 15
+  },
+  {
+    "offset": "048E1D",
+    "source": "Gorgonak River",
+    "ru": "Река Горгонак",
+    "capacity": 15
+  },
+  {
+    "offset": "048E2C",
+    "source": "Toula River",
+    "ru": "Река Туул",
+    "capacity": 15
+  },
+  {
+    "offset": "048E68",
+    "source": "Lake Kassagol",
+    "ru": "Озеро Косогол",
+    "capacity": 15
+  }
+]

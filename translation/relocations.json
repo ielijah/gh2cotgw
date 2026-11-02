@@ -1,0 +1,2144 @@
+[
+  {
+    "source_offset": "03B344",
+    "source": "Mongol Conquest",
+    "ru": "Завоевание Монголии",
+    "target": "106000",
+    "references": [
+      "04B8B2"
+    ]
+  },
+  {
+    "source_offset": "03B328",
+    "source": "Yuan Dynasty",
+    "ru": "Династия Юань",
+    "target": "106040",
+    "references": [
+      "04B8BA"
+    ]
+  },
+  {
+    "source_offset": "03B318",
+    "source": "World Conquest",
+    "ru": "Завоевание мира",
+    "target": "106080",
+    "references": [
+      "04B8BE"
+    ]
+  },
+  {
+    "source_offset": "039544",
+    "source": "On",
+    "ru": "Он",
+    "target": "10C000",
+    "references": [
+      "049D2A"
+    ]
+  },
+  {
+    "source_offset": "039548",
+    "source": "Molo",
+    "ru": "Моло",
+    "target": "10C020",
+    "references": [
+      "049D26"
+    ]
+  },
+  {
+    "source_offset": "03954E",
+    "source": "Qar",
+    "ru": "Хар",
+    "target": "10C040",
+    "references": [
+      "049D22"
+    ]
+  },
+  {
+    "source_offset": "039552",
+    "source": "Tou",
+    "ru": "Тоу",
+    "target": "10C060",
+    "references": [
+      "049D1E"
+    ]
+  },
+  {
+    "source_offset": "039556",
+    "source": "Chi",
+    "ru": "Чи",
+    "target": "10C080",
+    "references": [
+      "049D1A"
+    ]
+  },
+  {
+    "source_offset": "03955A",
+    "source": "Bor",
+    "ru": "Бор",
+    "target": "10C0A0",
+    "references": [
+      "049D16"
+    ]
+  },
+  {
+    "source_offset": "03955E",
+    "source": "Ugu",
+    "ru": "Угу",
+    "target": "10C0C0",
+    "references": [
+      "049D12"
+    ]
+  },
+  {
+    "source_offset": "039562",
+    "source": "Jaga",
+    "ru": "Джага",
+    "target": "10C0E0",
+    "references": [
+      "049D0E"
+    ]
+  },
+  {
+    "source_offset": "039568",
+    "source": "Bar",
+    "ru": "Бар",
+    "target": "10C100",
+    "references": [
+      "049D0A"
+    ]
+  },
+  {
+    "source_offset": "03956C",
+    "source": "Subu",
+    "ru": "Субу",
+    "target": "10C120",
+    "references": [
+      "049D06"
+    ]
+  },
+  {
+    "source_offset": "039572",
+    "source": "Ala",
+    "ru": "Ала",
+    "target": "10C140",
+    "references": [
+      "049D02"
+    ]
+  },
+  {
+    "source_offset": "039576",
+    "source": "Gen",
+    "ru": "Гэн",
+    "target": "10C160",
+    "references": [
+      "049CFE"
+    ]
+  },
+  {
+    "source_offset": "03957A",
+    "source": "Kubla",
+    "ru": "Хубла",
+    "target": "10C180",
+    "references": [
+      "049CFA"
+    ]
+  },
+  {
+    "source_offset": "039580",
+    "source": "Togo",
+    "ru": "Того",
+    "target": "10C1A0",
+    "references": [
+      "049CF6"
+    ]
+  },
+  {
+    "source_offset": "039586",
+    "source": "Tar",
+    "ru": "Тар",
+    "target": "10C1C0",
+    "references": [
+      "049CF2"
+    ]
+  },
+  {
+    "source_offset": "03958A",
+    "source": "Temu",
+    "ru": "Тэму",
+    "target": "10C1E0",
+    "references": [
+      "049CEE"
+    ]
+  },
+  {
+    "source_offset": "039590",
+    "source": "gut",
+    "ru": "гут",
+    "target": "10C200",
+    "references": [
+      "049D6A"
+    ]
+  },
+  {
+    "source_offset": "039594",
+    "source": "bar",
+    "ru": "бар",
+    "target": "10C220",
+    "references": [
+      "049D66"
+    ]
+  },
+  {
+    "source_offset": "039598",
+    "source": "bor",
+    "ru": "бор",
+    "target": "10C240",
+    "references": [
+      "049D62"
+    ]
+  },
+  {
+    "source_offset": "03959C",
+    "source": "qar",
+    "ru": "хар",
+    "target": "10C260",
+    "references": [
+      "049D5E"
+    ]
+  },
+  {
+    "source_offset": "0395A0",
+    "source": "gil",
+    "ru": "гил",
+    "target": "10C280",
+    "references": [
+      "049D5A"
+    ]
+  },
+  {
+    "source_offset": "0395A4",
+    "source": "dei",
+    "ru": "дэй",
+    "target": "10C2A0",
+    "references": [
+      "049D56"
+    ]
+  },
+  {
+    "source_offset": "0395A8",
+    "source": "jin",
+    "ru": "джин",
+    "target": "10C2C0",
+    "references": [
+      "049D52"
+    ]
+  },
+  {
+    "source_offset": "0395AC",
+    "source": "chu",
+    "ru": "чу",
+    "target": "10C2E0",
+    "references": [
+      "049D4E"
+    ]
+  },
+  {
+    "source_offset": "0395B0",
+    "source": "gor",
+    "ru": "гор",
+    "target": "10C300",
+    "references": [
+      "049D4A"
+    ]
+  },
+  {
+    "source_offset": "0395B4",
+    "source": "lug",
+    "ru": "луг",
+    "target": "10C320",
+    "references": [
+      "049D46"
+    ]
+  },
+  {
+    "source_offset": "0395B8",
+    "source": "qa",
+    "ru": "ха",
+    "target": "10C340",
+    "references": [
+      "049D42"
+    ]
+  },
+  {
+    "source_offset": "0395BC",
+    "source": "ril",
+    "ru": "рил",
+    "target": "10C360",
+    "references": [
+      "049D3E"
+    ]
+  },
+  {
+    "source_offset": "0395C0",
+    "source": "beki",
+    "ru": "беки",
+    "target": "10C380",
+    "references": [
+      "049D3A"
+    ]
+  },
+  {
+    "source_offset": "0395C6",
+    "source": "toku",
+    "ru": "току",
+    "target": "10C3A0",
+    "references": [
+      "049D36"
+    ]
+  },
+  {
+    "source_offset": "0395CC",
+    "source": "gai",
+    "ru": "гай",
+    "target": "10C3C0",
+    "references": [
+      "049D32"
+    ]
+  },
+  {
+    "source_offset": "0395D0",
+    "source": "tai",
+    "ru": "тай",
+    "target": "10C3E0",
+    "references": [
+      "049D2E"
+    ]
+  },
+  {
+    "source_offset": "0395D4",
+    "source": "Kali",
+    "ru": "Кали",
+    "target": "10C400",
+    "references": [
+      "049D8A"
+    ]
+  },
+  {
+    "source_offset": "0395DA",
+    "source": "Nai",
+    "ru": "Най",
+    "target": "10C420",
+    "references": [
+      "049D86"
+    ]
+  },
+  {
+    "source_offset": "0395DE",
+    "source": "Manu",
+    "ru": "Ману",
+    "target": "10C440",
+    "references": [
+      "049D82"
+    ]
+  },
+  {
+    "source_offset": "0395E4",
+    "source": "To",
+    "ru": "То",
+    "target": "10C460",
+    "references": [
+      "049D7E"
+    ]
+  },
+  {
+    "source_offset": "0395E8",
+    "source": "Dora",
+    "ru": "Дора",
+    "target": "10C480",
+    "references": [
+      "049D7A"
+    ]
+  },
+  {
+    "source_offset": "0395EE",
+    "source": "Kura",
+    "ru": "Кура",
+    "target": "10C4A0",
+    "references": [
+      "049D76"
+    ]
+  },
+  {
+    "source_offset": "0395F4",
+    "source": "Raja",
+    "ru": "Раджа",
+    "target": "10C4C0",
+    "references": [
+      "049D72"
+    ]
+  },
+  {
+    "source_offset": "0395FA",
+    "source": "Jaya",
+    "ru": "Джая",
+    "target": "10C4E0",
+    "references": [
+      "049D6E"
+    ]
+  },
+  {
+    "source_offset": "039600",
+    "source": "chari",
+    "ru": "чари",
+    "target": "10C500",
+    "references": [
+      "049DAE"
+    ]
+  },
+  {
+    "source_offset": "039606",
+    "source": "dasa",
+    "ru": "даса",
+    "target": "10C520",
+    "references": [
+      "049DAA"
+    ]
+  },
+  {
+    "source_offset": "03960C",
+    "source": "du",
+    "ru": "ду",
+    "target": "10C540",
+    "references": [
+      "049DA6"
+    ]
+  },
+  {
+    "source_offset": "039610",
+    "source": "nak",
+    "ru": "нак",
+    "target": "10C560",
+    "references": [
+      "049DA2"
+    ]
+  },
+  {
+    "source_offset": "039614",
+    "source": "hara",
+    "ru": "хара",
+    "target": "10C580",
+    "references": [
+      "049D9E"
+    ]
+  },
+  {
+    "source_offset": "03961A",
+    "source": "man",
+    "ru": "ман",
+    "target": "10C5A0",
+    "references": [
+      "049D9A"
+    ]
+  },
+  {
+    "source_offset": "03961E",
+    "source": "n",
+    "ru": "н",
+    "target": "10C5C0",
+    "references": [
+      "049D96"
+    ]
+  },
+  {
+    "source_offset": "039620",
+    "source": "gir",
+    "ru": "гир",
+    "target": "10C5E0",
+    "references": [
+      "049D92"
+    ]
+  },
+  {
+    "source_offset": "039624",
+    "source": "di",
+    "ru": "ди",
+    "target": "10C600",
+    "references": [
+      "049D8E"
+    ]
+  },
+  {
+    "source_offset": "039628",
+    "source": "Waka",
+    "ru": "Вака",
+    "target": "10C620",
+    "references": [
+      "049DCE"
+    ]
+  },
+  {
+    "source_offset": "03962E",
+    "source": "Ike",
+    "ru": "Икэ",
+    "target": "10C640",
+    "references": [
+      "049DCA"
+    ]
+  },
+  {
+    "source_offset": "039632",
+    "source": "Naka",
+    "ru": "Нака",
+    "target": "10C660",
+    "references": [
+      "049DC6"
+    ]
+  },
+  {
+    "source_offset": "039638",
+    "source": "Yama",
+    "ru": "Яма",
+    "target": "10C680",
+    "references": [
+      "049DC2"
+    ]
+  },
+  {
+    "source_offset": "03963E",
+    "source": "Yoshi",
+    "ru": "Ёси",
+    "target": "10C6A0",
+    "references": [
+      "049DBE"
+    ]
+  },
+  {
+    "source_offset": "039644",
+    "source": "Fuji",
+    "ru": "Фудзи",
+    "target": "10C6C0",
+    "references": [
+      "049DBA"
+    ]
+  },
+  {
+    "source_offset": "03964A",
+    "source": "Uji",
+    "ru": "Удзи",
+    "target": "10C6E0",
+    "references": [
+      "049DB6"
+    ]
+  },
+  {
+    "source_offset": "03964E",
+    "source": "Taka",
+    "ru": "Така",
+    "target": "10C700",
+    "references": [
+      "049DB2"
+    ]
+  },
+  {
+    "source_offset": "039654",
+    "source": "shiro",
+    "ru": "сиро",
+    "target": "10C720",
+    "references": [
+      "049DEE"
+    ]
+  },
+  {
+    "source_offset": "03965A",
+    "source": "da",
+    "ru": "да",
+    "target": "10C740",
+    "references": [
+      "049DEA"
+    ]
+  },
+  {
+    "source_offset": "03965E",
+    "source": "moto",
+    "ru": "мото",
+    "target": "10C760",
+    "references": [
+      "049DE6"
+    ]
+  },
+  {
+    "source_offset": "039664",
+    "source": "tsune",
+    "ru": "цунэ",
+    "target": "10C780",
+    "references": [
+      "049DE2"
+    ]
+  },
+  {
+    "source_offset": "03966A",
+    "source": "hana",
+    "ru": "хана",
+    "target": "10C7A0",
+    "references": [
+      "049DDE"
+    ]
+  },
+  {
+    "source_offset": "039670",
+    "source": "michi",
+    "ru": "мити",
+    "target": "10C7C0",
+    "references": [
+      "049DDA"
+    ]
+  },
+  {
+    "source_offset": "039676",
+    "source": "masa",
+    "ru": "маса",
+    "target": "10C7E0",
+    "references": [
+      "049DD6"
+    ]
+  },
+  {
+    "source_offset": "03967C",
+    "source": "tori",
+    "ru": "тори",
+    "target": "10C800",
+    "references": [
+      "049DD2"
+    ]
+  },
+  {
+    "source_offset": "039682",
+    "source": "Mel",
+    "ru": "Мел",
+    "target": "10C820",
+    "references": [
+      "049E2E"
+    ]
+  },
+  {
+    "source_offset": "039686",
+    "source": "Lang",
+    "ru": "Ланг",
+    "target": "10C840",
+    "references": [
+      "049E2A"
+    ]
+  },
+  {
+    "source_offset": "03968C",
+    "source": "Wal",
+    "ru": "Вал",
+    "target": "10C860",
+    "references": [
+      "049E26"
+    ]
+  },
+  {
+    "source_offset": "039690",
+    "source": "Ral",
+    "ru": "Рал",
+    "target": "10C880",
+    "references": [
+      "049E22"
+    ]
+  },
+  {
+    "source_offset": "039694",
+    "source": "Fel",
+    "ru": "Фел",
+    "target": "10C8A0",
+    "references": [
+      "049E1E"
+    ]
+  },
+  {
+    "source_offset": "039698",
+    "source": "Mar",
+    "ru": "Мар",
+    "target": "10C8C0",
+    "references": [
+      "049E1A"
+    ]
+  },
+  {
+    "source_offset": "03969C",
+    "source": "Hol",
+    "ru": "Хол",
+    "target": "10C8E0",
+    "references": [
+      "049E16"
+    ]
+  },
+  {
+    "source_offset": "0396A0",
+    "source": "Al",
+    "ru": "Ал",
+    "target": "10C900",
+    "references": [
+      "049E12"
+    ]
+  },
+  {
+    "source_offset": "0396A4",
+    "source": "Jus",
+    "ru": "Юс",
+    "target": "10C920",
+    "references": [
+      "049E0E"
+    ]
+  },
+  {
+    "source_offset": "0396A8",
+    "source": "Mas",
+    "ru": "Мас",
+    "target": "10C940",
+    "references": [
+      "049E0A"
+    ]
+  },
+  {
+    "source_offset": "0396AC",
+    "source": "Ar",
+    "ru": "Ар",
+    "target": "10C960",
+    "references": [
+      "049E06"
+    ]
+  },
+  {
+    "source_offset": "0396B0",
+    "source": "Wes",
+    "ru": "Вес",
+    "target": "10C980",
+    "references": [
+      "049E02"
+    ]
+  },
+  {
+    "source_offset": "0396B4",
+    "source": "Lar",
+    "ru": "Лар",
+    "target": "10C9A0",
+    "references": [
+      "049DFE"
+    ]
+  },
+  {
+    "source_offset": "0396B8",
+    "source": "Jor",
+    "ru": "Йор",
+    "target": "10C9C0",
+    "references": [
+      "049DFA"
+    ]
+  },
+  {
+    "source_offset": "0396BC",
+    "source": "Ja",
+    "ru": "Я",
+    "target": "10C9E0",
+    "references": [
+      "049DF6"
+    ]
+  },
+  {
+    "source_offset": "0396C0",
+    "source": "Bar",
+    "ru": "Бар",
+    "target": "10CA00",
+    "references": [
+      "049DF2"
+    ]
+  },
+  {
+    "source_offset": "0396C4",
+    "source": "vin",
+    "ru": "вин",
+    "target": "10CA20",
+    "references": [
+      "049E62"
+    ]
+  },
+  {
+    "source_offset": "0396C8",
+    "source": "dor",
+    "ru": "дор",
+    "target": "10CA40",
+    "references": [
+      "049E5E"
+    ]
+  },
+  {
+    "source_offset": "0396CC",
+    "source": "borg",
+    "ru": "борг",
+    "target": "10CA60",
+    "references": [
+      "049E5A"
+    ]
+  },
+  {
+    "source_offset": "0396D2",
+    "source": "den",
+    "ru": "ден",
+    "target": "10CA80",
+    "references": [
+      "049E56"
+    ]
+  },
+  {
+    "source_offset": "0396D6",
+    "source": "din",
+    "ru": "дин",
+    "target": "10CAA0",
+    "references": [
+      "049E52"
+    ]
+  },
+  {
+    "source_offset": "0396DA",
+    "source": "tin",
+    "ru": "тин",
+    "target": "10CAC0",
+    "references": [
+      "049E4E"
+    ]
+  },
+  {
+    "source_offset": "0396DE",
+    "source": "dan",
+    "ru": "дан",
+    "target": "10CAE0",
+    "references": [
+      "049E4A"
+    ]
+  },
+  {
+    "source_offset": "0396E2",
+    "source": "sen",
+    "ru": "сен",
+    "target": "10CB00",
+    "references": [
+      "049E46"
+    ]
+  },
+  {
+    "source_offset": "0396E6",
+    "source": "son",
+    "ru": "сон",
+    "target": "10CB20",
+    "references": [
+      "049E42"
+    ]
+  },
+  {
+    "source_offset": "0396EA",
+    "source": "sel",
+    "ru": "сель",
+    "target": "10CB40",
+    "references": [
+      "049E3E"
+    ]
+  },
+  {
+    "source_offset": "0396EE",
+    "source": "man",
+    "ru": "ман",
+    "target": "10CB60",
+    "references": [
+      "049E3A"
+    ]
+  },
+  {
+    "source_offset": "0396F2",
+    "source": "tan",
+    "ru": "тан",
+    "target": "10CB80",
+    "references": [
+      "049E36"
+    ]
+  },
+  {
+    "source_offset": "0396F6",
+    "source": "ton",
+    "ru": "тон",
+    "target": "10CBA0",
+    "references": [
+      "049E32"
+    ]
+  },
+  {
+    "source_offset": "0396FA",
+    "source": "Nobo",
+    "ru": "Нобо",
+    "target": "10CBC0",
+    "references": [
+      "049E8A"
+    ]
+  },
+  {
+    "source_offset": "039700",
+    "source": "Soko",
+    "ru": "Соко",
+    "target": "10CBE0",
+    "references": [
+      "049E86"
+    ]
+  },
+  {
+    "source_offset": "039706",
+    "source": "Vole",
+    "ru": "Воле",
+    "target": "10CC00",
+    "references": [
+      "049E82"
+    ]
+  },
+  {
+    "source_offset": "03970C",
+    "source": "Stano",
+    "ru": "Стано",
+    "target": "10CC20",
+    "references": [
+      "049E7E"
+    ]
+  },
+  {
+    "source_offset": "039712",
+    "source": "Yaro",
+    "ru": "Яро",
+    "target": "10CC40",
+    "references": [
+      "049E7A"
+    ]
+  },
+  {
+    "source_offset": "039718",
+    "source": "Oro",
+    "ru": "Оро",
+    "target": "10CC60",
+    "references": [
+      "049E76"
+    ]
+  },
+  {
+    "source_offset": "03971C",
+    "source": "Ye",
+    "ru": "Е",
+    "target": "10CC80",
+    "references": [
+      "049E72"
+    ]
+  },
+  {
+    "source_offset": "039720",
+    "source": "Doro",
+    "ru": "Доро",
+    "target": "10CCA0",
+    "references": [
+      "049E6E"
+    ]
+  },
+  {
+    "source_offset": "039726",
+    "source": "Vladi",
+    "ru": "Влади",
+    "target": "10CCC0",
+    "references": [
+      "049E6A"
+    ]
+  },
+  {
+    "source_offset": "03972C",
+    "source": "Shosto",
+    "ru": "Шосто",
+    "target": "10CCE0",
+    "references": [
+      "049E66"
+    ]
+  },
+  {
+    "source_offset": "039734",
+    "source": "kov",
+    "ru": "ков",
+    "target": "10CD00",
+    "references": [
+      "049EB2"
+    ]
+  },
+  {
+    "source_offset": "039738",
+    "source": "kovski",
+    "ru": "ковский",
+    "target": "10CD20",
+    "references": [
+      "049EAE"
+    ]
+  },
+  {
+    "source_offset": "039740",
+    "source": "loff",
+    "ru": "лов",
+    "target": "10CD40",
+    "references": [
+      "049EAA"
+    ]
+  },
+  {
+    "source_offset": "039746",
+    "source": "niev",
+    "ru": "нев",
+    "target": "10CD60",
+    "references": [
+      "049EA6"
+    ]
+  },
+  {
+    "source_offset": "03974C",
+    "source": "mir",
+    "ru": "мир",
+    "target": "10CD80",
+    "references": [
+      "049EA2"
+    ]
+  },
+  {
+    "source_offset": "039750",
+    "source": "ryk",
+    "ru": "рик",
+    "target": "10CDA0",
+    "references": [
+      "049E9E"
+    ]
+  },
+  {
+    "source_offset": "039754",
+    "source": "stry",
+    "ru": "стрый",
+    "target": "10CDC0",
+    "references": [
+      "049E9A"
+    ]
+  },
+  {
+    "source_offset": "03975A",
+    "source": "ski",
+    "ru": "ский",
+    "target": "10CDE0",
+    "references": [
+      "049E96"
+    ]
+  },
+  {
+    "source_offset": "03975E",
+    "source": "slav",
+    "ru": "слав",
+    "target": "10CE00",
+    "references": [
+      "049E92"
+    ]
+  },
+  {
+    "source_offset": "039764",
+    "source": "vich",
+    "ru": "вич",
+    "target": "10CE20",
+    "references": [
+      "049E8E"
+    ]
+  },
+  {
+    "source_offset": "03976C",
+    "source": "Abdul ",
+    "ru": "Абдул ",
+    "target": "10CE40",
+    "references": [
+      "049ECA"
+    ]
+  },
+  {
+    "source_offset": "039774",
+    "source": "Abdel ",
+    "ru": "Абдел ",
+    "target": "10CE60",
+    "references": [
+      "049EC6"
+    ]
+  },
+  {
+    "source_offset": "03977C",
+    "source": "Ibn ",
+    "ru": "Ибн ",
+    "target": "10CE80",
+    "references": [
+      "049EC2"
+    ]
+  },
+  {
+    "source_offset": "039782",
+    "source": "Abu ",
+    "ru": "Абу ",
+    "target": "10CEA0",
+    "references": [
+      "049EBE"
+    ]
+  },
+  {
+    "source_offset": "039788",
+    "source": "Ali ",
+    "ru": "Али ",
+    "target": "10CEC0",
+    "references": [
+      "049EBA"
+    ]
+  },
+  {
+    "source_offset": "03978E",
+    "source": "al-",
+    "ru": "аль-",
+    "target": "10CEE0",
+    "references": [
+      "049EB6"
+    ]
+  },
+  {
+    "source_offset": "039792",
+    "source": "Khalil",
+    "ru": "Халиль",
+    "target": "10CF00",
+    "references": [
+      "049EFE"
+    ]
+  },
+  {
+    "source_offset": "03979A",
+    "source": "Fazal",
+    "ru": "Фазал",
+    "target": "10CF20",
+    "references": [
+      "049EFA"
+    ]
+  },
+  {
+    "source_offset": "0397A0",
+    "source": "Rashid",
+    "ru": "Рашид",
+    "target": "10CF40",
+    "references": [
+      "049EF6"
+    ]
+  },
+  {
+    "source_offset": "0397A8",
+    "source": "Assad",
+    "ru": "Асад",
+    "target": "10CF60",
+    "references": [
+      "049EF2"
+    ]
+  },
+  {
+    "source_offset": "0397AE",
+    "source": "Kader",
+    "ru": "Кадер",
+    "target": "10CF80",
+    "references": [
+      "049EEE"
+    ]
+  },
+  {
+    "source_offset": "0397B4",
+    "source": "Rashad",
+    "ru": "Рашад",
+    "target": "10CFA0",
+    "references": [
+      "049EEA"
+    ]
+  },
+  {
+    "source_offset": "0397BC",
+    "source": "Awwal",
+    "ru": "Авваль",
+    "target": "10CFC0",
+    "references": [
+      "049EE6"
+    ]
+  },
+  {
+    "source_offset": "0397C2",
+    "source": "Zuhr",
+    "ru": "Зухр",
+    "target": "10CFE0",
+    "references": [
+      "049EE2"
+    ]
+  },
+  {
+    "source_offset": "0397C8",
+    "source": "Saud",
+    "ru": "Сауд",
+    "target": "10D000",
+    "references": [
+      "049EDE"
+    ]
+  },
+  {
+    "source_offset": "0397CE",
+    "source": "Bakr",
+    "ru": "Бакр",
+    "target": "10D020",
+    "references": [
+      "049EDA"
+    ]
+  },
+  {
+    "source_offset": "0397D4",
+    "source": "Akbar",
+    "ru": "Акбар",
+    "target": "10D040",
+    "references": [
+      "049ED6"
+    ]
+  },
+  {
+    "source_offset": "0397DA",
+    "source": "Kya",
+    "ru": "Кья",
+    "target": "10D060",
+    "references": [
+      "049F22"
+    ]
+  },
+  {
+    "source_offset": "0397DE",
+    "source": "Sa",
+    "ru": "Са",
+    "target": "10D080",
+    "references": [
+      "049F1E"
+    ]
+  },
+  {
+    "source_offset": "0397E2",
+    "source": "Lai",
+    "ru": "Лай",
+    "target": "10D0A0",
+    "references": [
+      "049F1A"
+    ]
+  },
+  {
+    "source_offset": "0397E6",
+    "source": "Ara",
+    "ru": "Ара",
+    "target": "10D0C0",
+    "references": [
+      "049F16"
+    ]
+  },
+  {
+    "source_offset": "0397EA",
+    "source": "Bar",
+    "ru": "Бар",
+    "target": "10D0E0",
+    "references": [
+      "049F12"
+    ]
+  },
+  {
+    "source_offset": "0397EE",
+    "source": "Chi",
+    "ru": "Чи",
+    "target": "10D100",
+    "references": [
+      "049F0E"
+    ]
+  },
+  {
+    "source_offset": "0397F2",
+    "source": "Kha",
+    "ru": "Ха",
+    "target": "10D120",
+    "references": [
+      "049F0A"
+    ]
+  },
+  {
+    "source_offset": "0397F6",
+    "source": "Ma",
+    "ru": "Ма",
+    "target": "10D140",
+    "references": [
+      "049F06"
+    ]
+  },
+  {
+    "source_offset": "0397FA",
+    "source": "Fara",
+    "ru": "Фара",
+    "target": "10D160",
+    "references": [
+      "049F02"
+    ]
+  },
+  {
+    "source_offset": "039800",
+    "source": "pan",
+    "ru": "пан",
+    "target": "10D180",
+    "references": [
+      "049F46"
+    ]
+  },
+  {
+    "source_offset": "039804",
+    "source": "chen",
+    "ru": "чен",
+    "target": "10D1A0",
+    "references": [
+      "049F42"
+    ]
+  },
+  {
+    "source_offset": "03980A",
+    "source": "la",
+    "ru": "ла",
+    "target": "10D1C0",
+    "references": [
+      "049F3E"
+    ]
+  },
+  {
+    "source_offset": "03980E",
+    "source": "der",
+    "ru": "дер",
+    "target": "10D1E0",
+    "references": [
+      "049F3A"
+    ]
+  },
+  {
+    "source_offset": "039812",
+    "source": "juk",
+    "ru": "джук",
+    "target": "10D200",
+    "references": [
+      "049F36"
+    ]
+  },
+  {
+    "source_offset": "039816",
+    "source": "ku",
+    "ru": "ку",
+    "target": "10D220",
+    "references": [
+      "049F32"
+    ]
+  },
+  {
+    "source_offset": "03981A",
+    "source": "du",
+    "ru": "ду",
+    "target": "10D240",
+    "references": [
+      "049F2E"
+    ]
+  },
+  {
+    "source_offset": "03981E",
+    "source": "rouk",
+    "ru": "рук",
+    "target": "10D260",
+    "references": [
+      "049F2A"
+    ]
+  },
+  {
+    "source_offset": "039824",
+    "source": "soud",
+    "ru": "суд",
+    "target": "10D280",
+    "references": [
+      "049F26"
+    ]
+  },
+  {
+    "source_offset": "03982A",
+    "source": "Sun",
+    "ru": "Сунь",
+    "target": "10D2A0",
+    "references": [
+      "049F96"
+    ]
+  },
+  {
+    "source_offset": "03982E",
+    "source": "Bei",
+    "ru": "Бэй",
+    "target": "10D2C0",
+    "references": [
+      "049F92"
+    ]
+  },
+  {
+    "source_offset": "039832",
+    "source": "Liu",
+    "ru": "Лю",
+    "target": "10D2E0",
+    "references": [
+      "049F8E"
+    ]
+  },
+  {
+    "source_offset": "039836",
+    "source": "Cao",
+    "ru": "Цао",
+    "target": "10D300",
+    "references": [
+      "049F8A"
+    ]
+  },
+  {
+    "source_offset": "03983A",
+    "source": "Tian",
+    "ru": "Тянь",
+    "target": "10D320",
+    "references": [
+      "049F86"
+    ]
+  },
+  {
+    "source_offset": "039840",
+    "source": "Hong",
+    "ru": "Хун",
+    "target": "10D340",
+    "references": [
+      "049F82"
+    ]
+  },
+  {
+    "source_offset": "039846",
+    "source": "Chu",
+    "ru": "Чжу",
+    "target": "10D360",
+    "references": [
+      "049F7E"
+    ]
+  },
+  {
+    "source_offset": "03984A",
+    "source": "Hsi",
+    "ru": "Си",
+    "target": "10D380",
+    "references": [
+      "049F7A"
+    ]
+  },
+  {
+    "source_offset": "03984E",
+    "source": "Xiao",
+    "ru": "Сяо",
+    "target": "10D3A0",
+    "references": [
+      "049F76"
+    ]
+  },
+  {
+    "source_offset": "039854",
+    "source": "Shu",
+    "ru": "Шу",
+    "target": "10D3C0",
+    "references": [
+      "049F72"
+    ]
+  },
+  {
+    "source_offset": "039858",
+    "source": "Guo",
+    "ru": "Го",
+    "target": "10D3E0",
+    "references": [
+      "049F6E"
+    ]
+  },
+  {
+    "source_offset": "03985C",
+    "source": "Jia",
+    "ru": "Цзя",
+    "target": "10D400",
+    "references": [
+      "049F6A"
+    ]
+  },
+  {
+    "source_offset": "039860",
+    "source": "Shi",
+    "ru": "Ши",
+    "target": "10D420",
+    "references": [
+      "049F66"
+    ]
+  },
+  {
+    "source_offset": "039864",
+    "source": "Chin",
+    "ru": "Цзинь",
+    "target": "10D440",
+    "references": [
+      "049F62"
+    ]
+  },
+  {
+    "source_offset": "03986A",
+    "source": "Chung",
+    "ru": "Чжун",
+    "target": "10D460",
+    "references": [
+      "049F5E"
+    ]
+  },
+  {
+    "source_offset": "039870",
+    "source": "Zong",
+    "ru": "Цзун",
+    "target": "10D480",
+    "references": [
+      "049F5A"
+    ]
+  },
+  {
+    "source_offset": "039876",
+    "source": "Zhang",
+    "ru": "Чжан",
+    "target": "10D4A0",
+    "references": [
+      "049F56"
+    ]
+  },
+  {
+    "source_offset": "03987C",
+    "source": "Shao",
+    "ru": "Шао",
+    "target": "10D4C0",
+    "references": [
+      "049F52"
+    ]
+  },
+  {
+    "source_offset": "039882",
+    "source": "Wei",
+    "ru": "Вэй",
+    "target": "10D4E0",
+    "references": [
+      "049F4E"
+    ]
+  },
+  {
+    "source_offset": "039886",
+    "source": "Wang",
+    "ru": "Ван",
+    "target": "10D500",
+    "references": [
+      "049F4A"
+    ]
+  },
+  {
+    "source_offset": "03988E",
+    "source": "Al",
+    "ru": "Ал",
+    "target": "10D520",
+    "references": [
+      "049FC6"
+    ]
+  },
+  {
+    "source_offset": "039892",
+    "source": "Lu",
+    "ru": "Лу",
+    "target": "10D540",
+    "references": [
+      "049FC2"
+    ]
+  },
+  {
+    "source_offset": "039896",
+    "source": "Run",
+    "ru": "Рун",
+    "target": "10D560",
+    "references": [
+      "049FBE"
+    ]
+  },
+  {
+    "source_offset": "03989A",
+    "source": "An",
+    "ru": "Ан",
+    "target": "10D580",
+    "references": [
+      "049FBA"
+    ]
+  },
+  {
+    "source_offset": "03989E",
+    "source": "don",
+    "ru": "дон",
+    "target": "10D5A0",
+    "references": [
+      "049FD6"
+    ]
+  },
+  {
+    "source_offset": "0398A2",
+    "source": "lan",
+    "ru": "лан",
+    "target": "10D5C0",
+    "references": [
+      "049FD2"
+    ]
+  },
+  {
+    "source_offset": "0398A6",
+    "source": "chi",
+    "ru": "чи",
+    "target": "10D5E0",
+    "references": [
+      "049FCE"
+    ]
+  },
+  {
+    "source_offset": "0398AA",
+    "source": "te",
+    "ru": "тэ",
+    "target": "10D600",
+    "references": [
+      "049FCA"
+    ]
+  },
+  {
+    "source_offset": "0398AE",
+    "source": "Kina",
+    "ru": "Кина",
+    "target": "10D620",
+    "references": [
+      "049FE6"
+    ]
+  },
+  {
+    "source_offset": "0398B4",
+    "source": "Kun",
+    "ru": "Кун",
+    "target": "10D640",
+    "references": [
+      "049FE2"
+    ]
+  },
+  {
+    "source_offset": "0398B8",
+    "source": "San",
+    "ru": "Сан",
+    "target": "10D660",
+    "references": [
+      "049FDE"
+    ]
+  },
+  {
+    "source_offset": "0398BC",
+    "source": "Suka",
+    "ru": "Сука",
+    "target": "10D680",
+    "references": [
+      "049FDA"
+    ]
+  },
+  {
+    "source_offset": "0398C2",
+    "source": "zi",
+    "ru": "цзы",
+    "target": "10D6A0",
+    "references": [
+      "049FF6"
+    ]
+  },
+  {
+    "source_offset": "0398C6",
+    "source": "lum",
+    "ru": "лум",
+    "target": "10D6C0",
+    "references": [
+      "049FF2"
+    ]
+  },
+  {
+    "source_offset": "0398CA",
+    "source": "ya",
+    "ru": "я",
+    "target": "10D6E0",
+    "references": [
+      "049FEE"
+    ]
+  },
+  {
+    "source_offset": "0398CE",
+    "source": "ri",
+    "ru": "ри",
+    "target": "10D700",
+    "references": [
+      "049FEA"
+    ]
+  },
+  {
+    "source_offset": "0398D2",
+    "source": "Te",
+    "ru": "Тэ",
+    "target": "10D720",
+    "references": [
+      "04A006"
+    ]
+  },
+  {
+    "source_offset": "0398D6",
+    "source": "Rata",
+    "ru": "Рата",
+    "target": "10D740",
+    "references": [
+      "04A002"
+    ]
+  },
+  {
+    "source_offset": "0398DC",
+    "source": "Haru",
+    "ru": "Хару",
+    "target": "10D760",
+    "references": [
+      "049FFE"
+    ]
+  },
+  {
+    "source_offset": "0398E2",
+    "source": "Shana",
+    "ru": "Шана",
+    "target": "10D780",
+    "references": [
+      "049FFA"
+    ]
+  },
+  {
+    "source_offset": "0398E8",
+    "source": "Sheila",
+    "ru": "Шейла",
+    "target": "10D7A0",
+    "references": [
+      "04A056"
+    ]
+  },
+  {
+    "source_offset": "0398F0",
+    "source": "Betty",
+    "ru": "Бетти",
+    "target": "10D7C0",
+    "references": [
+      "04A052"
+    ]
+  },
+  {
+    "source_offset": "0398F6",
+    "source": "Nancy",
+    "ru": "Нэнси",
+    "target": "10D7E0",
+    "references": [
+      "04A04E"
+    ]
+  },
+  {
+    "source_offset": "0398FC",
+    "source": "Patricia",
+    "ru": "Патриция",
+    "target": "10D800",
+    "references": [
+      "04A04A"
+    ]
+  },
+  {
+    "source_offset": "039906",
+    "source": "Debra",
+    "ru": "Дебра",
+    "target": "10D820",
+    "references": [
+      "04A046"
+    ]
+  },
+  {
+    "source_offset": "03990C",
+    "source": "Jody",
+    "ru": "Джоди",
+    "target": "10D840",
+    "references": [
+      "04A042"
+    ]
+  },
+  {
+    "source_offset": "039912",
+    "source": "Sherry",
+    "ru": "Шерри",
+    "target": "10D860",
+    "references": [
+      "04A03E"
+    ]
+  },
+  {
+    "source_offset": "03991A",
+    "source": "Jennifer",
+    "ru": "Дженнифер",
+    "target": "10D880",
+    "references": [
+      "04A03A"
+    ]
+  },
+  {
+    "source_offset": "039924",
+    "source": "Anne",
+    "ru": "Анна",
+    "target": "10D8A0",
+    "references": [
+      "04A036"
+    ]
+  },
+  {
+    "source_offset": "03992A",
+    "source": "Annette",
+    "ru": "Аннет",
+    "target": "10D8C0",
+    "references": [
+      "04A032"
+    ]
+  },
+  {
+    "source_offset": "039932",
+    "source": "Elizabeth",
+    "ru": "Элизабет",
+    "target": "10D8E0",
+    "references": [
+      "04A02E"
+    ]
+  },
+  {
+    "source_offset": "03993C",
+    "source": "Marilyn",
+    "ru": "Мэрилин",
+    "target": "10D900",
+    "references": [
+      "04A02A"
+    ]
+  },
+  {
+    "source_offset": "039944",
+    "source": "Lynne",
+    "ru": "Линн",
+    "target": "10D920",
+    "references": [
+      "04A026"
+    ]
+  },
+  {
+    "source_offset": "03994A",
+    "source": "Julia",
+    "ru": "Джулия",
+    "target": "10D940",
+    "references": [
+      "04A022"
+    ]
+  },
+  {
+    "source_offset": "039950",
+    "source": "Francesca",
+    "ru": "Франческа",
+    "target": "10D960",
+    "references": [
+      "04A01E"
+    ]
+  },
+  {
+    "source_offset": "03995A",
+    "source": "Gweyn",
+    "ru": "Гвен",
+    "target": "10D980",
+    "references": [
+      "04A01A"
+    ]
+  },
+  {
+    "source_offset": "039960",
+    "source": "Elise",
+    "ru": "Элиза",
+    "target": "10D9A0",
+    "references": [
+      "04A016"
+    ]
+  },
+  {
+    "source_offset": "039966",
+    "source": "Suzanne",
+    "ru": "Сюзанна",
+    "target": "10D9C0",
+    "references": [
+      "04A012"
+    ]
+  },
+  {
+    "source_offset": "03996E",
+    "source": "Mary",
+    "ru": "Мэри",
+    "target": "10D9E0",
+    "references": [
+      "04A00E"
+    ]
+  },
+  {
+    "source_offset": "039974",
+    "source": "Rose",
+    "ru": "Роза",
+    "target": "10DA00",
+    "references": [
+      "04A00A"
+    ]
+  },
+  {
+    "source_offset": "03997A",
+    "source": "Dubravka",
+    "ru": "Дубравка",
+    "target": "10DA20",
+    "references": [
+      "04A07E"
+    ]
+  },
+  {
+    "source_offset": "039984",
+    "source": "Ivana",
+    "ru": "Ивана",
+    "target": "10DA40",
+    "references": [
+      "04A07A"
+    ]
+  },
+  {
+    "source_offset": "03998A",
+    "source": "Marina",
+    "ru": "Марина",
+    "target": "10DA60",
+    "references": [
+      "04A076"
+    ]
+  },
+  {
+    "source_offset": "039992",
+    "source": "Geena",
+    "ru": "Джина",
+    "target": "10DA80",
+    "references": [
+      "04A072"
+    ]
+  },
+  {
+    "source_offset": "039998",
+    "source": "Tanya",
+    "ru": "Таня",
+    "target": "10DAA0",
+    "references": [
+      "04A06E"
+    ]
+  },
+  {
+    "source_offset": "03999E",
+    "source": "Helga",
+    "ru": "Хельга",
+    "target": "10DAC0",
+    "references": [
+      "04A06A"
+    ]
+  },
+  {
+    "source_offset": "0399A4",
+    "source": "Elena",
+    "ru": "Елена",
+    "target": "10DAE0",
+    "references": [
+      "04A066"
+    ]
+  },
+  {
+    "source_offset": "0399AA",
+    "source": "Anna",
+    "ru": "Анна",
+    "target": "10DB00",
+    "references": [
+      "04A062"
+    ]
+  },
+  {
+    "source_offset": "0399B0",
+    "source": "Nadia",
+    "ru": "Надя",
+    "target": "10DB20",
+    "references": [
+      "04A05E"
+    ]
+  },
+  {
+    "source_offset": "0399B6",
+    "source": "Olga",
+    "ru": "Ольга",
+    "target": "10DB40",
+    "references": [
+      "04A05A"
+    ]
+  },
+  {
+    "source_offset": "0399BC",
+    "source": "Tei",
+    "ru": "Тэй",
+    "target": "10DB60",
+    "references": [
+      "04A08E"
+    ]
+  },
+  {
+    "source_offset": "0399C0",
+    "source": "Ida",
+    "ru": "Ида",
+    "target": "10DB80",
+    "references": [
+      "04A08A"
+    ]
+  },
+  {
+    "source_offset": "0399C4",
+    "source": "Shi",
+    "ru": "Ши",
+    "target": "10DBA0",
+    "references": [
+      "04A086"
+    ]
+  },
+  {
+    "source_offset": "0399C8",
+    "source": "Fati",
+    "ru": "Фати",
+    "target": "10DBC0",
+    "references": [
+      "04A082"
+    ]
+  },
+  {
+    "source_offset": "0399CE",
+    "source": "il",
+    "ru": "ил",
+    "target": "10DBE0",
+    "references": [
+      "04A09A"
+    ]
+  },
+  {
+    "source_offset": "0399D2",
+    "source": "la",
+    "ru": "ла",
+    "target": "10DC00",
+    "references": [
+      "04A096"
+    ]
+  },
+  {
+    "source_offset": "0399D6",
+    "source": "ma",
+    "ru": "ма",
+    "target": "10DC20",
+    "references": [
+      "04A092"
+    ]
+  },
+  {
+    "source_offset": "0399DA",
+    "source": "Maki",
+    "ru": "Маки",
+    "target": "10DC40",
+    "references": [
+      "04A0BA"
+    ]
+  },
+  {
+    "source_offset": "0399E0",
+    "source": "Kazu",
+    "ru": "Кадзу",
+    "target": "10DC60",
+    "references": [
+      "04A0B6"
+    ]
+  },
+  {
+    "source_offset": "0399E6",
+    "source": "Hana",
+    "ru": "Хана",
+    "target": "10DC80",
+    "references": [
+      "04A0B2"
+    ]
+  },
+  {
+    "source_offset": "0399EC",
+    "source": "Yo",
+    "ru": "Ё",
+    "target": "10DCA0",
+    "references": [
+      "04A0AE"
+    ]
+  },
+  {
+    "source_offset": "0399F0",
+    "source": "Yumi",
+    "ru": "Юми",
+    "target": "10DCC0",
+    "references": [
+      "04A0AA"
+    ]
+  },
+  {
+    "source_offset": "0399F6",
+    "source": "Rei",
+    "ru": "Рэй",
+    "target": "10DCE0",
+    "references": [
+      "04A0A6"
+    ]
+  },
+  {
+    "source_offset": "0399FA",
+    "source": "Mari",
+    "ru": "Мари",
+    "target": "10DD00",
+    "references": [
+      "04A0A2"
+    ]
+  },
+  {
+    "source_offset": "039A00",
+    "source": "Setsu",
+    "ru": "Сэцу",
+    "target": "10DD20",
+    "references": [
+      "04A09E"
+    ]
+  },
+  {
+    "source_offset": "039A06",
+    "source": "ko",
+    "ru": "ко",
+    "target": "10DD40",
+    "references": [
+      "00B4FA"
+    ]
+  }
+]

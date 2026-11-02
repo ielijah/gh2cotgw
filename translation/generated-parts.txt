@@ -1,0 +1,12 @@
+On=Он|Molo=Моло|Qar=Хар|Tou=Тоу|Chi=Чи|Bor=Бор|Ugu=Угу|Jaga=Джага|Bar=Бар|Subu=Субу|Ala=Ала|Gen=Гэн|Kubla=Хубла|Togo=Того|Tar=Тар|Temu=Тэму
+gut=гут|bar=бар|bor=бор|qar=хар|gil=гил|dei=дэй|jin=джин|chu=чу|gor=гор|lug=луг|qa=ха|ril=рил|beki=беки|toku=току|gai=гай|tai=тай
+Kali=Кали|Nai=Най|Manu=Ману|To=То|Dora=Дора|Kura=Кура|Raja=Раджа|Jaya=Джая|chari=чари|dasa=даса|du=ду|nak=нак|hara=хара|man=ман|n=н|gir=гир|di=ди
+Waka=Вака|Ike=Икэ|Naka=Нака|Yama=Яма|Yoshi=Ёси|Fuji=Фудзи|Uji=Удзи|Taka=Така|shiro=сиро|da=да|moto=мото|tsune=цунэ|hana=хана|michi=мити|masa=маса|tori=тори
+Mel=Мел|Lang=Ланг|Wal=Вал|Ral=Рал|Fel=Фел|Mar=Мар|Hol=Хол|Al=Ал|Jus=Юс|Mas=Мас|Ar=Ар|Wes=Вес|Lar=Лар|Jor=Йор|Ja=Я|vin=вин|dor=дор|borg=борг|den=ден|din=дин|tin=тин|dan=дан|sen=сен|son=сон|sel=сель|tan=тан|ton=тон
+Nobo=Нобо|Soko=Соко|Vole=Воле|Stano=Стано|Yaro=Яро|Oro=Оро|Ye=Е|Doro=Доро|Vladi=Влади|Shosto=Шосто|kov=ков|kovski=ковский|loff=лов|niev=нев|mir=мир|ryk=рик|stry=стрый|ski=ский|slav=слав|vich=вич
+Abdul =Абдул |Abdel =Абдел |Ibn =Ибн |Abu =Абу |Ali =Али |al-=аль-|Khalil=Халиль|Fazal=Фазал|Rashid=Рашид|Assad=Асад|Kader=Кадер|Rashad=Рашад|Awwal=Авваль|Zuhr=Зухр|Saud=Сауд|Bakr=Бакр|Akbar=Акбар
+Kya=Кья|Sa=Са|Lai=Лай|Ara=Ара|Kha=Ха|Ma=Ма|Fara=Фара|pan=пан|chen=чен|la=ла|der=дер|juk=джук|ku=ку|rouk=рук|soud=суд
+Sun=Сунь|Bei=Бэй|Liu=Лю|Cao=Цао|Tian=Тянь|Hong=Хун|Chu=Чжу|Hsi=Си|Xiao=Сяо|Shu=Шу|Guo=Го|Jia=Цзя|Shi=Ши|Chin=Цзинь|Chung=Чжун|Zong=Цзун|Zhang=Чжан|Shao=Шао|Wei=Вэй|Wang=Ван
+Lu=Лу|Run=Рун|An=Ан|don=дон|lan=лан|chi=чи|te=тэ|Kina=Кина|Kun=Кун|San=Сан|Suka=Сука|zi=цзы|lum=лум|ya=я|ri=ри|Te=Тэ|Rata=Рата|Haru=Хару|Shana=Шана
+Sheila=Шейла|Betty=Бетти|Nancy=Нэнси|Patricia=Патриция|Debra=Дебра|Jody=Джоди|Sherry=Шерри|Jennifer=Дженнифер|Anne=Анна|Annette=Аннет|Elizabeth=Элизабет|Marilyn=Мэрилин|Lynne=Линн|Julia=Джулия|Francesca=Франческа|Gweyn=Гвен|Elise=Элиза|Suzanne=Сюзанна|Mary=Мэри|Rose=Роза
+Dubravka=Дубравка|Ivana=Ивана|Marina=Марина|Geena=Джина|Tanya=Таня|Helga=Хельга|Elena=Елена|Anna=Анна|Nadia=Надя|Olga=Ольга|Tei=Тэй|Ida=Ида|Fati=Фати|il=ил|ma=ма|Maki=Маки|Kazu=Кадзу|Hana=Хана|Yo=Ё|Yumi=Юми|Rei=Рэй|Mari=Мари|Setsu=Сэцу|ko=ко

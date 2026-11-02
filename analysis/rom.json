@@ -1,0 +1,9 @@
+{
+  "sha256": "94efa72e970266710995b489a1d6b88e1a03635a230b41d9a5cd2268757f25d4",
+  "size": 1048576,
+  "initial_sp": "00FFF000",
+  "reset": "000200",
+  "stored_checksum": "0000",
+  "computed_checksum": "0000",
+  "strings": 1333
+}

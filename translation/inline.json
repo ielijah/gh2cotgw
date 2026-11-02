@@ -1,0 +1,77 @@
+[
+  {
+    "offset": "039486",
+    "source": "Rate:%d.%d",
+    "ru": "Цена:%d.%d"
+  },
+  {
+    "offset": "03B4DB",
+    "source": "Select your subordinates",
+    "ru": "Выберите подчиненных"
+  },
+  {
+    "offset": "03B061",
+    "source": " is ravaging our state!",
+    "ru": " разоряет нашу землю!"
+  },
+  {
+    "offset": "04B8D6",
+    "source": "No saved game",
+    "ru": "Нет сохран."
+  },
+  {
+    "offset": "04BB76",
+    "source": "In the %s of %4d, the",
+    "ru": "%s %4d года племена"
+  },
+  {
+    "offset": "04BC56",
+    "source": "First you must appoint an advisor",
+    "ru": "Сперва назначьте советника"
+  },
+  {
+    "offset": "04BE90",
+    "source": "Cannot order your home base",
+    "ru": "Ставке нельзя дать приказ"
+  },
+  {
+    "offset": "04C4A0",
+    "source": "Send to which state?",
+    "ru": "В какую землю слать?"
+  },
+  {
+    "offset": "04C626",
+    "source": "Give which item?          ",
+    "ru": "Какой товар раздать?"
+  },
+  {
+    "offset": "049C08",
+    "source": ", what are your orders?",
+    "ru": ", каковы ваши приказы?"
+  },
+  {
+    "offset": "049C20",
+    "source": "Are you finished",
+    "ru": "Вы закончили?"
+  },
+  {
+    "offset": "049C32",
+    "source": "There are merchants in our territory",
+    "ru": "В наших землях есть торговцы"
+  },
+  {
+    "offset": "049C58",
+    "source": "Issue orders yourself?",
+    "ru": "Прикажете сами?"
+  },
+  {
+    "offset": "049C70",
+    "source": "Then I will do so on your behalf",
+    "ru": "Тогда я распоряжусь за вас"
+  },
+  {
+    "offset": "048DD2",
+    "source": "Onon River",
+    "ru": "Река Онон"
+  }
+]

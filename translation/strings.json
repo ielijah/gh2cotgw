@@ -1,0 +1,8000 @@
+[
+  {
+    "offset": "03947A",
+    "source": "(Y/N)?",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039491",
+    "source": "CE",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03949B",
+    "source": "CF%4d",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0394A2",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0394A6",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0394AA",
+    "source": "Win",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0394AE",
+    "source": "Atm",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0394B2",
+    "source": "Sum",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0394B6",
+    "source": "Spr",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0394BA",
+    "source": "Turn: %2d",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "0394C6",
+    "source": "You're too tired- you should rest now",
+    "ru": "",
+    "capacity": 37
+  },
+  {
+    "offset": "0394EC",
+    "source": "You mustn't overexert yourself",
+    "ru": "",
+    "capacity": 30
+  },
+  {
+    "offset": "03950C",
+    "source": "His Lordship works much too hard",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "039538",
+    "source": "%d-%d",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03953E",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039544",
+    "source": "On",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039548",
+    "source": "Molo",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03954E",
+    "source": "Qar",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039552",
+    "source": "Tou",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039556",
+    "source": "Chi",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03955A",
+    "source": "Bor",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03955E",
+    "source": "Ugu",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039562",
+    "source": "Jaga",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039568",
+    "source": "Bar",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03956C",
+    "source": "Subu",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039572",
+    "source": "Ala",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039576",
+    "source": "Gen",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03957A",
+    "source": "Kubla",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039580",
+    "source": "Togo",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039586",
+    "source": "Tar",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03958A",
+    "source": "Temu",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039590",
+    "source": "gut",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039594",
+    "source": "bar",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039598",
+    "source": "bor",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03959C",
+    "source": "qar",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395A0",
+    "source": "gil",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395A4",
+    "source": "dei",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395A8",
+    "source": "jin",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395AC",
+    "source": "chu",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395B0",
+    "source": "gor",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395B4",
+    "source": "lug",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395B8",
+    "source": "qa",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0395BC",
+    "source": "ril",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395C0",
+    "source": "beki",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0395C6",
+    "source": "toku",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0395CC",
+    "source": "gai",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395D0",
+    "source": "tai",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395D4",
+    "source": "Kali",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0395DA",
+    "source": "Nai",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0395DE",
+    "source": "Manu",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0395E4",
+    "source": "To",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0395E8",
+    "source": "Dora",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0395EE",
+    "source": "Kura",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0395F4",
+    "source": "Raja",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0395FA",
+    "source": "Jaya",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039600",
+    "source": "chari",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039606",
+    "source": "dasa",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03960C",
+    "source": "du",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039610",
+    "source": "nak",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039614",
+    "source": "hara",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03961A",
+    "source": "man",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039620",
+    "source": "gir",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039624",
+    "source": "di",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039628",
+    "source": "Waka",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03962E",
+    "source": "Ike",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039632",
+    "source": "Naka",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039638",
+    "source": "Yama",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03963E",
+    "source": "Yoshi",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039644",
+    "source": "Fuji",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03964A",
+    "source": "Uji",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03964E",
+    "source": "Taka",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039654",
+    "source": "shiro",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03965A",
+    "source": "da",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03965E",
+    "source": "moto",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039664",
+    "source": "tsune",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03966A",
+    "source": "hana",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039670",
+    "source": "michi",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039676",
+    "source": "masa",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03967C",
+    "source": "tori",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039682",
+    "source": "Mel",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039686",
+    "source": "Lang",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03968C",
+    "source": "Wal",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039690",
+    "source": "Ral",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039694",
+    "source": "Fel",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039698",
+    "source": "Mar",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03969C",
+    "source": "Hol",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396A0",
+    "source": "Al",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0396A4",
+    "source": "Jus",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396A8",
+    "source": "Mas",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396AC",
+    "source": "Ar",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0396B0",
+    "source": "Wes",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396B4",
+    "source": "Lar",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396B8",
+    "source": "Jor",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396BC",
+    "source": "Ja",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0396C0",
+    "source": "Bar",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396C4",
+    "source": "vin",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396C8",
+    "source": "dor",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396CC",
+    "source": "borg",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0396D2",
+    "source": "den",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396D6",
+    "source": "din",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396DA",
+    "source": "tin",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396DE",
+    "source": "dan",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396E2",
+    "source": "sen",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396E6",
+    "source": "son",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396EA",
+    "source": "sel",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396EE",
+    "source": "man",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396F2",
+    "source": "tan",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396F6",
+    "source": "ton",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0396FA",
+    "source": "Nobo",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039700",
+    "source": "Soko",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039706",
+    "source": "Vole",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03970C",
+    "source": "Stano",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039712",
+    "source": "Yaro",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039718",
+    "source": "Oro",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03971C",
+    "source": "Ye",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039720",
+    "source": "Doro",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039726",
+    "source": "Vladi",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03972C",
+    "source": "Shosto",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039734",
+    "source": "kov",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039738",
+    "source": "kovski",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039740",
+    "source": "loff",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039746",
+    "source": "niev",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03974C",
+    "source": "mir",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039750",
+    "source": "ryk",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039754",
+    "source": "stry",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03975A",
+    "source": "ski",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03975E",
+    "source": "slav",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039764",
+    "source": "vich",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03976C",
+    "source": "Abdul ",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039774",
+    "source": "Abdel ",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03977C",
+    "source": "Ibn ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039782",
+    "source": "Abu ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039788",
+    "source": "Ali ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03978E",
+    "source": "al-",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039792",
+    "source": "Khalil",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03979A",
+    "source": "Fazal",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0397A0",
+    "source": "Rashid",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "0397A8",
+    "source": "Assad",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0397AE",
+    "source": "Kader",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0397B4",
+    "source": "Rashad",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "0397BC",
+    "source": "Awwal",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0397C2",
+    "source": "Zuhr",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0397C8",
+    "source": "Saud",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0397CE",
+    "source": "Bakr",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0397D4",
+    "source": "Akbar",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0397DA",
+    "source": "Kya",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0397DE",
+    "source": "Sa",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0397E2",
+    "source": "Lai",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0397E6",
+    "source": "Ara",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0397EA",
+    "source": "Bar",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0397EE",
+    "source": "Chi",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0397F2",
+    "source": "Kha",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0397F6",
+    "source": "Ma",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0397FA",
+    "source": "Fara",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039800",
+    "source": "pan",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039804",
+    "source": "chen",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03980A",
+    "source": "la",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03980E",
+    "source": "der",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039812",
+    "source": "juk",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039816",
+    "source": "ku",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03981A",
+    "source": "du",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03981E",
+    "source": "rouk",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039824",
+    "source": "soud",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03982A",
+    "source": "Sun",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03982E",
+    "source": "Bei",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039832",
+    "source": "Liu",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039836",
+    "source": "Cao",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03983A",
+    "source": "Tian",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039840",
+    "source": "Hong",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039846",
+    "source": "Chu",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03984A",
+    "source": "Hsi",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03984E",
+    "source": "Xiao",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039854",
+    "source": "Shu",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039858",
+    "source": "Guo",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03985C",
+    "source": "Jia",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039860",
+    "source": "Shi",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039864",
+    "source": "Chin",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03986A",
+    "source": "Chung",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039870",
+    "source": "Zong",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039876",
+    "source": "Zhang",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03987C",
+    "source": "Shao",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039882",
+    "source": "Wei",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039886",
+    "source": "Wang",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03988E",
+    "source": "Al",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039892",
+    "source": "Lu",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039896",
+    "source": "Run",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03989A",
+    "source": "An",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03989E",
+    "source": "don",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0398A2",
+    "source": "lan",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0398A6",
+    "source": "chi",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0398AA",
+    "source": "te",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0398AE",
+    "source": "Kina",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0398B4",
+    "source": "Kun",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0398B8",
+    "source": "San",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0398BC",
+    "source": "Suka",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0398C2",
+    "source": "zi",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0398C6",
+    "source": "lum",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0398CA",
+    "source": "ya",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0398CE",
+    "source": "ri",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0398D2",
+    "source": "Te",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0398D6",
+    "source": "Rata",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0398DC",
+    "source": "Haru",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0398E2",
+    "source": "Shana",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0398E8",
+    "source": "Sheila",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "0398F0",
+    "source": "Betty",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0398F6",
+    "source": "Nancy",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0398FC",
+    "source": "Patricia",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039906",
+    "source": "Debra",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03990C",
+    "source": "Jody",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039912",
+    "source": "Sherry",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03991A",
+    "source": "Jennifer",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039924",
+    "source": "Anne",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03992A",
+    "source": "Annette",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039932",
+    "source": "Elizabeth",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03993C",
+    "source": "Marilyn",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039944",
+    "source": "Lynne",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03994A",
+    "source": "Julia",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039950",
+    "source": "Francesca",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03995A",
+    "source": "Gweyn",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039960",
+    "source": "Elise",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039966",
+    "source": "Suzanne",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03996E",
+    "source": "Mary",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039974",
+    "source": "Rose",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03997A",
+    "source": "Dubravka",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039984",
+    "source": "Ivana",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03998A",
+    "source": "Marina",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039992",
+    "source": "Geena",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039998",
+    "source": "Tanya",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03999E",
+    "source": "Helga",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0399A4",
+    "source": "Elena",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0399AA",
+    "source": "Anna",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0399B0",
+    "source": "Nadia",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "0399B6",
+    "source": "Olga",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0399BC",
+    "source": "Tei",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0399C0",
+    "source": "Ida",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0399C4",
+    "source": "Shi",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0399C8",
+    "source": "Fati",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0399CE",
+    "source": "il",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0399D2",
+    "source": "la",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0399D6",
+    "source": "ma",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0399DA",
+    "source": "Maki",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0399E0",
+    "source": "Kazu",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0399E6",
+    "source": "Hana",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0399EC",
+    "source": "Yo",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "0399F0",
+    "source": "Yumi",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "0399F6",
+    "source": "Rei",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "0399FA",
+    "source": "Mari",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039A00",
+    "source": "Setsu",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039A06",
+    "source": "ko",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039A0A",
+    "source": "Empire",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039A12",
+    "source": "Clan",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039A1A",
+    "source": "The ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039A20",
+    "source": "has surrendered under threat!",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "039A3E",
+    "source": " of ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039A44",
+    "source": "we will ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039A4E",
+    "source": "As you ordered",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "039A5E",
+    "source": " to the people",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "039A70",
+    "source": "Give ",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039A76",
+    "source": "I'm too sick!",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039A84",
+    "source": "We're starving!",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "039A94",
+    "source": "We're broke!",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "039AA2",
+    "source": "Sorry, but right now",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "039AB8",
+    "source": "I'm very sorry, but",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "039ACC",
+    "source": "I can't ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039ADA",
+    "source": "from ",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039AE0",
+    "source": " has broken away",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "039AF2",
+    "source": "has proclaimed his independence!",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "039B14",
+    "source": " in ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039B1A",
+    "source": " OK?",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039B20",
+    "source": "Is ",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039B24",
+    "source": "Who shall be successor?",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "039B3C",
+    "source": "I wonder who will succeed him...",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "039B5E",
+    "source": " passed away",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "039B6C",
+    "source": "'s family was wiped out",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "039B84",
+    "source": " faded into history!",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "039B9A",
+    "source": "Lord ",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039BA0",
+    "source": "   ",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039BA4",
+    "source": "%2d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039BA8",
+    "source": "   ",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039BAC",
+    "source": "-%-2d",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039BB2",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039BB6",
+    "source": "%2d:%s",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039BBE",
+    "source": "%2d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039BC2",
+    "source": "%4d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039BC6",
+    "source": "%4d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039BCA",
+    "source": "(Arms)",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039BD2",
+    "source": "(Food)",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039BDA",
+    "source": "(Spice)",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039BE2",
+    "source": "(Textiles)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039BEE",
+    "source": "(Glass)",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039BF6",
+    "source": "(Ceramics)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039C02",
+    "source": "(Woodwork)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039C0E",
+    "source": "(Medicine)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039C1A",
+    "source": "(Jewelry)",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039C24",
+    "source": "(Gems)",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039C2C",
+    "source": "(Silk)",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039C34",
+    "source": "(Fur)",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039C3A",
+    "source": "%-10s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039C48",
+    "source": "(Venetian)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039C54",
+    "source": "(Islamic) ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039C60",
+    "source": "(Chinese) ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039C6C",
+    "source": "(Uighur)  ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039C78",
+    "source": "%-10s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039C7E",
+    "source": "%-8s",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039C84",
+    "source": "(Submit)  ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039C90",
+    "source": "(Coexist) ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039C9C",
+    "source": "(Extort)  ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039CA8",
+    "source": "(Invade)  ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039CB4",
+    "source": "(Balanced)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039CC0",
+    "source": "(Arms)    ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039CCC",
+    "source": "(Quality) ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039CD8",
+    "source": "(Quantity)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039CE4",
+    "source": "(Balanced)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039CF0",
+    "source": "(Defenses)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039CFC",
+    "source": "(Farming) ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039D08",
+    "source": "(Economy) ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039D14",
+    "source": "(Balanced)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039D20",
+    "source": "(Economic)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039D2C",
+    "source": "(Military)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039D38",
+    "source": "(Domestic)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039D44",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039D48",
+    "source": "(Specialties)",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039D56",
+    "source": "(Children)   ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039D64",
+    "source": "(Generals)   ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039D72",
+    "source": "(Alliances)  ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039D80",
+    "source": "(Troops)     ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039D8E",
+    "source": "(Advisor)    ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039D9C",
+    "source": "(Ruler)      ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039DAA",
+    "source": "(Nation Data)",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039DB8",
+    "source": "(Alliances)  ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039DC6",
+    "source": "(Troops)     ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039DD4",
+    "source": "(Advisor)    ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039DE2",
+    "source": "(Ruler)      ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039DF0",
+    "source": "(Nation Data)",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "039DFE",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "039E02",
+    "source": "(slow)",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039E0A",
+    "source": "(medium)",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039E14",
+    "source": "(fast)",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039E1C",
+    "source": "(very fast)",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "039E2A",
+    "source": "No neighboring enemies",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "039E42",
+    "source": "No neighboring vassal state",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "039E5E",
+    "source": "Ruler",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039E64",
+    "source": "Governor",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039E6E",
+    "source": "Advisor",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039E76",
+    "source": "General",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039E8A",
+    "source": "Arms",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039E90",
+    "source": "Food",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039E96",
+    "source": "Spice",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039E9C",
+    "source": "Textiles",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039EA6",
+    "source": "Glass",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "039EAC",
+    "source": "Ceramics",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039EB6",
+    "source": "Woodwork",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039EC0",
+    "source": "Medicine",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039ECA",
+    "source": "Jewelry",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039ED2",
+    "source": "Gems",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039ED8",
+    "source": "Silk",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "039EDE",
+    "source": "Fur",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "039EE2",
+    "source": "Samurai",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039EEA",
+    "source": "Knights",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039EF2",
+    "source": "Mamelukes",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039EFC",
+    "source": "Archers",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039F04",
+    "source": "Mongols",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039F0C",
+    "source": "Lancers",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039F14",
+    "source": "Nomads",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "039F1C",
+    "source": "Catapult",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039F26",
+    "source": "Elephants",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039F30",
+    "source": "Crossbow",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039F3A",
+    "source": "Longbow",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039F42",
+    "source": "Shortbow",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039F4C",
+    "source": "Artillery",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039F56",
+    "source": "Pikemen",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "039F5E",
+    "source": "Heavy Inf",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039F68",
+    "source": "Light Inf",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039F72",
+    "source": "(Samurai)",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039F7C",
+    "source": "(Knights)",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039F86",
+    "source": "(Mamelukes)",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "039F92",
+    "source": "(Archers)",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039F9C",
+    "source": "(Mongols)",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039FA6",
+    "source": "(Lancers)",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039FB0",
+    "source": "(Nomads)",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "039FBA",
+    "source": "(Catapult)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039FC6",
+    "source": "(Elephants)",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "039FD2",
+    "source": "(Crossbow)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039FDE",
+    "source": "(Longbow)",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "039FE8",
+    "source": "(Shortbow)",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "039FF4",
+    "source": "(Artillery)",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03A000",
+    "source": "(Pikemen)",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A00A",
+    "source": "(Heavy Inf)",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03A016",
+    "source": "(Light Inf)",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03A022",
+    "source": "Venetian",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A02C",
+    "source": "Islamic",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A034",
+    "source": "Chinese",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A03C",
+    "source": "Uighur",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03A044",
+    "source": "Samurai  ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A04E",
+    "source": "Knights  ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A058",
+    "source": "Mamelukes",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A062",
+    "source": "Archers  ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A06C",
+    "source": "Mongols  ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A076",
+    "source": "Lancers  ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A080",
+    "source": "Nomads   ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A08A",
+    "source": "Catapult ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A094",
+    "source": "Elephants",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A09E",
+    "source": "Crossbow ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A0A8",
+    "source": "Longbow  ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A0B2",
+    "source": "Shortbow ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A0BC",
+    "source": "Artillery",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A0C6",
+    "source": "Pikemen  ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A0D0",
+    "source": "Heavy Inf",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A0DA",
+    "source": "Light Inf",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A0E4",
+    "source": "-%-2d",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03A0EA",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A0EE",
+    "source": ", your orders?",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03A0FE",
+    "source": "Are you finished?",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03A110",
+    "source": "No enemy in sight",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03A122",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A126",
+    "source": "%2d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A12A",
+    "source": "%d",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A12E",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A132",
+    "source": "%12s",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A138",
+    "source": "%21s",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A13E",
+    "source": "Rebel army",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03A14A",
+    "source": "%21s",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A150",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A154",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A158",
+    "source": "Rebel army",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03A166",
+    "source": "I'll never forget this, ",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03A180",
+    "source": " fled the battle",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03A192",
+    "source": "Legion #",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A1AC",
+    "source": "supplies!",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A1B6",
+    "source": "Legion #",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A1C1",
+    "source": "died of illness.",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03A1E5",
+    "source": "illness.",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A1EE",
+    "source": "Position legion #",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03A226",
+    "source": "starts there.",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A234",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A238",
+    "source": "Position legion #",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03A25A",
+    "source": "yourself?",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A264",
+    "source": " was captured!",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03A274",
+    "source": "Legion #",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A27F",
+    "source": "C%d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A285",
+    "source": "C%d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A28A",
+    "source": "-------",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A292",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A296",
+    "source": "resupplying",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03A2A2",
+    "source": "hunting",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A2AA",
+    "source": " is ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A2B0",
+    "source": "Legion #",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A2BA",
+    "source": "Enemy troops are plundering!",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03A2D8",
+    "source": " is plundering",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03A2E8",
+    "source": "Legion #",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A2F2",
+    "source": "Cannot %s there",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03A302",
+    "source": "withdraw from",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A310",
+    "source": "resupply",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A31A",
+    "source": "ambush",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03A322",
+    "source": "command",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A32A",
+    "source": "move",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A330",
+    "source": "Withdraw from",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A33E",
+    "source": "Resupply",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A348",
+    "source": "Ambush",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03A350",
+    "source": "Command",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A358",
+    "source": "Move",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A35E",
+    "source": " where?",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A366",
+    "source": "Nowhere to withdraw",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03A37A",
+    "source": "Chase which enemy legions?",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03A396",
+    "source": "Attack?",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A39E",
+    "source": "Delegate everything?",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03A3B4",
+    "source": "The order was given",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03A3C8",
+    "source": "Give which order?",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03A3DA",
+    "source": "Command which legion?",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03A3F0",
+    "source": "Legion #",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A3FA",
+    "source": "       ",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A402",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A406",
+    "source": "Reform which legion?",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03A41C",
+    "source": "With which legion?",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03A430",
+    "source": "Transfer which unit?",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03A446",
+    "source": "Is this reorganization OK?",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03A462",
+    "source": "Transfer which unit?",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03A478",
+    "source": "No legion can be reformed",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03A492",
+    "source": "Not adjacent to commander",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03A4AC",
+    "source": "Obviously you cannot win. Join my forces!",
+    "ru": "",
+    "capacity": 41
+  },
+  {
+    "offset": "03A4D6",
+    "source": "It would appear that I have no choice",
+    "ru": "",
+    "capacity": 37
+  },
+  {
+    "offset": "03A4FC",
+    "source": "I would never join the likes of you",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03A520",
+    "source": "He had the gall to ignore me!",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03A53E",
+    "source": "He rejected our offer",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03A554",
+    "source": " joined us!",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03A560",
+    "source": "Our offer was ignored",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03A576",
+    "source": "Offer to recruit whom?",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03A58E",
+    "source": "You cannot add more legions",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03A5AA",
+    "source": "It's hopeless. Submit to us!",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03A5C8",
+    "source": "Very well. I surrender!",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03A5E0",
+    "source": "Stop talking nonsense!",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03A5F8",
+    "source": "Will you surrender?",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03A60C",
+    "source": "He rejected our demands",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03A624",
+    "source": " surrendered!",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A632",
+    "source": "Demand submission?",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03A646",
+    "source": "Let's make a truce in both our interests",
+    "ru": "",
+    "capacity": 40
+  },
+  {
+    "offset": "03A670",
+    "source": "Yes, I agree with your proposal",
+    "ru": "",
+    "capacity": 31
+  },
+  {
+    "offset": "03A690",
+    "source": "It's too late to talk peace!",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03A6AE",
+    "source": "Accept the truce?",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03A6C0",
+    "source": "He rejected the truce",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03A6E2",
+    "source": "ended the war",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A6F0",
+    "source": "Propose a truce?",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03A702",
+    "source": "Not adjacent to enemy",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03A718",
+    "source": "Elite",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03A71E",
+    "source": "Crack",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03A724",
+    "source": "Veteran",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A72C",
+    "source": "Rookies",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A734",
+    "source": "Rabble",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03A746",
+    "source": "View other legions?",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03A75A",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A75E",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A762",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A766",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A76A",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A76E",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A772",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A776",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A77A",
+    "source": "(No leader)",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03A786",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A78A",
+    "source": "Which legion?",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A798",
+    "source": "View another general?",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03A7AE",
+    "source": "%2d/%2d",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A7B6",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A7C6",
+    "source": "  %s",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A7CC",
+    "source": "%2d  %s",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A7D4",
+    "source": "View which general?",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03A7E8",
+    "source": "generals",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A7F2",
+    "source": "legions",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A7FA",
+    "source": "Are you sure?",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A808",
+    "source": "Done viewing?",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A816",
+    "source": "View which side's %s?",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03A82C",
+    "source": "Press any button",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03A83E",
+    "source": "%12s",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A844",
+    "source": "%21s",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A84A",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A84E",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A852",
+    "source": "Rebel army",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03A85E",
+    "source": "%d:%s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03A864",
+    "source": "Press any button",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03A876",
+    "source": " #%d",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A87C",
+    "source": " damage",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A885",
+    "source": "serious",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A88F",
+    "source": "suffered",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A898",
+    "source": "Legion #",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03A8BF",
+    "source": "the blizzard!",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A8DD",
+    "source": "raging!",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A8F4",
+    "source": "is raging!",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03A91C",
+    "source": "the soldiers!",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03A92A",
+    "source": "Your orders for unit %d?",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03A944",
+    "source": "%2d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A948",
+    "source": "Unit %d",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A950",
+    "source": "%-12s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03A957",
+    "source": "C%x%2d   ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03A962",
+    "source": "%2d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03A966",
+    "source": "Lord ",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03A96C",
+    "source": "Not enough mobility",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03A980",
+    "source": "Rebel Army",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03A98C",
+    "source": "%s took command",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03A99C",
+    "source": "%d:%s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03A9A2",
+    "source": "Def:%3d",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03A9AA",
+    "source": "%d:%s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03A9B0",
+    "source": "VS",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03A9B4",
+    "source": "%12s",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03A9BA",
+    "source": "%-12s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03A9C0",
+    "source": "Cannot position there",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03A9D6",
+    "source": "Position unit #%d",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03A9F7",
+    "source": "yourself?",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03AA02",
+    "source": "Will you lead the unit?",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03AA1A",
+    "source": "Command was already executed",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03AA38",
+    "source": "No commander",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03AA46",
+    "source": "Revive which unit?",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03AA5A",
+    "source": "No unit is confused",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03AA6E",
+    "source": "Delegate command of legion?",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03AA94",
+    "source": "Press any button",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03AAA6",
+    "source": "%2d/%2d",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03AAAE",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03AAB2",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03AAE9",
+    "source": "cut down.",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03AAF4",
+    "source": "View other units?",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03AB06",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03AB0A",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03AB0E",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03AB12",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03AB16",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03AB1A",
+    "source": "Legion:%d Unit:%d",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03AB2C",
+    "source": "View which unit?",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03AB3E",
+    "source": "commander",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03AB48",
+    "source": "unit",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03AB4E",
+    "source": "Are you sure?",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03AB5C",
+    "source": "OK to end viewing?",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03AB70",
+    "source": "View which side's %s?",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03AB86",
+    "source": "View which information?",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03AB9E",
+    "source": "-%-2d",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03ABA4",
+    "source": "Move unit %d",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03ABC3",
+    "source": "fell to %d",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03ABD5",
+    "source": "was ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03ABEA",
+    "source": "battle!",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03ABF2",
+    "source": "Attack which enemy unit?",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03AC0C",
+    "source": "No enemy units to attack",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03AC26",
+    "source": "Waiting",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03AC2E",
+    "source": ", I regret to tell you...",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03AC48",
+    "source": " has passed away",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03AC5A",
+    "source": "One cannot fight against fate",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03AC78",
+    "source": "Please don't be too distressed",
+    "ru": "",
+    "capacity": 30
+  },
+  {
+    "offset": "03AC98",
+    "source": "This is my darkest hour",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03AD28",
+    "source": "%-10s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03AD2E",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03AD32",
+    "source": "Name your son",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03AD40",
+    "source": "Name your daughter",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03AD54",
+    "source": "Surely you don't want a nameless child!",
+    "ru": "",
+    "capacity": 39
+  },
+  {
+    "offset": "03AD7C",
+    "source": " OK?",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03AD82",
+    "source": "Is the name ",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03AD92",
+    "source": "Kublai",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03AD9A",
+    "source": "Tului",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03ADA0",
+    "source": "Ugudei",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03ADA8",
+    "source": "Jagatai",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03ADB0",
+    "source": "? What a nice name!",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03ADC4",
+    "source": "boy",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03ADC8",
+    "source": "girl",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03ADCE",
+    "source": "after giving birth to a baby ",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03ADEC",
+    "source": " passed away",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03ADFA",
+    "source": ", ",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03AE00",
+    "source": "boy",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03AE04",
+    "source": "girl",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03AE0A",
+    "source": " gave birth to a baby ",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03AE22",
+    "source": ", congratulations!",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03AE36",
+    "source": "Oh, to be young again!",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03AE4E",
+    "source": "Ouch! My back hurts",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03AE62",
+    "source": "I'm too old for this!",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03AE78",
+    "source": "that our alliance has expired",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03AE96",
+    "source": " informed us",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03AEA4",
+    "source": "Cancel the selection",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03AEBA",
+    "source": "Please select from your generals",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "03AEDC",
+    "source": "We will hire a local man of ability",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03AF02",
+    "source": " in ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03AF08",
+    "source": "Appoint new ",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03AF16",
+    "source": "General ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03AF20",
+    "source": " has died in ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03AF2E",
+    "source": " has died!",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03AF3A",
+    "source": " has died in ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03AF48",
+    "source": " passed away...",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03AF58",
+    "source": "Your child ",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03AF64",
+    "source": "I lost my true love...",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03AF7C",
+    "source": "Empress ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03AF86",
+    "source": "You seem much better now",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03AFA0",
+    "source": "I feel much better now",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03AFB8",
+    "source": "'s illness has passed",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03AFCE",
+    "source": "Epidemic",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03AFD8",
+    "source": "Drought ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03AFE2",
+    "source": "Typhoon ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03AFEC",
+    "source": "Blizzard",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03AFFF",
+    "source": " Storm  ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03B008",
+    "source": "epidemic",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03B012",
+    "source": "drought",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03B01A",
+    "source": "typhoon",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03B022",
+    "source": "blizzard",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03B02C",
+    "source": "sandstorm",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03B036",
+    "source": "I'm concerned about the coming harvest",
+    "ru": "",
+    "capacity": 38
+  },
+  {
+    "offset": "03B05F",
+    "source": "CF is ravaging our state!",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03B07A",
+    "source": "An ",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B07E",
+    "source": "A ",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03B082",
+    "source": " became ill!",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03B092",
+    "source": ", the troops went unpaid!",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03B0AC",
+    "source": "Our fall harvest is most bountiful!",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03B0D0",
+    "source": ", the people go hungry!",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03B0F1",
+    "source": "Harvest ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03B0FA",
+    "source": "Stop lying, mangy dog!",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03B112",
+    "source": "So, where is the Elixir?",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03B12C",
+    "source": "OK, I give up. Here it is!",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03B148",
+    "source": "Alas, it is only a myth",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03B160",
+    "source": "Er...",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03B166",
+    "source": "Oh well, that's that",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03B17C",
+    "source": "It was foolish of me to believe the rumor",
+    "ru": "",
+    "capacity": 41
+  },
+  {
+    "offset": "03B1A6",
+    "source": "Ooh, a rush of energy!",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03B1BE",
+    "source": ", your charm has increased!",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03B1E2",
+    "source": "Give up",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03B1EA",
+    "source": ", Zhang-chun is here",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03B200",
+    "source": "What nonsense!",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03B210",
+    "source": "Hmm... why not?",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03B220",
+    "source": "Shall we fetch him and demand the Elixir?",
+    "ru": "",
+    "capacity": 41
+  },
+  {
+    "offset": "03B24A",
+    "source": "has found an Elixir of Eternal Life",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03B26E",
+    "source": ", a man named Zhang-chun",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03B288",
+    "source": "Zhang-chun",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03B294",
+    "source": "The Mongol Empire",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03B2BD",
+    "source": "world conquest.",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03B2FE",
+    "source": "In the spring of ",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03B312",
+    "source": "Play ",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03B318",
+    "source": "World Conquest",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03B328",
+    "source": "Yuan Dynasty",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03B336",
+    "source": "Genghis Khan",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03B344",
+    "source": "Mongol Conquest",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03B354",
+    "source": "View Wars",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03B35E",
+    "source": "Nation",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03B366",
+    "source": "Players",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03B36E",
+    "source": "Scenario",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03B378",
+    "source": "Everything",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03B388",
+    "source": "Change which?",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03B396",
+    "source": "Is everything OK?",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03B3A8",
+    "source": "View combat between units?",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03B3C4",
+    "source": "View wars?",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03B3D0",
+    "source": "How many players?",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03B3E6",
+    "source": "Which scenario?",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03B3F6",
+    "source": "Data is damaged",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03B406",
+    "source": "Is this OK",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03B412",
+    "source": "Saved game is ",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03B422",
+    "source": "------------",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03B430",
+    "source": "%-12s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03B436",
+    "source": "%d",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03B43A",
+    "source": "Generals:",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03B444",
+    "source": "%-12s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03B44A",
+    "source": "------------",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03B458",
+    "source": "Advisor:",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03B462",
+    "source": "Everything OK?",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03B47B",
+    "source": "choosing.",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03B492",
+    "source": "General #%d?",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03B4A0",
+    "source": "No advisor.",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03B4BA",
+    "source": "family",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03B4CF",
+    "source": "advisor?",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03B4F4",
+    "source": "for the next scenario?",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03B51B",
+    "source": "Load saved game",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03B52C",
+    "source": "Which one?",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03B542",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B546",
+    "source": "%2d/%2d",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03B54E",
+    "source": "%-12s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03B554",
+    "source": "%-12s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03B55A",
+    "source": "%2d ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03B561",
+    "source": "OK?",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B597",
+    "source": "a vassal state.",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03B5F2",
+    "source": "Genghis Khan",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03B646",
+    "source": "Genghis Khan.",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03B654",
+    "source": "Delegate your authority",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03B66C",
+    "source": "I will prepare new policies",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03B688",
+    "source": "Change policies",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03B698",
+    "source": "Decree new policies",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03B6AC",
+    "source": "Select diplomatic policy          ",
+    "ru": "",
+    "capacity": 34
+  },
+  {
+    "offset": "03B6D0",
+    "source": "Select military policy          ",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "03B6F2",
+    "source": "Select investment policy          ",
+    "ru": "",
+    "capacity": 34
+  },
+  {
+    "offset": "03B716",
+    "source": "Select overall policy          ",
+    "ru": "",
+    "capacity": 31
+  },
+  {
+    "offset": "03B736",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B742",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B746",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B74A",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B74E",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B752",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B756",
+    "source": "%3d ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03B75C",
+    "source": "%3d ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03B762",
+    "source": "Which will you change?",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03B77C",
+    "source": "diplomacy",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03B786",
+    "source": "send",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03B78C",
+    "source": "move",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03B792",
+    "source": "attack",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03B79A",
+    "source": " order to which state?",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03B7B2",
+    "source": "Give ",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03B7B8",
+    "source": "Units",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03B7BE",
+    "source": "food",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03B7C4",
+    "source": "gold",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03B7CA",
+    "source": "Amount",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03B7D4",
+    "source": "Send how much ",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03B7E6",
+    "source": "That state is bursting with ",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03B804",
+    "source": "Where will you send it?",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03B81C",
+    "source": " in that state",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03B82C",
+    "source": "No ",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03B830",
+    "source": " order",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03B838",
+    "source": "Issue ",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03B840",
+    "source": "There's no general to ",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03B858",
+    "source": "There is no greater honor",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03B872",
+    "source": "Upon my life, I will do my duty",
+    "ru": "",
+    "capacity": 31
+  },
+  {
+    "offset": "03B892",
+    "source": "Good, now I can relax!",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03B8AA",
+    "source": "You replaced me with that bum?",
+    "ru": "",
+    "capacity": 30
+  },
+  {
+    "offset": "03B8CA",
+    "source": "Were you dissatisfied with how I governed?",
+    "ru": "",
+    "capacity": 42
+  },
+  {
+    "offset": "03B8F6",
+    "source": " govern ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03B900",
+    "source": "Let ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03B906",
+    "source": "appoint",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03B90E",
+    "source": "This is a great honor for me",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03B92C",
+    "source": "I'll try to live up to your expectations",
+    "ru": "",
+    "capacity": 40
+  },
+  {
+    "offset": "03B956",
+    "source": "My time abroad was most enjoyable",
+    "ru": "",
+    "capacity": 33
+  },
+  {
+    "offset": "03B978",
+    "source": ", how have you been?",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03B98E",
+    "source": "Now I can take a rest",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03B9A4",
+    "source": "as advisor of ",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03B9B4",
+    "source": "Will you appoint ",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03B9C6",
+    "source": "appoint",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03B9CE",
+    "source": "Demote him to general",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03B9E4",
+    "source": "I'm most honored",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03B9F6",
+    "source": "I will do my best",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03BA08",
+    "source": "Your wish is my command",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03BA20",
+    "source": "How will I explain this to my family?",
+    "ru": "",
+    "capacity": 37
+  },
+  {
+    "offset": "03BA46",
+    "source": "If that is my fate, I accept it",
+    "ru": "",
+    "capacity": 31
+  },
+  {
+    "offset": "03BA66",
+    "source": "What on earth did I do wrong?",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03BA84",
+    "source": "I'm so ashamed!",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03BA94",
+    "source": "I hope to see you again",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03BAAC",
+    "source": "Dismiss this general",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03BAC2",
+    "source": "dismiss",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03BAD4",
+    "source": "At last I can follow in your footsteps",
+    "ru": "",
+    "capacity": 38
+  },
+  {
+    "offset": "03BAFC",
+    "source": "I've long waited for this moment!",
+    "ru": "",
+    "capacity": 33
+  },
+  {
+    "offset": "03BB1E",
+    "source": "Thank you, Father!",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03BB32",
+    "source": "I hope to live up to your name!",
+    "ru": "",
+    "capacity": 31
+  },
+  {
+    "offset": "03BB52",
+    "source": "Welcome, my son!",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03BB64",
+    "source": "Take care of my daughter!",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03BB7E",
+    "source": "Welcome, my son-in-law!",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03BB96",
+    "source": "I guess this is my destiny...",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03BBB4",
+    "source": "I promise I won't let her down",
+    "ru": "",
+    "capacity": 30
+  },
+  {
+    "offset": "03BBD4",
+    "source": "I promise to make her happy",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03BBF0",
+    "source": "I have secretly longed for ",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03BC0C",
+    "source": " OK?",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03BC12",
+    "source": "Is ",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03BC16",
+    "source": "marry",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03BC1C",
+    "source": "shy",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03BC20",
+    "source": "charming",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03BC2A",
+    "source": "sharp",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03BC30",
+    "source": "mischievous",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03BC3C",
+    "source": "knowledgeable",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03BC4A",
+    "source": " is, well, a bit average...",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03BC66",
+    "source": " boy",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03BC6C",
+    "source": " is such a ",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03BC78",
+    "source": "I'm ready to serve you, Dad!",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03BC96",
+    "source": "When will you make me a general?",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "03BCB8",
+    "source": "Tell me about the wars, Father!",
+    "ru": "",
+    "capacity": 31
+  },
+  {
+    "offset": "03BCD8",
+    "source": "Be careful in battle, Father!",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03BCF6",
+    "source": "I've missed you, Daddy!",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03BD0E",
+    "source": "Stop tracking mud on my clean floor!",
+    "ru": "",
+    "capacity": 36
+  },
+  {
+    "offset": "03BD34",
+    "source": "What's this? Lipstick on your collar?",
+    "ru": "",
+    "capacity": 37
+  },
+  {
+    "offset": "03BD5A",
+    "source": "All you ever think about is war!",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "03BD7C",
+    "source": "We could use some more territory, dear",
+    "ru": "",
+    "capacity": 38
+  },
+  {
+    "offset": "03BDA4",
+    "source": "I've missed you so!",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03BDB8",
+    "source": "Don't put too much trust in ",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03BDD6",
+    "source": "Personally I don't trust ",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03BDF0",
+    "source": "Ohh, I feel so sick...",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03BE08",
+    "source": " is so handsome!",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03BE1A",
+    "source": "Young children are such a joy!",
+    "ru": "",
+    "capacity": 30
+  },
+  {
+    "offset": "03BE3A",
+    "source": "You have no family",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03BE4E",
+    "source": "Spend time with family",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03BE66",
+    "source": "Arrange marriage",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03BE78",
+    "source": "Make prince a general",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03BE8E",
+    "source": "Appoint or dismiss a general",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03BEAC",
+    "source": "Appoint or dismiss an advisor",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03BECA",
+    "source": "Appoint governor of a vassal state",
+    "ru": "",
+    "capacity": 34
+  },
+  {
+    "offset": "03BEEE",
+    "source": "%4d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03BEF2",
+    "source": "----",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03BEF8",
+    "source": "%-11s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03BEFE",
+    "source": "That's our ally!",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03BF10",
+    "source": "That's our territory",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03BF26",
+    "source": "Invade which state?",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03BF3A",
+    "source": "We don't have enough gold",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03BF54",
+    "source": "We have no soldiers",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03BF68",
+    "source": "units",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03BF6E",
+    "source": "Send how much food?",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03BF82",
+    "source": "Send how much gold?",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03BF96",
+    "source": "Amount",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03BF9E",
+    "source": "Send the goods",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03BFAE",
+    "source": "Move units from home base",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03BFC8",
+    "source": "Move yourself",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03BFD6",
+    "source": "No state to send supplies to",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03BFF4",
+    "source": "Nothing to send",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03C004",
+    "source": "Recruit how many units?",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03C01C",
+    "source": "We don't have enough gold",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03C036",
+    "source": "Recruit which type unit?           ",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03C05A",
+    "source": "Units",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C060",
+    "source": " gold",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C066",
+    "source": ": 1 unit costs ",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03C076",
+    "source": "Units",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C07C",
+    "source": "Send supplies",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03C08A",
+    "source": "Move troops",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03C096",
+    "source": "Attack",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03C09E",
+    "source": "Dismiss",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03C0A6",
+    "source": "Train",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C0AC",
+    "source": "Recruit",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03C0B4",
+    "source": "Further training is unnecessary",
+    "ru": "",
+    "capacity": 31
+  },
+  {
+    "offset": "03C0D4",
+    "source": "We have no army!",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03C0E6",
+    "source": "We have no gold",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03C0F6",
+    "source": "The population is too low",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03C110",
+    "source": "Cannot recruit more units",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03C12A",
+    "source": " units in the home base",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03C142",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03C146",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03C14A",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03C14E",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03C152",
+    "source": "%3d ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03C158",
+    "source": "%3d ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03C15E",
+    "source": "goods",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C164",
+    "source": "food",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03C16A",
+    "source": "gold",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03C170",
+    "source": "Amount",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03C17A",
+    "source": "How much ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03C184",
+    "source": " to give",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03C18E",
+    "source": "You have no ",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03C19C",
+    "source": "The people's loyalty has dropped",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "03C1BE",
+    "source": "Amount",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03C1C6",
+    "source": "Collect how much gold?",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03C1DE",
+    "source": "Collect special tax",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03C1F2",
+    "source": "Give to the people",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03C206",
+    "source": "Allocate labor",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03C216",
+    "source": "I think we have enough gold",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03C232",
+    "source": "We don't have any to sell",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03C24C",
+    "source": "What will you sell?          ",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03C26A",
+    "source": " gold. OK",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03C274",
+    "source": "That comes to ",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03C284",
+    "source": "Amount",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03C28C",
+    "source": "You can't sell any more",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03C2A4",
+    "source": ". Sell how much?",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03C2B8",
+    "source": " is worth ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03C2C4",
+    "source": "You have no army to provide with arms!",
+    "ru": "",
+    "capacity": 38
+  },
+  {
+    "offset": "03C2EC",
+    "source": "You don't have enough gold",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03C308",
+    "source": "Can't buy any more",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03C31C",
+    "source": "What will you buy?          ",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03C33A",
+    "source": " gold. OK",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03C344",
+    "source": "It comes to ",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03C352",
+    "source": "Amount",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03C35A",
+    "source": ". Buy how much?",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03C36C",
+    "source": " costs ",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03C374",
+    "source": "%5d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03C378",
+    "source": "-----",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C37E",
+    "source": "%-11s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C384",
+    "source": "Hire how many ",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03C394",
+    "source": "Hire which unit?           ",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03C3B0",
+    "source": "You don't have enough gold",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03C3CC",
+    "source": "Unfortunately that isn't available",
+    "ru": "",
+    "capacity": 34
+  },
+  {
+    "offset": "03C3F0",
+    "source": "Units",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C3F6",
+    "source": " units?",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03C3FE",
+    "source": " gold",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C404",
+    "source": "Each unit costs ",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03C416",
+    "source": "Hire mercenaries",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03C428",
+    "source": "Buy items",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03C432",
+    "source": "Sell items",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03C43E",
+    "source": "View which state?",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03C450",
+    "source": "There is no advisor",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03C464",
+    "source": "No alliances",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03C47C",
+    "source": "You have no children",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03C492",
+    "source": "View which general?",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03C4A6",
+    "source": "There are no generals",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03C4BC",
+    "source": "-%-2d",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C4C2",
+    "source": "View which?               ",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03C4DE",
+    "source": "P.%d/%d",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03C4E6",
+    "source": "%2d. %4d %4d        %2d",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03C4FE",
+    "source": "%-2s%-2s%-2s%-2s%2d/%-3d",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03C518",
+    "source": "%-12s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C51E",
+    "source": "No generals in our nation",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03C538",
+    "source": "View which?          ",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03C557",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03C564",
+    "source": "%3d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03C568",
+    "source": "unit types",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03C574",
+    "source": "merchants",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03C57E",
+    "source": "generals",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03C588",
+    "source": "territories",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03C594",
+    "source": "other states",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03C5A2",
+    "source": "home base",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03C5AC",
+    "source": "View list of ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03C5BA",
+    "source": "View ",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C5C0",
+    "source": "That state is not adjacent",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03C5DC",
+    "source": "That is our territory",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03C5F2",
+    "source": "How shall we respond?",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03C608",
+    "source": "We are allied with that nation",
+    "ru": "",
+    "capacity": 30
+  },
+  {
+    "offset": "03C62A",
+    "source": "Send whom to ",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03C638",
+    "source": " agreed to submit to us!",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03C652",
+    "source": " gold",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C658",
+    "source": " sent us ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03C662",
+    "source": " ignored our threat!",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03C678",
+    "source": " gold",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03C67E",
+    "source": " agreed to send us ",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03C692",
+    "source": " ignored our demands",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03C6A8",
+    "source": " refused the extension",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03C6C0",
+    "source": " accepted the extension",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03C6D8",
+    "source": " accepted the alliance!",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03C6F0",
+    "source": " rejected our proposal",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03C708",
+    "source": ", conqueror of the world",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03C722",
+    "source": ", master of the steppes",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03C73A",
+    "source": "Better to surrender than risk destruction",
+    "ru": "",
+    "capacity": 41
+  },
+  {
+    "offset": "03C764",
+    "source": "Frankly, I think you'd best surrender...",
+    "ru": "",
+    "capacity": 40
+  },
+  {
+    "offset": "03C78E",
+    "source": "I think we'd better appease them",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "03C7B0",
+    "source": "Better to pay tribute than be invaded...",
+    "ru": "",
+    "capacity": 40
+  },
+  {
+    "offset": "03C7DA",
+    "source": "They must be joking. Ignore them!",
+    "ru": "",
+    "capacity": 33
+  },
+  {
+    "offset": "03C7FC",
+    "source": "I've never heard such nonsense. Reject it!",
+    "ru": "",
+    "capacity": 42
+  },
+  {
+    "offset": "03C828",
+    "source": "I don't know. Politics is so complicated!",
+    "ru": "",
+    "capacity": 41
+  },
+  {
+    "offset": "03C852",
+    "source": "Don't ask me. I know nothing about politics",
+    "ru": "",
+    "capacity": 43
+  },
+  {
+    "offset": "03C87E",
+    "source": "Seek advice",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03C88A",
+    "source": "Surrender",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03C894",
+    "source": "Give 1/2 gold",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03C8A2",
+    "source": "Ignore",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03C8AA",
+    "source": "Wise decision. My lord will be pleased",
+    "ru": "",
+    "capacity": 38
+  },
+  {
+    "offset": "03C8D2",
+    "source": "Hmph. We'll accept the gold just this once",
+    "ru": "",
+    "capacity": 42
+  },
+  {
+    "offset": "03C8FE",
+    "source": "Fools! You'll regret this!",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03C91A",
+    "source": "A messenger came from ",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03C932",
+    "source": "You've given up hope. How sad...",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "03C954",
+    "source": "You dare submit to him",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03C970",
+    "source": "Submit to ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03C97C",
+    "source": "Threaten which state?",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03C992",
+    "source": "Send a messenger to threaten",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03C9B0",
+    "source": "threaten",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03C9BA",
+    "source": "We've no choice but to pay generously",
+    "ru": "",
+    "capacity": 37
+  },
+  {
+    "offset": "03C9E0",
+    "source": "A large contribution may prevent conflict",
+    "ru": "",
+    "capacity": 41
+  },
+  {
+    "offset": "03CA0A",
+    "source": "A little gold is a small price for peace",
+    "ru": "",
+    "capacity": 40
+  },
+  {
+    "offset": "03CA34",
+    "source": "Let's appease them with a little gold",
+    "ru": "",
+    "capacity": 37
+  },
+  {
+    "offset": "03CA5A",
+    "source": "Greedy vulture! Send him away!",
+    "ru": "",
+    "capacity": 30
+  },
+  {
+    "offset": "03CA7A",
+    "source": "Ha! They should pay us tribute!",
+    "ru": "",
+    "capacity": 31
+  },
+  {
+    "offset": "03CA9A",
+    "source": "Seek advice",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03CAA6",
+    "source": "Give 1/3 gold",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03CAB4",
+    "source": "Give 1/5 gold",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03CAC2",
+    "source": "Ignore",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03CACA",
+    "source": "You demonstrate appropriate respect",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03CAEE",
+    "source": "We expect to receive more in the future",
+    "ru": "",
+    "capacity": 39
+  },
+  {
+    "offset": "03CB16",
+    "source": "Just you wait!",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03CB2A",
+    "source": "demands that you pay tribute!",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03CB48",
+    "source": "Demand tribute from which state?",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "03CB6A",
+    "source": "Go ahead and demand tribute",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03CB86",
+    "source": "demand tribute",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03CB96",
+    "source": " wants to extend the alliance",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03CBB4",
+    "source": " wants to ally for ",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03CBC8",
+    "source": "We should continue our good relations",
+    "ru": "",
+    "capacity": 37
+  },
+  {
+    "offset": "03CBEE",
+    "source": "This alliance is still in our interest",
+    "ru": "",
+    "capacity": 38
+  },
+  {
+    "offset": "03CC16",
+    "source": "This alliance would benefit both of us",
+    "ru": "",
+    "capacity": 38
+  },
+  {
+    "offset": "03CC3E",
+    "source": "You can never have too many friends",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03CC62",
+    "source": "An alliance with them does not benefit us",
+    "ru": "",
+    "capacity": 41
+  },
+  {
+    "offset": "03CC8C",
+    "source": "We've no use for such a minor power",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03CCB0",
+    "source": "Seek advice",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03CCBC",
+    "source": "Accept offer",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03CCCA",
+    "source": "Reject offer",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03CCD8",
+    "source": "Our friendship is as solid as a rock",
+    "ru": "",
+    "capacity": 36
+  },
+  {
+    "offset": "03CCFE",
+    "source": "We look forward to an era of friendship",
+    "ru": "",
+    "capacity": 39
+  },
+  {
+    "offset": "03CD26",
+    "source": "A most unfortunate decision, I must say",
+    "ru": "",
+    "capacity": 39
+  },
+  {
+    "offset": "03CD52",
+    "source": " years",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03CD5A",
+    "source": " year",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03CD60",
+    "source": " more",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03CD66",
+    "source": "for ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03CD6C",
+    "source": "Extend by how long?",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03CD80",
+    "source": "Alliance of how long?",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03CD96",
+    "source": "Offer alliance to which state?",
+    "ru": "",
+    "capacity": 30
+  },
+  {
+    "offset": "03CDB6",
+    "source": "Go ahead and propose alliance",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03CDD4",
+    "source": "propose alliance",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03CDE6",
+    "source": "Years",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03CDEC",
+    "source": "We already have a long alliance with them",
+    "ru": "",
+    "capacity": 41
+  },
+  {
+    "offset": "03CE16",
+    "source": "Negotiate alliance",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03CE2A",
+    "source": "Demand tribute",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03CE3A",
+    "source": "Demand surrender",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03CE4C",
+    "source": "No state where we can demand tribute",
+    "ru": "",
+    "capacity": 36
+  },
+  {
+    "offset": "03CE72",
+    "source": "No neighboring state to threaten",
+    "ru": "",
+    "capacity": 32
+  },
+  {
+    "offset": "03CE94",
+    "source": "No generals to send as messengers",
+    "ru": "",
+    "capacity": 33
+  },
+  {
+    "offset": "03CEB6",
+    "source": "No neighboring nations",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03CECE",
+    "source": "attack",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03CED6",
+    "source": "move troops",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03CEE2",
+    "source": "send gold",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03CEEC",
+    "source": "send food",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03CEF6",
+    "source": "ask for tribute",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03CF06",
+    "source": "threaten",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03CF10",
+    "source": "Collect gold from the people",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03CF2E",
+    "source": "Discharge soldiers in the home base",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03CF52",
+    "source": "Train troops in the home base",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03CF70",
+    "source": "Buy arms",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03CF7A",
+    "source": "Change allocation of labor",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03CF98",
+    "source": "Sell ",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03CF9E",
+    "source": " food",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03CFA4",
+    "source": "Buy ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03CFAA",
+    "source": "Hire mercenaries",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03CFBC",
+    "source": "Recruit units",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03CFCA",
+    "source": "gold",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03CFD0",
+    "source": "food",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03CFD6",
+    "source": "fort construction",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03CFE8",
+    "source": "cultivation",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03CFF4",
+    "source": "trade",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03CFFA",
+    "source": "Invest in ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03D006",
+    "source": "Send troops to ",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03D016",
+    "source": "Send gold and food to ",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03D02E",
+    "source": "Threaten ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03D038",
+    "source": "Demand tribute from ",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03D04E",
+    "source": " years",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03D056",
+    "source": " for ",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03D05C",
+    "source": "Ally with ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03D068",
+    "source": "%-12s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03D06E",
+    "source": "%-12s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03D074",
+    "source": "%2d",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03D078",
+    "source": "%-11s",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03D07E",
+    "source": " will lead the next legion",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03D09A",
+    "source": " OK?",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03D0A0",
+    "source": "Is ",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03D0A6",
+    "source": "Who will command legion #",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03D0C0",
+    "source": "Select a unit",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03D0CE",
+    "source": "Form legion #",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03D0DC",
+    "source": "Gold",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03D0E2",
+    "source": "Food",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03D0E8",
+    "source": "We can carry up to ",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03D0FC",
+    "source": "Take how much food?",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03D110",
+    "source": "%s",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03D114",
+    "source": "Please come back safely!",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03D12E",
+    "source": "Good luck!",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03D13A",
+    "source": "Launch the invasion",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03D14E",
+    "source": "You must organize a defense!",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03D16C",
+    "source": "unit",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03D172",
+    "source": "A rebellion broke out in ",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03D18C",
+    "source": " Revolt ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03D198",
+    "source": "has invaded ",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03D1A6",
+    "source": "has invaded us!",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03D1B6",
+    "source": " of ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03D1BC",
+    "source": ", it's an emergency!",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03D1D2",
+    "source": ". OK?",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03D1D8",
+    "source": "to invade ",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03D1E4",
+    "source": ", I seek permission",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03D1F8",
+    "source": " was cut down in battle",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03D210",
+    "source": "'s army was crushed",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03D224",
+    "source": "Appoint whom Governor of ",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03D240",
+    "source": "of ",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03D244",
+    "source": " became the Governor",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03D25A",
+    "source": "This land is safe with me",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03D274",
+    "source": "It seems my time has come",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03D28E",
+    "source": "I'm most honored",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03D2A0",
+    "source": " won the war",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03D2AE",
+    "source": "The battle ended in a truce",
+    "ru": "",
+    "capacity": 27
+  },
+  {
+    "offset": "03D2CA",
+    "source": "Er, the war didn't go quite as planned...",
+    "ru": "",
+    "capacity": 41
+  },
+  {
+    "offset": "03D2F4",
+    "source": "Victory is ours!",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03D306",
+    "source": "The rebels",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03D312",
+    "source": "Recruit",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03D31A",
+    "source": "Release",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03D322",
+    "source": "Execute",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03D32A",
+    "source": "There is no greater shame than this",
+    "ru": "",
+    "capacity": 35
+  },
+  {
+    "offset": "03D34E",
+    "source": "Ah, life's cruel fate!",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03D366",
+    "source": "You won't see me beg!",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03D37C",
+    "source": "Untie this annoying rope!",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03D396",
+    "source": "I have nothing to say to you!",
+    "ru": "",
+    "capacity": 29
+  },
+  {
+    "offset": "03D3B4",
+    "source": "I choose death before dishonor",
+    "ru": "",
+    "capacity": 30
+  },
+  {
+    "offset": "03D3D4",
+    "source": "Strike quickly, or you'll regret it!",
+    "ru": "",
+    "capacity": 36
+  },
+  {
+    "offset": "03D3FA",
+    "source": "I won't beg for mercy. Do your duty!",
+    "ru": "",
+    "capacity": 36
+  },
+  {
+    "offset": "03D420",
+    "source": "How humiliating!",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03D432",
+    "source": "My luck is exhausted",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03D448",
+    "source": "Whew! I thought that was it!",
+    "ru": "",
+    "capacity": 28
+  },
+  {
+    "offset": "03D466",
+    "source": "I will not be defeated next time!",
+    "ru": "",
+    "capacity": 33
+  },
+  {
+    "offset": "03D488",
+    "source": "Your mercy will prove fatal some day...",
+    "ru": "",
+    "capacity": 39
+  },
+  {
+    "offset": "03D4B0",
+    "source": "Thank you for your mercy",
+    "ru": "",
+    "capacity": 24
+  },
+  {
+    "offset": "03D4CA",
+    "source": "We will meet again...",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03D4E0",
+    "source": "I deeply thank you for your mercy",
+    "ru": "",
+    "capacity": 33
+  },
+  {
+    "offset": "03D502",
+    "source": "I guess this is my destiny",
+    "ru": "",
+    "capacity": 26
+  },
+  {
+    "offset": "03D51E",
+    "source": "I'll leave my past behind and serve you",
+    "ru": "",
+    "capacity": 39
+  },
+  {
+    "offset": "03D546",
+    "source": "Why do you spare my life?",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03D560",
+    "source": "I shall serve you well!",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03D578",
+    "source": "I could never serve you",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03D590",
+    "source": "I won't serve the likes of you!",
+    "ru": "",
+    "capacity": 31
+  },
+  {
+    "offset": "03D5B0",
+    "source": "I'll never bow to you",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03D5CC",
+    "source": "I'm afraid ",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03D5DA",
+    "source": "Your son ",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03D5E4",
+    "source": " is... gone!",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03D5F2",
+    "source": " was cut down...",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03D604",
+    "source": "What shall we do with the prisoners?",
+    "ru": "",
+    "capacity": 36
+  },
+  {
+    "offset": "03D62C",
+    "source": "It's a great honor",
+    "ru": "",
+    "capacity": 18
+  },
+  {
+    "offset": "03D640",
+    "source": "I will do my best",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03D652",
+    "source": "No, I'm not interested",
+    "ru": "",
+    "capacity": 22
+  },
+  {
+    "offset": "03D66A",
+    "source": "Very well",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03D674",
+    "source": "Shall we recruit him?",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03D68A",
+    "source": " is here",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03D694",
+    "source": "A talented man named ",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03D6AA",
+    "source": "OFF",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03D6AE",
+    "source": "ON",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03D6B2",
+    "source": " is now ",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03D6BC",
+    "source": ". Change it",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03D6C8",
+    "source": "OFF",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03D6CC",
+    "source": "ON",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03D6D0",
+    "source": " is ",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03D6D6",
+    "source": "View Battle",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03D6E2",
+    "source": "View Combat",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03D6EE",
+    "source": "Ord",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03D6F2",
+    "source": "slow",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03D6F8",
+    "source": "medium",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03D700",
+    "source": "fast",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03D706",
+    "source": "very fast",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03D712",
+    "source": "Change speed to ",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03D724",
+    "source": "Current message speed is ",
+    "ru": "",
+    "capacity": 25
+  },
+  {
+    "offset": "03D73E",
+    "source": "Game saved as ",
+    "ru": "",
+    "capacity": 14
+  },
+  {
+    "offset": "03D74E",
+    "source": "Game could not be saved",
+    "ru": "",
+    "capacity": 23
+  },
+  {
+    "offset": "03D766",
+    "source": "Save the current game",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03D77C",
+    "source": " will be erased",
+    "ru": "",
+    "capacity": 15
+  },
+  {
+    "offset": "03D78C",
+    "source": "Computer will play ",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03D7A0",
+    "source": "Find out what happens",
+    "ru": "",
+    "capacity": 21
+  },
+  {
+    "offset": "03D7B6",
+    "source": "Start over",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03D7C2",
+    "source": "End this game",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03D7D0",
+    "source": "DEBUG",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03D7D6",
+    "source": "Which debug command?",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03D9B8",
+    "source": "of ",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03D9BC",
+    "source": "by the armies",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03D9CA",
+    "source": "world was conquered",
+    "ru": "",
+    "capacity": 19
+  },
+  {
+    "offset": "03D9DE",
+    "source": "the entire known",
+    "ru": "",
+    "capacity": 16
+  },
+  {
+    "offset": "03D9F0",
+    "source": "that in the year ",
+    "ru": "",
+    "capacity": 17
+  },
+  {
+    "offset": "03DA02",
+    "source": "Let the sages record",
+    "ru": "",
+    "capacity": 20
+  },
+  {
+    "offset": "03DB1E",
+    "source": "Temujin",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03DB36",
+    "source": "Borchu",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03DB4E",
+    "source": "Megujin Ult",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03DB66",
+    "source": "Kuttemul",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03DB7E",
+    "source": "Dai Sechen",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03DBAE",
+    "source": "Alagosh",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03DBDE",
+    "source": "Targutai",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03DC0E",
+    "source": "Jamuga",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03DC3E",
+    "source": "Togorul Khan",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03DC56",
+    "source": "Diagambou",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03DC6E",
+    "source": "Toqtoa Beki",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03DC86",
+    "source": "Dai Usun",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03DC9E",
+    "source": "Sachu Beki",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03DCB5",
+    "source": "xTaitu",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03DCCE",
+    "source": "Dai Doguru",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03DCFE",
+    "source": "Qudqa Beki",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03DD2E",
+    "source": "Buiruk Khan",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03DD45",
+    "source": "hKeks Saplak",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03DD5E",
+    "source": "Chimsuyi",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03DD8E",
+    "source": "Tayan Khan",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03E14E",
+    "source": "Altan",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03E165",
+    "source": "XQuchar",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03E17D",
+    "source": "xDaritai",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03E195",
+    "source": "(Shigi-Qutuq",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03E1AD",
+    "source": "xQubilai",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03E1C6",
+    "source": "Onggur",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03E1DE",
+    "source": "Dorb Toksin",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03E1F5",
+    "source": "XYufnan",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03E20E",
+    "source": "Ye-lu",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03E225",
+    "source": ".Kequchu",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03E23D",
+    "source": "HSorkan Shira",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03E256",
+    "source": "Jebe",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03E26E",
+    "source": "Munlik",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03E285",
+    "source": "xJurchedai",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03E298",
+    "source": "&a",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03E29E",
+    "source": "Quyildar",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03E2B6",
+    "source": "Muqali",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03E2CE",
+    "source": "Qorci",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03E2E6",
+    "source": "Badai",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03E2FE",
+    "source": "Qishiliq",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03E315",
+    "source": "hKuchu",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03E32D",
+    "source": "8Nayaa",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03E346",
+    "source": "Subutai",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03E35E",
+    "source": "Borokhul",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03E376",
+    "source": "Buri Boko",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03E38E",
+    "source": "Inalchuq",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03E3A6",
+    "source": "Toreluch",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03E3BE",
+    "source": "Tatatonga",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03E5B2",
+    "source": "9;",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03E5E6",
+    "source": "JA",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03E61A",
+    "source": "L!",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03E682",
+    "source": "MZ",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03E6B6",
+    "source": "KA",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03E71E",
+    "source": "0G",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03E786",
+    "source": "6:",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03E7EE",
+    "source": "?6",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03E822",
+    "source": "Q;",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03EC0A",
+    "source": "The Mongols",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03EC2A",
+    "source": "V,",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03EC76",
+    "source": "The Naimans",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03EC96",
+    "source": "Vb",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03EC9A",
+    "source": "The Tumeds",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03EDBA",
+    "source": "The Kirghiz",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03EDDE",
+    "source": "The Ongirats",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03EE02",
+    "source": "The Keraits",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03EE22",
+    "source": "VP",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03EE26",
+    "source": "The Zurkins",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03EE4A",
+    "source": "The Onguts",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03EE6E",
+    "source": "The Oirats",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03EE92",
+    "source": "The Merkits",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03EEFE",
+    "source": "The Jadarans",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03EF1E",
+    "source": "V>",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03EFB2",
+    "source": "The Tartars",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03F08A",
+    "source": "The Taichiud",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03F0AE",
+    "source": "Qasar",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03F0C5",
+    "source": "(Belgutei",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03F0DD",
+    "source": ")Qaciun",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03F0F5",
+    "source": "*Temuge",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03F10D",
+    "source": "+Jelme",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03F126",
+    "source": "Chimbe",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03F13E",
+    "source": "Chilaun",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03F16E",
+    "source": "Joti",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03F1E6",
+    "source": "Taicar",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03F31E",
+    "source": "Bilge Beki",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03F336",
+    "source": "Achikushrun",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03F34D",
+    "source": "HGori Shimren",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03F365",
+    "source": "hAlin Taishi",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03F37E",
+    "source": "Todoen",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03F396",
+    "source": "Idorgen",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03F3AE",
+    "source": "Fubarift",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03F3DE",
+    "source": "Ilk Sangun",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03F3F1",
+    "source": ",Chaur Beki",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03F401",
+    "source": "2\"",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03F456",
+    "source": "Gori Subech",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03F516",
+    "source": "Kutchluk",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03F80E",
+    "source": "Genghis Khan",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03F826",
+    "source": "Muqali",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03F83E",
+    "source": "Il Arslan",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03F856",
+    "source": "Tegin Osar",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03F86E",
+    "source": "Baschi Khan",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03F89E",
+    "source": "Wei-shao",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03F8CE",
+    "source": "Zhang-zong",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03F8E6",
+    "source": "Wan-yan",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03F8FD",
+    "source": "/Xiang-zong",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03F92E",
+    "source": "Barjuk",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03F95E",
+    "source": "Chiluku",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03F98E",
+    "source": "Sakyapanchen",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03F9BE",
+    "source": "Xi-xong",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03F9D6",
+    "source": "Cho Chun-hun",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03F9EE",
+    "source": "Minamoto",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03FA06",
+    "source": "Hojo",
+    "ru": "",
+    "capacity": 4
+  },
+  {
+    "offset": "03FA1D",
+    "source": "0Ning-zong",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FA36",
+    "source": "Shi Mi-yuan",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03FA4E",
+    "source": "Gao-zong",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03FA7E",
+    "source": "Nalpatya",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03FAAE",
+    "source": "Kay Khusraw",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03FADE",
+    "source": "al-Adil",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03FB0E",
+    "source": "Mahmud Nasir",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03FB3E",
+    "source": "al-Khamir",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03FB6E",
+    "source": "al-Nasir",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03FB9E",
+    "source": "Ala al-Din",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FBCE",
+    "source": "Ghuri",
+    "ru": "",
+    "capacity": 5
+  },
+  {
+    "offset": "03FBFE",
+    "source": "Qutb Aybak",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FC2E",
+    "source": "Barrula \\",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03FC5E",
+    "source": "Vsevolod ^",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FC8E",
+    "source": "Henri $",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03FCBE",
+    "source": "Mindaugas",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03FCEE",
+    "source": "Leszek $",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03FD1E",
+    "source": "Andrew \\",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03FD4E",
+    "source": "Otto }~",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03FD7E",
+    "source": "Frederick \\",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03FDAE",
+    "source": "John $",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03FDDE",
+    "source": "Philip \\",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03FE0E",
+    "source": "Alfonso {|",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FE3E",
+    "source": "Teb Tengri",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FE4F",
+    "source": "2*",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03FE55",
+    "source": "8Signak Tegin",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03FE6E",
+    "source": "Kochaku",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03FE85",
+    "source": "hYe-lu Chukai",
+    "ru": "",
+    "capacity": 13
+  },
+  {
+    "offset": "03FE9E",
+    "source": "Zhang-chun",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FEAF",
+    "source": "@:]",
+    "ru": "",
+    "capacity": 3
+  },
+  {
+    "offset": "03FEB6",
+    "source": "Ilk Sangun",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FEC8",
+    "source": "\"`",
+    "ru": "",
+    "capacity": 2
+  },
+  {
+    "offset": "03FECD",
+    "source": ",Chen-hai",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03FEE5",
+    "source": "hKuchlug",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03FEFD",
+    "source": "-Sangya",
+    "ru": "",
+    "capacity": 7
+  },
+  {
+    "offset": "03FF16",
+    "source": "Li Kyu-bo",
+    "ru": "",
+    "capacity": 9
+  },
+  {
+    "offset": "03FF2E",
+    "source": "Fujiwara",
+    "ru": "",
+    "capacity": 8
+  },
+  {
+    "offset": "03FF46",
+    "source": "Zhen De-xiu",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03FF5E",
+    "source": "Tran Thu-Do",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03FF76",
+    "source": "Jayavarman",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FF8E",
+    "source": "Nizami",
+    "ru": "",
+    "capacity": 6
+  },
+  {
+    "offset": "03FFA5",
+    "source": "8Ibn Araby",
+    "ru": "",
+    "capacity": 10
+  },
+  {
+    "offset": "03FFBD",
+    "source": "hIbn Jubayr",
+    "ru": "",
+    "capacity": 11
+  },
+  {
+    "offset": "03FFD6",
+    "source": "Ibn al-Athir",
+    "ru": "",
+    "capacity": 12
+  },
+  {
+    "offset": "03FFED",
+    "source": "xYaqut",
+    "ru": "",
+    "capacity": 6
+  }
+]
