@@ -6,6 +6,10 @@ sys.path.insert(0,str(ROOT/'tools'))
 from graphics_codec import decode,encode_literals
 from menu_graphics import render as render_caption, address as graphic_address
 from import_font import pack_static,REFERENCE_SHA
+from name_keyboard import apply as apply_name_keyboard
+from title_logo import apply as apply_title_logo
+from title_prompt import apply as apply_title_prompt
+from scenario_window import apply as apply_scenario_window
 EXPECTED='94efa72e970266710995b489a1d6b88e1a03635a230b41d9a5cd2268757f25d4'
 
 # Both Russian font faces are imported from the user-provided reference ROM.
@@ -32,7 +36,7 @@ class Code:
 def main():
     src=(ROOT/'rom/original.gen').read_bytes()
     assert hashlib.sha256(src).hexdigest()==EXPECTED,'Unexpected source ROM'
-    rom=bytearray(src)+bytearray(0x18000)
+    rom=bytearray(src)+bytearray(0x28000)
     reference=next((ROOT/'rom/reference').glob('*.md')).read_bytes()
     assert hashlib.sha256(reference).hexdigest()==REFERENCE_SHA,'Unexpected font reference ROM'
     font,alternate,font_tiles,latin_map,cyr_map=pack_static(reference,src)
@@ -202,11 +206,11 @@ def main():
             rom[address:address+4]=struct.pack('>I',target)
         applied.append(dict(offset=f'{target:06X}',en=en,ru=ru,kind='relocated',source_offset=item['source_offset'],references=item['references']))
     # Widen and move the scenario selector left for full historical titles.
-    for address,old,new in [(0x2642c,15,11),(0x2643a,15,11),(0x26450,11,1),(0x26458,14,10),(0x2646e,10,1),(0x26476,14,10),(0x264b4,15,18),(0x264bc,15,11)]:
+    for address,old,new in [(0x2642c,15,11),(0x2643a,15,11),(0x26450,11,15),(0x26458,14,10),(0x2646e,10,15),(0x26476,14,10),(0x264b4,15,19),(0x264bc,15,11)]:
         assert int.from_bytes(src[address:address+2],'big')==old,hex(address)
         rom[address:address+2]=struct.pack('>H',new)
     # Highlighting copies two tile rows. The original 64-byte stack buffer
-    # supports only 16 columns; the translated 18-column menu needs 72 bytes.
+    # supports only 16 columns; the translated 19-column menu needs 76 bytes.
     # Enlarge both the frame and buffer, and adjust the MOVEM restore offset.
     for address,old,new in [(0x9762,'ffc0','ffb0'),(0x977a,'ffc0','ffb0'),(0x97f8,'ffa4','ff94')]:
         assert src[address:address+2].hex()==old,hex(address)
@@ -221,14 +225,15 @@ def main():
             colour=(value>>(4 if x%2==0 else 0))&15
             pixels[y][x]=9 if colour in (12,14,15) else colour
     caption='КЛАН СЕРОГО ВОЛКА'
-    x=(120-len(caption)*7)//2
+    subtitle_font=json.loads((ROOT/'translation/subtitle-font.json').read_text(encoding='utf-8'))
+    caption_width=sum(4 if ch==' ' else 7 for ch in caption)-1
+    x=(120-caption_width)//2
     for ch in caption:
         if ch!=' ':
             for y in range(7):
-                row=font[ch][y*2]
-                for dx in range(7):
-                    if row&(128>>(dx*8//7)): pixels[y][x+dx]=15
-        x+=7
+                for dx,bit in enumerate(subtitle_font[ch][y]):
+                    if bit=='1':pixels[y][x+dx]=pixels[y][x+dx+1]=15
+        x+=4 if ch==' ' else 7
     for x in range(0,120,2):
         for y in range(8):
             rom[subtitle+(x//8)*32+y*4+(x%8)//2]=(pixels[y][x]<<4)|pixels[y][x+1]
@@ -244,9 +249,14 @@ def main():
         packed=encode_literals(changed)
         assert len(packed)<=(0x400 if resource in (0xed,0xee) else 0x200)
         assert address+len(packed)<=len(rom)
+        if address>=0x111000: assert address+len(packed)<=0x116000,'Graphics overlap name keyboard bank'
         rom[address:address+len(packed)]=packed
         rom[pointer:pointer+4]=struct.pack('>I',address)
     rom[0x1a4:0x1a8]=struct.pack('>I',len(rom)-1)
+    apply_name_keyboard(rom,src,encode)
+    apply_scenario_window(rom,src)
+    title_tiles=apply_title_logo(rom,src)
+    apply_title_prompt(rom,src,alternate)
     checksum=sum(int.from_bytes(rom[i:i+2],'big') for i in range(0x200,len(rom),2))&65535
     rom[0x18e:0x190]=struct.pack('>H',checksum)
     dest=ROOT/'build'; dest.mkdir(exist_ok=True)
@@ -260,7 +270,7 @@ def main():
         ips.extend(start.to_bytes(3,'big')+len(data).to_bytes(2,'big')+data)
     ips.extend(b'EOF'); (dest/'genghis2-ru-experimental.ips').write_bytes(ips)
     (dest/'applied.json').write_text(json.dumps(applied,ensure_ascii=False,indent=2),encoding='utf-8')
-    manifest=dict(version='0.4.2',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['title subtitle','Yes button B9','No button BA']+list(graphics),checksum=f'{checksum:04X}')
+    manifest=dict(version='0.5.4',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['Russian title logo','Press Start prompt','title subtitle','Yes button B9','No button BA']+list(graphics),title_logo_unique_tiles=title_tiles,checksum=f'{checksum:04X}')
     (dest/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
     print(f'Built {len(applied)} replacements; checksum {checksum:04X}; {len(rom)} bytes')
 

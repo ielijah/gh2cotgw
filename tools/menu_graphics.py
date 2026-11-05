@@ -9,16 +9,33 @@ def address(index,resource):
 
 def render(raw,resource,caption,font,src):
     tiles=len(raw)//64; width=tiles*8
-    assert len(raw) in (192,256,384,512)
+    assert len(raw) in (128,192,256,384,512)
     attribute=0x9a<=resource<=0x9f
+    combat_small=resource in (0x18,0x19)
+    versus=resource==0xe7
     background,foreground=(10,8) if attribute else (9,14)
+    if combat_small: background,foreground=(1 if resource==0x18 else 3),15
+    if resource in (0x94,0x95,0xbd): foreground=8
+    if resource==0x42: foreground=8
+    if versus: background,foreground=0,8
     px=[[0]*width for _ in range(16)]
     for y in range(16):
         for x in range(width):
             v=raw[(y//8*tiles+x//8)*32+y%8*4+x%8//2]
             px[y][x]=(v>>(4 if x%2==0 else 0))&15
             if x>0 and y<15:px[y][x]=background
+            if combat_small:
+                px[y][x]=(9 if resource==0x18 else 7) if x==0 or y==15 else background
+            if versus: px[y][x]=0
+            if resource==0x42 and x>0 and y in (2,13): px[y][x]=1
     menu=json.loads((ROOT/'translation/menu-font.json').read_text(encoding='utf-8'))
+    ordinal=0xe8<=resource<=0xec
+    if ordinal:
+        menu=json.loads((ROOT/'translation/ordinal-font.json').read_text(encoding='utf-8'))
+    if combat_small:
+        menu=json.loads((ROOT/'translation/combat-small-font.json').read_text(encoding='utf-8'))
+    if versus:
+        menu=json.loads((ROOT/'translation/versus-font.json').read_text(encoding='utf-8'))
     def columns(text):
         out=[]
         for ch in text:
@@ -28,6 +45,9 @@ def render(raw,resource,caption,font,src):
                 out += [[bool(row&(128>>x)) for row in glyph[:15]] for x in range(min(occupied),max(occupied)+1)]
             else:
                 rows=menu[ch];top=3 if ch.isupper() else 5
+                if ordinal: top=2 if ch.isdigit() else 4 if ch=='й' else 5
+                if combat_small: top=2 if ch.isupper() else 5
+                if versus: top=3
                 assert all(len(row)==len(rows[0]) for row in rows)
                 out += [[top<=y<top+len(rows) and rows[y-top][x]=='1' for y in range(15)] for x in range(len(rows[0]))]
             out.append([False]*15)
@@ -35,11 +55,13 @@ def render(raw,resource,caption,font,src):
     ink=[]
     parts=caption.split('|'); cell=width//len(parts)
     for index,part in enumerate(parts):
-        cols=columns(part);assert len(cols)<=cell-1,(caption,len(cols),cell)
-        left=index*cell+max(1,(cell-len(cols))//2)
+        cols=columns(part);assert len(cols)<=cell-(0 if versus else 1),(caption,len(cols),cell)
+        left=index*cell+max(0 if versus else 1,(cell-len(cols))//2)
         ink += [(left+x,y) for x in range(len(cols)) for y in range(15) if cols[x][y]]
     for x,y in ink:
-        if not attribute and 0<x-1<width-1 and y+1<15:px[y+1][x-1]=15
+        if versus:
+            if x+1<width and y+1<16:px[y+1][x+1]=9
+        elif not attribute and not combat_small and resource not in (0x94,0x95) and 0<x-1<width-1 and y+1<15:px[y+1][x-1]=15
     for x,y in ink:px[y][x]=foreground
     changed=bytearray(raw)
     for y in range(16):

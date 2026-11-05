@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "cases": [
+    "mixed case and Yo",
+    "delete",
+    "ten-character limit",
+    "Start completion"
+  ]
+}
