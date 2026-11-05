@@ -23,6 +23,7 @@ def artwork(src,font):
     shapes=json.loads((ROOT/'translation/title-prompt-font.json').read_text(encoding='utf-8'))
     ink=[];left=4
     for ch in 'НАЖМИТЕ':
+        if ch=='Е':left-=3  # Tighten the wide side bearing after the original T.
         rows=shapes[ch]
         for y,row in enumerate(rows):
             for x,bit in enumerate(row):

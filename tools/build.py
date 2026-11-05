@@ -270,7 +270,7 @@ def main():
         ips.extend(start.to_bytes(3,'big')+len(data).to_bytes(2,'big')+data)
     ips.extend(b'EOF'); (dest/'genghis2-ru-experimental.ips').write_bytes(ips)
     (dest/'applied.json').write_text(json.dumps(applied,ensure_ascii=False,indent=2),encoding='utf-8')
-    manifest=dict(version='0.5.4',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['Russian title logo','Press Start prompt','title subtitle','Yes button B9','No button BA']+list(graphics),title_logo_unique_tiles=title_tiles,checksum=f'{checksum:04X}')
+    manifest=dict(version='0.5.5',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['Russian title logo','Press Start prompt','title subtitle','Yes button B9','No button BA']+list(graphics),title_logo_unique_tiles=title_tiles,checksum=f'{checksum:04X}')
     (dest/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
     print(f'Built {len(applied)} replacements; checksum {checksum:04X}; {len(rom)} bytes')
 

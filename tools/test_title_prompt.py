@@ -21,7 +21,7 @@ assert all(pixel(off,x,y)==b'\0\0\0' for y in range(192,208) for x in range(56,2
 assert all(pixel(on,x,y)==pixel(off,x,y) for y in range(h) for x in range(w) if not(56<=x<200 and 192<=y<208)),'Blink changes outside prompt'
 assert all(pixel(on,152+x,y)==pixel(original,128+x,y) for y in range(192,208) for x in range(48)),'Original START changed'
 def white_strokes(left):
-    return {(x,y) for y in range(16) for x in range(11) if pixel(on,left+x,192+y)==bytes((172,206,238))}
+    return {(x,y) for y in range(16) for x in range(8) if pixel(on,left+x,192+y)==bytes((172,206,238))}
 assert white_strokes(123)==white_strokes(189) and white_strokes(123),'Cyrillic Т must match original Latin T'
 (ROOT/'analysis/title-prompt-test.json').write_text(json.dumps(dict(status='PASS',blink_off_clean=True,start_pixels_unchanged=True,outside_prompt_unchanged=True),indent=2))
 print('PASS: blinking prompt fully erased; original START pixels and outside area unchanged')
