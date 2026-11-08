@@ -2140,5 +2140,50 @@
     "references": [
       "00B4FA"
     ]
+  },
+  {
+    "source_offset": "03C8A2",
+    "source": "Ignore",
+    "ru": "Отказать",
+    "target": "107F00",
+    "references": [
+      "04C9DE"
+    ]
+  },
+  {
+    "source_offset": "03CAC2",
+    "source": "Ignore",
+    "ru": "Отказать",
+    "target": "107F20",
+    "references": [
+      "04CA16"
+    ]
+  },
+  {
+    "source_offset": "03D31A",
+    "source": "Release",
+    "ru": "Отпустить",
+    "target": "107F40",
+    "references": [
+      "04CD76"
+    ]
+  },
+  {
+    "source_offset": "03D312",
+    "source": "Recruit",
+    "ru": "Завербовать",
+    "target": "107F60",
+    "references": [
+      "04CD7A"
+    ]
+  },
+  {
+    "source_offset": "03C0AC",
+    "source": "Recruit",
+    "ru": "Завербовать",
+    "target": "107F80",
+    "references": [
+      "04C5EA"
+    ]
   }
 ]

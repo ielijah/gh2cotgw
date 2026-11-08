@@ -10,6 +10,9 @@ from name_keyboard import apply as apply_name_keyboard
 from title_logo import apply as apply_title_logo
 from title_prompt import apply as apply_title_prompt
 from scenario_window import apply as apply_scenario_window
+from intro_captions import apply as apply_intro_captions
+from play_country import apply as apply_play_country
+from envoy_country import apply as apply_envoy_country
 EXPECTED='94efa72e970266710995b489a1d6b88e1a03635a230b41d9a5cd2268757f25d4'
 
 # Both Russian font faces are imported from the user-provided reference ROM.
@@ -257,6 +260,16 @@ def main():
     apply_scenario_window(rom,src)
     title_tiles=apply_title_logo(rom,src)
     apply_title_prompt(rom,src,alternate)
+    apply_intro_captions(rom,src)
+    apply_play_country(rom,src,encode,Code)
+    apply_envoy_country(rom,src,encode,Code)
+    # Prisoner choices: use existing 15x8 window type 4 instead of 9x8 type 8.
+    # Keep the right edge fixed; widen selection and move its text origin too.
+    for address,old,new in [(0x35c9c,8,4),(0x35ca4,22,16),
+                            (0x35cb0,23,17),(0x35cbe,23,17),
+                            (0x35cfa,7,13),(0x35d02,23,17)]:
+        assert int.from_bytes(src[address:address+2],'big')==old,hex(address)
+        rom[address:address+2]=new.to_bytes(2,'big')
     checksum=sum(int.from_bytes(rom[i:i+2],'big') for i in range(0x200,len(rom),2))&65535
     rom[0x18e:0x190]=struct.pack('>H',checksum)
     dest=ROOT/'build'; dest.mkdir(exist_ok=True)
@@ -270,7 +283,7 @@ def main():
         ips.extend(start.to_bytes(3,'big')+len(data).to_bytes(2,'big')+data)
     ips.extend(b'EOF'); (dest/'genghis2-ru-experimental.ips').write_bytes(ips)
     (dest/'applied.json').write_text(json.dumps(applied,ensure_ascii=False,indent=2),encoding='utf-8')
-    manifest=dict(version='0.5.5',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['Russian title logo','Press Start prompt','title subtitle','Yes button B9','No button BA']+list(graphics),title_logo_unique_tiles=title_tiles,checksum=f'{checksum:04X}')
+    manifest=dict(version='0.5.13',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['Russian title logo','Press Start prompt','title subtitle','Yes button B9','No button BA']+list(graphics),title_logo_unique_tiles=title_tiles,checksum=f'{checksum:04X}')
     (dest/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
     print(f'Built {len(applied)} replacements; checksum {checksum:04X}; {len(rom)} bytes')
 

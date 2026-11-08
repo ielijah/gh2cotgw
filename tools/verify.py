@@ -48,7 +48,7 @@ title_pixels=title_artwork()
 for i in range(264):
     entry=int.from_bytes(rom[TITLE_MAP+i*2:TITLE_MAP+i*2+2],'big')
     assert entry&0xf800==0xa000
-    tile=entry&2047;assert FIRST_TILE<=tile<0x700
+    tile=entry&2047;assert FIRST_TILE<=tile<0x6c0
     address=TITLE_BANK+(tile-0x200)*32
     raw=rom[address:address+32]
     expected=bytes((title_pixels[i//24*8+y][i%24*8+x]<<4)|title_pixels[i//24*8+y][i%24*8+x+1] for y in range(8) for x in range(0,8,2))
@@ -62,7 +62,7 @@ assert rom[0xcec00:0xcf962]==src[0xcec00:0xcf962]
 assert rom[TITLE_BANK:TITLE_BANK+ORIGINAL_COUNT*32]==rom[TITLE_TILES:TITLE_TILES+ORIGINAL_COUNT*32]
 assert int.from_bytes(rom[0x37484:0x37488],'big')==TITLE_BANK
 title_count=int.from_bytes(rom[0x3747c:0x3747e],'big')
-assert ORIGINAL_COUNT<title_count<=0x500
+assert ORIGINAL_COUNT<title_count<=0x4c0
 assert all((int.from_bytes(rom[TITLE_MAP+i*2:TITLE_MAP+i*2+2],'big')&2047)<0x200+title_count for i in range(264))
 print('PASS: Russian title pixels, relocated intro bank including subtitle, VRAM bounds')
 assert rom[0x5e7c:0x5e7e].hex()=='2004','Glyph index must replace all of D0'

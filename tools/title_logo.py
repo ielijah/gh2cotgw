@@ -24,7 +24,7 @@ def apply(rom,src):
             raw=bytes((px[ty*8+y][tx*8+x]<<4)|px[ty*8+y][tx*8+x+1] for y in range(8) for x in range(0,8,2))
             if raw not in encoded:
                 tile=FIRST_TILE+len(encoded)
-                assert tile<0x700,'Title graphics would reach plane tables in VRAM'
+                assert tile<0x6c0,'Title graphics would reach the horizontal-scroll table in VRAM'
                 encoded[raw]=tile
                 address=BANK+(tile-0x200)*32
                 assert address+32<=len(rom)

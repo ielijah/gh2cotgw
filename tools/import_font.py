@@ -13,6 +13,13 @@ def extract(reference,face):
         result[ch]=bytes(lower[4+y*9//13] for y in range(13))+bytes(3)
     result['Й']=bytes([0x24,0x18])+result['И'][:11]+bytes(3)
     result['Ё']=bytes([0x24,0])+result['Е'][:11]+bytes(3)
+    if face == 1:
+        # Repair broken scanlines in the donor's thin face; keep 8x16 cells.
+        result['й']=bytes([0,0,0x28,0x10,0x44,0x44,0x44,0x44,0x44,0x44,0x44,0x44,0x44,0x3c,0,0])
+        result['ы']=bytes([0,0,0,0,0x42,0x42,0x42,0x7a,0x46,0x46,0x46,0x46,0x46,0x7a,0,0])
+        result['ю']=bytes([0,0,0,0,0x4c,0x52,0x52,0x52,0x72,0x52,0x52,0x52,0x52,0x4c,0,0])
+        result['р']=bytes([0,0,0,0,0x5c,0x62,0x42,0x42,0x42,0x42,0x42,0x64,0x58,0x40,0x40,0])
+        result['д']=bytes([0,0,0,0,0x1c,0x14,0x14,0x24,0x24,0x24,0x44,0x44,0x7e,0x42,0x42,0])
     return result
 
 ALIASES={35:78,36:73,38:43,42:43,59:58,60:40,61:45,62:41,95:45,96:39}
@@ -56,7 +63,7 @@ if __name__=='__main__':
         glyphs+=list(font.values())
         tiles=set(glyph[i:i+8] for glyph in glyphs for i in (0,8))
         print(mode,len(tiles),'tiles')
-    (ROOT/'analysis/font-provenance.json').write_text(json.dumps(dict(source_sha256=REFERENCE_SHA,bank_offset='046244',alternate_bank_offset='046844',original_codes={ch:f'{code:02X}' for ch,code in (UPPER|LOWER).items()},derived_uppercase=['Й','Ё','Ъ','Ы','Ь']),ensure_ascii=False,indent=2),encoding='utf-8')
+    (ROOT/'analysis/font-provenance.json').write_text(json.dumps(dict(source_sha256=REFERENCE_SHA,bank_offset='046244',alternate_bank_offset='046844',original_codes={ch:f'{code:02X}' for ch,code in (UPPER|LOWER).items()},derived_uppercase=['Й','Ё','Ъ','Ы','Ь'],repaired_alternate=['й','ы','ю','р','д']),ensure_ascii=False,indent=2),encoding='utf-8')
     _,_,packed,latin,cyr=pack_static(reference,original)
     (ROOT/'analysis/font-layout.json').write_text(json.dumps(dict(permanent_tiles=len(packed)//32,cyrillic_pairs=dict(zip(alphabet,cyr)),latin_pairs=latin,latin_static_case='uppercase',aliases={chr(k):chr(v) for k,v in ALIASES.items()}),ensure_ascii=False,indent=2),encoding='utf-8')
     print('Permanent packed font:',len(packed)//32,'tiles; 66 Russian glyphs')

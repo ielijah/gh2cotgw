@@ -79,5 +79,17 @@
     "offset": "04CDA6",
     "source": "Aaaaaargh....",
     "ru": "А-а-а-ах...."
+  },
+  {
+    "offset": "03C91A",
+    "source": "A messenger came from ",
+    "ru": "Прибыл посол от ",
+    "terminate": true
+  },
+  {
+    "offset": "03C970",
+    "source": "Submit to ",
+    "ru": "Покорись ",
+    "terminate": true
   }
 ]

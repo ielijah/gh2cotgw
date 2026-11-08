@@ -42,7 +42,7 @@ def apply(rom,src,font):
     count=int.from_bytes(rom[0x3747c:0x3747e],'big')
     first=0x200+count
     for i in range(36):
-        tile=first+i;assert tile<0x700
+        tile=first+i;assert tile<0x6c0
         raw=bytes((px[i//18*8+y][i%18*8+x]<<4)|px[i//18*8+y][i%18*8+x+1] for y in range(8) for x in range(0,8,2))
         address=BANK+(tile-0x200)*32
         rom[address:address+32]=raw
