@@ -13,23 +13,19 @@ CAPTIONS=((0x60302,28,2,'ПРОДЮСЕР КО СИБУСАВА'),
 
 def lettering(text,width,height,ink=15):
     font=json.loads((ROOT/'translation/intro-italic-font.json').read_text(encoding='utf-8'))
-    length=sum(len(font[c][0])+2 for c in text)-2+3
+    length=sum(len(font[c][0])+1 for c in text)-1+2
     assert length<=width,(text,length,width)
-    px=[[0]*length for _ in range(7)]
-    left=0; top=0
+    out=[[0]*width for _ in range(height)]
+    left=(width-length)//2; top=(height-11)//2
     for ch in text:
-        for y,row in enumerate(font[ch]):
+        rows=font[ch]
+        assert len(rows)==11
+        for y,row in enumerate(rows):
             for x,bit in enumerate(row):
                 if bit=='1':
-                    pos=left+x+(6-y)//3
-                    px[top+y][pos]=ink
-        left+=len(font[ch][0])+2
-    scaled_width=min(width,round(length*1.35))
-    out=[[0]*width for _ in range(height)]
-    left=(width-scaled_width)//2; top=(height-11)//2
-    for y in range(11):
-        for x in range(scaled_width):
-            out[top+y][left+x]=px[y*7//11][x*length//scaled_width]
+                    out[top+y][left+x+(10-y)//4]=ink
+        left+=len(rows[0])+1
+
     return out
 
 def tiles(px):

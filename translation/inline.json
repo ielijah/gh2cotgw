@@ -47,7 +47,8 @@
   {
     "offset": "049C08",
     "source": ", what are your orders?",
-    "ru": ", каковы ваши приказы?"
+    "ru": ", каковы ваши приказы?",
+    "terminate": true
   },
   {
     "offset": "049C20",
@@ -91,5 +92,172 @@
     "source": "Submit to ",
     "ru": "Покорись ",
     "terminate": true
+  },
+  {
+    "offset": "04C5B0",
+    "source": "OK to discharge",
+    "ru": "Распустить",
+    "terminate": true
+  },
+  {
+    "offset": "03D604",
+    "source": "What shall we do with the prisoners?",
+    "ru": "Что делать с пленниками?",
+    "terminate": true
+  },
+  {
+    "offset": "03D7B6",
+    "source": "Start over",
+    "ru": "Заново",
+    "terminate": true
+  },
+  {
+    "offset": "03B412",
+    "source": "Saved game is ",
+    "ru": "Сохранение: ",
+    "terminate": true
+  },
+  {
+    "offset": "04BEC6",
+    "source": "Cancel existing orders",
+    "ru": "Отменить приказы",
+    "terminate": true
+  },
+  {
+    "offset": "04BF0C",
+    "source": "Are you sure",
+    "ru": "Вы уверены",
+    "terminate": true
+  },
+  {
+    "offset": "03B9CE",
+    "source": "Demote him to general",
+    "ru": "Сделать полководцем",
+    "terminate": true
+  },
+  {
+    "offset": "03BAAC",
+    "source": "Dismiss this general",
+    "ru": "Уволить полководца",
+    "terminate": true
+  },
+  {
+    "offset": "04C22C",
+    "source": "Make this prince a general",
+    "ru": "Назначить этого царевича",
+    "terminate": true
+  },
+  {
+    "offset": "04C2BE",
+    "source": "Go through with the wedding",
+    "ru": "Провести свадьбу",
+    "terminate": true
+  },
+  {
+    "offset": "04C3DA",
+    "source": "OK to move",
+    "ru": "Перевести",
+    "terminate": true
+  },
+  {
+    "offset": "03BF9E",
+    "source": "Send the goods",
+    "ru": "Послать товары",
+    "terminate": false
+  },
+  {
+    "offset": "03C992",
+    "source": "Send a messenger to threaten",
+    "ru": "Послать посла с угрозами",
+    "terminate": true
+  },
+  {
+    "offset": "03CB6A",
+    "source": "Go ahead and demand tribute",
+    "ru": "Отправиться требовать дань",
+    "terminate": true
+  },
+  {
+    "offset": "03CDB6",
+    "source": "Go ahead and propose alliance",
+    "ru": "Отправиться предлагать союз",
+    "terminate": true
+  },
+  {
+    "offset": "03D13A",
+    "source": "Launch the invasion",
+    "ru": "Начать вторжение",
+    "terminate": true
+  },
+  {
+    "offset": "03B336",
+    "source": "Genghis Khan",
+    "ru": "Чингисхан",
+    "terminate": true
+  },
+  {
+    "offset": "03B5F2",
+    "source": "Genghis Khan",
+    "ru": "Чингисхан",
+    "terminate": true
+  },
+  {
+    "offset": "03D224",
+    "source": "Appoint whom Governor of ",
+    "ru": "Кого назначить главой ",
+    "terminate": true
+  },
+  {
+    "offset": "03AF08",
+    "source": "Appoint new ",
+    "ru": "Назначить ",
+    "terminate": true
+  },
+  {
+    "offset": "03AF02",
+    "source": " in ",
+    "ru": " в ",
+    "terminate": true
+  },
+  {
+    "offset": "03AE0A",
+    "source": " gave birth to a baby ",
+    "ru": " родила ",
+    "terminate": true
+  },
+  {
+    "offset": "03AE22",
+    "source": ", congratulations!",
+    "ru": ", поздравляю!",
+    "terminate": true
+  },
+  {
+    "offset": "03B79A",
+    "source": " order to which state?",
+    "ru": "",
+    "terminate": true
+  },
+  {
+    "offset": "03B830",
+    "source": " order",
+    "ru": "",
+    "terminate": true
+  },
+  {
+    "offset": "03D114",
+    "source": "Please come back safely!",
+    "ru": "Вернись невредимым!",
+    "terminate": true
+  },
+  {
+    "offset": "03B7B2",
+    "source": "Give ",
+    "ru": "",
+    "terminate": true
+  },
+  {
+    "offset": "039A70",
+    "source": "Give ",
+    "ru": "Дать "
   }
 ]

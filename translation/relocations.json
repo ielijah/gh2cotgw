@@ -2185,5 +2185,77 @@
     "references": [
       "04C5EA"
     ]
+  },
+  {
+    "source_offset": "039B20",
+    "source": "Is ",
+    "ru": "Это ",
+    "target": "107FA0",
+    "references": [
+      "00D384"
+    ]
+  },
+  {
+    "source_offset": "03BC12",
+    "source": "Is ",
+    "ru": "Это ",
+    "target": "107FA0",
+    "references": [
+      "02A804"
+    ]
+  },
+  {
+    "source_offset": "03D0A0",
+    "source": "Is ",
+    "ru": "Это ",
+    "target": "107FA0",
+    "references": [
+      "03357C"
+    ]
+  },
+  {
+    "source_offset": "03A24A",
+    "source": ",\ndeploy troops\nyourself?",
+    "ru": ",\nрасставите\nвойска вручную?",
+    "target": "107FC0",
+    "references": [
+      "013E54"
+    ]
+  },
+  {
+    "source_offset": "03B4C2",
+    "source": "Who will be \nadvisor?",
+    "ru": "Кто будет\nсоветник?",
+    "target": "106d00",
+    "references": [
+      "026E4C"
+    ]
+  },
+  {
+    "source_offset": "03AE00",
+    "source": "boy",
+    "ru": "сына",
+    "target": "12AA00",
+    "references": [
+      "022F32"
+    ]
+  },
+  {
+    "source_offset": "03B838",
+    "source": "Issue ",
+    "ru": "",
+    "target": "12AB00",
+    "references": [
+      "0298CA"
+    ]
+  },
+  {
+    "source_offset": "04CC6E",
+    "source": "Form legions yourself?",
+    "ru": "Сформировать легионы лично?",
+    "target": "12AB40",
+    "references": [
+      "033E68"
+    ]
   }
 ]

@@ -13,6 +13,12 @@ from scenario_window import apply as apply_scenario_window
 from intro_captions import apply as apply_intro_captions
 from play_country import apply as apply_play_country
 from envoy_country import apply as apply_envoy_country
+from unification import apply as apply_unification
+from save_caption import apply as apply_save_caption
+from orders_name import apply as apply_orders_name
+from birth_spacing import apply as apply_birth_spacing
+from attack_phrases import apply as apply_attack_phrases
+from ending_caption import apply as apply_ending_caption
 EXPECTED='94efa72e970266710995b489a1d6b88e1a03635a230b41d9a5cd2268757f25d4'
 
 # Both Russian font faces are imported from the user-provided reference ROM.
@@ -39,7 +45,7 @@ class Code:
 def main():
     src=(ROOT/'rom/original.gen').read_bytes()
     assert hashlib.sha256(src).hexdigest()==EXPECTED,'Unexpected source ROM'
-    rom=bytearray(src)+bytearray(0x28000)
+    rom=bytearray(src)+bytearray(0x32000)
     reference=next((ROOT/'rom/reference').glob('*.md')).read_bytes()
     assert hashlib.sha256(reference).hexdigest()==REFERENCE_SHA,'Unexpected font reference ROM'
     font,alternate,font_tiles,latin_map,cyr_map=pack_static(reference,src)
@@ -143,6 +149,9 @@ def main():
     rom[0x5e7c:0x5e7e]=bytes.fromhex('2004')
     assert src[0x5c10:0x5c18].hex()=='4e56ffb848e73f38'
     rom[0x5c10:0x5c18]=bytes.fromhex('4ef900100c004e71')
+    # Russian ю/я are letters, not the original Japanese combining marks.
+    assert src[0x53fa:0x5406].hex()=='0c1000de672e0c1000df6728'
+    rom[0x53fa:0x5406]=bytes.fromhex('600a'+'4e71'*5)
     applied=[]
     translations=json.loads((ROOT/'translation/reviewed.json').read_text(encoding='utf-8'))
     for source in sorted((ROOT/'translation').glob('batch-*.json')):
@@ -203,6 +212,7 @@ def main():
         en=item['source'];ru=item['ru'];new=encode(ru)
         assert src[source:source+len(en)+1]==en.encode('ascii')+b'\0',item
         assert len(new)<0x40,item
+        assert target+len(new)+1<=len(rom),('Relocation outside ROM',item)
         rom[target:target+len(new)+1]=new+b'\0'
         for ref in item['references']:
             address=int(ref,16);assert int.from_bytes(src[address:address+4],'big')==source,item
@@ -263,6 +273,12 @@ def main():
     apply_intro_captions(rom,src)
     apply_play_country(rom,src,encode,Code)
     apply_envoy_country(rom,src,encode,Code)
+    apply_unification(rom,src,encode,Code)
+    apply_save_caption(rom,src,encode,Code)
+    apply_orders_name(rom,src,encode,Code)
+    apply_birth_spacing(rom,src,encode,Code)
+    apply_attack_phrases(rom,src,encode,Code)
+    apply_ending_caption(rom,src)
     # Prisoner choices: use existing 15x8 window type 4 instead of 9x8 type 8.
     # Keep the right edge fixed; widen selection and move its text origin too.
     for address,old,new in [(0x35c9c,8,4),(0x35ca4,22,16),
@@ -283,7 +299,7 @@ def main():
         ips.extend(start.to_bytes(3,'big')+len(data).to_bytes(2,'big')+data)
     ips.extend(b'EOF'); (dest/'genghis2-ru-experimental.ips').write_bytes(ips)
     (dest/'applied.json').write_text(json.dumps(applied,ensure_ascii=False,indent=2),encoding='utf-8')
-    manifest=dict(version='0.5.13',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['Russian title logo','Press Start prompt','title subtitle','Yes button B9','No button BA']+list(graphics),title_logo_unique_tiles=title_tiles,checksum=f'{checksum:04X}')
+    manifest=dict(version='1.0.0',source_sha256=EXPECTED,font_reference_sha256=REFERENCE_SHA,rom_sha256=hashlib.sha256(rom).hexdigest(),ips_sha256=hashlib.sha256(ips).hexdigest(),rom_size=len(rom),text_replacements=len(applied),graphics_resources=['Russian title logo','Press Start prompt','title subtitle','Yes button B9','No button BA']+list(graphics),title_logo_unique_tiles=title_tiles,checksum=f'{checksum:04X}')
     (dest/'manifest.json').write_text(json.dumps(manifest,indent=2),encoding='utf-8')
     print(f'Built {len(applied)} replacements; checksum {checksum:04X}; {len(rom)} bytes')
 

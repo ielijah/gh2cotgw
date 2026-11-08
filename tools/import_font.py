@@ -12,7 +12,8 @@ def extract(reference,face):
         lower=result[ch.lower()]
         result[ch]=bytes(lower[4+y*9//13] for y in range(13))+bytes(3)
     result['Й']=bytes([0x24,0x18])+result['И'][:11]+bytes(3)
-    result['Ё']=bytes([0x24,0])+result['Е'][:11]+bytes(3)
+    # Keep E's middle/bottom bars and baseline; reserve its first two rows for dots.
+    result['Ё']=bytes([0x24,0])+result['Е'][:2]+result['Е'][4:]
     if face == 1:
         # Repair broken scanlines in the donor's thin face; keep 8x16 cells.
         result['й']=bytes([0,0,0x28,0x10,0x44,0x44,0x44,0x44,0x44,0x44,0x44,0x44,0x44,0x3c,0,0])
@@ -22,12 +23,14 @@ def extract(reference,face):
         result['д']=bytes([0,0,0,0,0x1c,0x14,0x14,0x24,0x24,0x24,0x44,0x44,0x7e,0x42,0x42,0])
     return result
 
-ALIASES={35:78,36:73,38:43,42:43,59:58,60:40,61:45,62:41,95:45,96:39}
+ALIASES={36:73,38:43,59:58,60:40,61:45,62:41,91:40,93:41,95:45,96:39}
 def pack_static(reference,original):
     """Keep all Russian letters in the stock 192-tile font allocation.
 
     Deduplicate 8x8 halves, fold remaining Latin text to capitals, and merge
     unused punctuation variants. The original '$' Roman I uses Latin I.
+    Preserve '*' and '#': 0470B6 uses them as relationship markers.
+    Unused square brackets share parentheses to keep the 192-tile budget.
     """
     font=extract(reference,0);tiles=[];lookup={}
     def add(glyph):

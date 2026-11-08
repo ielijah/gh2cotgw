@@ -1,0 +1,62 @@
+[
+  {
+    "offset": "04BEC6",
+    "en": "Cancel existing orders",
+    "ru": "Отменить приказы?"
+  },
+  {
+    "offset": "04BF0C",
+    "en": "Are you sure",
+    "ru": "Вы уверены?"
+  },
+  {
+    "offset": "03B9CE",
+    "en": "Demote him to general",
+    "ru": "Сделать полководцем?"
+  },
+  {
+    "offset": "03BAAC",
+    "en": "Dismiss this general",
+    "ru": "Уволить полководца?"
+  },
+  {
+    "offset": "04C22C",
+    "en": "Make this prince a general",
+    "ru": "Назначить этого царевича?"
+  },
+  {
+    "offset": "04C2BE",
+    "en": "Go through with the wedding",
+    "ru": "Провести свадьбу?"
+  },
+  {
+    "offset": "04C3DA",
+    "en": "OK to move",
+    "ru": "Перевести?"
+  },
+  {
+    "offset": "03BF9E",
+    "en": "Send the goods",
+    "ru": "Послать товары?"
+  },
+  {
+    "offset": "03C992",
+    "en": "Send a messenger to threaten",
+    "ru": "Послать посла с угрозами?"
+  },
+  {
+    "offset": "03CB6A",
+    "en": "Go ahead and demand tribute",
+    "ru": "Отправиться требовать дань?"
+  },
+  {
+    "offset": "03CDB6",
+    "en": "Go ahead and propose alliance",
+    "ru": "Отправиться предлагать союз?"
+  },
+  {
+    "offset": "03D13A",
+    "en": "Launch the invasion",
+    "ru": "Начать вторжение?"
+  }
+]
