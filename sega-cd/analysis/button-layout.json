@@ -1,0 +1,68 @@
+[
+  {
+    "resource": "B0",
+    "offset": 5304238,
+    "compressed_size": 112,
+    "raw_size": 256
+  },
+  {
+    "resource": "B1",
+    "offset": 5304352,
+    "compressed_size": 103,
+    "raw_size": 256
+  },
+  {
+    "resource": "B2",
+    "offset": 5304458,
+    "compressed_size": 112,
+    "raw_size": 256
+  },
+  {
+    "resource": "B3",
+    "offset": 5304572,
+    "compressed_size": 122,
+    "raw_size": 256
+  },
+  {
+    "resource": "B4",
+    "offset": 5304696,
+    "compressed_size": 145,
+    "raw_size": 256
+  },
+  {
+    "resource": "B5",
+    "offset": 5304844,
+    "compressed_size": 148,
+    "raw_size": 256
+  },
+  {
+    "resource": "B6",
+    "offset": 5304994,
+    "compressed_size": 130,
+    "raw_size": 256
+  },
+  {
+    "resource": "B7",
+    "offset": 5305126,
+    "compressed_size": 130,
+    "raw_size": 256
+  },
+  {
+    "resource": "B8",
+    "offset": 5305258,
+    "compressed_size": 108,
+    "raw_size": 256
+  },
+  {
+    "resource": "B9",
+    "offset": 5305368,
+    "compressed_size": 122,
+    "raw_size": 256
+  },
+  {
+    "resource": "BA",
+    "offset": 5305490,
+    "compressed_size": 86,
+    "raw_size": 256
+  }
+]

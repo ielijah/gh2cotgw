@@ -1,0 +1,320 @@
+{
+  "entries": [
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2703A",
+      "ja": "誰ｦ後継者ﾆ\nｲﾀｼﾏｽｶ",
+      "ru": "Кто наследник?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27298",
+      "ja": "他勢力ﾄ\n隣接ｼﾃｵﾘﾏｾﾝ",
+      "ru": "Нет соседних\nдержав",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "272AC",
+      "ja": "隣接ｼﾃｲﾙ\n属国ｶﾞｺﾞｻﾞｲﾏｾﾝ",
+      "ru": "Нет соседних\nвассалов",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27564",
+      "ja": "ｱﾏﾘｵ気ｦ\n落ｻﾚﾇﾖｳ…",
+      "ru": "Не падайте\nдухом",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "276EE",
+      "ja": "\u001bH名前ｶﾞ長ｽｷﾞﾏｽ!",
+      "ru": "Имя длинное!",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2771A",
+      "ja": "ﾄﾘﾔﾒﾏｽｶ",
+      "ru": "Назад?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27722",
+      "ja": "ｵ名前ｶﾞ決ｯﾃｵﾘﾏｾﾝ\n",
+      "ru": "Введите имя\n",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27868",
+      "ja": "将軍ｶﾗ選ﾌﾞﾉｦ\nﾔﾒﾏｽｶ",
+      "ru": "Отменить\nвыбор?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27896",
+      "ja": "現地ﾉ逸材ｦ\n登用ｼﾏｽ",
+      "ru": "Назначим\nместного",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2791C",
+      "ja": "ﾜｼﾊ､自分ｦ最ﾓ愛ｼﾃ\nｸﾚﾀ人ｦ失ｯﾃｼﾏｯﾀ…",
+      "ru": "Я потерял того,\nкто любил меня",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "279D8",
+      "ja": "農産品ﾉ収穫ｶﾞ\n心配ｻﾚﾏｽ",
+      "ru": "Боюсь за\nурожай",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2811C",
+      "ja": "ﾃﾞｷﾙ将軍ﾊ\n誰ﾓｵﾘﾏｾﾇｶﾞ…",
+      "ru": "Некому\nпоручить",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28A3E",
+      "ja": "ﾄﾞﾉ部隊ｦｵ雇ｲﾆ\nﾅﾗﾚﾏｽｶ          ",
+      "ru": "Каких воинов\nнанять?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28A5E",
+      "ja": "金ｶﾞ少々\n足ﾘﾏｾﾇｿﾞ",
+      "ru": "Мало\nзолота",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28AA8",
+      "ja": "交易商人ｦ通ｼﾞﾃ\n傭兵ｦ雇ｳﾉﾃﾞｽﾅ",
+      "ru": "Нанять наёмников\nу купца?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28AC6",
+      "ja": "交易商人ｶﾗ特産品ｦ\nｵ買ｲﾆﾅﾙﾉﾃﾞｽﾅ",
+      "ru": "Купить товары\nу купца?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28AE6",
+      "ja": "交易商人ﾆ特産品ｦ\nｵ売ﾘﾆﾅﾙﾉﾃﾞｽﾅ",
+      "ru": "Продать товары\nкупцу?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28B16",
+      "ja": "政治顧問ﾊ\nｵﾘﾏｾﾝ",
+      "ru": "Нет советника",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28B26",
+      "ja": "同盟国ﾊ\nｱﾘﾏｾﾝ",
+      "ru": "Нет союзов",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28BF6",
+      "ja": "部隊ﾉ能力",
+      "ru": "Войска",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28C00",
+      "ja": "交易商人ﾉ所在",
+      "ru": "Где купцы?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28C0E",
+      "ja": "本国ﾉ将軍達",
+      "ru": "Полководцы",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28C1A",
+      "ja": "ｽﾍﾞﾃﾉ領国",
+      "ru": "Владения",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28C2E",
+      "ja": "自国ﾉ様子",
+      "ru": "Держава",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28C54",
+      "ja": "ｿﾉ国ﾊ\n自国領ﾃﾞｽ",
+      "ru": "Это наша\nземля",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28C78",
+      "ja": "ｿﾉ国ﾊ\n自国領ﾃﾞｽ",
+      "ru": "Это наша\nземля",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28CB2",
+      "ja": "ｿﾉ国ﾊ\n自国領ﾃﾞｽ",
+      "ru": "Это наша\nземля",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28DB2",
+      "ja": "成功ﾃﾞｽ ",
+      "ru": "Успех!",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B00A",
+      "ja": "大変ﾃﾞｽ\n\u001bKﾃﾞｰﾀ\u001bHｶﾞ\u001bKｾｰﾌﾞ\u001bHﾃﾞｷﾏｾﾝ",
+      "ru": "Не удалось\nсохранить игру!",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B044",
+      "ja": "現在ﾉ\u001bKﾃﾞｰﾀ\u001bHｦ\u001bKｾｰﾌﾞ\u001bHｼﾏｽ\n\u001bKｾｰﾌﾞ\u001bHｼﾃﾓﾖﾛｼｲﾃﾞｽﾅ?",
+      "ru": "Сохранить\nтекущую игру?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B0A4",
+      "ja": "ｺﾉ\u001bKｹﾞ-ﾑ\u001bHｦ\n見守ﾘﾏｽｶ",
+      "ru": "Наблюдать?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B0BA",
+      "ja": "ﾓｳ一度､始ﾒｶﾗ\n\u001bKｹﾞ-ﾑ\u001bHｦｼﾏｽｶ",
+      "ru": "Начать игру\nзаново?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28B04",
+      "ja": "ﾄﾞﾉ国ﾉ様子ｦ\n見ﾏｽｶ",
+      "ru": "Какую страну?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28CE8",
+      "ja": "交渉成功ﾃﾞｽ ",
+      "ru": "Договорились",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    }
+  ],
+  "count": 34,
+  "emulator_required": false,
+  "total_translated_fields": 447,
+  "iso_sha256": "3ac46ac2a3d72905d3c852ce248b727c93b433db66387a4656ae7abadcbbc194",
+  "checks": [
+    "verify.py",
+    "test_harem_layout.py",
+    "test_menu_buffer.py"
+  ],
+  "emulator_run": false
+}

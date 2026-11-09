@@ -1,3 +1,16 @@
+/.runtime/
+**/__pycache__/
+/mega-drive/rom/
+/mega-drive/build/
+/mega-drive/release/
+/sega-cd/disc/
+/sega-cd/build/
+**/analysis/memory-*.bin
+**/analysis/screen-*.png
+**/analysis/*.state
+**/analysis/*.wav
+
+# Additional exclusions retained from published repository
 .runtime/
 .vs/
 rom/
@@ -17,3 +30,5 @@ __pycache__/
 *.sub
 *.wav
 *.flac
+
+*.state

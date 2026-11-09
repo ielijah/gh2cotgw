@@ -1,0 +1,30 @@
+{
+  "applied_total": 381,
+  "new_dialogues": [
+    "27802",
+    "2781C",
+    "2787C",
+    "27944",
+    "2795E",
+    "28A70",
+    "28B40",
+    "28BBC",
+    "28C64",
+    "28C88",
+    "28C9C",
+    "28FE0",
+    "297FE",
+    "29824",
+    "298F0"
+  ],
+  "paired_glyphs": 508,
+  "pending_file": "translation/governance-pending.json",
+  "pending_count": 6,
+  "limitation": "No more statically unused kanji glyph slots in this build; pending translations are not applied",
+  "checks": [
+    "build.py",
+    "verify.py",
+    "test_harem_layout.py"
+  ],
+  "emulator_run": false
+}

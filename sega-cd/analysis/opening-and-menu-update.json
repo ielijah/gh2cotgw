@@ -1,0 +1,116 @@
+{
+  "opening": {
+    "file": "G2GRPOE.DAT;1",
+    "ranges": [
+      {
+        "offset": 240,
+        "length": 56,
+        "asset": "assets\\opening\\0000f0.bin",
+        "sha256": "e02822328337a34f41af596c54787b75726696edc5d779a17b3facd3646a6fd9",
+        "source_sha256": "49a0c483206ecf80515a65d91704869caa747d7e76ce2981ae0d56a829701342"
+      },
+      {
+        "offset": 296,
+        "length": 144,
+        "asset": "assets\\opening\\000128.bin",
+        "sha256": "292492a1c4927c423704f34227d1b2ce5643c8ae3910fa2e3606e0979d47b5e7",
+        "source_sha256": "8bf1951b862c2c4b7f4f8ad0b0fc2e58010a40e5ea3415aefbe3df4e2c8637ac"
+      },
+      {
+        "offset": 440,
+        "length": 112,
+        "asset": "assets\\opening\\0001b8.bin",
+        "sha256": "0de3f37c8191775f7693974881810fa31776d1fd7fd38a1fef64b8d2d154a9d9",
+        "source_sha256": "c4ea4d60becdb1f9a180f97749228b6bfb0f94ce5fbfcc867e20b96349568eb7"
+      },
+      {
+        "offset": 854,
+        "length": 12224,
+        "asset": "assets\\opening\\000356.bin",
+        "sha256": "37f776da14879f27079345f87c9c1cb2bdbabae100a654166f8156ef245d1f27",
+        "source_sha256": "6f35a0024d68a330d3c1cfcb85ceb0f1c7052b10abe708582f60dc5b2c78dbd0"
+      },
+      {
+        "offset": 14336,
+        "length": 1232,
+        "asset": "assets\\opening\\003800.bin",
+        "sha256": "005cb10b7b7b5f347ea97984f50c70bc472a1a43ac6e6141ef70e10047458fcb",
+        "source_sha256": "005cb10b7b7b5f347ea97984f50c70bc472a1a43ac6e6141ef70e10047458fcb"
+      },
+      {
+        "offset": 27980,
+        "length": 19552,
+        "asset": "assets\\opening\\006d4c.bin",
+        "sha256": "321f56f59c83da7e4698cd9d615419af06d7144b8fb05f5b37f1d7b2aefc8017",
+        "source_sha256": "c0bce76f60994d449aba22687d112385c8a46d7e98b388ce55ac9b1dac4dd8bd"
+      }
+    ],
+    "publisher_captions": [
+      "ПРЕДСТАВЛЯЕТ",
+      "ИСТОРИЧЕСКАЯ СТРАТЕГИЯ",
+      "ПРОДЮСЕР КО СИБУСАВА"
+    ],
+    "quote": [
+      "Был серый волк,",
+      "рождённый по воле Неба.",
+      "Со своей женой, белой ланью,",
+      "он переплыл великое озеро",
+      "и пришёл сюда.",
+      "Из Тайной истории",
+      "монголов"
+    ],
+    "publisher_tiles_used": 116,
+    "parchment_tiles_used": 611,
+    "emulator_run": false
+  },
+  "menu": {
+    "file": "INIT.PRG;1",
+    "frame": [
+      11,
+      15,
+      20,
+      10
+    ],
+    "text_columns": 18,
+    "patches": [
+      {
+        "offset": 7634,
+        "before": "4878000d",
+        "after": "48780001"
+      },
+      {
+        "offset": 7642,
+        "before": "4878000d",
+        "after": "4878000b"
+      },
+      {
+        "offset": 7668,
+        "before": "4878000e",
+        "after": "48780012"
+      },
+      {
+        "offset": 7682,
+        "before": "4878000e",
+        "after": "4878000c"
+      },
+      {
+        "offset": 7752,
+        "before": "4878000e",
+        "after": "48780012"
+      },
+      {
+        "offset": 7760,
+        "before": "4878000e",
+        "after": "4878000c"
+      }
+    ]
+  },
+  "checks": [
+    "build.py",
+    "verify.py",
+    "test_harem_layout.py"
+  ],
+  "static_preview": "opening-parchment-ru.png",
+  "emulator_attempt": "Booted to memory-management prompt; menu artifact not reproduced",
+  "white_mark_cause": "Unconfirmed; possible text overflow residue"
+}

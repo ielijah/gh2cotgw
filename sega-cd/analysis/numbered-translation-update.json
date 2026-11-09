@@ -1,0 +1,154 @@
+{
+  "count": 13,
+  "entries": [
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14236",
+      "ja": "第%d部隊ﾆｺﾞ命令ｦ",
+      "ru": "Приказ отряду %d",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14248",
+      "ja": "%2d\u001bKﾀｰﾝ\u001bH",
+      "ru": "%2d ходов",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14254",
+      "ja": "第%d部隊",
+      "ru": "Отряд %d",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "142C8",
+      "ja": "城防御度%3d",
+      "ru": "Защита: %3d",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "142F0",
+      "ja": "第%d部隊ｦ配置ｼﾃ下ｻｲ",
+      "ru": "Отряд %d на место",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "143C2",
+      "ja": "第%d軍団司令官",
+      "ru": "Командир %d",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1440A",
+      "ja": "第%d軍団 第%d部隊",
+      "ru": "Лег %d, отряд %d",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14488",
+      "ja": "第%d部隊ｦ",
+      "ru": "Отряд %d",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2AF00",
+      "ja": "%2d番  \u001bKﾃﾞｰﾀ\u001bHﾅｼ",
+      "ru": "%2d: пусто",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2AF12",
+      "ja": "%2d番 \u001bKｾｰﾌﾞﾃﾞｰﾀ\u001bH",
+      "ru": "%2d: запись",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2AF26",
+      "ja": "%2d番   不可",
+      "ru": "%2d: нельзя",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2AF34",
+      "ja": "%2d番  \u001bKﾃﾞｰﾀ\u001bHﾅｼ",
+      "ru": "%2d: пусто",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2AF46",
+      "ja": "%2d番 \u001bKｾｰﾌﾞﾃﾞｰﾀ\u001bH",
+      "ru": "%2d: запись",
+      "kind": "numbered_interface",
+      "native_decimal_format": true,
+      "max_columns": 22,
+      "max_lines": 2
+    }
+  ],
+  "emulator_run": false,
+  "total_translated_fields": 574,
+  "iso_sha256": "dad8c28fee02ce570f3abcfe0e9d08f4406cb750d48d73532181c359aaf681a1",
+  "checks": [
+    "test_text_encoding.py",
+    "verify.py",
+    "test_harem_layout.py",
+    "test_menu_buffer.py"
+  ],
+  "plain_encoding_compatibility": 561,
+  "decimal_test_values": [
+    0,
+    1,
+    9,
+    10,
+    99,
+    100,
+    999
+  ]
+}

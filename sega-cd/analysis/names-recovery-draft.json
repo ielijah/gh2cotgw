@@ -1,0 +1,14 @@
+[
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15B56",
+    "ja": "\u001bKｻﾆｽﾗｳ\u001bH",
+    "ru": "Станислав",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Sanislau",
+    "max_columns": 10,
+    "max_lines": 1,
+    "original_padding_bytes": 1
+  }
+]

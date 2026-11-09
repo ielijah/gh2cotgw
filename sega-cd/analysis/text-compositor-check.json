@@ -1,0 +1,15 @@
+{
+  "pairs": 1102,
+  "capacity": 2444,
+  "extra_stack_bytes": 32,
+  "checks": [
+    "all code boundaries",
+    "paged dictionary",
+    "every composed bitmap",
+    "native width/copy paths",
+    "stack and saved registers",
+    "68000 disassembly and branch targets"
+  ],
+  "emulator_run": false,
+  "limitation": "Static validation; in-game runtime not tested"
+}

@@ -1,0 +1,32 @@
+{
+  "frames": 3500,
+  "inputs": [
+    [
+      300,
+      310,
+      3
+    ],
+    [
+      900,
+      910,
+      8
+    ],
+    [
+      1500,
+      1510,
+      3
+    ],
+    [
+      2100,
+      2110,
+      8
+    ]
+  ],
+  "original_extra_input": [],
+  "changed_message_pixels": 1796,
+  "changed_button_pixels": 374,
+  "changed_outside_pixels": 0,
+  "bios_sha256": "3aeccd967f34ebb678bbb7b3caa232aba11c6d6f71ce7bc21033733724c7b112",
+  "selection_down_and_up": "passed",
+  "limitations": "One initial memory-confirmation screen; not gameplay coverage."
+}

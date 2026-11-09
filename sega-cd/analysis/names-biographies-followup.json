@@ -1,0 +1,192 @@
+{
+  "entries": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "168EE",
+      "ja": "\u001bKﾏｰｼｬﾙ\u001bH",
+      "ru": "Маршал",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Marshall",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16BD2",
+      "ja": "\u001bKﾗﾝｸﾞﾄﾝ\u001bH",
+      "ru": "Лэнгтон",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Langton",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16C9A",
+      "ja": "\u001bKﾛﾋﾞﾝ･ﾌｯﾄﾞ\u001bH",
+      "ru": "Робин Гуд",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Robin Hood",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "154EE",
+      "ja": "\u001bKｲｼｭﾄｳﾞｧｰﾝ\u001bH",
+      "ru": "Иштван",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Istvan",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "155B6",
+      "ja": "\u001bKｲｳﾞｧｲﾛ\u001bH",
+      "ru": "Ивайло",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ivajlo",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "161AA",
+      "ja": "\u001bKﾁﾝﾊｲ\u001bH",
+      "ru": "Чинкай",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Chen-hai",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2FBB6",
+      "ja": "\u001bKﾏｰｼｬﾙ\u001bH",
+      "ru": "Маршал",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Marshall",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "30CD4",
+      "ja": "\u001bKﾗﾝｸﾞﾄﾝ\u001bH",
+      "ru": "Лэнгтон",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Langton",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "340FE",
+      "ja": "\u001bKﾛﾋﾞﾝ･ﾌｯﾄﾞ\u001bH",
+      "ru": "Робин Гуд",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Robin Hood",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31A16",
+      "ja": "\u001bKｲｼｭﾄｳﾞｧｰﾝ\u001bH",
+      "ru": "Иштван",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Istvan",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31DBE",
+      "ja": "\u001bKｲｳﾞｧｲﾛ\u001bH",
+      "ru": "Ивайло",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ivajlo",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F946",
+      "ja": "\u001bKﾁﾝﾊｲ\u001bH",
+      "ru": "Чинкай",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Chen-hai",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33E8E",
+      "ja": "\u001bKﾁﾝﾊｲ\u001bH",
+      "ru": "Чинкай",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Chen-hai",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "E95C",
+      "ja": "\u001bKﾊﾞｲﾊﾞﾙｽ\u001bHﾉ子｡\n\u001bKﾏﾑﾙｰｸ朝第5代ｽﾙﾀﾝ\u001bHﾄﾅｯﾀ｡\n在位1277〜79年｡",
+      "ru": "Сын Бейбарса.\n5-й султан мамлюков.\nПравил в 1277-1279.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "14B6E",
+      "ja": "\u001bKﾊﾞｲﾊﾞﾙｽ\u001bHﾉ子｡\n\u001bKﾏﾑﾙｰｸ朝第6代ｽﾙﾀﾝ\u001bHﾄﾅﾙ｡\n1279年､後見人ﾉ\u001bKｶﾗｰｳｰﾝ\u001bHﾆ廃ｻﾚﾀ｡",
+      "ru": "Сын Бейбарса.\n6-й султан мамлюков.\nВ 1279 свергнут\nопекуном Калауном.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "A3EE",
+      "ja": "\u001bKﾊﾞﾙﾊﾞﾝ\u001bHﾉ息子｡\n奴隷王朝第10代ﾆｼﾃ最後ﾉ\u001bKｽﾙﾀﾝ｡\nﾊﾙｼﾞｰ\u001bH朝ﾆ滅ﾎﾞｻﾚﾀ｡\n在位1287〜90年｡",
+      "ru": "Сын Балбана.\nПоследний султан\nдинастии рабов, 10-й.\nХильджи свергли.\n1287-1290.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    }
+  ],
+  "translated_fields": 767,
+  "paired_glyphs": 709,
+  "checks": [
+    "verify.py",
+    "test_text_encoding.py"
+  ],
+  "emulator": {
+    "core": "Genesis Plus GX",
+    "cold_boot": true,
+    "visually_verified": [
+      "INIT.PRG;1:16BD2",
+      "INIT.PRG;1:16C9A"
+    ],
+    "screenshot": "langton-robin-list-767.png",
+    "route": "names-ra-review-inputs.json",
+    "limitation": "Other names and the three new biographies were checked statically only."
+  },
+  "translation_sha256": "13d03f4389ebbf09ef461594ba6d9cb508ffa8e29d55022a48985f84c4831365"
+}

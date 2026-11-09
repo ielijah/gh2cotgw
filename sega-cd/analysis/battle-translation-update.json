@@ -1,0 +1,626 @@
+{
+  "count": 68,
+  "entries": [
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13D10",
+      "ja": "退却可能国ｶﾞｱﾘﾏｾﾝ",
+      "ru": "Некуда отступать",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13D22",
+      "ja": "ﾄﾞﾉ敵軍団ｦ追撃ｻｾﾏｽｶ",
+      "ru": "Кого преследовать?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13D36",
+      "ja": "ﾖﾛｼｲﾃﾞｽﾅ",
+      "ru": "Верно?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13D62",
+      "ja": "ﾄﾞﾉ指示ｦ与ｴﾏｽｶ",
+      "ru": "Какой приказ?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13D72",
+      "ja": "ﾄﾞﾉ軍団ﾆ指示ｼﾏｽｶ?",
+      "ru": "Какому легиону?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13D9A",
+      "ja": "ﾄﾞﾉ軍団ﾉ編成ｦ行ｲﾏｽｶ",
+      "ru": "Какой легион?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13DAE",
+      "ja": "ﾄﾞﾉ軍団ﾄ編成ｦ行ｲﾏｽｶ",
+      "ru": "С каким легионом?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13DC2",
+      "ja": "ﾄﾞﾉ部隊ｦ渡ｼﾏｽｶ",
+      "ru": "Какой отряд?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13DD2",
+      "ja": "編成ﾊｺﾚﾃﾞﾖﾛｼｲﾃﾞｽﾅ",
+      "ru": "Верный состав?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13DE4",
+      "ja": "ﾄﾞﾉ部隊ｦ渡ｼﾏｽｶ",
+      "ru": "Какой отряд?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13DF4",
+      "ja": "編成可能ﾅ軍団ｶﾞｱﾘﾏｾﾝ",
+      "ru": "Обмен невозможен",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13E46",
+      "ja": "ｺﾉ状勢ﾃﾞﾊ\n仕方ｱﾙﾏｲ",
+      "ru": "Что ж,\nнет выбора",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13E6C",
+      "ja": "････無視ｽﾙﾄﾊ\nﾄﾎﾎ･･･",
+      "ru": "Игнорируют...\nУвы!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13E92",
+      "ja": "投降ｼﾏｼﾀ",
+      "ru": "Сдались",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13F3A",
+      "ja": "降伏勧告ｦ受ｹ入ﾚﾏｽｶ",
+      "ru": "Согласны сдаться?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13F96",
+      "ja": "ｿﾉ提案ｦ\n受ｹ入ﾚﾖｳ",
+      "ru": "Я согласен",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13FBC",
+      "ja": "停戦ｦ受ｹ入ﾚﾏｽｶ",
+      "ru": "Принять мир?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13FE0",
+      "ja": "停戦協定ｶﾞ\n成立ｼﾏｼﾀ\n戦争ｶﾞ終結ｼﾏｼﾀ",
+      "ru": "Мир заключён.\nВойна окончена!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14004",
+      "ja": "停戦協定ｦ申ｼ込ﾐﾏｽｶ",
+      "ru": "Предложить мир?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14054",
+      "ja": "他ﾉ軍団ﾉ様子ｦ見ﾏｽｶ",
+      "ru": "Другой легион?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "140A0",
+      "ja": "他ﾉ人物ﾉ様子ｦ見ﾏｽｶ",
+      "ru": "Другой человек?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "140FA",
+      "ja": "本当ﾆﾖﾛｼｲﾃﾞｽｶ",
+      "ru": "Вы уверены?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14108",
+      "ja": "終了ｼﾃﾓﾖﾛｼｲﾃﾞｽｶ",
+      "ru": "Завершить?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14126",
+      "ja": "何ｶ\u001bKﾎﾞﾀﾝ\u001bHｦ押ｼﾃｸﾀﾞｻｲ",
+      "ru": "Нажмите кнопку",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14162",
+      "ja": "何ｶ\u001bKﾎﾞﾀﾝ\u001bHｦ押ｼﾃｸﾀﾞｻｲ",
+      "ru": "Нажмите кнопку",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "141AC",
+      "ja": "記録的ﾅ積雪ﾆ\n見舞ﾜﾚﾏｼﾀ\n兵士ｶﾞ凍ｴﾃ\n倒ﾚﾃｲｷﾏｽ",
+      "ru": "Небывалый снег.\nСолдаты замерзают!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "141D8",
+      "ja": "熱帯性ﾉ暴風雨ｶﾞ\n吹ｷ荒ﾚﾃｲﾏｽ",
+      "ru": "Бушует\nтропическая буря",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14212",
+      "ja": "猛暑ﾆ見舞ﾜﾚﾏｼﾀ\n兵士ｶﾞ暑ｻﾃﾞ\n倒ﾚﾃｲｷﾏｽ",
+      "ru": "Нестерпимый зной.\nСолдаты гибнут!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1431A",
+      "ja": "自ﾗ陣頭ﾆ立ｯﾃ部隊ｦ指揮ｼﾏｽｶ",
+      "ru": "Лично командовать?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14334",
+      "ja": "既ﾆ実行済ﾐﾃﾞｽ",
+      "ru": "Уже сделано",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14350",
+      "ja": "ﾄﾞﾉ部隊ｦ混乱ｶﾗ回復ｻｾﾏｽｶ",
+      "ru": "Сплотить отряд?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14368",
+      "ja": "混乱ｼﾃｲﾙ部隊ﾊｲﾏｾﾝ",
+      "ru": "Все в порядке",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1437A",
+      "ja": "命令ｦｽﾍﾞﾃﾏｶｾﾃﾖﾛｼｲﾃﾞｽｶ",
+      "ru": "Доверить\nвсе приказы?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1439A",
+      "ja": "何ｶ\u001bKﾎﾞﾀﾝ\u001bHｦ押ｼﾃｸﾀﾞｻｲ",
+      "ru": "Нажмите кнопку",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1441C",
+      "ja": "ﾄﾞﾉ部隊ｦ見ﾏｽｶ",
+      "ru": "Какой отряд?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1443C",
+      "ja": "本当ﾆﾖﾛｼｲﾃﾞｽｶ",
+      "ru": "Вы уверены?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1444A",
+      "ja": "終了ｼﾃﾖﾛｼｲﾃﾞｽｶ",
+      "ru": "Завершить?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "144C8",
+      "ja": "ﾄﾞﾉ敵部隊ｦ攻撃ｼﾏｽｶ",
+      "ru": "Кого атаковать?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "144F2",
+      "ja": "待機ｼﾏｼﾀ",
+      "ru": "Ожидание",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13B30",
+      "ja": "…\nｺﾉ屈辱忘ﾚﾇｿﾞ!",
+      "ru": "Не прощу позор!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13B9E",
+      "ja": "病ﾆ苦ｼﾝﾃﾞｲﾙﾖｳﾃﾞｽ",
+      "ru": "Тяжко болен",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13BB2",
+      "ja": "軍団ｦ配置ｼﾃ下ｻｲ",
+      "ru": "Расставьте",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13BF0",
+      "ja": "軍団ｦ配置ｼﾃ下ｻｲ",
+      "ru": "Расставьте",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13D54",
+      "ja": "命令ｦ実行ｼﾏｼﾀ",
+      "ru": "Выполнено",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13E0A",
+      "ja": "敵第1軍団ﾆ隣接ｼﾃｵﾘﾏｾﾝ",
+      "ru": "1-й легион не рядом",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13E20",
+      "ja": "ﾓｳ勝敗ﾊ決ｼﾀﾓ同然\n我ｶﾞ軍ﾉ指揮下ﾆ入ﾗﾚﾖ",
+      "ru": "Вы проиграли.\nПереходите к нам!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13E5A",
+      "ja": "汝ｺﾞﾄｷﾉ\n下ﾆﾊ降ﾗﾇ",
+      "ru": "Не покорюсь тебе",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13E80",
+      "ja": "投降勧告ｦﾊﾈﾂｹﾏｼﾀ",
+      "ru": "Отказ сдаться",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13E9E",
+      "ja": "勧告ﾊ無視ｻﾚﾏｼﾀ",
+      "ru": "Нас игнорируют",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13EC6",
+      "ja": "ｺﾚ以上味方軍団ﾊ増ﾔｾﾏｾﾝ",
+      "ru": "Лимит легионов",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13EDE",
+      "ja": "ﾓﾊﾔ貴公ﾆ勝機ﾊﾅｲ\n潔ｸ我ｶﾞ軍ﾆ降伏ﾅｻﾚﾖ",
+      "ru": "Вам не выиграть.\nСдавайтесь!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13F02",
+      "ja": "我ｶﾞ首一ﾂﾃﾞ兵達ﾉ命ｶﾞ\n助ｶﾙﾅﾗ止ﾑｦ得ﾅｲ",
+      "ru": "Моя жизнь спасёт\nсолдат. Я сдаюсь!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13F4E",
+      "ja": "降伏勧告ｦﾊﾈﾂｹﾏｼﾀ",
+      "ru": "Отказ сдаться",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13F7A",
+      "ja": "両国ﾉ利益ﾉﾀﾒﾆ\n停戦ｼﾖｳﾃﾞﾊﾅｲｶ",
+      "ru": "Заключим мир\nна благо всем!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13FA8",
+      "ja": "ｲﾏｻﾗ和ｦ\n乞ｳﾃﾓ無駄ﾀﾞ",
+      "ru": "Мира не проси!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14018",
+      "ja": "敵軍団ﾆ隣接ｼﾃｵﾘﾏｾﾝ",
+      "ru": "Враг не рядом",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14092",
+      "ja": "ﾄﾞﾉ軍団ｦ見ﾏｽｶ",
+      "ru": "Легион?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "140E0",
+      "ja": "ﾄﾞﾉ人物ｦ見ﾏｽｶ",
+      "ru": "Кого видеть?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "141F4",
+      "ja": "猛烈ﾅ砂嵐ｶﾞ\n砂塵ｦ巻ｷ上ｹﾞﾃｲﾏｽ",
+      "ru": "Буря вздымает\nтучи песка!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1427E",
+      "ja": "機動力ｶﾞ足ﾘﾏｾﾝ",
+      "ru": "Мало действий",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "142E4",
+      "ja": "配置出来ﾏｾﾝ",
+      "ru": "Нельзя тут",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "143D2",
+      "ja": "軍団司令官ﾊ死亡ｼﾃｲﾏｽ",
+      "ru": "Командир погиб",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "143E8",
+      "ja": "他ﾉ部隊ｦ見ﾏｽｶ",
+      "ru": "Иной отряд?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14468",
+      "ja": "ﾄﾞﾉ情報ｦ見ﾏｽｶ",
+      "ru": "Что узнать?",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1447C",
+      "ja": "移動ｻｾﾃ下ｻｲ",
+      "ru": "Двигайтесь",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "144DC",
+      "ja": "攻撃ﾃﾞｷﾙ敵部隊ｶﾞｲﾏｾﾝ",
+      "ru": "Нет цели для атаки",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13BCC",
+      "ja": "攻撃側ﾉ\n出現地点ﾃﾞｽ\n配置ﾃﾞｷﾏｾﾝ",
+      "ru": "Вход врага.\nСтавить нельзя",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13F26",
+      "ja": "馬鹿ﾓ休ﾐ休ﾐ\n言ｳｶﾞﾖｲ",
+      "ru": "Не болтай вздор!",
+      "kind": "battle_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    }
+  ],
+  "emulator_run": false,
+  "renderer_evidence": "HEX 1AEE calls shared formatter 11034; tactical C45C also calls 11034. No executable changes.",
+  "total_translated_fields": 515,
+  "iso_sha256": "a58cc093a1811ef32bde7963552ff55be22780c4d8a1e8e40450aab55e7f9ee0",
+  "checks": [
+    "verify.py",
+    "test_harem_layout.py",
+    "test_menu_buffer.py"
+  ]
+}

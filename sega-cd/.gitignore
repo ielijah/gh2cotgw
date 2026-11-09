@@ -1,0 +1,7 @@
+/disc/
+/build/
+/release/
+/analysis/memory-*.bin
+/analysis/screen-*.png
+/analysis/*.asm
+__pycache__/

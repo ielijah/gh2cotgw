@@ -1,0 +1,200 @@
+{
+  "entries": [
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32D70",
+      "ja": "\u001bKｶﾞｲﾊﾄｩ\u001bH",
+      "ru": "Гайхату",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Geikhatu",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32EC2",
+      "ja": "\u001bKｻﾗｰﾐｼｭ\u001bH",
+      "ru": "Саламыш",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Salamish",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3083E",
+      "ja": "\u001bKﾁｬｶﾞﾀｲ\u001bH",
+      "ru": "Чагатай",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Jagatai",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34D86",
+      "ja": "\u001bKﾁｬｶﾞﾀｲ\u001bH",
+      "ru": "Чагатай",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Jagatai",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "30854",
+      "ja": "\u001bKｵｺﾞﾀｲ\u001bH",
+      "ru": "Угэдэй",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ugudei",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3086A",
+      "ja": "\u001bKﾄｩﾙｲ\u001bH",
+      "ru": "Толуй",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Tului",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2E828",
+      "ja": "\u001bKｼﾞｭﾁ\u001bH",
+      "ru": "Джучи",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Joti",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "30828",
+      "ja": "\u001bKｼﾞｭﾁ\u001bH",
+      "ru": "Джучи",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Joti",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34D70",
+      "ja": "\u001bKｼﾞｭﾁ\u001bH",
+      "ru": "Джучи",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Joti",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32ACC",
+      "ja": "\u001bKﾄﾞﾙｼﾞ\u001bH",
+      "ru": "Дорджи",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Dorji",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32AE2",
+      "ja": "\u001bKﾌｹﾞﾁ\u001bH",
+      "ru": "Хугэчи",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Hugeci",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32B24",
+      "ja": "\u001bKﾄｺﾞﾝ\u001bH",
+      "ru": "Тогон",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Togon",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32B0E",
+      "ja": "\u001bKｺｺﾁｭｳ\u001bH",
+      "ru": "Кокэчу",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Kokecu",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27A58",
+      "ja": " 疫  病 ",
+      "ru": "Эпидемия",
+      "kind": "interface_label",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27A62",
+      "ja": " 疫  病 ",
+      "ru": "Эпидемия",
+      "kind": "interface_label",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15016",
+      "ja": "3: \u001bKｶﾞﾙ-ﾀﾞ\u001bH",
+      "ru": "3: Гаруда",
+      "kind": "interface_label",
+      "max_columns": 12,
+      "max_lines": 1
+    }
+  ],
+  "translated_fields": 626,
+  "paired_glyphs": 672,
+  "checks": [
+    "verify.py",
+    "test_text_encoding.py",
+    "test_harem.py"
+  ],
+  "visual_check": {
+    "file": "INIT.PRG;1",
+    "offset": "15016",
+    "screenshot": "music-menu-626.png",
+    "route": "music-review-inputs.json",
+    "cold_boot": true
+  },
+  "limitations": "New SMAIN names and epidemic labels were checked statically; their individual events were not opened.",
+  "translation_sha256": "6cda76524d6d62836844517997bcffa4a4009e0c14e23a105cee1c4fc9012e57",
+  "harem_regression": {
+    "frames": 44600,
+    "cdda_peaks": {
+      "intro": 14424,
+      "harem": 14270
+    },
+    "core_sha256": "de4c2ad5aed880c8b616e96d13d464eb193aaf3647feee198ce10ac49eb85d1c",
+    "final_screen": "harem-regression-return.png",
+    "final_map_matches_verified_frame": true
+  }
+}

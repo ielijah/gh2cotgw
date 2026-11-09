@@ -1,0 +1,17 @@
+{
+  "cause": "Selection palette routine at SMAIN 0x8A04 had a 64-byte local buffer: 18 columns x 2 rows x 2 bytes overwrote saved A6 and return address. Expanded to 128 bytes; moved saved-register restore and scratch pointer together.",
+  "newline_origin": "INIT 0x1DF4 is newline X origin, corrected to 12, not width 18.",
+  "cold_boot_frames": 31000,
+  "inputs": "tools/harem-regression-inputs.json",
+  "map_screenshot": "analysis/new-game-fixed.png",
+  "map_sha256": "a9d7fa44f9870b2065ffb59e5c3ed19a91f467eb025517335cde38bc76e36aa7",
+  "iso_sha256": "b530dca6add9a4d9898652b8b63db40efca003da1873e35ed2e0bf633d8a57cb",
+  "core_sha256": "de4c2ad5aed880c8b616e96d13d464eb193aaf3647feee198ce10ac49eb85d1c",
+  "selection_buffer_bytes": 128,
+  "harem_route_frames": 44600,
+  "cdda_peaks": {
+    "intro": 14424,
+    "harem": 14270
+  },
+  "return_map_sha256": "bf562897aa5105da86f63e99438fab86bf651ad2562afd7a367897e291acff44"
+}

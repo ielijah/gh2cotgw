@@ -1,0 +1,14 @@
+{
+  "new_text_fields": 38,
+  "total_text_fields": 201,
+  "harem_buttons": 6,
+  "total_graphics": 76,
+  "emulator_run": false,
+  "checks": [
+    "build",
+    "verify",
+    "unique text slots",
+    "14-column action hints"
+  ],
+  "iso_sha256": "5d54e93275a9e0b305e135db9ba0d37e23c267e8af6dc0aad9bd9cb2b4bde763"
+}

@@ -1,0 +1,226 @@
+{
+  "entries": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16556",
+      "ja": "\u001bKﾊﾞﾔﾝ\u001bH",
+      "ru": "Баян",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Bayan",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16402",
+      "ja": "\u001bKﾅﾔﾝ\u001bH",
+      "ru": "Наян",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Nayan",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "153FE",
+      "ja": "\u001bKｱﾙｸﾞﾝ\u001bH",
+      "ru": "Аргун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Arghun",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15D9A",
+      "ja": "\u001bKｼﾘｷﾞ\u001bH",
+      "ru": "Сильги",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Silgi",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16BBE",
+      "ja": "\u001bKﾗｼｰﾄﾞ\u001bH",
+      "ru": "Рашид",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Rashid",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1693E",
+      "ja": "\u001bKﾏﾙｺ･ﾎﾟｰﾛ\u001bH",
+      "ru": "Марко Поло",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Marco Polo",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "329FC",
+      "ja": "\u001bKﾊﾞﾔﾝ\u001bH",
+      "ru": "Баян",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Bayan",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31B9C",
+      "ja": "\u001bKﾅﾔﾝ\u001bH",
+      "ru": "Наян",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Nayan",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31876",
+      "ja": "\u001bKｱﾙｸﾞﾝ\u001bH",
+      "ru": "Аргун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Arghun",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31B68",
+      "ja": "\u001bKｼﾘｷﾞ\u001bH",
+      "ru": "Сильги",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Silgi",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31CBA",
+      "ja": "\u001bKﾗｼｰﾄﾞ\u001bH",
+      "ru": "Рашид",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Rashid",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31E40",
+      "ja": "\u001bKﾏﾙｺ･ﾎﾟｰﾛ\u001bH",
+      "ru": "Марко Поло",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Marco Polo",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "26F8C",
+      "ja": "健康ｦ損ﾅｯﾃｵﾘﾏｽﾉﾃﾞ\n",
+      "ru": "Из-за болезни\n",
+      "kind": "dialogue_fragment",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "26FA0",
+      "ja": "食糧ｶﾞ足ﾘﾅｲﾉﾃﾞ\n",
+      "ru": "Мало еды,\n",
+      "kind": "dialogue_fragment",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "26FB0",
+      "ja": "金ｶﾞ足ﾘﾅｲﾉﾃﾞ\n",
+      "ru": "Мало золота,\n",
+      "kind": "dialogue_fragment",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "26FBE",
+      "ja": "諸般ﾉ事情ｶﾞ許ｻｽﾞ\n",
+      "ru": "Нет возможности\n",
+      "kind": "dialogue_fragment",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "26FD0",
+      "ja": "申ｼ訳ｺﾞｻﾞｲﾏｾﾝ\n",
+      "ru": "Простите,\n",
+      "kind": "dialogue_fragment",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "268C0",
+      "ja": "ﾖﾛｼｲﾃﾞｽﾅ",
+      "ru": "Хорошо?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "26FEC",
+      "ja": "ﾖﾛｼｲﾃﾞｽｶ",
+      "ru": "Хорошо?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    }
+  ],
+  "translated_fields": 645,
+  "paired_glyphs": 675,
+  "checks": [
+    "verify.py",
+    "test_text_encoding.py"
+  ],
+  "emulator": {
+    "core": "Genesis Plus GX",
+    "cold_boot": true,
+    "screenshots": [
+      "bayan-list-645.png",
+      "marco-list-645.png"
+    ],
+    "visually_verified": [
+      "INIT.PRG;1:16556",
+      "INIT.PRG;1:1693E"
+    ],
+    "limitation": "Other names and order-related message fragments were verified statically only."
+  },
+  "mega_drive": {
+    "source": "mega-drive/translation/batch-events.json",
+    "changes": {
+      "Epidemic": "Эпидемия",
+      "epidemic": "эпидемия"
+    },
+    "compiled": false
+  }
+}

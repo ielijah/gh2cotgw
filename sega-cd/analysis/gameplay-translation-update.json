@@ -1,0 +1,19 @@
+{
+  "new_dialogues": 63,
+  "new_save_confirmations": 14,
+  "total_text_fields": 278,
+  "scenario_caption": "Монголия",
+  "scenario_pixels": 64,
+  "scenario_limit_pixels": 112,
+  "paired_glyphs": 497,
+  "emulator_run": false,
+  "iso_sha256": "2a57d9d186171c424217a2fdcfdf9cb411d594c9cb28dad979fa98c93d0c6535",
+  "checks": [
+    "build",
+    "verify",
+    "retained static glyph references",
+    "non-overlapping text slots",
+    "declared menu widths",
+    "both 90-track packages"
+  ]
+}

@@ -1,0 +1,928 @@
+{
+  "image": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 01 of 90)[!].iso",
+  "sha256": "be03e0d34e4ca7a0cd5ab26c44440d2e20c8a742623fe8f2e259b3f8f8bc5b29",
+  "size": 9979904,
+  "boot_signature": "SEGADISCSYSTEM  ",
+  "volume": "MCD_GH2",
+  "files": [
+    {
+      "lba": 4721,
+      "size": 57,
+      "directory": false,
+      "path": "ABS.TXT;1",
+      "sha256": "781eb7805eb31b1ac02ac41b491f6f2aa8524cd17104645244470a897caaa8eb"
+    },
+    {
+      "lba": 4455,
+      "size": 28936,
+      "directory": false,
+      "path": "BGMDATA.DAT;1",
+      "sha256": "b579e4c4f1b5a5cc874ff14e724b578669aaf209fb99b2e390184d4ee900c453"
+    },
+    {
+      "lba": 4722,
+      "size": 59,
+      "directory": false,
+      "path": "BIB.TXT;1",
+      "sha256": "188e58b551fa28cf68bfecd0494e9dbb9cbedf3c2db23f1ed2d327ec8cac29e6"
+    },
+    {
+      "lba": 4720,
+      "size": 94,
+      "directory": false,
+      "path": "CPY.TXT;1",
+      "sha256": "d50df738b45ff199c3ca4ba92da9332e8fb5549c1ce45bb89d6beca4d4c543d4"
+    },
+    {
+      "lba": 2285,
+      "size": 31138,
+      "directory": false,
+      "path": "ENDING.PRG;1",
+      "sha256": "c0198fa6da33ddab452f4138dc6ec8bde55b167790fac1e5a46b91fe952de825"
+    },
+    {
+      "lba": 4144,
+      "size": 636928,
+      "directory": false,
+      "path": "G2GRPOE.DAT;1",
+      "sha256": "ede6d367a6d1be9e93c4bfadb5eb75ca721b7910ee29e7c871737231e9729209"
+    },
+    {
+      "lba": 2576,
+      "size": 3211264,
+      "directory": false,
+      "path": "GH2GRP.DAT;1",
+      "sha256": "cc13615a2cb47550fd86dba112239b5222c4c4bb012bfd07553507fb6b55ec26"
+    },
+    {
+      "lba": 2443,
+      "size": 87318,
+      "directory": false,
+      "path": "HEX.PRG;1",
+      "sha256": "098686456efe1d1e0a8c59e59a0391c9e8ba188f19819c118df19463419bfa66"
+    },
+    {
+      "lba": 2379,
+      "size": 96478,
+      "directory": false,
+      "path": "INIT.PRG;1",
+      "sha256": "c237555e319fd2ba27f088b1c8dd9e376fa9b410ff73a961ebd8571d2d80660e"
+    },
+    {
+      "lba": 2271,
+      "size": 19092,
+      "directory": false,
+      "path": "MMAIN.PRG;1",
+      "sha256": "5d840d1b6877414d653cf3abc8b90cfbebc6734cc5b367f673607f496d620db2"
+    },
+    {
+      "lba": 2349,
+      "size": 9414,
+      "directory": false,
+      "path": "OPENING.PRG;1",
+      "sha256": "32d2960972e80261f3e173b1afb6b70eac00ce90ecee0214a715255aef905366"
+    },
+    {
+      "lba": 2281,
+      "size": 7591,
+      "directory": false,
+      "path": "SAVEDAT.DAT;1",
+      "sha256": "b7175c9c2e8d879e5bbdf252576764063e47c7a5047177aa6aebffbb6d7efaa7"
+    },
+    {
+      "lba": 4470,
+      "size": 317736,
+      "directory": false,
+      "path": "SMAIN.PRG;1",
+      "sha256": "fc954b89a1646a1236153995d3f3e7e431047b563aa4c44095265495c7f86b0f"
+    },
+    {
+      "lba": 21,
+      "size": 4608000,
+      "directory": false,
+      "path": "STSTEM.MSG;1",
+      "sha256": "37f39e9a344c6ac080f85f21b0463ca659d55db33286568fd0c91adb935e7d17"
+    },
+    {
+      "lba": 2512,
+      "size": 19976,
+      "directory": false,
+      "path": "XXX.PRG;1",
+      "sha256": "6c229230eae15352a773ced714e1c0a329475ce8f3965afb173206ca6713edb4"
+    }
+  ],
+  "tracks": [
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 01 of 90)[!].iso",
+      "size": 9979904,
+      "sha256": "be03e0d34e4ca7a0cd5ab26c44440d2e20c8a742623fe8f2e259b3f8f8bc5b29"
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 02 of 90)[!].wav",
+      "size": 707996,
+      "sha256": "132d3521a410584165d33da466d32ffe5257337198c92b77cf259cd0143aa170",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 176988
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 03 of 90)[!].wav",
+      "size": 1131356,
+      "sha256": "1cdfba58277878ca2c7ca705886f6b93ed8e348b2fc0ec6c38351f5242d15585",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 282828
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 04 of 90)[!].wav",
+      "size": 1253660,
+      "sha256": "c21c28b836548d67fb298f6fab10a14e287878ec45964a37a6898728831acfec",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 313404
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 05 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "a3dd39fa9ea523edfb6bdad6974aa4c77d98fcbe253d254c237c62be22c0b50d",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 06 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "4ea00274dfcaa8f8cde3ce1b1bf3bec4034ac3c514fdea076dbe495eb104485b",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 07 of 90)[!].wav",
+      "size": 1138412,
+      "sha256": "3639e2fb3ca86bf68004262513ae407649873efd3f36a77d34aecaeb4a91178c",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 284592
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 08 of 90)[!].wav",
+      "size": 1213676,
+      "sha256": "8405d1f50b15b505980444b36c714ffedfe0692dbb8e234b2a0b6b9ec25d68de",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 303408
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 09 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "4049e7e69a192d46397f5c3b2740b7779737f46573f31311cabc61cf826208fd",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 10 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "bc5a5946a605bbbef106cb6e9b12e8a2f70b9ab4ed185a2292c6f169f336ced6",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 11 of 90)[!].wav",
+      "size": 1378316,
+      "sha256": "cccea2181ebc6c00df973ce2e5f6cf1f42aad5f8aedc31addc19823d8c88abb7",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 344568
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 12 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "dfe75cf950be1f4c4227ab0fa651962dda6d2b30d6a7e0951c3d86b9a226d60b",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 13 of 90)[!].wav",
+      "size": 1100780,
+      "sha256": "0b940d66eb1785fc6031a63d2a720cbbf1423adfde2a1f77dafc696d80556be9",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 275184
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 14 of 90)[!].wav",
+      "size": 1390076,
+      "sha256": "bd9eecb8a028197e33aab8ad6c8c1217f2c607e58712c239768cffcaa34f94a5",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 347508
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 15 of 90)[!].wav",
+      "size": 1084316,
+      "sha256": "4ef8d9a2067e429f2180b56791735af61070bd681754493f138d4a853aad4ee6",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 271068
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 16 of 90)[!].wav",
+      "size": 1072556,
+      "sha256": "dd8f439687b151d22a92fb6ad9ab3ddc02d879de31fd1d820c71f6a2f141c865",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 268128
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 17 of 90)[!].wav",
+      "size": 1154876,
+      "sha256": "5db223821cdb59ce0db7adfd0f84df47bbe50eae337ec7f7ab1d5a3546223a31",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 288708
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 18 of 90)[!].wav",
+      "size": 1171340,
+      "sha256": "d01936bbcd4b07d5695aa31a4b0c2955e40f3896ee9523061c086bb5d4788c44",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 292824
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 19 of 90)[!].wav",
+      "size": 1105484,
+      "sha256": "823e3b84e6f6171e9234c51440bbbfd26a352874e866bef38633b672cd0bae6e",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 276360
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 20 of 90)[!].wav",
+      "size": 1180748,
+      "sha256": "aa687b18af2b2cecf359a2628147db4e2177b27b89ec2dd006360df58832fc2c",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 295176
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 21 of 90)[!].wav",
+      "size": 1364204,
+      "sha256": "a68c2a00b640936d2e2f31776eb3d67b352893ecd62f829a8e8f6855d4d64a08",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 341040
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 22 of 90)[!].wav",
+      "size": 1274828,
+      "sha256": "9397c176ce2dce944c3b12bcece53d4c66021db4575f04dda3d58b8081214020",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 318696
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 23 of 90)[!].wav",
+      "size": 1295996,
+      "sha256": "d5fc2ba7e8778c1a18135370d734c2d78e8c0bd734e4ba455050ccdeb5d142fd",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 323988
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 24 of 90)[!].wav",
+      "size": 1086668,
+      "sha256": "385de726af5f1ec2a529015d206af28bcfbe9e157dc060f94603c0413b2e0eed",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 271656
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 25 of 90)[!].wav",
+      "size": 1267772,
+      "sha256": "81dc032ae56bdc6d7dc525b7fe640bd6eba92b85c3ad66afe9c9f1349add767a",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 316932
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 26 of 90)[!].wav",
+      "size": 1100780,
+      "sha256": "9586c5859b1d568c35801dc4b7d6390aac272ddb13467d8be64fe995021ab625",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 275184
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 27 of 90)[!].wav",
+      "size": 1263068,
+      "sha256": "6ae0f2f5a8349693d036bcdb6e37efe39578317864604daa837e694b641f313a",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 315756
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 28 of 90)[!].wav",
+      "size": 1089020,
+      "sha256": "c97b117ef344a5c8693b2e374fa79b05def7fc29e301b68f76bdbb24e813126f",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 272244
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 29 of 90)[!].wav",
+      "size": 1103132,
+      "sha256": "3859b144ce1d719283ee6c712c1a101f780ecb997bbbcca93555dcf4668d9b60",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 275772
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 30 of 90)[!].wav",
+      "size": 1161932,
+      "sha256": "2a91abed3c5df19a98168a24a4bf4d75fef3e3967d005f32ade0b5376fc84bc1",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 290472
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 31 of 90)[!].wav",
+      "size": 1065500,
+      "sha256": "579cf4659aae532ccc6bb71efe92902d864eb4db04cf45363d6a70d09f7da409",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 266364
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 32 of 90)[!].wav",
+      "size": 1206620,
+      "sha256": "524e259b3144ec339732df0240c14fac2449e79452bed1166a7e58b346dad87f",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 301644
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 33 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "f536ee7220900682212fa4c8f189260e4237e0f1bda09192f7bf48189aa929b2",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 34 of 90)[!].wav",
+      "size": 1063148,
+      "sha256": "d3a54fac15d68c18f4dd5405dfee727775a028eb9ea06f2a038f4f972be88805",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265776
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 35 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "4c54b4c95310dbbcc427cb53bbe9b17ef4acd66763a7fb66aae127e4a6587ca6",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 36 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "435a8eab8a1d0750fa51a916be4240c9873ccb945ca01f431fd5b97fc93f6aa7",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 37 of 90)[!].wav",
+      "size": 1331276,
+      "sha256": "08a067e79cc6dac6780c1e831601874069572ee75ff5f42344cbe83570f7f05b",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 332808
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 38 of 90)[!].wav",
+      "size": 1425356,
+      "sha256": "5a67165f9255b0d004c0c775a86328a409d070e2516c3b30500b3f961531970b",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 356328
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 39 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "fc050b8d090dae25863526bf473e3dbfe0c72aa5cd1343af8cae26809e50ab19",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 40 of 90)[!].wav",
+      "size": 1225436,
+      "sha256": "c4e4342d9595173514a96885d4ccc25a3709d5310af9e660ca77e1575568d252",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 306348
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 41 of 90)[!].wav",
+      "size": 1510028,
+      "sha256": "09005bd2067edf0b5a32915c209938b119da3cec625afbf2296cff4de4dfe20e",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 377496
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 42 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "26720ef806cc3c3b070156416b0f1a6bc3c363e2e5d57a6e708973e28d70a84b",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 43 of 90)[!].wav",
+      "size": 1248956,
+      "sha256": "96d807f90d19fa22f3a873c621cbb932fd84be281424b0f9a954499e7fdd3907",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 312228
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 44 of 90)[!].wav",
+      "size": 1453580,
+      "sha256": "bcf5cf5844c485e9aa1db3f6e281c6251aec448aba344befebda8427d1661623",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 363384
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 45 of 90)[!].wav",
+      "size": 1213676,
+      "sha256": "48a0f317521d7411b272d435764950348532b8fb0508780803995f5312defd5b",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 303408
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 46 of 90)[!].wav",
+      "size": 1373612,
+      "sha256": "2af403ce665bde5063cb3e8e7665401339ed24d22f464203f6eaf2975bb808b4",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 343392
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 47 of 90)[!].wav",
+      "size": 1121948,
+      "sha256": "0a7fd46e16815b36e88917304b5cca4f0cba54b1ac9a03e4513c912ac7ca1ffb",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 280476
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 48 of 90)[!].wav",
+      "size": 1333628,
+      "sha256": "7c2be42f3cf196e51eada64d1154b521f245b3fa6f72a868ed1c9aa994870124",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 333396
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 49 of 90)[!].wav",
+      "size": 1279532,
+      "sha256": "7617a4ebb429f47fad2cb778960ed0cc01e2e5ca23b5bbe639e7a2423cf7aedc",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 319872
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 50 of 90)[!].wav",
+      "size": 1227788,
+      "sha256": "c32f32301089ce1acd9d757c533ed7f5e58643f077208151f51be59c92b1dabb",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 306936
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 51 of 90)[!].wav",
+      "size": 1232492,
+      "sha256": "886a526b356802691a42f82b58ce517f21525c3c312330b21197dbe6fbb119c8",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 308112
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 52 of 90)[!].wav",
+      "size": 1439468,
+      "sha256": "ad7757eeb9d88ac1d451be79218b69e33c6a9bbeddf534d8f715c0cda1321849",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 359856
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 53 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "c4475914d541435a7d7b80b599d2638c89b21ac9149308da80fa4786fd4012b7",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 54 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "d7e4de6974b09b9423213fb8a298a1a2adefb9c1b7105c94173e93912103cadd",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 55 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "39ba81f0c9bf431ec1569b89eafb840e514ced32598117ee5c9a221533c0e718",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 56 of 90)[!].wav",
+      "size": 1063148,
+      "sha256": "625306b345609526bc7b545eb1b753bb833c74f704cbee1bef36a87801c18c7e",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265776
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 57 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "8f6f686bea32679c17219d722c81cbea076cf222d9d269817439fc7e6a5a6599",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 58 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "5a3daf4291f04b4305552ca2b8f3e0024654f6d5679ed062ff9bcbb84ee6e2bb",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 59 of 90)[!].wav",
+      "size": 1465340,
+      "sha256": "75b9d1e222c3fc63ac81782e53e84054c8c571f314b2f4cbbb49ed4f9899d5ba",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 366324
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 60 of 90)[!].wav",
+      "size": 1430060,
+      "sha256": "5f3953bd43ac8e450be9e978a4b723b569147546915972710a4f5a11ee88d62d",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 357504
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 61 of 90)[!].wav",
+      "size": 1385372,
+      "sha256": "a79e6e74453d012b638136b2025f919439c2948f0402bb340a477cb0c28f0397",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 346332
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 62 of 90)[!].wav",
+      "size": 1394780,
+      "sha256": "11f7a65f91deab80b58b80d7433155b443f5478691f25be90d30297f08667684",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 348684
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 63 of 90)[!].wav",
+      "size": 1201916,
+      "sha256": "19e4c0638c080ed73cb2244fb156586d8747eb118950381801e0fdddc12e6e9c",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 300468
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 64 of 90)[!].wav",
+      "size": 1352444,
+      "sha256": "f613b19a5120e5f208b348de6489b632e6bce78746de9a6eef10057cf741674e",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 338100
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 65 of 90)[!].wav",
+      "size": 1493564,
+      "sha256": "244754b235e4e3e51d698c6595406bf001161c8a70cca2ed94a2b855ff09d4cb",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 373380
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 66 of 90)[!].wav",
+      "size": 1314812,
+      "sha256": "8169c3599fe8136deb5f4398e9280ee6ea8b2627eabcf2ab88e55033d42ba5a6",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 328692
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 67 of 90)[!].wav",
+      "size": 1561772,
+      "sha256": "ff5782b60797b63fcf495c5a5b9de5fab0f304cff051b63c70b228bbb05b2ad1",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 390432
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 68 of 90)[!].wav",
+      "size": 1105484,
+      "sha256": "7e951c589df839947db49eb6b218f6b15f1eeb8f869fa5b234507172c5980a25",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 276360
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 69 of 90)[!].wav",
+      "size": 1227788,
+      "sha256": "b5d0e786c87de626754cd27ccb0ca957639688e4a63ac0468ffb6dcaa4c510ef",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 306936
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 70 of 90)[!].wav",
+      "size": 1220732,
+      "sha256": "f643f10b9b0e8cda70f2fdd16825fc188864e0344d10d0f166313806d74ac03a",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 305172
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 71 of 90)[!].wav",
+      "size": 1208972,
+      "sha256": "39384497511077827b8a627d45b3c9bcc367a42425ab6bccfd5a3a92ccdea3ed",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 302232
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 72 of 90)[!].wav",
+      "size": 1129004,
+      "sha256": "8df78e87e8baa59a8b0c9f729171d2942b54794b00a1a653a18679a27545046a",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 282240
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 73 of 90)[!].wav",
+      "size": 1425356,
+      "sha256": "f1b1fd3e17afbc534f102272f9142b525e3242c12d4cbc4b028d4363886bc8f2",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 356328
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 74 of 90)[!].wav",
+      "size": 1427708,
+      "sha256": "5c1dfa56d6ca00687a4697997c80de9880a7bf0a51e30be328661eeada915200",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 356916
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 75 of 90)[!].wav",
+      "size": 1535900,
+      "sha256": "baeb9ad32ecc08d391ab5cf64e3759f0b9fc9f3796f16717a4bb7b7a86ab1de8",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 383964
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 76 of 90)[!].wav",
+      "size": 1060796,
+      "sha256": "efde203c2d9ad54e42d9168034aa6cf181767c6263d4f4e69fc3b75928caaf7d",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 265188
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 77 of 90)[!].wav",
+      "size": 1223084,
+      "sha256": "772e8c98e90af56d15c57ef074eececde1b71cdf8549a729b4484044b11cbe36",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 305760
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 78 of 90)[!].wav",
+      "size": 1089020,
+      "sha256": "6a738c1cad39df15b7b4cb39e16e54a75ca48c9e4e943e1782d9425e66cdbbc2",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 272244
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 79 of 90)[!].wav",
+      "size": 1143116,
+      "sha256": "dbd26ac4193b38bb2bec0f1505f8026ed8f83a206194ef5ec8e32d25863583f0",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 285768
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 80 of 90)[!].wav",
+      "size": 1244252,
+      "sha256": "bfb8121ed21238810bf4d5167c45dc48658b36821b29d47502a0fc4bf3916800",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 311052
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 81 of 90)[!].wav",
+      "size": 49900076,
+      "sha256": "ce1a0980befedcffc47a997860c6e40cad021f483f90a36bd12ec836345a49f9",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 12475008
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 82 of 90)[!].wav",
+      "size": 42653564,
+      "sha256": "9ae555315b65908fa328c39636b089b3f5780a0bf47be3f91aa155771e278dfb",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 10663380
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 83 of 90)[!].wav",
+      "size": 43166300,
+      "sha256": "fec415988678623fee50659ae084704385a0f1352fb7f7f03fe08ff2a365f37e",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 10791564
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 84 of 90)[!].wav",
+      "size": 47962028,
+      "sha256": "8b67177a40d77eb376b0fa74421fa8c492f4efbe43feed8ce46e57df4c9bfadc",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 11990496
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 85 of 90)[!].wav",
+      "size": 37156940,
+      "sha256": "fa67c857b85dfceeda9bdf78fd2d4bf00aee6f06f6a7dcb18879670b9d9ec900",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 9289224
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 86 of 90)[!].wav",
+      "size": 42825260,
+      "sha256": "e06413e4d15ee4a2383dcec13ec0b3fa3b878ec90582e9bfd268c64ed22d4867",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 10706304
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 87 of 90)[!].wav",
+      "size": 49359116,
+      "sha256": "00522c7df62690323ef6386f0eb4ea4adb8e23c31011e0bb53278736d6e4a577",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 12339768
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 88 of 90)[!].wav",
+      "size": 36552476,
+      "sha256": "fdab9b3b9832d8d84b3ea513d984f5b99de394286ce599385863569a18c64649",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 9138108
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 89 of 90)[!].wav",
+      "size": 66197084,
+      "sha256": "5c4f512d7632c189fa9de980fcab4d7ec66bbcb6dbadd82ce5d2d8575e964d31",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 16549260
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)(Track 90 of 90)[!].wav",
+      "size": 55761260,
+      "sha256": "94ca0ab90dd9bbd93d4bfaad234e140d49a8af1dd477d48db2a4a49bc8591fbd",
+      "channels": 2,
+      "sample_width": 2,
+      "sample_rate": 44100,
+      "frames": 13940304
+    },
+    {
+      "name": "Aoki Ookami to Shiroki Mejika - Genchou Hishi (1993)(KOEI)(NTSC)(JP)[!].cue",
+      "size": 15215,
+      "sha256": "5699601490e63fc98c59f58ee5b466864993202abb9e2cead3bf90d4dccb1b37"
+    }
+  ],
+  "cue_track_count": 90
+}

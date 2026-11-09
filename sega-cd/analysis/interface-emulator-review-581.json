@@ -1,0 +1,71 @@
+{
+  "translated_fields": 581,
+  "new_fields": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4E36"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "14F26"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "14F3E"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "14F8C"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "14FA0"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "14FB6"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "150B4"
+    }
+  ],
+  "static_checks": [
+    "verify.py",
+    "test_text_encoding.py",
+    "test_menu_buffer.py",
+    "test_harem_layout.py"
+  ],
+  "emulator": "Genesis Plus GX libretro",
+  "harem_regression": {
+    "frames": 44600,
+    "cdda_peaks": {
+      "intro": 14424,
+      "harem": 14270
+    },
+    "core_sha256": "de4c2ad5aed880c8b616e96d13d464eb193aaf3647feee198ce10ac49eb85d1c",
+    "final_screen": "harem-regression-return.png",
+    "final_map_matches_verified_frame": true
+  },
+  "visually_checked_new_fields": [
+    "14FA0",
+    "14F8C",
+    "14F3E",
+    "14FB6"
+  ],
+  "not_triggered_in_emulator": [
+    "4E36",
+    "14F26",
+    "150B4"
+  ],
+  "screenshots": [
+    "review-sort-581.png",
+    "review-row-581.png",
+    "review-person-581.png",
+    "review-exit-581.png",
+    "harem-regression-return.png"
+  ],
+  "remaining": "Japanese names, biographies, some UI and compound dialogue remain untranslated.",
+  "cue_sha256": "93c1f753c9b8afc4db4a63d5144d46703b6ef9461d0cbb1ee2e393048031f673",
+  "translation_sha256": "38ef5ad157b5387370506e94e9c6c6d2ffae4ec5bc5f1a84c27ef56b04e10d32"
+}

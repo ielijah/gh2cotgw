@@ -1,0 +1,10 @@
+{
+  "dialogues": 80,
+  "max_columns": 22,
+  "max_lines": 2,
+  "old_left_column_wrapped": 253,
+  "new_example_left_column": 1,
+  "example": "Будь я звездой, мы бы\nвиделись по ночам.",
+  "emulator_run": false,
+  "scope": "Static bounds and build correspondence; no visual emulator verification"
+}

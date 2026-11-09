@@ -1,0 +1,720 @@
+{
+  "source_md_version": "1.0.0",
+  "source_md_rom_sha256": "2687e51680c6d4078882dd50226a42d4e40954c2900abab20d11f552c2b2ce18",
+  "pixel_policy": "Exact Mega Drive pixels except two declared narrow labels using unchanged compact glyphs in two rows; no scaling or palette conversion",
+  "entries": [
+    {
+      "resource": "B9",
+      "caption": "Да",
+      "file": "assets/buttons/b9.bin",
+      "size": 256,
+      "sha256": "0820c85a0954e83cc25e4370393926d9f7020efb3f0baafce0b0be66e5d34440",
+      "source_cd_sha256": "b8450fc919f4a8654fb3fbbff752ce4853334a8a83f5362a934dcc41d8301374",
+      "adaptation": null
+    },
+    {
+      "resource": "BA",
+      "caption": "Нет",
+      "file": "assets/buttons/ba.bin",
+      "size": 256,
+      "sha256": "629d48b76f9947db7a6635c8c38be1dd7eb4733dc9e812a02966325cee11545a",
+      "source_cd_sha256": "a453eb5b4eacbca07d46acd5ae3553e3a977d7830af988ae3c52a72c815b4a23",
+      "adaptation": null
+    },
+    {
+      "resource": "B1",
+      "caption": "Полит",
+      "file": "assets/buttons/b1.bin",
+      "size": 256,
+      "sha256": "a5a5d9676ea7862771be764b83332d108daab992e961a8dd36bb85cebd36f5cd",
+      "source_cd_sha256": "a53e6245919c92ebbe0ce75b5d3f66274440f5df1341f7f79b7775bbcb52226f",
+      "adaptation": null
+    },
+    {
+      "resource": "B2",
+      "caption": "Приказ",
+      "file": "assets/buttons/b2.bin",
+      "size": 256,
+      "sha256": "aaecacdbe1cb18fe465dc0377e76c6c120641fda1ed2324a4cb129118fe35577",
+      "source_cd_sha256": "53bc3d8849b666df9edd037d6ce5e73e140e2952d418974be2ba6f644cce7138",
+      "adaptation": null
+    },
+    {
+      "resource": "B3",
+      "caption": "Кадры",
+      "file": "assets/buttons/b3.bin",
+      "size": 256,
+      "sha256": "ea2dd8702c281c4fb2c8bab744a226af24207f5098ddad47b820fa059fb613d5",
+      "source_cd_sha256": "454344cfa224711f312fbd6dd02c3a1c9844bc924265382bfc39f7accea94bf5",
+      "adaptation": null
+    },
+    {
+      "resource": "B4",
+      "caption": "Война",
+      "file": "assets/buttons/b4.bin",
+      "size": 256,
+      "sha256": "5afda872ae353235d17183a8f34173205c339ff3e71d13339c7982ca07da80cd",
+      "source_cd_sha256": "c4474f9b7517908911c03887295798bce3222e41bfc8a106679f012654d5bc34",
+      "adaptation": null
+    },
+    {
+      "resource": "B5",
+      "caption": "Хоз-во",
+      "file": "assets/buttons/b5.bin",
+      "size": 256,
+      "sha256": "2c5bd4e79dc44f3aecfb65a5e8b1d4ab7e849d8bd1c4b448039d122f7355d732",
+      "source_cd_sha256": "6303f8398a61c802d0ab7b8623673ed146d7240db07eca2d62b872f68ec23afc",
+      "adaptation": null
+    },
+    {
+      "resource": "B6",
+      "caption": "Диплом",
+      "file": "assets/buttons/b6.bin",
+      "size": 256,
+      "sha256": "8444b1ca4339cb911f1ab857298587aa747b173d364618710ce896b00a37b901",
+      "source_cd_sha256": "4bc4c4dc39e3b8ff04b74ce2603d3f338a897043a9142c34133d962b6d67d74d",
+      "adaptation": null
+    },
+    {
+      "resource": "B7",
+      "caption": "Рынок",
+      "file": "assets/buttons/b7.bin",
+      "size": 256,
+      "sha256": "1be4abb66dfd93c298fd592880fe69496b07a1ac53c625833e764f17dd8889f3",
+      "source_cd_sha256": "cedd49932b3bf0561566ba3778e559b6ddd9370e8e8053cdea01d58434866f6a",
+      "adaptation": null
+    },
+    {
+      "resource": "B8",
+      "caption": "Инфо",
+      "file": "assets/buttons/b8.bin",
+      "size": 256,
+      "sha256": "27224c919faa1b948747f448a68a5db7d6eeb351b0ae6028c74646b5406965f1",
+      "source_cd_sha256": "318c526494ef48687b09d7015ff83f9461ab4823c21046e4e8b607526c2a15d1",
+      "adaptation": null
+    },
+    {
+      "resource": "F6",
+      "caption": "Инфо",
+      "file": "assets/buttons/f6.bin",
+      "size": 256,
+      "sha256": "27224c919faa1b948747f448a68a5db7d6eeb351b0ae6028c74646b5406965f1",
+      "source_cd_sha256": "8b570da30dedb3e3a12e825a2c2bea031ed91942b4d7b7a24134a954dce5452e",
+      "adaptation": null
+    },
+    {
+      "resource": "FD",
+      "caption": "Полит",
+      "file": "assets/buttons/fd.bin",
+      "size": 256,
+      "sha256": "a5a5d9676ea7862771be764b83332d108daab992e961a8dd36bb85cebd36f5cd",
+      "source_cd_sha256": "adbd0ecf7b99b6e6cbc4d0806736e095cda40a2018b494a113abb01d05284075",
+      "adaptation": null
+    },
+    {
+      "resource": "FE",
+      "caption": "Приказ",
+      "file": "assets/buttons/fe.bin",
+      "size": 256,
+      "sha256": "aaecacdbe1cb18fe465dc0377e76c6c120641fda1ed2324a4cb129118fe35577",
+      "source_cd_sha256": "f916f605d821a50d4561ea07e6c714a91a3624ed764e4ac787043e7800c7e642",
+      "adaptation": null
+    },
+    {
+      "resource": "9A",
+      "caption": "Полит",
+      "file": "assets/buttons/9a.bin",
+      "size": 256,
+      "sha256": "b8284a1e191aa1c3d87d563b1afe1d4392b16d9ea89b4d114c079ebf44f30dde",
+      "source_cd_sha256": "3d08cba928494cba26450e2be0152790dd36822f66dd4667f86e99c353143b0c",
+      "adaptation": null
+    },
+    {
+      "resource": "9B",
+      "caption": "Лидер",
+      "file": "assets/buttons/9b.bin",
+      "size": 256,
+      "sha256": "231dea200d921bb4e3e5311fa600684605d774361fe1a6fa7b6cfe0d180797e1",
+      "source_cd_sha256": "930546a88e354abb3fb79dc9a4135b0979be06e8b0203c15fecb43b899c50460",
+      "adaptation": null
+    },
+    {
+      "resource": "9C",
+      "caption": "Здрав",
+      "file": "assets/buttons/9c.bin",
+      "size": 256,
+      "sha256": "5a3b29f6357a4d0a807289b28fcdcf8fbd9b31d94be3300a033e509dfca9ec18",
+      "source_cd_sha256": "b907624101a57455488ebfdbc9f7e146f188986348a2d0ae8c051c610cd4c5c1",
+      "adaptation": null
+    },
+    {
+      "resource": "9D",
+      "caption": "Война",
+      "file": "assets/buttons/9d.bin",
+      "size": 256,
+      "sha256": "6989bb093e5f9c09e0151f53cfeaf1df8e93908e113c3c876acf5f29fd0b9217",
+      "source_cd_sha256": "9589f20325e02475bb0c3681e490569648c7856ebe313fe70f494074c04bd3a3",
+      "adaptation": null
+    },
+    {
+      "resource": "9E",
+      "caption": "Хариз",
+      "file": "assets/buttons/9e.bin",
+      "size": 256,
+      "sha256": "82e49e0a9ebd9ceabeff638c2ee60565fd9d2c3b68f7a38a56d9fa633ab452de",
+      "source_cd_sha256": "3f1b5bc6ef644832f1f645fab04f725b9d57775eef4f1144009dd924dcb33528",
+      "adaptation": null
+    },
+    {
+      "resource": "9F",
+      "caption": "Лет",
+      "file": "assets/buttons/9f.bin",
+      "size": 256,
+      "sha256": "860a1d709469655caa6610a3498c0e0fff7b3e67ab83740fbd5a9941dc7665fb",
+      "source_cd_sha256": "1a801d84d53a4624793310c925d9ba10c137002aa1b58683654d922b1f1a08cb",
+      "adaptation": null
+    },
+    {
+      "resource": "1A",
+      "caption": "Ходов",
+      "file": "assets/buttons/1a.bin",
+      "size": 128,
+      "sha256": "1adc55cd974b646200e266ae15e7b0105636d63e06bb7ed40a9e9175c5dff974",
+      "source_cd_sha256": "829e58622aabf0e66b0e386824e770a7b6fc9ce9e53e0e2e2241c14ef6cdb09a",
+      "adaptation": {
+        "layout": "two-line native 16x16",
+        "lines": [
+          "хо",
+          "дов"
+        ],
+        "font_source": "translation/menu-font.json",
+        "font_source_sha256": "afcb4a59bfd15759db56a316df4efb5acc54f71fd9967e02253487e03380b178"
+      }
+    },
+    {
+      "resource": "BE",
+      "caption": "Состав",
+      "file": "assets/buttons/be.bin",
+      "size": 256,
+      "sha256": "e8865aa9501735df69de4808a905683c0b646e8def5406ffc4fb3a93a9a51611",
+      "source_cd_sha256": "e9b79bea05dd15ef74e284beeefd3ea1efbe3cab66384e59163629344a908543",
+      "adaptation": null
+    },
+    {
+      "resource": "BF",
+      "caption": "Речь",
+      "file": "assets/buttons/bf.bin",
+      "size": 256,
+      "sha256": "0f5064f755ebc0a7a648893b8d069711238802720f7d0b770a1c2aed5f7aae36",
+      "source_cd_sha256": "a5b6824d577d03df0df53ff89b7bf98ac90c81770070f057b6ef3fbd16fc74f6",
+      "adaptation": null
+    },
+    {
+      "resource": "C0",
+      "caption": "Ход",
+      "file": "assets/buttons/c0.bin",
+      "size": 256,
+      "sha256": "c124d048e328f92ab09cdd0c3c24a2ddaaafc13bbc1abc4f746e2d0961cf2437",
+      "source_cd_sha256": "da5f0fac85b2ab56ae20f2917074e4e0a5be02d5ca8b0cd8c6c0f8c570fda2d5",
+      "adaptation": null
+    },
+    {
+      "resource": "C1",
+      "caption": "Погоня",
+      "file": "assets/buttons/c1.bin",
+      "size": 256,
+      "sha256": "a461e61438552c02d7ee71770e60a365eaf4d53dbf601ce7e52549221a40652f",
+      "source_cd_sha256": "f1c995f9d7b04660ab14eed81fb8fae26ed83f73098416de36ed414921389786",
+      "adaptation": null
+    },
+    {
+      "resource": "C2",
+      "caption": "Атака",
+      "file": "assets/buttons/c2.bin",
+      "size": 256,
+      "sha256": "7ee39f4cd7c2ae4a2fe6b93019a03672ed3b0e668d095454d8363ba2298843da",
+      "source_cd_sha256": "78d0230b882ebc50e8d7daf0d5010b1520fd7a386b95f8fe96f74bfca415025f",
+      "adaptation": null
+    },
+    {
+      "resource": "C3",
+      "caption": "Засада",
+      "file": "assets/buttons/c3.bin",
+      "size": 256,
+      "sha256": "512c3031ce0a8a9f3011f5ac918e2be91a67264178c6e7f54c2843344ca978d2",
+      "source_cd_sha256": "8646b2c5f166ded65a43b383fa15ec7df641003d3421beccbd7ef23995330e56",
+      "adaptation": null
+    },
+    {
+      "resource": "D1",
+      "caption": "Действ",
+      "file": "assets/buttons/d1.bin",
+      "size": 256,
+      "sha256": "bea28c4ac7a15b243799fab35b5d9789b71ba074fb9be838cc242bfdb1b76652",
+      "source_cd_sha256": "cc4ba6497f3f6db132efe1cfa2d1cea46c1b51965d2ef24145e78f2260aa80a8",
+      "adaptation": null
+    },
+    {
+      "resource": "D2",
+      "caption": "Дух",
+      "file": "assets/buttons/d2.bin",
+      "size": 256,
+      "sha256": "7752d81b7e1af362305ca0eb0ce639a80dd5f40e982ea793922eb5ae26c6bcbc",
+      "source_cd_sha256": "e51a1485ecb03be3a9babedcf67fb274413296d8050bddf482e2aa6473747cc3",
+      "adaptation": null
+    },
+    {
+      "resource": "ED",
+      "caption": "Имя",
+      "file": "assets/buttons/ed.bin",
+      "size": 384,
+      "sha256": "eab5c6e5854fe6b8e211d888cd775a802bbead09baffd2f00c7f8dbc0bcf9b95",
+      "source_cd_sha256": "a6ccb73ea5d7275703ed894d0d7a39a48634d6897ed6fb3a5a5610df9b311721",
+      "adaptation": null
+    },
+    {
+      "resource": "EE",
+      "caption": "Пл|Вн|Лд|Об",
+      "file": "assets/buttons/ee.bin",
+      "size": 512,
+      "sha256": "245a2b07161f164c4f60a0906703268ae33856236a7d17aa5d0f0008c2cc8a36",
+      "source_cd_sha256": "e5b59084bb6e87be7fbdd9f69806da6ff0ac15106d5f756e67c046104569ea2f",
+      "adaptation": null
+    },
+    {
+      "resource": "EF",
+      "caption": "Здрав",
+      "file": "assets/buttons/ef.bin",
+      "size": 256,
+      "sha256": "3e9008ce70ccc49d71c4324cae51008371eec0b43c99920e651a18ded7156f11",
+      "source_cd_sha256": "75b9b4988b2023b0da421af9697267d84fef42191c2528bfbc96aa12f21dc95f",
+      "adaptation": null
+    },
+    {
+      "resource": "F8",
+      "caption": "Ход",
+      "file": "assets/buttons/f8.bin",
+      "size": 256,
+      "sha256": "c124d048e328f92ab09cdd0c3c24a2ddaaafc13bbc1abc4f746e2d0961cf2437",
+      "source_cd_sha256": "d0aa99930745ce9337b227e659bf669692e85a566d5f302d483eb2f8cf418c53",
+      "adaptation": null
+    },
+    {
+      "resource": "D5",
+      "caption": "Атака",
+      "file": "assets/buttons/d5.bin",
+      "size": 256,
+      "sha256": "7ee39f4cd7c2ae4a2fe6b93019a03672ed3b0e668d095454d8363ba2298843da",
+      "source_cd_sha256": "baf39146fe8d8da898533a98c807941fe1c888e93a8a78c9196e8eb585cd0485",
+      "adaptation": null
+    },
+    {
+      "resource": "D6",
+      "caption": "Приказ",
+      "file": "assets/buttons/d6.bin",
+      "size": 256,
+      "sha256": "aaecacdbe1cb18fe465dc0377e76c6c120641fda1ed2324a4cb129118fe35577",
+      "source_cd_sha256": "51dfdde51b52529281f612ca89049c62d4a96e619aab7cbbc0b9134a0026dcad",
+      "adaptation": null
+    },
+    {
+      "resource": "FB",
+      "caption": "Действ",
+      "file": "assets/buttons/fb.bin",
+      "size": 128,
+      "sha256": "f5272e5c70d188fa7e36b1027f585691170094a8ce7b92655fa5ab62e97a697e",
+      "source_cd_sha256": "e51d1d1c9303750296371aa9ef54d994e9b19a1eaf8c78250ffd5d2466c3f6f2",
+      "adaptation": {
+        "layout": "two-line native 16x16",
+        "lines": [
+          "дей",
+          "ств"
+        ],
+        "font_source": "translation/menu-font.json",
+        "font_source_sha256": "afcb4a59bfd15759db56a316df4efb5acc54f71fd9967e02253487e03380b178"
+      }
+    },
+    {
+      "resource": "C4",
+      "caption": "Припас",
+      "file": "assets/buttons/c4.bin",
+      "size": 256,
+      "sha256": "d8dd011979d280f3dbbd3b73c40145c0cf6fe3c20054a3718c3d0d3a203764a4",
+      "source_cd_sha256": "b0f6538d2143ec108243bf383b00d1c17e8d423a0f1d98e448c92da1efa01f4f",
+      "adaptation": null
+    },
+    {
+      "resource": "C5",
+      "caption": "Отход",
+      "file": "assets/buttons/c5.bin",
+      "size": 256,
+      "sha256": "66e377d12bcaeb4cf73c2ab9b4c20b4d358b0f94549db8fe597a7c3e544b2f66",
+      "source_cd_sha256": "a7f42a2e30b622f018d4c4fe41a9f4864abcae40e90367635573a104887cf74e",
+      "adaptation": null
+    },
+    {
+      "resource": "C6",
+      "caption": "Авто",
+      "file": "assets/buttons/c6.bin",
+      "size": 256,
+      "sha256": "9a64fed7e03535da5e347d7dca81374e50c86411bf635761ca274f72c555d062",
+      "source_cd_sha256": "eef391fb69e8d295d948f23775475371282a840a576aa353777ab000d4e2a93c",
+      "adaptation": null
+    },
+    {
+      "resource": "C7",
+      "caption": "Ждать",
+      "file": "assets/buttons/c7.bin",
+      "size": 256,
+      "sha256": "f6c8192e29e599db7a3785794b0bd7842ea38dd696765febb4ccf9cc8a6cb1f5",
+      "source_cd_sha256": "3a24d8282254d3223586c95e7e82bcf385f89fabc545d0e01b15a5a208877ff9",
+      "adaptation": null
+    },
+    {
+      "resource": "C8",
+      "caption": "Вербов",
+      "file": "assets/buttons/c8.bin",
+      "size": 256,
+      "sha256": "0d63b70b5e029409b6db8ef05e0d7a9ed7702b06e0270e7270baee6c55c8724f",
+      "source_cd_sha256": "d5afed0a611095573b1fcc18a783adced12e5a586aeab388e221df20437fb1f8",
+      "adaptation": null
+    },
+    {
+      "resource": "C9",
+      "caption": "Сдать",
+      "file": "assets/buttons/c9.bin",
+      "size": 256,
+      "sha256": "8556e31c9307394f962af60af3d72f74183d63fa76d87ae1d33d8cf67005b70a",
+      "source_cd_sha256": "aedd94ac238b24e6079ced83e2c99455bbf1d05a59dccb06bbc8e8092b3971d4",
+      "adaptation": null
+    },
+    {
+      "resource": "CA",
+      "caption": "Перем",
+      "file": "assets/buttons/ca.bin",
+      "size": 256,
+      "sha256": "9013a0646f0dc09f92bddf323a56c0f59c7af838800e9b98b7f98ffb032cdcdb",
+      "source_cd_sha256": "bbc0538dc87c280661cb1c545048c090f066c27008ebdbb27ec13aa406ec1441",
+      "adaptation": null
+    },
+    {
+      "resource": "CB",
+      "caption": "Легион",
+      "file": "assets/buttons/cb.bin",
+      "size": 256,
+      "sha256": "8d15dcd4f782c3abf03f9b5c27633b177bd834ea5594ab85c6dab2e3ef0a30bf",
+      "source_cd_sha256": "0f6a6a8f7f92c371457e566246d83c7ec3e9dae6f677e0387ce280536cbdfdd1",
+      "adaptation": null
+    },
+    {
+      "resource": "CC",
+      "caption": "Люди",
+      "file": "assets/buttons/cc.bin",
+      "size": 256,
+      "sha256": "e2f9cf4a2cc8cc708892c6bb31d0411fb95887107b5770e1624aa823127926e6",
+      "source_cd_sha256": "d1bb61901228cadc6da30dc58ee37378657f0bb1c36f70f074db77cdc6827ad5",
+      "adaptation": null
+    },
+    {
+      "resource": "CD",
+      "caption": "Поле",
+      "file": "assets/buttons/cd.bin",
+      "size": 256,
+      "sha256": "56fa3bb8e6df26ecf4ce3ced88961e849b067eb29b125aace25aa77c131f375c",
+      "source_cd_sha256": "4372ae77213216a70d6c7b49d7393f8f781b2eed9c1d33293517ecfc7b658cae",
+      "adaptation": null
+    },
+    {
+      "resource": "CE",
+      "caption": "Враг",
+      "file": "assets/buttons/ce.bin",
+      "size": 256,
+      "sha256": "93407d14dec0d3d2edea04cc92b471306698f6e6c0dde0d23be329e30fd013ff",
+      "source_cd_sha256": "8fd7a3a9222455c3d44c35774564ed5235194e96366f924ecbaad775577f9e8c",
+      "adaptation": null
+    },
+    {
+      "resource": "CF",
+      "caption": "Свои",
+      "file": "assets/buttons/cf.bin",
+      "size": 256,
+      "sha256": "202899bf810e7cece4b62794cef11329260b0f53035a3faa222ad4d86ab35402",
+      "source_cd_sha256": "99a002cde5a988e83b9fe2717b50c91f66b4c0cfd308944c612b6c4bba71e29d",
+      "adaptation": null
+    },
+    {
+      "resource": "D0",
+      "caption": "Ранг",
+      "file": "assets/buttons/d0.bin",
+      "size": 256,
+      "sha256": "8ff809e7c76791038e7ff0d8ed4316752c95341e63ed0cf27ea1d194130b5e79",
+      "source_cd_sha256": "5a833b6c848b6815540be2c7febd459796270d2f2f05159ce776f9c6aa8a38a6",
+      "adaptation": null
+    },
+    {
+      "resource": "D3",
+      "caption": "Войска",
+      "file": "assets/buttons/d3.bin",
+      "size": 256,
+      "sha256": "b605f1de664635bedc702bc062cc2503bac98cad247699912ab619c925b40162",
+      "source_cd_sha256": "849be2907157ebaad9e78b710fc289540914cf497a7493241e7c15ce9bb4c236",
+      "adaptation": null
+    },
+    {
+      "resource": "D4",
+      "caption": "Оружие",
+      "file": "assets/buttons/d4.bin",
+      "size": 256,
+      "sha256": "400dfc78ee39327f4bfdc8547c488bd4f6b27ce91472711b3563650bc134da01",
+      "source_cd_sha256": "8e24c17ab5bbea58b3dd1e55663178e34feb6a767712e64ffae620d6e8f54102",
+      "adaptation": null
+    },
+    {
+      "resource": "D7",
+      "caption": "Ближ",
+      "file": "assets/buttons/d7.bin",
+      "size": 256,
+      "sha256": "c2fcba3ce3a6a7fc4449cd47db57aa3b20034d10b288789ba39723d545672c89",
+      "source_cd_sha256": "b2c16be3319af3386c42e75a4ed06efb219341bd4f0a671f17bd446ac13bc291",
+      "adaptation": null
+    },
+    {
+      "resource": "D8",
+      "caption": "Даль",
+      "file": "assets/buttons/d8.bin",
+      "size": 256,
+      "sha256": "bf36ed358a51c2ea4f8174b3c23a0c83121ef0646841d56101871893c53410ea",
+      "source_cd_sha256": "2177f8ed82fe46f965b2217a55528c9c2dbe49b8df91e28007c75b0acf1f6676",
+      "adaptation": null
+    },
+    {
+      "resource": "D9",
+      "caption": "Натиск",
+      "file": "assets/buttons/d9.bin",
+      "size": 256,
+      "sha256": "2b4f4090eab7adb6e5ac5125916324432fa31e37b6a3d05f8528d8c74f979684",
+      "source_cd_sha256": "bdabcab9f12b67cd3712ea244448ff6ee6e241043b2281d7888ee83f5e6fcaa5",
+      "adaptation": null
+    },
+    {
+      "resource": "DA",
+      "caption": "Вести",
+      "file": "assets/buttons/da.bin",
+      "size": 256,
+      "sha256": "b435a8da6f306403c9bab1c4bd332bdc4a6a999db79970f970e1a11806af6b6b",
+      "source_cd_sha256": "eacce4d81542c76f4a82a905a86c85a5349d40c3addf3545d19e509d185864e5",
+      "adaptation": null
+    },
+    {
+      "resource": "DB",
+      "caption": "Ободр",
+      "file": "assets/buttons/db.bin",
+      "size": 256,
+      "sha256": "53ca06751e20612e1418c659ac93eca3517162cb542d54f1d442c754ca08edde",
+      "source_cd_sha256": "a654e180bb88b0b8a0edaffcdbc872220f97db4308a02fe6992d53afb9690034",
+      "adaptation": null
+    },
+    {
+      "resource": "F7",
+      "caption": "Учить",
+      "file": "assets/buttons/f7.bin",
+      "size": 256,
+      "sha256": "9762c2030e48f944ae1cba7b522dcacbe9a97356806e77919e5ef328fa3c7086",
+      "source_cd_sha256": "61c43d53231a38d08ed4faebe988cf5a74c2c7fb6fcb20bd837abf4deac6cc56",
+      "adaptation": null
+    },
+    {
+      "resource": "F9",
+      "caption": "Юнит",
+      "file": "assets/buttons/f9.bin",
+      "size": 256,
+      "sha256": "fd5ce2b90b49c76edbdb5abe0c57d0f6621a3f98497e4ba0940816684ddd6ff4",
+      "source_cd_sha256": "50d0a14a03ecf0a4af78fb39c7ee5647910886f556f650d64ebab59890b84c4b",
+      "adaptation": null
+    },
+    {
+      "resource": "FA",
+      "caption": "Дух",
+      "file": "assets/buttons/fa.bin",
+      "size": 256,
+      "sha256": "d889876d41b974043369f34b874d56dff2cc2b254c0d4fcd87997c8a625c5e0d",
+      "source_cd_sha256": "601eb3a6aa87d55cd2132d51b21904b27c4cb936eb66394457ef3f2f5818c87b",
+      "adaptation": null
+    },
+    {
+      "resource": "E8",
+      "caption": "1-й",
+      "file": "assets/buttons/e8.bin",
+      "size": 192,
+      "sha256": "67f90531fbb289d10bbd7e499606ded3057edabe027d5d5a9b6fc9b200a163c4",
+      "source_cd_sha256": "4efe9af480d230e6b3dc23012ba734c21f1368229d170e2726a35a499a52efd9",
+      "adaptation": null
+    },
+    {
+      "resource": "E9",
+      "caption": "2-й",
+      "file": "assets/buttons/e9.bin",
+      "size": 192,
+      "sha256": "1fdf17707bea3a3cebf3c486fe8974483f277097f1b33c3fb4e76b6bcfbcad3e",
+      "source_cd_sha256": "fe7e4849fc2c8ceee88d4de534363965fc991e153ff769cc34340124900466b6",
+      "adaptation": null
+    },
+    {
+      "resource": "EA",
+      "caption": "3-й",
+      "file": "assets/buttons/ea.bin",
+      "size": 192,
+      "sha256": "919b73deb76f4506b788d2cecd6ee7277475caaba638882a57bd8e3705386c45",
+      "source_cd_sha256": "5c0dd6816e767f2ad4c4c6f65af0f4a813d8e51acb2cb5b4fdefd4690ea87ada",
+      "adaptation": null
+    },
+    {
+      "resource": "EB",
+      "caption": "4-й",
+      "file": "assets/buttons/eb.bin",
+      "size": 192,
+      "sha256": "fbbdbbfd70bfcd7d3bbde6964ce3bcaf023e18bf5438f59c228a7f4afc95b48a",
+      "source_cd_sha256": "6e5f5751837f6402584502a833081645a477625063b2fed711f3ce3140e76db9",
+      "adaptation": null
+    },
+    {
+      "resource": "EC",
+      "caption": "5-й",
+      "file": "assets/buttons/ec.bin",
+      "size": 192,
+      "sha256": "d481727d403f028b5d1aed58bea9285381f22cd339fea47e51ff390cd43a5579",
+      "source_cd_sha256": "27d55ac14eeb09cf8ba66559483c4bd545434cf654ec11b0e0358dcff5579754",
+      "adaptation": null
+    },
+    {
+      "resource": "94",
+      "caption": "Сохр",
+      "file": "assets/buttons/94.bin",
+      "size": 256,
+      "sha256": "3a05c7da1806ac28fd5447e5576190b0f22e4cfe1a226d11c48229f2833ea3be",
+      "source_cd_sha256": "22e2b94e8ac8d7335f62e0b7acbdd7b969d9f7cfbe7f5b04fec14c41fcbcb347",
+      "adaptation": null
+    },
+    {
+      "resource": "95",
+      "caption": "Выход",
+      "file": "assets/buttons/95.bin",
+      "size": 256,
+      "sha256": "eeb963a3eb91127601ebb9a51eb53a09abe30efff2de8129c53ee43f6ed4733e",
+      "source_cd_sha256": "73c42bbdef218fc2754b2c5bd0b8af1202e6a06e43f7bac821bfbbc8002386ef",
+      "adaptation": null
+    },
+    {
+      "resource": "BD",
+      "caption": "ИИ",
+      "file": "assets/buttons/bd.bin",
+      "size": 256,
+      "sha256": "ef0a7e59d5d2d5434dfc2391a3c16bef3b3e451a6ec942f46932b68bd6277d40",
+      "source_cd_sha256": "f2028495ea8b546a0cd128ba077446278fa042841562c6aab5e99ab03340c4b1",
+      "adaptation": null
+    },
+    {
+      "resource": "18",
+      "caption": "Атк",
+      "file": "assets/buttons/18.bin",
+      "size": 128,
+      "sha256": "45170e661c173a0b8541bb8422e83aeabc815cb784287c2a19e79eb9df4078f2",
+      "source_cd_sha256": "ee9def5835ed0da28da030acc85db6693f9401d624c830f5304c1dfc32e3b796",
+      "adaptation": null
+    },
+    {
+      "resource": "19",
+      "caption": "Защ",
+      "file": "assets/buttons/19.bin",
+      "size": 128,
+      "sha256": "ab02d851a721e2be3160f65fffcab8db21368e07225c3a74183ac403d2d0d51d",
+      "source_cd_sha256": "15c8f8931aebfecb87aaf65a908436985500e1a67105763d8dd1b1bee4ae49fc",
+      "adaptation": null
+    },
+    {
+      "resource": "42",
+      "caption": "Готово",
+      "file": "assets/buttons/42.bin",
+      "size": 256,
+      "sha256": "42a94cb484076cdeffd3c2385607e22956577c9775b5b8305a5556b4be75ccb9",
+      "source_cd_sha256": "f79d3c1f8c3a9871fc47e55090f6c8a823956581b03372f49aa6cceedaa59f27",
+      "adaptation": null
+    },
+    {
+      "resource": "E7",
+      "caption": "против",
+      "file": "assets/buttons/e7.bin",
+      "size": 192,
+      "sha256": "79ca9d6e6d98df9137d6eea3eb7cce90ce409963581b501630cafbf8c8cf5e72",
+      "source_cd_sha256": "ffe38a47431d18e1609fec2b25792a6406ca734d91ae12c150c910d95243d254",
+      "adaptation": null
+    },
+    {
+      "resource": "DC",
+      "caption": "Лесть",
+      "file": "assets/buttons/dc.bin",
+      "size": 256,
+      "sha256": "4588d19b5b1ded6398b6f5b0e95fce373b147f6b57ad3b5baa9fcdcc1c278291",
+      "source_cd_sha256": "f1c68ddd3452c9b5dae1d78b47c750b7c6f379a95517ce3ef6683917856c61ab",
+      "adaptation": null,
+      "origin": "sega-cd-harem",
+      "font_source": "mega-drive/translation/menu-font.json"
+    },
+    {
+      "resource": "DD",
+      "caption": "Образ",
+      "file": "assets/buttons/dd.bin",
+      "size": 256,
+      "sha256": "7f7954a7604693395f7d7f3ef82d179705cbe54574bd57d8f9ec292bc715f06c",
+      "source_cd_sha256": "475b5541217b19afd3e388733cc4f0fd3c73126ae49b3ef96f0eedb8f768a6a3",
+      "adaptation": null,
+      "origin": "sega-cd-harem",
+      "font_source": "mega-drive/translation/menu-font.json"
+    },
+    {
+      "resource": "DE",
+      "caption": "Любовь",
+      "file": "assets/buttons/de.bin",
+      "size": 256,
+      "sha256": "d7857ce5f7c27f7450d3bb03000d9517e3ca4166bc33d3c027268db52ca947cd",
+      "source_cd_sha256": "76eef587ab04a2a3abca42179523af35df012f5f1bf14d16d808d617dc8b6fcb",
+      "adaptation": null,
+      "origin": "sega-cd-harem",
+      "font_source": "mega-drive/translation/menu-font.json"
+    },
+    {
+      "resource": "DF",
+      "caption": "Дары",
+      "file": "assets/buttons/df.bin",
+      "size": 256,
+      "sha256": "9518d8c2186a55ff98059d49e6e512f1ab52348509f44d4d6fe80c1b8b343ee2",
+      "source_cd_sha256": "638247d7005740b0e7be58b6ef59acec49b3cae91767d614801dba239c34bd64",
+      "adaptation": null,
+      "origin": "sega-cd-harem",
+      "font_source": "mega-drive/translation/menu-font.json"
+    },
+    {
+      "resource": "E0",
+      "caption": "Совет",
+      "file": "assets/buttons/e0.bin",
+      "size": 256,
+      "sha256": "da500f693ef1737617745f94980b07eceb2b1093ee82e388673ecd9bd65813fc",
+      "source_cd_sha256": "611eafd731fa6136834eb03c6c3f6f8d23ed68b369b0db4aab1f25c879ce549b",
+      "adaptation": null,
+      "origin": "sega-cd-harem",
+      "font_source": "mega-drive/translation/menu-font.json"
+    },
+    {
+      "resource": "E1",
+      "caption": "Уйти",
+      "file": "assets/buttons/e1.bin",
+      "size": 256,
+      "sha256": "2f88359f51c6918d184b50c3e99eab171af7b4a873c1387b16f237dfebbe3c8f",
+      "source_cd_sha256": "42b57fd7cfce5f05b733c12a10417b29cfcbd0919ed09e1e848188b38aaf5f31",
+      "adaptation": null,
+      "origin": "sega-cd-harem",
+      "font_source": "mega-drive/translation/menu-font.json"
+    }
+  ],
+  "deferred": []
+}

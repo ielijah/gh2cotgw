@@ -1,0 +1,658 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AA64",
+    "ja": "1番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 1\nверно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AAD0",
+    "ja": "\u001bKﾊﾞｯｸｱｯﾌﾟﾗﾑｶ-ﾄﾘｯｼﾞ\u001bH",
+    "ru": "Картридж памяти"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AAF4",
+    "ja": "\u001bKﾊﾞｯｸｱｯﾌﾟﾗﾑｶｰﾄﾘｯｼﾞ\u001bHｶﾞ\n使用ﾃﾞｷﾏｾﾝ",
+    "ru": "Картридж\nнедоступен"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AB2E",
+    "ja": "MEGA-CDﾉ\n\u001bKｺﾝﾄﾛ-ﾙ\u001bH画面ﾆ戻ﾘﾏｽ",
+    "ru": "Возврат\nв меню приставки"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AB82",
+    "ja": "\u001bKｹﾞｰﾑ\u001bH中､\u001bKﾃﾞｰﾀ\u001bHﾉ\u001bKｾｰﾌﾞ\n\u001bHｵﾖﾋﾞ\u001bKﾛｰﾄﾞ\u001bHｶﾞﾃﾞｷﾏｾﾝ",
+    "ru": "Запись и чтение\nсохранений\nнедоступны"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ABB4",
+    "ja": "初期化ｼﾅｵｼﾃ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Очистить\nпамять?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ABCA",
+    "ja": "\u001bKﾌｫｰﾏｯﾄ\u001bHｶﾞ\n違ｲﾏｽ",
+    "ru": "Неверный\nформат"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ABDE",
+    "ja": "\u001bKﾊﾞｯｸｱｯﾌﾟﾗﾑｶｰﾄﾘｯｼﾞｶﾞ\u001bH\n初期化ｻﾚﾃｲﾏｾﾝ",
+    "ru": "Картридж памяти\nне подготовлен"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC10",
+    "ja": "ﾄﾞﾉ\u001bKﾃﾞ-ﾀ\u001bHｦ\n\u001bKﾛｰﾄﾞ\u001bHｼﾏｽｶ?",
+    "ru": "Какую запись\nзагрузить?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC2C",
+    "ja": "ﾄﾞﾉ\u001bKﾃﾞ-ﾀ\u001bHﾆ\n\u001bKｾｰﾌﾞ\u001bHｼﾏｽｶ?",
+    "ru": "Куда\nсохранить?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC48",
+    "ja": "\u001bKｾｰﾌﾞﾃﾞｰﾀ\u001bHﾊｱﾘﾏｾﾝ",
+    "ru": "Нет сохранений"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC64",
+    "ja": "他ﾉ\u001bKﾃﾞ-ﾀ\u001bHﾓ消去ｼﾏｽｶ",
+    "ru": "Ещё\nудалить?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC9A",
+    "ja": "消去ｼﾃﾓﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Удалить?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ACAA",
+    "ja": "\u001bKﾌﾞﾛｯｸ\u001bH",
+    "ru": "Блок"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ACBC",
+    "ja": "ﾄﾞﾉ\u001bKﾃﾞ-ﾀ\u001bHｦ\n消去ﾏｽｶ?",
+    "ru": "Что\nудалить?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ACE8",
+    "ja": "\u001bKﾃﾞｰﾀ\u001bH",
+    "ru": "Запись"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ACF2",
+    "ja": "\u001bKﾌﾞﾛｯｸ\u001bH必要ﾃﾞｽ",
+    "ru": "Блоков нужно"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AD04",
+    "ja": "ﾄﾞﾉ\u001bKﾃﾞ-ﾀ\u001bHｦ消去ｼﾏｽｶ?\n",
+    "ru": "Какую запись\nудалить?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AD1C",
+    "ja": "\u001bKｾｰﾌﾞ\u001bHｼﾅｹﾚﾊﾞ\n\u001bKｹﾞｰﾑ\u001bHｶﾞﾃﾞｷﾏｽ",
+    "ru": "Можно играть\nбез сохранений"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AD3C",
+    "ja": "不要ﾅ\u001bKﾃﾞｰﾀ\u001bHｦ\n消去ｼﾃｸﾀﾞｻｲ",
+    "ru": "Удалите\nненужные записи"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AD72",
+    "ja": "\u001bKﾃﾞｰﾀ\u001bHｶﾞ書ｷ込ﾒﾃｲﾏｾﾝ\u001bW",
+    "ru": "Запись не удалась"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AD8A",
+    "ja": "\u001bKﾃﾞｰﾀ\u001bHｶﾞ書ｷ込ﾒﾃｲﾏｾﾝ\u001bW",
+    "ru": "Запись не удалась"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ADA2",
+    "ja": "\u001bKﾃﾞｰﾀ\u001bHｶﾞ見ﾂｶﾘﾏｾﾝ\u001bW",
+    "ru": "Запись не найдена"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ADB8",
+    "ja": "\u001bKﾊﾞｯｸｱｯﾌﾟﾗﾑｶｰﾄﾘｯｼﾞ\u001bH\nﾆ書ｷ込ﾒﾏｾﾝﾃﾞｼﾀ",
+    "ru": "Запись на картридж\nне удалась"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ADDE",
+    "ja": "\u001bKﾊﾞｯｸｱｯﾌﾟﾗﾑｶｰﾄﾘｯｼﾞ\u001bH\nﾆ書ｷ込ﾒﾏｾﾝ",
+    "ru": "Нельзя записать\nна картридж"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AE00",
+    "ja": "\u001bKﾃﾞｰﾀ\u001bHｦ読ﾐ込ﾒﾏｾﾝﾃﾞｼﾀ\n",
+    "ru": "Ошибка\nчтения записи"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4C96",
+    "ja": "･\u001bKﾁﾝｷﾞｽ･ﾊｰﾝ\u001bHﾉ雄飛",
+    "ru": "Чингисхан",
+    "max_columns": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4CB6",
+    "ja": "･\u001bKﾓﾝｺﾞﾙ高原\u001bHﾉ統一",
+    "ru": "Монголия",
+    "max_columns": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4CCA",
+    "ja": "戦争",
+    "ru": "Бой"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4CD6",
+    "ja": "人数",
+    "ru": "Люди"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4CDC",
+    "ja": "\u001bKｼﾅﾘｵ\u001bH",
+    "ru": "Сценарий"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4CE6",
+    "ja": "始ﾒｶﾗ",
+    "ru": "Игра"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4CF0",
+    "ja": "ﾄﾞｺｶﾗ\n決ﾒ直ｼﾏｽｶ",
+    "ru": "Что\nизменить?"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4D00",
+    "ja": "ｽﾍﾞﾃ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Всё\nверно?"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4D0E",
+    "ja": "戦闘ｦ\n見ﾏｽｶ",
+    "ru": "Показ\nбоя?"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4D2C",
+    "ja": "何人ﾃﾞ\n\u001bKﾌﾟﾚｲ\u001bHｼﾏｽｶ",
+    "ru": "Сколько\nигроков?"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4D44",
+    "ja": "ﾄﾞﾉ\u001bKｼﾅﾘｵ\u001bHｦ\n選択ｼﾏｽｶ",
+    "ru": "Выберите\nсценарий"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4D5A",
+    "ja": "大変ﾃﾞｽ\n\u001bKﾃﾞｰﾀ\u001bHｶﾞｺﾜﾚﾃｲﾏｽ",
+    "ru": "Ошибка\nзапись повреждена"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4D74",
+    "ja": "ﾖﾛｼｲﾃﾞｽﾅ?",
+    "ru": "Верно?"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4DAA",
+    "ja": "将    軍",
+    "ru": "Генерал"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4DC6",
+    "ja": "政治顧問",
+    "ru": "Советник"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4DD0",
+    "ja": "ｽﾍﾞﾃﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Всё верно?"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4E64",
+    "ja": " \u001bKｻｳﾝﾄﾞｳｪｱ\u001bHｦ聞ｸ",
+    "ru": "Слушать музыку"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4E76",
+    "ja": " \u001bH人物事典ｦ見ﾙ",
+    "ru": "Биографии"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4E86",
+    "ja": " \u001bKｹﾞｰﾑ\u001bHｦ再開ｽﾙ",
+    "ru": "Продолжить игру"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4E98",
+    "ja": " 新ｼｸ\u001bKｹﾞｰﾑ\u001bHｦ始ﾒﾙ",
+    "ru": "Новая игра"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4EE2",
+    "ja": "\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AAE6",
+    "ja": "\u001bKｾ-ﾌﾞ･ﾛ-ﾄﾞ\u001bH",
+    "ru": "Запись/чтен"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AB18",
+    "ja": "\u001bKｾｰﾌﾞ･ﾛ-ﾄﾞ\u001bHﾊﾃﾞｷﾏｾﾝ",
+    "ru": "Запись\nнедоступна"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AB4C",
+    "ja": "ｿﾚ以外ﾉ\n\u001bKﾎﾞﾀﾝ\u001bHｦ押ｽﾄ",
+    "ru": "Другая кнопка\nменю"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AB62",
+    "ja": "C\u001bKﾎﾞﾀﾝ\u001bHｦ押ｽﾄ\n\u001bKｹﾞｰﾑ\u001bHﾊ始ﾏﾘﾏｽ",
+    "ru": "Кнопка C\nначать игру"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC7A",
+    "ja": "\u001bKﾃﾞ-ﾀ名\u001bHｶﾞ不当ﾃﾞｽ\n消去出来ﾏｾﾝ",
+    "ru": "Неверное имя\nнельзя удалить"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ACD2",
+    "ja": "ｶ所分ﾉ容量ｦ\n確保ｼﾏｼﾀ",
+    "ru": "Место\nготово"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AD58",
+    "ja": "\u001bKｾｰﾌﾞ\u001bHﾆ必要ﾅRAMｶﾞ\nﾀﾘﾏｾﾝ",
+    "ru": "Мало ОЗУ\nдля записи"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4C7C",
+    "ja": "･世界帝国ﾍﾉ道",
+    "ru": "Покорить мир",
+    "max_columns": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4C8A",
+    "ja": "･元朝ﾉ成立",
+    "ru": "Эпоха Юань",
+    "max_columns": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4CAA",
+    "ja": "･源平ﾉ争乱",
+    "ru": "Гэмпэй",
+    "max_columns": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4CD0",
+    "ja": "勢力",
+    "ru": "Клан"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4D1A",
+    "ja": "他国ﾉ戦争ｦ\n見ﾏｽｶ",
+    "ru": "Чужие\nбои?"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4DDE",
+    "ja": "将軍ﾊ以上",
+    "ru": "Это все"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4E00",
+    "ja": "政治顧問ﾅｼ",
+    "ru": "Без совета"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4E22",
+    "ja": "政治顧問ﾊ\n誰ﾆｲﾀｼﾏｽｶ",
+    "ru": "Выберите\nсоветника"
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4EB0",
+    "ja": "何ｦ\n行ｲﾏｽｶ",
+    "ru": "Выберите"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D1F6",
+    "ja": "\u001bKﾃﾑｼﾞﾝ\u001bH",
+    "ru": "Темучин",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Temujin"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D210",
+    "ja": "\u001bKﾎﾞｵﾙﾁｭ\u001bH",
+    "ru": "Боорчу",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Borchu"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D22A",
+    "ja": "\u001bKﾒｸﾞｼﾞﾝｾｳﾙﾄ\u001bH",
+    "ru": "Мегучин",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Megujin Ult"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D244",
+    "ja": "\u001bKｸﾄﾃﾑﾙ\u001bH",
+    "ru": "Куттмал",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Kuttemul"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D25E",
+    "ja": "\u001bKﾃﾞｲ･ｾﾁｪﾝ\u001bH",
+    "ru": "Дай-Сечен",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Dai Sechen"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D292",
+    "ja": "\u001bKｱﾗｸｼｭ\u001bH",
+    "ru": "Алакуш",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Alagosh"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D2C6",
+    "ja": "\u001bKﾀﾙｸﾀﾞｲ\u001bH",
+    "ru": "Таргутай",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Targutai"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D2FA",
+    "ja": "\u001bKｼﾞｬﾑｶ\u001bH",
+    "ru": "Джамуха",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Jamuga"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D32E",
+    "ja": "\u001bKﾄｵﾘﾙ･ﾊｰﾝ\u001bH",
+    "ru": "Тогорил-хан",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Togorul Khan"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D348",
+    "ja": "\u001bKｼﾞｬｶﾞ･ｶﾞﾝﾎﾞ\u001bH",
+    "ru": "Джахагамбу",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Diagambou"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D362",
+    "ja": "\u001bKﾄｸﾄｱ･ﾍﾞｷ\u001bH",
+    "ru": "Тохтоа-беки",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Toqtoa Beki"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D37C",
+    "ja": "\u001bKﾀﾞｲﾙ･ｳｽﾝ\u001bH",
+    "ru": "Даир-Усун",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Dai Usun"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D396",
+    "ja": "\u001bKｻﾁｬ･ﾍﾞｷ\u001bH",
+    "ru": "Сачу-бэки",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Sachu Beki"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D3B0",
+    "ja": "\u001bKﾀｲﾁｭ\u001bH",
+    "ru": "Тайчу",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Taitu"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D3CA",
+    "ja": "\u001bKﾀﾞｲﾄﾞﾌﾙ\u001bH",
+    "ru": "Дайдахур",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Dai Doguru"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D3FE",
+    "ja": "\u001bKｸﾄﾞｶ･ﾍﾞｷ\u001bH",
+    "ru": "Худуха-беки",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Qudqa Beki"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D432",
+    "ja": "\u001bKﾌﾞｲﾙｸ･ﾊｰﾝ\u001bH",
+    "ru": "Буюрук-хан",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Buiruk Khan"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D44C",
+    "ja": "\u001bKｹｸｾｳｻﾌﾟﾗｸ\u001bH",
+    "ru": "Коксу",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Keks Saplak"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D466",
+    "ja": "\u001bKﾁﾑｽｲ\u001bH",
+    "ru": "Чимсуй",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Chimsuyi"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D49A",
+    "ja": "\u001bKﾀﾞﾔﾝ･ﾊｰﾝ\u001bH",
+    "ru": "Таян-хан",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Tayan Khan"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A908",
+    "ja": "15番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 15\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A922",
+    "ja": "14番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 14\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A93C",
+    "ja": "13番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 13\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A956",
+    "ja": "12番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 12\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A970",
+    "ja": "11番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 11\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A98A",
+    "ja": "10番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 10\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A9A4",
+    "ja": "9番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 9\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A9BC",
+    "ja": "8番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 8\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A9D4",
+    "ja": "7番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 7\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A9EC",
+    "ja": "6番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 6\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AA04",
+    "ja": "5番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 5\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AA1C",
+    "ja": "4番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 4\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AA34",
+    "ja": "3番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 3\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AA4C",
+    "ja": "2番ﾉ\u001bKﾃﾞｰﾀ\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "Запись 2\nВерно?"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AE18",
+    "ja": "\u001bKﾌﾟﾚｲ\u001bHｽﾙﾆﾊ､最低ﾃﾞ\n118\u001bKﾌﾞﾛｯｸ\u001bH必要ﾃﾞｽ",
+    "ru": "Для игры нужно\nне менее 118 блоков",
+    "kind": "memory_requirement",
+    "max_columns": 22,
+    "max_lines": 2
+  }
+]

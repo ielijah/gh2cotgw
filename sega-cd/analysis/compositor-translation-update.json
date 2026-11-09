@@ -1,0 +1,13 @@
+{
+  "applied_total": 413,
+  "new_fields": 32,
+  "pending_included": 6,
+  "pairs": 547,
+  "capacity": 2444,
+  "version": "0.0.5-experimental",
+  "emulator_run": false,
+  "checks": [
+    "verify.py",
+    "test_harem_layout.py"
+  ]
+}

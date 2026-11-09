@@ -1,0 +1,148 @@
+{
+  "entries": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "6764",
+      "ja": "元朝ﾉ将軍｡\n\u001bKﾌﾋﾞﾗｲ･ﾊｰﾝ\u001bH配下ﾉ猛将ﾉ一人｡",
+      "ru": "Полководец Юань.\nХрабрый воин Хубилая.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "6C30",
+      "ja": "\u001bKﾌﾋﾞﾗｲ･ﾊｰﾝ\u001bHﾉ武将｡\n\u001bKｽﾌﾞﾀｲ\u001bHﾉ子\u001bKｳﾘｬﾝﾊﾀｲ\u001bHﾉ息子｡",
+      "ru": "Воевода Хубилая.\nСын Урянхатая,\nвнук Субэдэя.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "79A6",
+      "ja": "高麗第22代国王｡\n武人ﾆ実権ｦ握ﾗﾚ､意ﾉﾏﾏﾆ操ﾗﾚﾀ｡\n在位1204〜11年｡",
+      "ru": "22-й король Корё.\nВоенные правили им.\n1204-1211.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "7DC6",
+      "ja": "\u001bKｶﾁｳﾝ･ｴﾙﾁ｡\nﾃﾑｼﾞﾝ\u001bHﾉ弟｡\n\u001bKﾓﾝｺﾞﾙ\u001bH統一ﾉ前ﾆ､早逝ｼﾀ｡",
+      "ru": "Брат Темучина Хачиун.\nУмер до единства\nмонголов",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "8A16",
+      "ja": "\u001bKﾌﾗﾝｽ\u001bHﾉ貴族｡\n\u001bKｼｬﾝﾊﾟｰﾆｭ\u001bHﾉ継承ｦ争ｲ､\n14年ﾉ長ｷﾆﾜﾀｯﾃ戦争ｽﾙ｡",
+      "ru": "Дворянин Франции.\n14 лет воевал\nза наследство\nШампани.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "9B2C",
+      "ja": "\u001bKｵﾝｸﾞｯﾄ部族長｡\nﾌﾋﾞﾗｲ･ﾊｰﾝ\u001bHﾉ子\u001bKｺｺﾁｭｳ\u001bHｦﾖｸ補佐ｼﾀ｡",
+      "ru": "Вождь онгутов.\nПомогал Кокэчу,\nсыну Хубилая.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "DBB4",
+      "ja": "若ｸｼﾃ\u001bKﾓｽｸﾜ大公\u001bHﾄﾅﾘ､\n\u001bKﾓｽｸﾜ大公国\u001bHﾉ基礎ｦ固ﾒﾀ｡\n在位1283〜1303年｡",
+      "ru": "С юности князь Москвы.\nУкрепил княжество.\nПравил в 1283-1303.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "B974",
+      "ja": "\u001bKﾌﾋﾞﾗｲ･ﾊｰﾝ\u001bHﾉ兄\u001bKﾓﾝｹ･ﾊｰﾝ\u001bHﾉ息子｡\n\u001bKﾌﾋﾞﾗｲ･ﾊｰﾝ\u001bHﾆ逆ﾗｯﾃ､\n1276年､｢\u001bKｼﾘｷﾞ\u001bHﾉ乱｣ｦ起ｺｽ｡",
+      "ru": "Сын Мункэ, старшего\nбрата Хубилая.\nВ 1276 году поднял\nмятеж против Хубилая.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "EA62",
+      "ja": "\u001bKｲｽﾗﾑ\u001bHﾉ伝記作者｡\n1261年ﾖﾘ\u001bKｼﾘｱ\u001bHﾉ首席裁判官ﾆ\n任命ｻﾚﾀ｡",
+      "ru": "Исламский биограф.\nС 1261 года - главный\nсудья Сирии.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32A16",
+      "ja": "\u001bKｱﾘｸｶﾔ\u001bH",
+      "ru": "Ариг-Хая",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Arikkaya",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2E78C",
+      "ja": "\u001bKｶﾁｳﾝ\u001bH",
+      "ru": "Хачиун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Qaciun",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15732",
+      "ja": "\u001bKｶﾁｳﾝ\u001bH",
+      "ru": "Хачиун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Qaciun",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15322",
+      "ja": "\u001bKｱﾘｸｶﾔ\u001bH",
+      "ru": "Ариг-Хая",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Arikkaya",
+      "max_columns": 12,
+      "max_lines": 1
+    }
+  ],
+  "translated_fields": 610,
+  "paired_glyphs": 667,
+  "checks": [
+    "verify.py",
+    "test_text_encoding.py"
+  ],
+  "emulator": {
+    "core": "Genesis Plus GX",
+    "cold_boot": true,
+    "frames": 29000,
+    "route": "arikkaya-review-inputs.json",
+    "screenshot": "arikkaya-biography-610.png",
+    "visually_verified": [
+      "INIT.PRG;1:15322",
+      "INIT.PRG;1:6764"
+    ],
+    "limitation": "Other newly translated biographies and Khachiun name slots were checked statically, not opened individually."
+  },
+  "translation_sha256": "57f1e017a855680ff0c8ba6f9841462d6a81ba36e5f9017547f2b9eed3a0b567"
+}

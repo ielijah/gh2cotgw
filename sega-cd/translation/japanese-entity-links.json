@@ -1,0 +1,242 @@
+[
+  {
+    "ja": "ﾃﾑｼﾞﾝ",
+    "md_key": "Temujin",
+    "ru": "Темучин",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D1F6",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾎﾞｵﾙﾁｭ",
+    "md_key": "Borchu",
+    "ru": "Боорчу",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D210",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾒｸﾞｼﾞﾝｾｳﾙﾄ",
+    "md_key": "Megujin Ult",
+    "ru": "Мегучин",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D22A",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ｸﾄﾃﾑﾙ",
+    "md_key": "Kuttemul",
+    "ru": "Куттмал",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D244",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾃﾞｲ･ｾﾁｪﾝ",
+    "md_key": "Dai Sechen",
+    "ru": "Дай-Сечен",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D25E",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ｱﾗｸｼｭ",
+    "md_key": "Alagosh",
+    "ru": "Алакуш",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D292",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾀﾙｸﾀﾞｲ",
+    "md_key": "Targutai",
+    "ru": "Таргутай",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D2C6",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ｼﾞｬﾑｶ",
+    "md_key": "Jamuga",
+    "ru": "Джамуха",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D2FA",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾄｵﾘﾙ･ﾊｰﾝ",
+    "md_key": "Togorul Khan",
+    "ru": "Тогорил-хан",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D32E",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ｼﾞｬｶﾞ･ｶﾞﾝﾎﾞ",
+    "md_key": "Diagambou",
+    "ru": "Джахагамбу",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D348",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾄｸﾄｱ･ﾍﾞｷ",
+    "md_key": "Toqtoa Beki",
+    "ru": "Тохтоа-беки",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D362",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾀﾞｲﾙ･ｳｽﾝ",
+    "md_key": "Dai Usun",
+    "ru": "Даир-Усун",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D37C",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ｻﾁｬ･ﾍﾞｷ",
+    "md_key": "Sachu Beki",
+    "ru": "Сачу-бэки",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D396",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾀｲﾁｭ",
+    "md_key": "Taitu",
+    "ru": "Тайчу",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D3B0",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾀﾞｲﾄﾞﾌﾙ",
+    "md_key": "Dai Doguru",
+    "ru": "Дайдахур",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D3CA",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ｸﾄﾞｶ･ﾍﾞｷ",
+    "md_key": "Qudqa Beki",
+    "ru": "Худуха-беки",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D3FE",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾌﾞｲﾙｸ･ﾊｰﾝ",
+    "md_key": "Buiruk Khan",
+    "ru": "Буюрук-хан",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D432",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ｹｸｾｳｻﾌﾟﾗｸ",
+    "md_key": "Keks Saplak",
+    "ru": "Коксу",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D44C",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾁﾑｽｲ",
+    "md_key": "Chimsuyi",
+    "ru": "Чимсуй",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D466",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  },
+  {
+    "ja": "ﾀﾞﾔﾝ･ﾊｰﾝ",
+    "md_key": "Tayan Khan",
+    "ru": "Таян-хан",
+    "kind": "person",
+    "evidence": {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D49A",
+      "record_size": 26
+    },
+    "status": "mapped_initial_scenario_name_field"
+  }
+]

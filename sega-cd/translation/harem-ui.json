@@ -1,0 +1,278 @@
+[
+  {
+    "file": "XXX.PRG;1",
+    "offset": "42D8",
+    "ja": "(ﾔﾊﾘ取ﾘ止ﾒﾙ)",
+    "ru": "Отказаться",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "42F6",
+    "ja": "(強引ﾆ口説ｸ)",
+    "ru": "Настоять",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4312",
+    "ja": "(優ｼｸ愛ｦ語ﾙ)",
+    "ru": "Нежные слова",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "432E",
+    "ja": "(非力ｻｦ訴ｴﾙ)",
+    "ru": "О слабости",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "434A",
+    "ja": "(\u001bKｶﾘｽﾏ\u001bHｦ示ｽ)",
+    "ru": "Обаяние",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "435A",
+    "ja": "(政治能力ｦ示ｽ)",
+    "ru": "О политике",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "436A",
+    "ja": "(指揮能力ｦ示ｽ)",
+    "ru": "О лидерстве",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "437A",
+    "ja": "(己ﾉ武勇ｦ語ﾙ)",
+    "ru": "О подвигах",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "438A",
+    "ja": "(無闇ﾆ誉ﾒﾁｷﾞﾙ)",
+    "ru": "Осыпать хвалой",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "439A",
+    "ja": "(見識ﾉ高ｻﾆ驚ｸ)",
+    "ru": "О её познаниях",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "43AA",
+    "ja": "(気丈夫ｻｦ誉ﾒﾙ)",
+    "ru": "О её стойкости",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "43BA",
+    "ja": "(利発ｻﾆ感服ｽﾙ)",
+    "ru": "Похвалить ум",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "43CA",
+    "ja": "(ｿﾉ美貌ｦ讃ｴﾙ)",
+    "ru": "О красоте",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "43D8",
+    "ja": "(ｺｺﾊ諦ﾒﾃ寝ﾙ)",
+    "ru": "Пора спать",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "43E6",
+    "ja": "(后ﾆ相談事ｦｽﾙ)",
+    "ru": "Просить совета",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "43F6",
+    "ja": "(后ﾆ贈ﾘ物ｦｽﾙ)",
+    "ru": "Дарить",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4404",
+    "ja": "(后ﾆ愛ｦｻｻﾔｸ)",
+    "ru": "О любви",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4412",
+    "ja": "(自分ｦ印象ﾂﾞｹﾙ)",
+    "ru": "Впечатлить",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4422",
+    "ja": "(后ﾆｵ世辞ｦ言ｳ)",
+    "ru": "Льстить",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29DF8",
+    "ja": "ﾊ\n… … ﾄ､ﾄﾃﾓﾖｲ子ﾃﾞｽﾜ",
+    "ru": "\nХороший ребёнок.",
+    "kind": "harem_dialogue_suffix",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29E0E",
+    "ja": "ﾊ目ﾀﾞﾁﾀｶﾞﾗﾅｲ\nﾖｲ性格ﾉ子ﾃﾞｽ",
+    "ru": "\nСкромный ребёнок.",
+    "kind": "harem_dialogue_suffix",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29E28",
+    "ja": "\nﾄ女ﾀﾁﾉ間ﾃﾞ評判ﾆｺﾞｻﾞｲﾏｽ",
+    "ru": "\nТак говорят женщины.",
+    "kind": "harem_dialogue_suffix",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29EA8",
+    "ja": "ﾀﾞｹ\n欲ｼｭｳｺﾞｻﾞｲﾏｽ私ﾆ頂ｹﾏｽｶ?",
+    "ru": " золота\nПодарите мне?",
+    "kind": "harem_dialogue_suffix",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A76C",
+    "ja": "ｳﾜﾜ… ｳﾜﾜ… \nｳﾜﾜ〜",
+    "ru": "Ох!\nОх!",
+    "kind": "harem_dialogue_suffix",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "42E6",
+    "ja": "(求ﾒﾙﾀﾞｹ与ｴﾙ)",
+    "ru": "Дать всё",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4304",
+    "ja": "(大ﾗｶﾆ愛ｦ語ﾙ)",
+    "ru": "О страсти",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4320",
+    "ja": "(ｼﾞｯﾄ目ｦ見ﾙ)",
+    "ru": "Взгляд",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "433C",
+    "ja": "(体力ｦ誇示ｽﾙ)",
+    "ru": "Моя сила",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4462",
+    "ja": "ｦ\nﾄﾞｳ思ｳｶ",
+    "ru": "\nКак он?",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "446C",
+    "ja": "后ﾖ､ﾜｶﾞ子",
+    "ru": "Наш сын",
+    "kind": "harem_action_hint"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ECA0",
+    "ja": "\u001bKﾎﾞﾙﾃ\u001bH",
+    "ru": "Борте",
+    "kind": "harem_shared_label"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30F44",
+    "ja": "\u001bKﾎﾞﾙﾃ\u001bH",
+    "ru": "Борте",
+    "kind": "harem_shared_label"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3562E",
+    "ja": "\u001bKﾎﾞﾙﾃ\u001bH",
+    "ru": "Борте",
+    "kind": "harem_shared_label"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273AC",
+    "ja": "\u001bKｶﾞﾗｽ\u001bH",
+    "ru": "Стекло",
+    "kind": "harem_shared_label"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273B6",
+    "ja": "陶磁器",
+    "ru": "Фарфор",
+    "kind": "harem_shared_label"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273BE",
+    "ja": "木工品",
+    "ru": "Дерево",
+    "kind": "harem_shared_label"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273C6",
+    "ja": "医薬品",
+    "ru": "Лек-ва",
+    "kind": "harem_shared_label"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273CE",
+    "ja": "貴金属",
+    "ru": "Золото",
+    "kind": "harem_shared_label"
+  }
+]

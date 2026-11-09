@@ -1,0 +1,159 @@
+{
+  "entries": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F80",
+      "ja": "ｼﾞｬﾗｰﾙ",
+      "ru": "Джалал",
+      "kind": "person_name",
+      "max_columns": 22,
+      "max_lines": 2,
+      "md_section": "people",
+      "md_key": "Jalal"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4FBC",
+      "ja": "ｴｳﾄﾞｷｱ姫",
+      "ru": "Евдокия",
+      "kind": "person_name",
+      "max_columns": 22,
+      "max_lines": 2,
+      "md_section": "people",
+      "md_key": "Eudocia"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4FC6",
+      "ja": "ｴｲﾚｰﾈｰ姫",
+      "ru": "Ирина",
+      "kind": "person_name",
+      "max_columns": 22,
+      "max_lines": 2,
+      "md_section": "people",
+      "md_key": "Eirene"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50F0",
+      "ja": "ｼｬｰﾗ",
+      "ru": "Шара",
+      "kind": "person_name",
+      "max_columns": 22,
+      "max_lines": 2,
+      "md_section": "people",
+      "md_key": "Shara"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "14FC2",
+      "ja": "\u001bB2ﾄﾞﾉ種類ﾆｼﾏｽｶ?",
+      "ru": "Категория?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2,
+      "native_prefix": "1b4232"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27AE8",
+      "ja": "ｿﾅﾀｶﾞ長春ｶ､ｲｯﾀｲﾄﾞﾝﾅ\n長生ﾉ秘薬ｦ知ｯﾃｲﾙﾉﾀﾞ?",
+      "ru": "Чанчунь, ты знаешь\nсекрет долголетия?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27BCA",
+      "ja": "ｼﾂｺｸ尋ﾈﾙ\n潔ｸｱｷﾗﾒﾙ",
+      "ru": "Настаять\nСдаться",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27BDC",
+      "ja": "\n長春真人ｶﾞ到着ｼﾏｼﾀｿﾞ",
+      "ru": "\nПрибыл Чанчунь!",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27BF2",
+      "ja": "ｿﾉ必要ﾊ\nﾅｲ",
+      "ru": "Не нужно",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27C02",
+      "ja": "長春真人ｦｺﾉ地ﾆ招ｲﾃ\n秘薬ｦ求ﾒﾃﾊｲｶｶﾞﾃﾞｼｮｳｶ",
+      "ru": "Позовём Чанчуня\nза зельем долголетия?",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27C2A",
+      "ja": "不老長寿ﾉ\n法ﾆ通ｼﾞﾙ長春ﾅﾙ者ｶﾞｲﾙｿｳﾃﾞｽ",
+      "ru": "Чанчунь знает\nсекрет долголетия",
+      "kind": "gameplay_dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27C4E",
+      "ja": "長春真人",
+      "ru": "Чанчунь",
+      "kind": "person_name",
+      "max_columns": 22,
+      "max_lines": 2,
+      "md_section": "people",
+      "md_key": "Zhang-chun"
+    }
+  ],
+  "translated_fields": 593,
+  "paired_glyphs": 636,
+  "static_checks": [
+    "verify.py",
+    "test_text_encoding.py",
+    "test_harem_layout.py",
+    "test_menu_buffer.py"
+  ],
+  "emulator_visual_checks": {
+    "14FC2": "review-category-593.png",
+    "4FC6": "review-irene-593.png",
+    "50F0": "review-shara-593.png"
+  },
+  "not_triggered": [
+    "4F80",
+    "4FBC",
+    "27AE8",
+    "27BCA",
+    "27BDC",
+    "27BF2",
+    "27C02",
+    "27C2A",
+    "27C4E"
+  ],
+  "emulator_notes": "Cold boot to main menu at frame 24200 using harem-regression-inputs.json; enter biographies with Down, Down, C. Wives: Down, Down, C. A row: C. Sa row: Down, Down, C. Button A cycles pages. States were created from this build.",
+  "harem_regression": {
+    "frames": 44600,
+    "cdda_peaks": {
+      "intro": 14424,
+      "harem": 14270
+    },
+    "core_sha256": "de4c2ad5aed880c8b616e96d13d464eb193aaf3647feee198ce10ac49eb85d1c",
+    "final_screen": "harem-regression-return.png",
+    "final_map_matches_verified_frame": true
+  },
+  "translation_sha256": "28d877538ca26281594a281c35e997d64dc0326c0af3b4e8a4944c522383e9ec"
+}

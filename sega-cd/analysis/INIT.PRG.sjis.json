@@ -1,0 +1,6234 @@
+[
+  {
+    "offset": "0x188f",
+    "text": "年嚢蹴"
+  },
+  {
+    "offset": "0x26eb",
+    "text": "店蒐谷"
+  },
+  {
+    "offset": "0x270d",
+    "text": "店蒐谷"
+  },
+  {
+    "offset": "0x272d",
+    "text": "店蒐谷"
+  },
+  {
+    "offset": "0x49d3",
+    "text": "捻蒐弼"
+  },
+  {
+    "offset": "0x4bbc",
+    "text": "諸制度"
+  },
+  {
+    "offset": "0x4bcd",
+    "text": "支配体制"
+  },
+  {
+    "offset": "0x4bf1",
+    "text": "蠻世界"
+  },
+  {
+    "offset": "0x4c02",
+    "text": "諸制度"
+  },
+  {
+    "offset": "0x4c1a",
+    "text": "統一国家"
+  },
+  {
+    "offset": "0x4c40",
+    "text": "蠻世界"
+  },
+  {
+    "offset": "0x4c7d",
+    "text": "世界帝国"
+  },
+  {
+    "offset": "0x4d1d",
+    "text": "陀戦争"
+  },
+  {
+    "offset": "0x4dc6",
+    "text": "政治顧問"
+  },
+  {
+    "offset": "0x4e00",
+    "text": "政治顧問"
+  },
+  {
+    "offset": "0x4e12",
+    "text": "政治顧問"
+  },
+  {
+    "offset": "0x4e22",
+    "text": "政治顧問"
+  },
+  {
+    "offset": "0x4e3b",
+    "text": "荘萍世界"
+  },
+  {
+    "offset": "0x4e54",
+    "text": "人事異動"
+  },
+  {
+    "offset": "0x4e79",
+    "text": "人物事典"
+  },
+  {
+    "offset": "0x4f08",
+    "text": "北条貞時"
+  },
+  {
+    "offset": "0x4f12",
+    "text": "藤原頼衡"
+  },
+  {
+    "offset": "0x4f1c",
+    "text": "藤原通衡"
+  },
+  {
+    "offset": "0x4f26",
+    "text": "藤原高衡"
+  },
+  {
+    "offset": "0x4f88",
+    "text": "三幡姫"
+  },
+  {
+    "offset": "0x4f9e",
+    "text": "木曾義高"
+  },
+  {
+    "offset": "0x4fdc",
+    "text": "麗華公主"
+  },
+  {
+    "offset": "0x5030",
+    "text": "北条政子"
+  },
+  {
+    "offset": "0x505a",
+    "text": "藤原礼子"
+  },
+  {
+    "offset": "0x507c",
+    "text": "巴御前"
+  },
+  {
+    "offset": "0x50c4",
+    "text": "宣徳公主"
+  },
+  {
+    "offset": "0x50d4",
+    "text": "昭聖公主"
+  },
+  {
+    "offset": "0x50de",
+    "text": "順天公主"
+  },
+  {
+    "offset": "0x50f6",
+    "text": "静御前"
+  },
+  {
+    "offset": "0x5146",
+    "text": "小侍従"
+  },
+  {
+    "offset": "0x514e",
+    "text": "小宰相"
+  },
+  {
+    "offset": "0x5156",
+    "text": "光明公主"
+  },
+  {
+    "offset": "0x5180",
+    "text": "岐国公主"
+  },
+  {
+    "offset": "0x51d4",
+    "text": "永興公主"
+  },
+  {
+    "offset": "0x522a",
+    "text": "奴隷王朝第"
+  },
+  {
+    "offset": "0x5275",
+    "text": "网自立"
+  },
+  {
+    "offset": "0x52e4",
+    "text": "支配権"
+  },
+  {
+    "offset": "0x5423",
+    "text": "四天王"
+  },
+  {
+    "offset": "0x543a",
+    "text": "中原兼遠"
+  },
+  {
+    "offset": "0x5448",
+    "text": "樋口兼光"
+  },
+  {
+    "offset": "0x5455",
+    "text": "乳兄弟"
+  },
+  {
+    "offset": "0x5473",
+    "text": "義仲追討軍"
+  },
+  {
+    "offset": "0x548f",
+    "text": "緩軍勢"
+  },
+  {
+    "offset": "0x549c",
+    "text": "近江粟津"
+  },
+  {
+    "offset": "0x54bb",
+    "text": "単騎奮戦"
+  },
+  {
+    "offset": "0x54d5",
+    "text": "神秘主義哲学者"
+  },
+  {
+    "offset": "0x554f",
+    "text": "理論化"
+  },
+  {
+    "offset": "0x5560",
+    "text": "神秘的"
+  },
+  {
+    "offset": "0x5567",
+    "text": "教理解釈"
+  },
+  {
+    "offset": "0x55ce",
+    "text": "通商使節"
+  },
+  {
+    "offset": "0x55f1",
+    "text": "大西征"
+  },
+  {
+    "offset": "0x5614",
+    "text": "徹底抗戦"
+  },
+  {
+    "offset": "0x5659",
+    "text": "部族長"
+  },
+  {
+    "offset": "0x5708",
+    "text": "通称伊勢三郎"
+  },
+  {
+    "offset": "0x574b",
+    "text": "痔兄頼朝"
+  },
+  {
+    "offset": "0x57a0",
+    "text": "屡斬首"
+  },
+  {
+    "offset": "0x5839",
+    "text": "皇太子"
+  },
+  {
+    "offset": "0x590f",
+    "text": "反乱鎮圧"
+  },
+  {
+    "offset": "0x59a1",
+    "text": "叙事文学"
+  },
+  {
+    "offset": "0x59db",
+    "text": "帝国第"
+  },
+  {
+    "offset": "0x59e2",
+    "text": "代皇帝"
+  },
+  {
+    "offset": "0x5a01",
+    "text": "回十字軍"
+  },
+  {
+    "offset": "0x5a2a",
+    "text": "侵略者"
+  },
+  {
+    "offset": "0x5a38",
+    "text": "精力的"
+  },
+  {
+    "offset": "0x5a57",
+    "text": "世没後"
+  },
+  {
+    "offset": "0x5a67",
+    "text": "骰駄衰退"
+  },
+  {
+    "offset": "0x5aaf",
+    "text": "帝国皇帝位"
+  },
+  {
+    "offset": "0x5b12",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0x5b2f",
+    "text": "教会財産"
+  },
+  {
+    "offset": "0x5b6d",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0x5c8d",
+    "text": "哲学者"
+  },
+  {
+    "offset": "0x5ce3",
+    "text": "自然科学"
+  },
+  {
+    "offset": "0x5d66",
+    "text": "即留守"
+  },
+  {
+    "offset": "0x5d75",
+    "text": "燉凄誘"
+  },
+  {
+    "offset": "0x5d96",
+    "text": "王位継承権"
+  },
+  {
+    "offset": "0x5db0",
+    "text": "中世最大"
+  },
+  {
+    "offset": "0x5dbc",
+    "text": "七部法典"
+  },
+  {
+    "offset": "0x5e0d",
+    "text": "帝国軍"
+  },
+  {
+    "offset": "0x5e34",
+    "text": "決定的"
+  },
+  {
+    "offset": "0x5e3c",
+    "text": "泓丿収"
+  },
+  {
+    "offset": "0x5e92",
+    "text": "翹一大"
+  },
+  {
+    "offset": "0x5e99",
+    "text": "転換点"
+  },
+  {
+    "offset": "0x5f20",
+    "text": "軍規違反"
+  },
+  {
+    "offset": "0x5f9c",
+    "text": "部族長"
+  },
+  {
+    "offset": "0x6025",
+    "text": "系民族"
+  },
+  {
+    "offset": "0x6086",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0x60b5",
+    "text": "陀主敵"
+  },
+  {
+    "offset": "0x60fc",
+    "text": "軍事同盟"
+  },
+  {
+    "offset": "0x614b",
+    "text": "代君主"
+  },
+  {
+    "offset": "0x6171",
+    "text": "合言葉"
+  },
+  {
+    "offset": "0x61b4",
+    "text": "教諸国"
+  },
+  {
+    "offset": "0x61c5",
+    "text": "一時的"
+  },
+  {
+    "offset": "0x6222",
+    "text": "先住民族"
+  },
+  {
+    "offset": "0x6235",
+    "text": "困予言者"
+  },
+  {
+    "offset": "0x62a8",
+    "text": "世紀以降"
+  },
+  {
+    "offset": "0x62d0",
+    "text": "指導者"
+  },
+  {
+    "offset": "0x62e5",
+    "text": "名義上"
+  },
+  {
+    "offset": "0x62ef",
+    "text": "衙地位"
+  },
+  {
+    "offset": "0x6328",
+    "text": "権威強化"
+  },
+  {
+    "offset": "0x6387",
+    "text": "後継者"
+  },
+  {
+    "offset": "0x63f5",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0x6451",
+    "text": "朝治下"
+  },
+  {
+    "offset": "0x6458",
+    "text": "中近東"
+  },
+  {
+    "offset": "0x6470",
+    "text": "椛圧形勢"
+  },
+  {
+    "offset": "0x651a",
+    "text": "後継者"
+  },
+  {
+    "offset": "0x656a",
+    "text": "歴史家"
+  },
+  {
+    "offset": "0x657c",
+    "text": "朝治下"
+  },
+  {
+    "offset": "0x65cd",
+    "text": "対十字軍戦争"
+  },
+  {
+    "offset": "0x65fc",
+    "text": "大世界史"
+  },
+  {
+    "offset": "0x667b",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0x6683",
+    "text": "平和交渉"
+  },
+  {
+    "offset": "0x669e",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0x66a6",
+    "text": "友好関係"
+  },
+  {
+    "offset": "0x673f",
+    "text": "中国王朝"
+  },
+  {
+    "offset": "0x6758",
+    "text": "梁称号"
+  },
+  {
+    "offset": "0x67a4",
+    "text": "部族長"
+  },
+  {
+    "offset": "0x67b4",
+    "text": "部族長"
+  },
+  {
+    "offset": "0x67da",
+    "text": "共同戦線"
+  },
+  {
+    "offset": "0x6832",
+    "text": "愛一族"
+  },
+  {
+    "offset": "0x68a1",
+    "text": "奴隷王朝"
+  },
+  {
+    "offset": "0x68eb",
+    "text": "砦散文"
+  },
+  {
+    "offset": "0x6924",
+    "text": "色目人官吏"
+  },
+  {
+    "offset": "0x69c7",
+    "text": "漢人官吏"
+  },
+  {
+    "offset": "0x69e8",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0x6a7d",
+    "text": "陀基礎"
+  },
+  {
+    "offset": "0x6ad5",
+    "text": "刀剣騎士団"
+  },
+  {
+    "offset": "0x6b84",
+    "text": "鎌倉中期"
+  },
+  {
+    "offset": "0x6b93",
+    "text": "引付衆"
+  },
+  {
+    "offset": "0x6b9a",
+    "text": "評定衆"
+  },
+  {
+    "offset": "0x6ba7",
+    "text": "有力御家"
+  },
+  {
+    "offset": "0x6bb5",
+    "text": "秋田城介"
+  },
+  {
+    "offset": "0x6bc9",
+    "text": "北条時宗"
+  },
+  {
+    "offset": "0x6bd5",
+    "text": "网幕政改革"
+  },
+  {
+    "offset": "0x6bea",
+    "text": "内管領"
+  },
+  {
+    "offset": "0x6bf1",
+    "text": "平頼綱"
+  },
+  {
+    "offset": "0x6c09",
+    "text": "霜月騒動"
+  },
+  {
+    "offset": "0x6c14",
+    "text": "秋田城介"
+  },
+  {
+    "offset": "0x6c62",
+    "text": "西夏国王"
+  },
+  {
+    "offset": "0x6cf9",
+    "text": "年西夏"
+  },
+  {
+    "offset": "0x6d08",
+    "text": "翌年西夏"
+  },
+  {
+    "offset": "0x6d22",
+    "text": "舎以仁王"
+  },
+  {
+    "offset": "0x6d2b",
+    "text": "源頼政"
+  },
+  {
+    "offset": "0x6d3e",
+    "text": "木曾義仲"
+  },
+  {
+    "offset": "0x6d65",
+    "text": "丹波路"
+  },
+  {
+    "offset": "0x6d84",
+    "text": "舎水島"
+  },
+  {
+    "offset": "0x6d91",
+    "text": "大将軍"
+  },
+  {
+    "offset": "0x6ddb",
+    "text": "奴隷王朝"
+  },
+  {
+    "offset": "0x6e52",
+    "text": "奴隷王朝初代"
+  },
+  {
+    "offset": "0x6e86",
+    "text": "骰陀宰相"
+  },
+  {
+    "offset": "0x6ec6",
+    "text": "大都市"
+  },
+  {
+    "offset": "0x6f10",
+    "text": "痔陥落"
+  },
+  {
+    "offset": "0x6f19",
+    "text": "盍女性"
+  },
+  {
+    "offset": "0x6f23",
+    "text": "勁職人以外"
+  },
+  {
+    "offset": "0x6f4f",
+    "text": "平家方"
+  },
+  {
+    "offset": "0x6f5b",
+    "text": "石橋山"
+  },
+  {
+    "offset": "0x6fae",
+    "text": "坂東武者"
+  },
+  {
+    "offset": "0x6fc2",
+    "text": "平敦盛"
+  },
+  {
+    "offset": "0x704e",
+    "text": "先鋒軍"
+  },
+  {
+    "offset": "0x70a9",
+    "text": "責任者"
+  },
+  {
+    "offset": "0x70ea",
+    "text": "衙勢力"
+  },
+  {
+    "offset": "0x7183",
+    "text": "部族長"
+  },
+  {
+    "offset": "0x7192",
+    "text": "北方狩猟民"
+  },
+  {
+    "offset": "0x71d4",
+    "text": "北方諸族"
+  },
+  {
+    "offset": "0x7385",
+    "text": "一人残"
+  },
+  {
+    "offset": "0x7412",
+    "text": "軍規違反"
+  },
+  {
+    "offset": "0x74fe",
+    "text": "帰還途中"
+  },
+  {
+    "offset": "0x7510",
+    "text": "筑後国在国司"
+  },
+  {
+    "offset": "0x751d",
+    "text": "押領使"
+  },
+  {
+    "offset": "0x7525",
+    "text": "源平内乱期"
+  },
+  {
+    "offset": "0x7561",
+    "text": "肥前国松浦郡鏡社"
+  },
+  {
+    "offset": "0x7573",
+    "text": "宮司職"
+  },
+  {
+    "offset": "0x75b8",
+    "text": "十三翼"
+  },
+  {
+    "offset": "0x7600",
+    "text": "网親友"
+  },
+  {
+    "offset": "0x7645",
+    "text": "先鋒軍"
+  },
+  {
+    "offset": "0x765d",
+    "text": "牡死亡"
+  },
+  {
+    "offset": "0x7671",
+    "text": "高麗軍"
+  },
+  {
+    "offset": "0x7678",
+    "text": "司令官"
+  },
+  {
+    "offset": "0x768c",
+    "text": "日本遠征"
+  },
+  {
+    "offset": "0x7705",
+    "text": "剣繁全権"
+  },
+  {
+    "offset": "0x771c",
+    "text": "徹底的"
+  },
+  {
+    "offset": "0x7733",
+    "text": "征服後"
+  },
+  {
+    "offset": "0x775e",
+    "text": "王国創始者"
+  },
+  {
+    "offset": "0x77a1",
+    "text": "黄金期"
+  },
+  {
+    "offset": "0x77bf",
+    "text": "王位継承権"
+  },
+  {
+    "offset": "0x77cb",
+    "text": "異母妹"
+  },
+  {
+    "offset": "0x7873",
+    "text": "伝説的人物"
+  },
+  {
+    "offset": "0x7889",
+    "text": "藤原秀衡"
+  },
+  {
+    "offset": "0x78a5",
+    "text": "義経記"
+  },
+  {
+    "offset": "0x78af",
+    "text": "京三条"
+  },
+  {
+    "offset": "0x78b6",
+    "text": "大福長者"
+  },
+  {
+    "offset": "0x78c0",
+    "text": "吉次信高"
+  },
+  {
+    "offset": "0x78cf",
+    "text": "平治物語"
+  },
+  {
+    "offset": "0x78e1",
+    "text": "金商人吉次"
+  },
+  {
+    "offset": "0x78f4",
+    "text": "源義賢"
+  },
+  {
+    "offset": "0x7904",
+    "text": "中原兼遠"
+  },
+  {
+    "offset": "0x7920",
+    "text": "以仁王"
+  },
+  {
+    "offset": "0x795c",
+    "text": "征夷大将軍"
+  },
+  {
+    "offset": "0x796e",
+    "text": "朝日将軍"
+  },
+  {
+    "offset": "0x7981",
+    "text": "冠義経"
+  },
+  {
+    "offset": "0x79a6",
+    "text": "高麗第"
+  },
+  {
+    "offset": "0x79ae",
+    "text": "代国王"
+  },
+  {
+    "offset": "0x7a86",
+    "text": "全財産"
+  },
+  {
+    "offset": "0x7ab6",
+    "text": "反平氏武士団"
+  },
+  {
+    "offset": "0x7ad3",
+    "text": "大凶作"
+  },
+  {
+    "offset": "0x7adc",
+    "text": "九州鎮圧"
+  },
+  {
+    "offset": "0x7aea",
+    "text": "平貞能"
+  },
+  {
+    "offset": "0x7b01",
+    "text": "兵糧米"
+  },
+  {
+    "offset": "0x7b20",
+    "text": "菊池高直"
+  },
+  {
+    "offset": "0x7b44",
+    "text": "西夏第"
+  },
+  {
+    "offset": "0x7b4b",
+    "text": "代国王"
+  },
+  {
+    "offset": "0x7b92",
+    "text": "狷兄弟"
+  },
+  {
+    "offset": "0x7bc0",
+    "text": "藤原泰衡"
+  },
+  {
+    "offset": "0x7bce",
+    "text": "比内郡"
+  },
+  {
+    "offset": "0x7bdb",
+    "text": "奥州合戦"
+  },
+  {
+    "offset": "0x7c13",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0x7c75",
+    "text": "人奴隷"
+  },
+  {
+    "offset": "0x7cab",
+    "text": "後見人"
+  },
+  {
+    "offset": "0x7d09",
+    "text": "決定的"
+  },
+  {
+    "offset": "0x7d9f",
+    "text": "治世中"
+  },
+  {
+    "offset": "0x7df8",
+    "text": "幕府草創期"
+  },
+  {
+    "offset": "0x7e03",
+    "text": "有力御家人"
+  },
+  {
+    "offset": "0x7e0f",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0x7e20",
+    "text": "約二万騎"
+  },
+  {
+    "offset": "0x7e38",
+    "text": "椄広常"
+  },
+  {
+    "offset": "0x7e7f",
+    "text": "痔謀反"
+  },
+  {
+    "offset": "0x7e8f",
+    "text": "梶原景時"
+  },
+  {
+    "offset": "0x7ea2",
+    "text": "鎌倉初期"
+  },
+  {
+    "offset": "0x7eb1",
+    "text": "平家追討"
+  },
+  {
+    "offset": "0x7ee5",
+    "text": "网御家人"
+  },
+  {
+    "offset": "0x7f04",
+    "text": "槎謀反"
+  },
+  {
+    "offset": "0x7f1a",
+    "text": "駿河国狐崎"
+  },
+  {
+    "offset": "0x7f32",
+    "text": "梶原一族"
+  },
+  {
+    "offset": "0x7f65",
+    "text": "正義王"
+  },
+  {
+    "offset": "0x7f90",
+    "text": "南宋末"
+  },
+  {
+    "offset": "0x7fa3",
+    "text": "代皇帝理宗"
+  },
+  {
+    "offset": "0x7fca",
+    "text": "国家財政"
+  },
+  {
+    "offset": "0x7fda",
+    "text": "公田法"
+  },
+  {
+    "offset": "0x7fec",
+    "text": "侵入時"
+  },
+  {
+    "offset": "0x8009",
+    "text": "沍堡流"
+  },
+  {
+    "offset": "0x8019",
+    "text": "書画美術"
+  },
+  {
+    "offset": "0x8022",
+    "text": "収集家"
+  },
+  {
+    "offset": "0x8089",
+    "text": "統一後"
+  },
+  {
+    "offset": "0x80df",
+    "text": "翹科学者"
+  },
+  {
+    "offset": "0x80ed",
+    "text": "水利学者"
+  },
+  {
+    "offset": "0x810c",
+    "text": "网暦法改正"
+  },
+  {
+    "offset": "0x811a",
+    "text": "岬担当"
+  },
+  {
+    "offset": "0x8127",
+    "text": "天体観測儀器類"
+  },
+  {
+    "offset": "0x8146",
+    "text": "天文台"
+  },
+  {
+    "offset": "0x8155",
+    "text": "郭守敬"
+  },
+  {
+    "offset": "0x8162",
+    "text": "授時暦"
+  },
+  {
+    "offset": "0x8198",
+    "text": "汗国王"
+  },
+  {
+    "offset": "0x8214",
+    "text": "大規模"
+  },
+  {
+    "offset": "0x8246",
+    "text": "骰陀分裂"
+  },
+  {
+    "offset": "0x824f",
+    "text": "決定的"
+  },
+  {
+    "offset": "0x8294",
+    "text": "大膳職"
+  },
+  {
+    "offset": "0x82cc",
+    "text": "千戸長"
+  },
+  {
+    "offset": "0x8301",
+    "text": "帝国皇帝"
+  },
+  {
+    "offset": "0x8339",
+    "text": "皇帝位"
+  },
+  {
+    "offset": "0x837e",
+    "text": "弱体化"
+  },
+  {
+    "offset": "0x8387",
+    "text": "翌年死亡"
+  },
+  {
+    "offset": "0x83d3",
+    "text": "骰陀大空位時代"
+  },
+  {
+    "offset": "0x8419",
+    "text": "帝国諸侯"
+  },
+  {
+    "offset": "0x849c",
+    "text": "平安末期"
+  },
+  {
+    "offset": "0x84a5",
+    "text": "鎌倉初期"
+  },
+  {
+    "offset": "0x84c3",
+    "text": "旧主藤原泰衡"
+  },
+  {
+    "offset": "0x84e5",
+    "text": "慄一迫"
+  },
+  {
+    "offset": "0x8503",
+    "text": "千葉常胤"
+  },
+  {
+    "offset": "0x850d",
+    "text": "比企能員"
+  },
+  {
+    "offset": "0x8536",
+    "text": "逃亡中"
+  },
+  {
+    "offset": "0x8546",
+    "text": "鎌倉幕府初期"
+  },
+  {
+    "offset": "0x8553",
+    "text": "政治家"
+  },
+  {
+    "offset": "0x8561",
+    "text": "官人層"
+  },
+  {
+    "offset": "0x856f",
+    "text": "鎌倉幕府"
+  },
+  {
+    "offset": "0x8579",
+    "text": "苑翹政所別当"
+  },
+  {
+    "offset": "0x8594",
+    "text": "北条氏"
+  },
+  {
+    "offset": "0x85d7",
+    "text": "屡出家"
+  },
+  {
+    "offset": "0x8619",
+    "text": "貴族層"
+  },
+  {
+    "offset": "0x8634",
+    "text": "黄金文書"
+  },
+  {
+    "offset": "0x8651",
+    "text": "王国東部"
+  },
+  {
+    "offset": "0x865a",
+    "text": "独立国家"
+  },
+  {
+    "offset": "0x8674",
+    "text": "騎士団"
+  },
+  {
+    "offset": "0x8734",
+    "text": "金朝第"
+  },
+  {
+    "offset": "0x873b",
+    "text": "代皇帝"
+  },
+  {
+    "offset": "0x8745",
+    "text": "完顔永済"
+  },
+  {
+    "offset": "0x878b",
+    "text": "右副元帥"
+  },
+  {
+    "offset": "0x8794",
+    "text": "胡沙虎"
+  },
+  {
+    "offset": "0x87b1",
+    "text": "衛紹王"
+  },
+  {
+    "offset": "0x87c8",
+    "text": "鎌倉前期"
+  },
+  {
+    "offset": "0x87d7",
+    "text": "木曾義仲"
+  },
+  {
+    "offset": "0x8810",
+    "text": "子息義高"
+  },
+  {
+    "offset": "0x8833",
+    "text": "痔義仲"
+  },
+  {
+    "offset": "0x883a",
+    "text": "戦死後"
+  },
+  {
+    "offset": "0x8849",
+    "text": "に身代"
+  },
+  {
+    "offset": "0x8862",
+    "text": "网頼朝以下"
+  },
+  {
+    "offset": "0x8878",
+    "text": "宇佐大宮司"
+  },
+  {
+    "offset": "0x8884",
+    "text": "菊池高直"
+  },
+  {
+    "offset": "0x8892",
+    "text": "反平氏武士団"
+  },
+  {
+    "offset": "0x88ac",
+    "text": "家平氏"
+  },
+  {
+    "offset": "0x88c3",
+    "text": "安徳天皇"
+  },
+  {
+    "offset": "0x88cc",
+    "text": "仮御所"
+  },
+  {
+    "offset": "0x88ea",
+    "text": "平氏政権"
+  },
+  {
+    "offset": "0x8903",
+    "text": "平氏滅亡後"
+  },
+  {
+    "offset": "0x890f",
+    "text": "宇佐大宮司職"
+  },
+  {
+    "offset": "0x8996",
+    "text": "地方行政"
+  },
+  {
+    "offset": "0x899f",
+    "text": "適正化"
+  },
+  {
+    "offset": "0x89ad",
+    "text": "不正摘発"
+  },
+  {
+    "offset": "0x89cc",
+    "text": "帝国王"
+  },
+  {
+    "offset": "0x89da",
+    "text": "大規模"
+  },
+  {
+    "offset": "0x89e1",
+    "text": "農民反乱"
+  },
+  {
+    "offset": "0x8a97",
+    "text": "地中海帝国"
+  },
+  {
+    "offset": "0x8b52",
+    "text": "最盛期"
+  },
+  {
+    "offset": "0x8b5f",
+    "text": "即位前"
+  },
+  {
+    "offset": "0x8b84",
+    "text": "即位後"
+  },
+  {
+    "offset": "0x8bb5",
+    "text": "皇太子"
+  },
+  {
+    "offset": "0x8c16",
+    "text": "義兄弟"
+  },
+  {
+    "offset": "0x8c7f",
+    "text": "諸勢力間"
+  },
+  {
+    "offset": "0x8dec",
+    "text": "宰相史浩"
+  },
+  {
+    "offset": "0x8e28",
+    "text": "网理宗"
+  },
+  {
+    "offset": "0x8e49",
+    "text": "進士出身"
+  },
+  {
+    "offset": "0x8e79",
+    "text": "翹武将"
+  },
+  {
+    "offset": "0x8e80",
+    "text": "政治家"
+  },
+  {
+    "offset": "0x8eb2",
+    "text": "漢人四大諸侯"
+  },
+  {
+    "offset": "0x8ee7",
+    "text": "漢人初"
+  },
+  {
+    "offset": "0x8eff",
+    "text": "南宋討伐軍"
+  },
+  {
+    "offset": "0x8f0a",
+    "text": "総司令官"
+  },
+  {
+    "offset": "0x8f2e",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0x8f43",
+    "text": "痔足利忠綱"
+  },
+  {
+    "offset": "0x8f4f",
+    "text": "反頼朝"
+  },
+  {
+    "offset": "0x8f62",
+    "text": "小山朝政"
+  },
+  {
+    "offset": "0x8f75",
+    "text": "木曾義仲"
+  },
+  {
+    "offset": "0x8faa",
+    "text": "伊勢国羽取山"
+  },
+  {
+    "offset": "0x8fc1",
+    "text": "頼朝方"
+  },
+  {
+    "offset": "0x8fc9",
+    "text": "波多野盛通"
+  },
+  {
+    "offset": "0x9102",
+    "text": "骰陀宿臣"
+  },
+  {
+    "offset": "0x91bc",
+    "text": "一晩中介抱"
+  },
+  {
+    "offset": "0x927a",
+    "text": "軍功多"
+  },
+  {
+    "offset": "0x928a",
+    "text": "千戸長"
+  },
+  {
+    "offset": "0x92c4",
+    "text": "代国王"
+  },
+  {
+    "offset": "0x92ce",
+    "text": "植民王"
+  },
+  {
+    "offset": "0x9305",
+    "text": "再征服"
+  },
+  {
+    "offset": "0x930e",
+    "text": "無人地"
+  },
+  {
+    "offset": "0x932b",
+    "text": "痔修道院"
+  },
+  {
+    "offset": "0x93b9",
+    "text": "和平工作"
+  },
+  {
+    "offset": "0x93e5",
+    "text": "剥陀言語"
+  },
+  {
+    "offset": "0x9418",
+    "text": "尚書右丞相"
+  },
+  {
+    "offset": "0x9445",
+    "text": "各地遠征"
+  },
+  {
+    "offset": "0x949d",
+    "text": "朝初代君主"
+  },
+  {
+    "offset": "0x94c7",
+    "text": "新王朝"
+  },
+  {
+    "offset": "0x94e7",
+    "text": "回十字軍"
+  },
+  {
+    "offset": "0x9564",
+    "text": "陸奥国信夫郡"
+  },
+  {
+    "offset": "0x9576",
+    "text": "奥州藤原氏"
+  },
+  {
+    "offset": "0x9596",
+    "text": "奥州合戦"
+  },
+  {
+    "offset": "0x95aa",
+    "text": "鎌倉勢"
+  },
+  {
+    "offset": "0x95b8",
+    "text": "中村為宗兄弟"
+  },
+  {
+    "offset": "0x95ed",
+    "text": "四天王"
+  },
+  {
+    "offset": "0x95f8",
+    "text": "佐藤継信"
+  },
+  {
+    "offset": "0x9602",
+    "text": "忠信兄弟"
+  },
+  {
+    "offset": "0x9623",
+    "text": "氏族長"
+  },
+  {
+    "offset": "0x96dc",
+    "text": "洶殺害"
+  },
+  {
+    "offset": "0x96f0",
+    "text": "常陸源氏"
+  },
+  {
+    "offset": "0x96fe",
+    "text": "佐竹別当"
+  },
+  {
+    "offset": "0x9708",
+    "text": "佐竹一族"
+  },
+  {
+    "offset": "0x9714",
+    "text": "伊恩顧"
+  },
+  {
+    "offset": "0x971d",
+    "text": "平家方"
+  },
+  {
+    "offset": "0x9729",
+    "text": "頼朝挙兵"
+  },
+  {
+    "offset": "0x975a",
+    "text": "奥州遠征"
+  },
+  {
+    "offset": "0x976a",
+    "text": "頼朝軍"
+  },
+  {
+    "offset": "0x9779",
+    "text": "御家人"
+  },
+  {
+    "offset": "0x9796",
+    "text": "紅帽派"
+  },
+  {
+    "offset": "0x97b4",
+    "text": "派開祖"
+  },
+  {
+    "offset": "0x97d8",
+    "text": "齣翹傑出"
+  },
+  {
+    "offset": "0x984c",
+    "text": "支配権"
+  },
+  {
+    "offset": "0x9868",
+    "text": "安芸国厳島神社神主"
+  },
+  {
+    "offset": "0x987b",
+    "text": "平家家人"
+  },
+  {
+    "offset": "0x9885",
+    "text": "源平内乱期"
+  },
+  {
+    "offset": "0x98a8",
+    "text": "平氏滅亡後"
+  },
+  {
+    "offset": "0x98b6",
+    "text": "衙地位"
+  },
+  {
+    "offset": "0x98ea",
+    "text": "碧探索"
+  },
+  {
+    "offset": "0x98fa",
+    "text": "源義朝"
+  },
+  {
+    "offset": "0x9921",
+    "text": "滅亡後"
+  },
+  {
+    "offset": "0x9928",
+    "text": "平宗盛"
+  },
+  {
+    "offset": "0x9934",
+    "text": "長井荘"
+  },
+  {
+    "offset": "0x9943",
+    "text": "富士川出陣"
+  },
+  {
+    "offset": "0x9954",
+    "text": "平氏側"
+  },
+  {
+    "offset": "0x9960",
+    "text": "案内役"
+  },
+  {
+    "offset": "0x9977",
+    "text": "平維盛"
+  },
+  {
+    "offset": "0x9999",
+    "text": "義仲勢"
+  },
+  {
+    "offset": "0x99a8",
+    "text": "高麗中期"
+  },
+  {
+    "offset": "0x99b1",
+    "text": "武人政治家"
+  },
+  {
+    "offset": "0x99c6",
+    "text": "反対派"
+  },
+  {
+    "offset": "0x99d5",
+    "text": "鯣反蒙古"
+  },
+  {
+    "offset": "0x99fe",
+    "text": "汗国時代"
+  },
+  {
+    "offset": "0x9a0f",
+    "text": "叙情詩人"
+  },
+  {
+    "offset": "0x9a19",
+    "text": "神秘主義"
+  },
+  {
+    "offset": "0x9a2d",
+    "text": "余年間"
+  },
+  {
+    "offset": "0x9a36",
+    "text": "剥即放浪"
+  },
+  {
+    "offset": "0x9a4e",
+    "text": "代表作"
+  },
+  {
+    "offset": "0x9b34",
+    "text": "部族長"
+  },
+  {
+    "offset": "0x9cf8",
+    "text": "連合軍"
+  },
+  {
+    "offset": "0x9d08",
+    "text": "河野通清"
+  },
+  {
+    "offset": "0x9d28",
+    "text": "高縄城"
+  },
+  {
+    "offset": "0x9d3c",
+    "text": "屋島攻撃"
+  },
+  {
+    "offset": "0x9d5d",
+    "text": "泓佝貢献"
+  },
+  {
+    "offset": "0x9d79",
+    "text": "大船団"
+  },
+  {
+    "offset": "0x9d84",
+    "text": "紀伊熊野水軍"
+  },
+  {
+    "offset": "0x9da1",
+    "text": "平家打倒"
+  },
+  {
+    "offset": "0x9db2",
+    "text": "鎌倉初期"
+  },
+  {
+    "offset": "0x9dcc",
+    "text": "酔网河野郷以外"
+  },
+  {
+    "offset": "0x9e06",
+    "text": "高縄山"
+  },
+  {
+    "offset": "0x9e30",
+    "text": "豪族田口成良"
+  },
+  {
+    "offset": "0x9e40",
+    "text": "翹奴可西寂"
+  },
+  {
+    "offset": "0x9e5a",
+    "text": "高麗人"
+  },
+  {
+    "offset": "0x9e70",
+    "text": "高麗軍民"
+  },
+  {
+    "offset": "0x9e84",
+    "text": "日本遠征"
+  },
+  {
+    "offset": "0x9e91",
+    "text": "戦艦建造"
+  },
+  {
+    "offset": "0x9eb9",
+    "text": "高麗人"
+  },
+  {
+    "offset": "0x9ec7",
+    "text": "毒弾圧"
+  },
+  {
+    "offset": "0x9ed8",
+    "text": "日本遠征"
+  },
+  {
+    "offset": "0x9ee3",
+    "text": "副司令官"
+  },
+  {
+    "offset": "0x9f00",
+    "text": "南宋第"
+  },
+  {
+    "offset": "0x9f07",
+    "text": "代皇帝"
+  },
+  {
+    "offset": "0x9f47",
+    "text": "治世中"
+  },
+  {
+    "offset": "0x9f6a",
+    "text": "南宋諸帝一"
+  },
+  {
+    "offset": "0x9f8e",
+    "text": "皇太子"
+  },
+  {
+    "offset": "0x9fa8",
+    "text": "李朝第"
+  },
+  {
+    "offset": "0x9faf",
+    "text": "代国王"
+  },
+  {
+    "offset": "0x9fc1",
+    "text": "安南国王"
+  },
+  {
+    "offset": "0xa011",
+    "text": "選帝侯"
+  },
+  {
+    "offset": "0xa06d",
+    "text": "名義上"
+  },
+  {
+    "offset": "0xa150",
+    "text": "高麗第"
+  },
+  {
+    "offset": "0xa158",
+    "text": "代国王"
+  },
+  {
+    "offset": "0xa192",
+    "text": "齊椄武人"
+  },
+  {
+    "offset": "0xa1a3",
+    "text": "圧倒的"
+  },
+  {
+    "offset": "0xa1cb",
+    "text": "金方慶"
+  },
+  {
+    "offset": "0xa202",
+    "text": "諸公国"
+  },
+  {
+    "offset": "0xa20c",
+    "text": "讎拡大"
+  },
+  {
+    "offset": "0xa26a",
+    "text": "連合軍"
+  },
+  {
+    "offset": "0xa28a",
+    "text": "一人取"
+  },
+  {
+    "offset": "0xa314",
+    "text": "大被害"
+  },
+  {
+    "offset": "0xa369",
+    "text": "臆病者"
+  },
+  {
+    "offset": "0xa3ff",
+    "text": "奴隷王朝第"
+  },
+  {
+    "offset": "0xa445",
+    "text": "四天王"
+  },
+  {
+    "offset": "0xa45c",
+    "text": "木曾義仲"
+  },
+  {
+    "offset": "0xa469",
+    "text": "北陸道"
+  },
+  {
+    "offset": "0xa48c",
+    "text": "義仲討伐"
+  },
+  {
+    "offset": "0xa4a0",
+    "text": "頼朝軍"
+  },
+  {
+    "offset": "0xa4bb",
+    "text": "四天王"
+  },
+  {
+    "offset": "0xa4c4",
+    "text": "楯親忠"
+  },
+  {
+    "offset": "0xa4cb",
+    "text": "根井行親"
+  },
+  {
+    "offset": "0xa4d6",
+    "text": "六条河原"
+  },
+  {
+    "offset": "0xa4e8",
+    "text": "駿河国目代"
+  },
+  {
+    "offset": "0xa4fc",
+    "text": "痔頼朝"
+  },
+  {
+    "offset": "0xa50d",
+    "text": "平家方"
+  },
+  {
+    "offset": "0xa522",
+    "text": "吾妻鏡"
+  },
+  {
+    "offset": "0xa53b",
+    "text": "甲斐源氏攻略"
+  },
+  {
+    "offset": "0xa54b",
+    "text": "長田入道父子"
+  },
+  {
+    "offset": "0xa562",
+    "text": "武田勢"
+  },
+  {
+    "offset": "0xa5ca",
+    "text": "行政事務"
+  },
+  {
+    "offset": "0xa607",
+    "text": "忠誠心"
+  },
+  {
+    "offset": "0xa628",
+    "text": "甲斐源氏"
+  },
+  {
+    "offset": "0xa647",
+    "text": "父信義"
+  },
+  {
+    "offset": "0xa653",
+    "text": "橘遠茂"
+  },
+  {
+    "offset": "0xa67b",
+    "text": "義仲追討軍"
+  },
+  {
+    "offset": "0xa6a4",
+    "text": "騎射三物"
+  },
+  {
+    "offset": "0xa6b5",
+    "text": "弓馬四天王"
+  },
+  {
+    "offset": "0xa6d6",
+    "text": "鎌倉時代"
+  },
+  {
+    "offset": "0xa6f9",
+    "text": "五郎兵衛"
+  },
+  {
+    "offset": "0xa703",
+    "text": "元軍来襲"
+  },
+  {
+    "offset": "0xa71b",
+    "text": "東三郡"
+  },
+  {
+    "offset": "0xa748",
+    "text": "蒙古襲来時"
+  },
+  {
+    "offset": "0xa778",
+    "text": "代目当主"
+  },
+  {
+    "offset": "0xa7e0",
+    "text": "猖氏族"
+  },
+  {
+    "offset": "0xa815",
+    "text": "氏族長"
+  },
+  {
+    "offset": "0xa8c9",
+    "text": "異母弟"
+  },
+  {
+    "offset": "0xa8e9",
+    "text": "池大納言"
+  },
+  {
+    "offset": "0xa907",
+    "text": "平氏一族"
+  },
+  {
+    "offset": "0xa976",
+    "text": "北条氏得宗家執事"
+  },
+  {
+    "offset": "0xa987",
+    "text": "内管領"
+  },
+  {
+    "offset": "0xa9be",
+    "text": "安達泰盛"
+  },
+  {
+    "offset": "0xa9e0",
+    "text": "恐怖政治"
+  },
+  {
+    "offset": "0xaa3b",
+    "text": "長男重盛"
+  },
+  {
+    "offset": "0xaa66",
+    "text": "政治的手腕"
+  },
+  {
+    "offset": "0xaa99",
+    "text": "衙知盛"
+  },
+  {
+    "offset": "0xaadb",
+    "text": "弟教盛"
+  },
+  {
+    "offset": "0xaae6",
+    "text": "源平内乱期"
+  },
+  {
+    "offset": "0xaaf2",
+    "text": "大将軍"
+  },
+  {
+    "offset": "0xab06",
+    "text": "美濃源氏"
+  },
+  {
+    "offset": "0xab15",
+    "text": "墨俣川"
+  },
+  {
+    "offset": "0xab1e",
+    "text": "源行家"
+  },
+  {
+    "offset": "0xab2a",
+    "text": "義仲討伐"
+  },
+  {
+    "offset": "0xab4d",
+    "text": "摂津一"
+  },
+  {
+    "offset": "0xab58",
+    "text": "義経軍"
+  },
+  {
+    "offset": "0xab69",
+    "text": "小宰相"
+  },
+  {
+    "offset": "0xab9a",
+    "text": "衄朝廷"
+  },
+  {
+    "offset": "0xaba3",
+    "text": "荘菷活躍"
+  },
+  {
+    "offset": "0xabac",
+    "text": "源平内乱期"
+  },
+  {
+    "offset": "0xabd1",
+    "text": "京都防衛"
+  },
+  {
+    "offset": "0xabe2",
+    "text": "作戦計画"
+  },
+  {
+    "offset": "0xac3b",
+    "text": "弟教盛"
+  },
+  {
+    "offset": "0xac51",
+    "text": "兄通盛"
+  },
+  {
+    "offset": "0xac58",
+    "text": "副将軍"
+  },
+  {
+    "offset": "0xac61",
+    "text": "義仲追討"
+  },
+  {
+    "offset": "0xac7d",
+    "text": "网瀬戸内"
+  },
+  {
+    "offset": "0xac94",
+    "text": "内海一帯制圧"
+  },
+  {
+    "offset": "0xaca2",
+    "text": "原動力"
+  },
+  {
+    "offset": "0xacaf",
+    "text": "平家物語"
+  },
+  {
+    "offset": "0xad17",
+    "text": "兄宗盛"
+  },
+  {
+    "offset": "0xad23",
+    "text": "齧螯率"
+  },
+  {
+    "offset": "0xad33",
+    "text": "敗戦後"
+  },
+  {
+    "offset": "0xad3d",
+    "text": "衄拠点"
+  },
+  {
+    "offset": "0xad9e",
+    "text": "後白河天皇"
+  },
+  {
+    "offset": "0xadb9",
+    "text": "妹時子"
+  },
+  {
+    "offset": "0xadc0",
+    "text": "平清盛"
+  },
+  {
+    "offset": "0xadd7",
+    "text": "権大納言"
+  },
+  {
+    "offset": "0xadea",
+    "text": "平関白"
+  },
+  {
+    "offset": "0xae71",
+    "text": "剥陀経営"
+  },
+  {
+    "offset": "0xae7a",
+    "text": "内裏守護"
+  },
+  {
+    "offset": "0xae8e",
+    "text": "内乱期"
+  },
+  {
+    "offset": "0xaec6",
+    "text": "平氏一門"
+  },
+  {
+    "offset": "0xaf07",
+    "text": "源平内乱期"
+  },
+  {
+    "offset": "0xaf13",
+    "text": "大将軍"
+  },
+  {
+    "offset": "0xaf39",
+    "text": "富士川"
+  },
+  {
+    "offset": "0xaf4b",
+    "text": "味翌年"
+  },
+  {
+    "offset": "0xaf52",
+    "text": "墨俣川"
+  },
+  {
+    "offset": "0xaf5a",
+    "text": "源行家"
+  },
+  {
+    "offset": "0xaf6d",
+    "text": "義仲軍"
+  },
+  {
+    "offset": "0xafae",
+    "text": "平維盛"
+  },
+  {
+    "offset": "0xafb5",
+    "text": "異母弟"
+  },
+  {
+    "offset": "0xafc9",
+    "text": "美濃源氏"
+  },
+  {
+    "offset": "0xb012",
+    "text": "痔九州"
+  },
+  {
+    "offset": "0xb01d",
+    "text": "範頼軍"
+  },
+  {
+    "offset": "0xb038",
+    "text": "翹決戦"
+  },
+  {
+    "offset": "0xb083",
+    "text": "平資盛"
+  },
+  {
+    "offset": "0xb08e",
+    "text": "賊徒鎮圧"
+  },
+  {
+    "offset": "0xb09d",
+    "text": "墨俣川"
+  },
+  {
+    "offset": "0xb0a9",
+    "text": "源行家"
+  },
+  {
+    "offset": "0xb0b9",
+    "text": "网西海"
+  },
+  {
+    "offset": "0xb0c4",
+    "text": "菊地高直"
+  },
+  {
+    "offset": "0xb10a",
+    "text": "平重盛"
+  },
+  {
+    "offset": "0xb121",
+    "text": "桜梅少将"
+  },
+  {
+    "offset": "0xb13e",
+    "text": "富士川"
+  },
+  {
+    "offset": "0xb194",
+    "text": "入水自殺"
+  },
+  {
+    "offset": "0xb1a2",
+    "text": "高野山"
+  },
+  {
+    "offset": "0xb1ba",
+    "text": "平忠盛"
+  },
+  {
+    "offset": "0xb1ee",
+    "text": "従一位太政大臣"
+  },
+  {
+    "offset": "0xb201",
+    "text": "娘徳子"
+  },
+  {
+    "offset": "0xb208",
+    "text": "高倉天皇"
+  },
+  {
+    "offset": "0xb21d",
+    "text": "安徳天皇"
+  },
+  {
+    "offset": "0xb244",
+    "text": "反平氏"
+  },
+  {
+    "offset": "0xb26a",
+    "text": "平安末"
+  },
+  {
+    "offset": "0xb271",
+    "text": "鎌倉初期"
+  },
+  {
+    "offset": "0xb280",
+    "text": "美濃国内"
+  },
+  {
+    "offset": "0xb292",
+    "text": "在地領主"
+  },
+  {
+    "offset": "0xb2ac",
+    "text": "滝口武者"
+  },
+  {
+    "offset": "0xb2be",
+    "text": "寿永年間"
+  },
+  {
+    "offset": "0xb2d5",
+    "text": "御家人"
+  },
+  {
+    "offset": "0xb2e7",
+    "text": "弟経盛"
+  },
+  {
+    "offset": "0xb318",
+    "text": "熊谷直実"
+  },
+  {
+    "offset": "0xb35c",
+    "text": "發敦盛"
+  },
+  {
+    "offset": "0xb397",
+    "text": "神学者"
+  },
+  {
+    "offset": "0xb3d6",
+    "text": "朝軍隊"
+  },
+  {
+    "offset": "0xb3dd",
+    "text": "従軍法学者"
+  },
+  {
+    "offset": "0xb415",
+    "text": "鮪榾法律"
+  },
+  {
+    "offset": "0xb458",
+    "text": "部族長"
+  },
+  {
+    "offset": "0xb474",
+    "text": "狩猟民族"
+  },
+  {
+    "offset": "0xb4ef",
+    "text": "氏族長"
+  },
+  {
+    "offset": "0xb545",
+    "text": "十三翼"
+  },
+  {
+    "offset": "0xb5a9",
+    "text": "共々処刑"
+  },
+  {
+    "offset": "0xb61f",
+    "text": "武力衝突"
+  },
+  {
+    "offset": "0xb629",
+    "text": "十三翼"
+  },
+  {
+    "offset": "0xb663",
+    "text": "少年時代"
+  },
+  {
+    "offset": "0xb689",
+    "text": "絶体絶命"
+  },
+  {
+    "offset": "0xb69d",
+    "text": "息子達"
+  },
+  {
+    "offset": "0xb726",
+    "text": "西遼人"
+  },
+  {
+    "offset": "0xb740",
+    "text": "備中国妹尾村"
+  },
+  {
+    "offset": "0xb75a",
+    "text": "義仲追討"
+  },
+  {
+    "offset": "0xb765",
+    "text": "北陸道"
+  },
+  {
+    "offset": "0xb772",
+    "text": "倶利伽羅峠"
+  },
+  {
+    "offset": "0xb78f",
+    "text": "兼康自身"
+  },
+  {
+    "offset": "0xb7b0",
+    "text": "痔平氏追討"
+  },
+  {
+    "offset": "0xb7c4",
+    "text": "山陽道"
+  },
+  {
+    "offset": "0xb7fc",
+    "text": "陳朝第"
+  },
+  {
+    "offset": "0xb803",
+    "text": "代君主"
+  },
+  {
+    "offset": "0xb80f",
+    "text": "内政改革"
+  },
+  {
+    "offset": "0xb87d",
+    "text": "次即位"
+  },
+  {
+    "offset": "0xb8b0",
+    "text": "大西征"
+  },
+  {
+    "offset": "0xb8fa",
+    "text": "南宋中期"
+  },
+  {
+    "offset": "0xb90a",
+    "text": "鰲汎同"
+  },
+  {
+    "offset": "0xb913",
+    "text": "沍塰出身"
+  },
+  {
+    "offset": "0xb955",
+    "text": "翌年病気"
+  },
+  {
+    "offset": "0xb9dc",
+    "text": "欠地王"
+  },
+  {
+    "offset": "0xba28",
+    "text": "大陸領"
+  },
+  {
+    "offset": "0xba65",
+    "text": "大憲章"
+  },
+  {
+    "offset": "0xbaa1",
+    "text": "鮪椄戦"
+  },
+  {
+    "offset": "0xbab9",
+    "text": "馬上槍仕合"
+  },
+  {
+    "offset": "0xbb34",
+    "text": "中世北九州"
+  },
+  {
+    "offset": "0xbb45",
+    "text": "大宰少弐"
+  },
+  {
+    "offset": "0xbb4e",
+    "text": "武藤資能"
+  },
+  {
+    "offset": "0xbb58",
+    "text": "元軍来襲"
+  },
+  {
+    "offset": "0xbb64",
+    "text": "軍事統率権"
+  },
+  {
+    "offset": "0xbb99",
+    "text": "大宰府"
+  },
+  {
+    "offset": "0xbba6",
+    "text": "役職名"
+  },
+  {
+    "offset": "0xbbb1",
+    "text": "武藤資頼以来世襲"
+  },
+  {
+    "offset": "0xbbd4",
+    "text": "西夏第"
+  },
+  {
+    "offset": "0xbbdb",
+    "text": "代国王"
+  },
+  {
+    "offset": "0xbbe5",
+    "text": "李安全"
+  },
+  {
+    "offset": "0xbc09",
+    "text": "回侵攻"
+  },
+  {
+    "offset": "0xbc4f",
+    "text": "毎年朝貢"
+  },
+  {
+    "offset": "0xbc62",
+    "text": "金朝第"
+  },
+  {
+    "offset": "0xbc69",
+    "text": "代皇帝"
+  },
+  {
+    "offset": "0xbc74",
+    "text": "代世宗"
+  },
+  {
+    "offset": "0xbc7b",
+    "text": "皇太孫"
+  },
+  {
+    "offset": "0xbc85",
+    "text": "太祖完顔阿骨打"
+  },
+  {
+    "offset": "0xbca0",
+    "text": "中国的教養"
+  },
+  {
+    "offset": "0xbcaf",
+    "text": "金朝第一"
+  },
+  {
+    "offset": "0xbcc1",
+    "text": "文人皇帝"
+  },
+  {
+    "offset": "0xbd63",
+    "text": "対立国王"
+  },
+  {
+    "offset": "0xbd98",
+    "text": "皇帝在位"
+  },
+  {
+    "offset": "0xbdb7",
+    "text": "陀政治家"
+  },
+  {
+    "offset": "0xbdc2",
+    "text": "歴史家"
+  },
+  {
+    "offset": "0xbdd7",
+    "text": "崩壊後"
+  },
+  {
+    "offset": "0xbdfa",
+    "text": "余年間"
+  },
+  {
+    "offset": "0xbe5b",
+    "text": "蒙古史"
+  },
+  {
+    "offset": "0xbe8c",
+    "text": "十三翼"
+  },
+  {
+    "offset": "0xbee4",
+    "text": "敵本営"
+  },
+  {
+    "offset": "0xbf5c",
+    "text": "旅行家"
+  },
+  {
+    "offset": "0xbfd2",
+    "text": "旅行記"
+  },
+  {
+    "offset": "0xbfdc",
+    "text": "文学的価値"
+  },
+  {
+    "offset": "0xc010",
+    "text": "理気二元論"
+  },
+  {
+    "offset": "0xc028",
+    "text": "集大成"
+  },
+  {
+    "offset": "0xc048",
+    "text": "朱子学"
+  },
+  {
+    "offset": "0xc05d",
+    "text": "朱氏文集"
+  },
+  {
+    "offset": "0xc067",
+    "text": "四書集注"
+  },
+  {
+    "offset": "0xc072",
+    "text": "資治通鑑綱目"
+  },
+  {
+    "offset": "0xc099",
+    "text": "翹大豪族"
+  },
+  {
+    "offset": "0xc0af",
+    "text": "義仲追討"
+  },
+  {
+    "offset": "0xc0c0",
+    "text": "信濃国横田河原"
+  },
+  {
+    "offset": "0xc0f7",
+    "text": "奥州征伐"
+  },
+  {
+    "offset": "0xc109",
+    "text": "御家人"
+  },
+  {
+    "offset": "0xc114",
+    "text": "庇護者"
+  },
+  {
+    "offset": "0xc11b",
+    "text": "梶原景時"
+  },
+  {
+    "offset": "0xc124",
+    "text": "滅亡後"
+  },
+  {
+    "offset": "0xc151",
+    "text": "部族長"
+  },
+  {
+    "offset": "0xc1c4",
+    "text": "戦死後"
+  },
+  {
+    "offset": "0xc1e4",
+    "text": "凄平定"
+  },
+  {
+    "offset": "0xc215",
+    "text": "西域遠征"
+  },
+  {
+    "offset": "0xc26a",
+    "text": "一人最後"
+  },
+  {
+    "offset": "0xc2c8",
+    "text": "哲学者"
+  },
+  {
+    "offset": "0xc2cf",
+    "text": "神学者"
+  },
+  {
+    "offset": "0xc2e2",
+    "text": "会修道士"
+  },
+  {
+    "offset": "0xc354",
+    "text": "神学大全"
+  },
+  {
+    "offset": "0xc376",
+    "text": "相模国土肥郷"
+  },
+  {
+    "offset": "0xc389",
+    "text": "石橋山"
+  },
+  {
+    "offset": "0xc3f4",
+    "text": "備後三国"
+  },
+  {
+    "offset": "0xc40b",
+    "text": "竭蠻信頼"
+  },
+  {
+    "offset": "0xc466",
+    "text": "南宋第"
+  },
+  {
+    "offset": "0xc46d",
+    "text": "代皇帝"
+  },
+  {
+    "offset": "0xc478",
+    "text": "代皇帝理宗"
+  },
+  {
+    "offset": "0xc497",
+    "text": "緩賈似道"
+  },
+  {
+    "offset": "0xc4ab",
+    "text": "皇太子"
+  },
+  {
+    "offset": "0xc4c5",
+    "text": "即位後"
+  },
+  {
+    "offset": "0xc4cc",
+    "text": "賈似道"
+  },
+  {
+    "offset": "0xc4ee",
+    "text": "痔死亡"
+  },
+  {
+    "offset": "0xc504",
+    "text": "氏族長"
+  },
+  {
+    "offset": "0xc547",
+    "text": "連合軍"
+  },
+  {
+    "offset": "0xc5ca",
+    "text": "數叔父"
+  },
+  {
+    "offset": "0xc631",
+    "text": "義兄弟"
+  },
+  {
+    "offset": "0xc6a4",
+    "text": "逃走中"
+  },
+  {
+    "offset": "0xc6f0",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0xc73e",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0xc76a",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0xc81b",
+    "text": "陀最盛期"
+  },
+  {
+    "offset": "0xc85a",
+    "text": "哲学者"
+  },
+  {
+    "offset": "0xc861",
+    "text": "天文学者"
+  },
+  {
+    "offset": "0xc86a",
+    "text": "政治家"
+  },
+  {
+    "offset": "0xc8ab",
+    "text": "図書館"
+  },
+  {
+    "offset": "0xc8cb",
+    "text": "天文台建設"
+  },
+  {
+    "offset": "0xc8eb",
+    "text": "天文表"
+  },
+  {
+    "offset": "0xc962",
+    "text": "鬥名乗"
+  },
+  {
+    "offset": "0xc96a",
+    "text": "独立政権"
+  },
+  {
+    "offset": "0xca8b",
+    "text": "大西征"
+  },
+  {
+    "offset": "0xcac8",
+    "text": "位奪取"
+  },
+  {
+    "offset": "0xcb2a",
+    "text": "大会議"
+  },
+  {
+    "offset": "0xcb3e",
+    "text": "全遊牧民"
+  },
+  {
+    "offset": "0xcbc7",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0xcc53",
+    "text": "部族長"
+  },
+  {
+    "offset": "0xcc8c",
+    "text": "狩猟中"
+  },
+  {
+    "offset": "0xccd2",
+    "text": "帝国初代皇帝"
+  },
+  {
+    "offset": "0xcce9",
+    "text": "骰陀貴族"
+  },
+  {
+    "offset": "0xcd07",
+    "text": "回十字軍"
+  },
+  {
+    "offset": "0xcd69",
+    "text": "骰陀復興"
+  },
+  {
+    "offset": "0xcd79",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0xcdb4",
+    "text": "最高司法官"
+  },
+  {
+    "offset": "0xcdc5",
+    "text": "貴族間"
+  },
+  {
+    "offset": "0xcea1",
+    "text": "義兄弟"
+  },
+  {
+    "offset": "0xcf0e",
+    "text": "鎌倉初期"
+  },
+  {
+    "offset": "0xcf26",
+    "text": "関白九条兼実"
+  },
+  {
+    "offset": "0xcf38",
+    "text": "外孫土御門天皇"
+  },
+  {
+    "offset": "0xcf70",
+    "text": "親鎌倉派"
+  },
+  {
+    "offset": "0xcf8d",
+    "text": "新古今和歌集"
+  },
+  {
+    "offset": "0xcfc7",
+    "text": "俊乗坊重源"
+  },
+  {
+    "offset": "0xcfd9",
+    "text": "東大寺大仏"
+  },
+  {
+    "offset": "0xcfe4",
+    "text": "修復作業"
+  },
+  {
+    "offset": "0xcff7",
+    "text": "代将軍実朝"
+  },
+  {
+    "offset": "0xd03b",
+    "text": "数百人"
+  },
+  {
+    "offset": "0xd110",
+    "text": "政治家"
+  },
+  {
+    "offset": "0xd121",
+    "text": "統一以前"
+  },
+  {
+    "offset": "0xd1e5",
+    "text": "国家体制"
+  },
+  {
+    "offset": "0xd1f8",
+    "text": "興道王"
+  },
+  {
+    "offset": "0xd231",
+    "text": "陸海軍"
+  },
+  {
+    "offset": "0xd24c",
+    "text": "白藤江"
+  },
+  {
+    "offset": "0xd263",
+    "text": "大打撃"
+  },
+  {
+    "offset": "0xd282",
+    "text": "帝位継承者"
+  },
+  {
+    "offset": "0xd28d",
+    "text": "北平王"
+  },
+  {
+    "offset": "0xd2b7",
+    "text": "征討中"
+  },
+  {
+    "offset": "0xd2e2",
+    "text": "皇太子"
+  },
+  {
+    "offset": "0xd302",
+    "text": "网帝位"
+  },
+  {
+    "offset": "0xd33e",
+    "text": "骰陀始祖"
+  },
+  {
+    "offset": "0xd3d7",
+    "text": "史上最大"
+  },
+  {
+    "offset": "0xd3e0",
+    "text": "大帝国"
+  },
+  {
+    "offset": "0xd40a",
+    "text": "翹君主"
+  },
+  {
+    "offset": "0xd412",
+    "text": "耶律大石"
+  },
+  {
+    "offset": "0xd47f",
+    "text": "政治的手腕"
+  },
+  {
+    "offset": "0xd531",
+    "text": "四大名族"
+  },
+  {
+    "offset": "0xd54d",
+    "text": "丘処機"
+  },
+  {
+    "offset": "0xd554",
+    "text": "道教全真派"
+  },
+  {
+    "offset": "0xd565",
+    "text": "西征中"
+  },
+  {
+    "offset": "0xd5d4",
+    "text": "長春真人西遊記"
+  },
+  {
+    "offset": "0xd5e6",
+    "text": "西域旅行"
+  },
+  {
+    "offset": "0xd659",
+    "text": "領主在位"
+  },
+  {
+    "offset": "0xd677",
+    "text": "部族長"
+  },
+  {
+    "offset": "0xd6b6",
+    "text": "一千人"
+  },
+  {
+    "offset": "0xd70b",
+    "text": "単騎逃"
+  },
+  {
+    "offset": "0xd72a",
+    "text": "下総国守護職"
+  },
+  {
+    "offset": "0xd737",
+    "text": "石橋山"
+  },
+  {
+    "offset": "0xd758",
+    "text": "三百騎"
+  },
+  {
+    "offset": "0xd769",
+    "text": "平氏追討"
+  },
+  {
+    "offset": "0xd774",
+    "text": "範頼軍"
+  },
+  {
+    "offset": "0xd781",
+    "text": "奥州討伐"
+  },
+  {
+    "offset": "0xd794",
+    "text": "鎌倉幕府創設"
+  },
+  {
+    "offset": "0xd7b6",
+    "text": "東国御家人"
+  },
+  {
+    "offset": "0xd815",
+    "text": "神秘主義教団"
+  },
+  {
+    "offset": "0xd829",
+    "text": "指導者"
+  },
+  {
+    "offset": "0xd843",
+    "text": "世紀前半"
+  },
+  {
+    "offset": "0xd853",
+    "text": "地方国家"
+  },
+  {
+    "offset": "0xd86b",
+    "text": "共和国"
+  },
+  {
+    "offset": "0xd897",
+    "text": "回十字軍"
+  },
+  {
+    "offset": "0xd8ce",
+    "text": "骰即結果的"
+  },
+  {
+    "offset": "0xd8eb",
+    "text": "植民地"
+  },
+  {
+    "offset": "0xd905",
+    "text": "氏族長"
+  },
+  {
+    "offset": "0xd9c2",
+    "text": "軍規違反"
+  },
+  {
+    "offset": "0xda48",
+    "text": "木曾義仲"
+  },
+  {
+    "offset": "0xda5c",
+    "text": "和漢朗詠集"
+  },
+  {
+    "offset": "0xda7d",
+    "text": "以仁王"
+  },
+  {
+    "offset": "0xdab3",
+    "text": "源行家"
+  },
+  {
+    "offset": "0xdad3",
+    "text": "愛義仲"
+  },
+  {
+    "offset": "0xdada",
+    "text": "上洛作戦"
+  },
+  {
+    "offset": "0xdae7",
+    "text": "山門工作"
+  },
+  {
+    "offset": "0xdb29",
+    "text": "翡人物"
+  },
+  {
+    "offset": "0xdb52",
+    "text": "諸勢力"
+  },
+  {
+    "offset": "0xdbd0",
+    "text": "大公国"
+  },
+  {
+    "offset": "0xdca8",
+    "text": "奥州藤原氏"
+  },
+  {
+    "offset": "0xdcbc",
+    "text": "悋出羽押領使"
+  },
+  {
+    "offset": "0xdcd4",
+    "text": "源義経"
+  },
+  {
+    "offset": "0xdd1e",
+    "text": "奥州討伐"
+  },
+  {
+    "offset": "0xdd4e",
+    "text": "奥州藤原氏"
+  },
+  {
+    "offset": "0xdd5e",
+    "text": "陸奥平泉"
+  },
+  {
+    "offset": "0xdd6b",
+    "text": "藤原氏"
+  },
+  {
+    "offset": "0xdd72",
+    "text": "最盛期"
+  },
+  {
+    "offset": "0xdd8f",
+    "text": "陸奥守"
+  },
+  {
+    "offset": "0xddca",
+    "text": "戦略構想"
+  },
+  {
+    "offset": "0xdddd",
+    "text": "政治的手腕"
+  },
+  {
+    "offset": "0xde00",
+    "text": "鎌倉前期"
+  },
+  {
+    "offset": "0xde0f",
+    "text": "京極中納言"
+  },
+  {
+    "offset": "0xde39",
+    "text": "新古今和歌集"
+  },
+  {
+    "offset": "0xde4f",
+    "text": "源氏物語"
+  },
+  {
+    "offset": "0xde58",
+    "text": "古今集"
+  },
+  {
+    "offset": "0xde5f",
+    "text": "土佐日記"
+  },
+  {
+    "offset": "0xde6c",
+    "text": "古典校勘"
+  },
+  {
+    "offset": "0xde9c",
+    "text": "泉三郎"
+  },
+  {
+    "offset": "0xdeb1",
+    "text": "网日毎"
+  },
+  {
+    "offset": "0xdedc",
+    "text": "親義経"
+  },
+  {
+    "offset": "0xdef6",
+    "text": "痔兄泰衡"
+  },
+  {
+    "offset": "0xdf19",
+    "text": "庶長子"
+  },
+  {
+    "offset": "0xdf25",
+    "text": "異母兄"
+  },
+  {
+    "offset": "0xdf2d",
+    "text": "西木戸太郎"
+  },
+  {
+    "offset": "0xdf89",
+    "text": "奥州合戦"
+  },
+  {
+    "offset": "0xdf95",
+    "text": "大将軍"
+  },
+  {
+    "offset": "0xdf9e",
+    "text": "阿津賀志"
+  },
+  {
+    "offset": "0xdfb4",
+    "text": "畠山重忠"
+  },
+  {
+    "offset": "0xdfc4",
+    "text": "平安末期"
+  },
+  {
+    "offset": "0xdfd7",
+    "text": "悪七兵衛"
+  },
+  {
+    "offset": "0xdfe3",
+    "text": "父忠清"
+  },
+  {
+    "offset": "0xdff6",
+    "text": "陀侍別当"
+  },
+  {
+    "offset": "0xe003",
+    "text": "訣陀平氏家人"
+  },
+  {
+    "offset": "0xe068",
+    "text": "平景清"
+  },
+  {
+    "offset": "0xe08f",
+    "text": "騎士団"
+  },
+  {
+    "offset": "0xe096",
+    "text": "地方管轄長"
+  },
+  {
+    "offset": "0xe0da",
+    "text": "騎士団総長"
+  },
+  {
+    "offset": "0xe0f3",
+    "text": "黄金文書"
+  },
+  {
+    "offset": "0xe119",
+    "text": "騎士団領"
+  },
+  {
+    "offset": "0xe131",
+    "text": "教皇管轄下"
+  },
+  {
+    "offset": "0xe142",
+    "text": "総長在位"
+  },
+  {
+    "offset": "0xe156",
+    "text": "中世盛期"
+  },
+  {
+    "offset": "0xe166",
+    "text": "叙事詩"
+  },
+  {
+    "offset": "0xe16d",
+    "text": "第一人者"
+  },
+  {
+    "offset": "0xe18f",
+    "text": "衙詩人"
+  },
+  {
+    "offset": "0xe1cc",
+    "text": "鯣忠誠"
+  },
+  {
+    "offset": "0xe23e",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0xe245",
+    "text": "従軍中"
+  },
+  {
+    "offset": "0xe29d",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0xe2b2",
+    "text": "退却中"
+  },
+  {
+    "offset": "0xe2d2",
+    "text": "尊厳王"
+  },
+  {
+    "offset": "0xe2df",
+    "text": "年即位"
+  },
+  {
+    "offset": "0xe2e9",
+    "text": "回十字軍"
+  },
+  {
+    "offset": "0xe350",
+    "text": "行政機構"
+  },
+  {
+    "offset": "0xe3b1",
+    "text": "最高司法官"
+  },
+  {
+    "offset": "0xe3c6",
+    "text": "代理格"
+  },
+  {
+    "offset": "0xe3f7",
+    "text": "氏族長"
+  },
+  {
+    "offset": "0xe450",
+    "text": "連合軍"
+  },
+  {
+    "offset": "0xe54b",
+    "text": "四天王"
+  },
+  {
+    "offset": "0xe562",
+    "text": "中原兼遠"
+  },
+  {
+    "offset": "0xe570",
+    "text": "今井兼平"
+  },
+  {
+    "offset": "0xe59a",
+    "text": "源行家"
+  },
+  {
+    "offset": "0xe5fd",
+    "text": "乳母比企尼"
+  },
+  {
+    "offset": "0xe62d",
+    "text": "若狭局"
+  },
+  {
+    "offset": "0xe662",
+    "text": "北条時政"
+  },
+  {
+    "offset": "0xe680",
+    "text": "北条政子"
+  },
+  {
+    "offset": "0xe718",
+    "text": "即独立"
+  },
+  {
+    "offset": "0xe73f",
+    "text": "奴隷王朝第"
+  },
+  {
+    "offset": "0xe771",
+    "text": "治世中"
+  },
+  {
+    "offset": "0xe796",
+    "text": "当時渦巻"
+  },
+  {
+    "offset": "0xe7a2",
+    "text": "宮廷内"
+  },
+  {
+    "offset": "0xe7b7",
+    "text": "即位後"
+  },
+  {
+    "offset": "0xe7d4",
+    "text": "恐怖政治"
+  },
+  {
+    "offset": "0xea0e",
+    "text": "南宋討伐"
+  },
+  {
+    "offset": "0xea52",
+    "text": "网王位"
+  },
+  {
+    "offset": "0xea6b",
+    "text": "伝記作者"
+  },
+  {
+    "offset": "0xea85",
+    "text": "首席裁判官"
+  },
+  {
+    "offset": "0xea9a",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0xeaa1",
+    "text": "有力御家人"
+  },
+  {
+    "offset": "0xeab4",
+    "text": "剛勇廉直"
+  },
+  {
+    "offset": "0xeabd",
+    "text": "典型的鎌倉武士"
+  },
+  {
+    "offset": "0xeb07",
+    "text": "頼朝没後"
+  },
+  {
+    "offset": "0xeb1a",
+    "text": "安達軍"
+  },
+  {
+    "offset": "0xeb28",
+    "text": "武蔵二俣川"
+  },
+  {
+    "offset": "0xebce",
+    "text": "教僧侶"
+  },
+  {
+    "offset": "0xec07",
+    "text": "蒙古新字"
+  },
+  {
+    "offset": "0xec8c",
+    "text": "一部族長"
+  },
+  {
+    "offset": "0xed75",
+    "text": "帝国遠征"
+  },
+  {
+    "offset": "0xedee",
+    "text": "人奴隷"
+  },
+  {
+    "offset": "0xee28",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0xee38",
+    "text": "免撃退"
+  },
+  {
+    "offset": "0xee4a",
+    "text": "英雄物語"
+  },
+  {
+    "offset": "0xee65",
+    "text": "主人公"
+  },
+  {
+    "offset": "0xeeaf",
+    "text": "十字軍"
+  },
+  {
+    "offset": "0xeeb6",
+    "text": "遠征中"
+  },
+  {
+    "offset": "0xeebf",
+    "text": "蒼猖権力"
+  },
+  {
+    "offset": "0xeef4",
+    "text": "景教僧"
+  },
+  {
+    "offset": "0xef26",
+    "text": "景教僧"
+  },
+  {
+    "offset": "0xef5e",
+    "text": "景教大主教"
+  },
+  {
+    "offset": "0xefd6",
+    "text": "帝位継承者"
+  },
+  {
+    "offset": "0xf01d",
+    "text": "根拠地"
+  },
+  {
+    "offset": "0xf030",
+    "text": "豆占領"
+  },
+  {
+    "offset": "0xf041",
+    "text": "進駐軍"
+  },
+  {
+    "offset": "0xf08f",
+    "text": "四天王"
+  },
+  {
+    "offset": "0xf0a6",
+    "text": "木曾谷"
+  },
+  {
+    "offset": "0xf0c5",
+    "text": "中原兼遠"
+  },
+  {
+    "offset": "0xf0d9",
+    "text": "義仲上洛"
+  },
+  {
+    "offset": "0xf0e4",
+    "text": "緕岬託"
+  },
+  {
+    "offset": "0xf0f2",
+    "text": "義仲側近"
+  },
+  {
+    "offset": "0xf103",
+    "text": "北陸道諸国"
+  },
+  {
+    "offset": "0xf114",
+    "text": "招引工作"
+  },
+  {
+    "offset": "0xf12a",
+    "text": "六条河原"
+  },
+  {
+    "offset": "0xf13a",
+    "text": "南宋第"
+  },
+  {
+    "offset": "0xf141",
+    "text": "代皇帝"
+  },
+  {
+    "offset": "0xf151",
+    "text": "代皇帝光宗"
+  },
+  {
+    "offset": "0xf177",
+    "text": "竿実権"
+  },
+  {
+    "offset": "0xf19a",
+    "text": "新田郡由良郷"
+  },
+  {
+    "offset": "0xf1bf",
+    "text": "痔源頼朝"
+  },
+  {
+    "offset": "0xf1d4",
+    "text": "上野国寺尾城"
+  },
+  {
+    "offset": "0xf262",
+    "text": "朝時代"
+  },
+  {
+    "offset": "0xf293",
+    "text": "七王妃物語"
+  },
+  {
+    "offset": "0xf2a3",
+    "text": "五大長編叙事詩"
+  },
+  {
+    "offset": "0xf2b3",
+    "text": "細密画"
+  },
+  {
+    "offset": "0xf2e8",
+    "text": "代国王"
+  },
+  {
+    "offset": "0xf30e",
+    "text": "繁栄期"
+  },
+  {
+    "offset": "0xf31a",
+    "text": "治水工事"
+  },
+  {
+    "offset": "0xf329",
+    "text": "大寺院"
+  },
+  {
+    "offset": "0xf375",
+    "text": "代国王"
+  },
+  {
+    "offset": "0xf3b2",
+    "text": "事実上滅"
+  },
+  {
+    "offset": "0xf3ff",
+    "text": "反元朝"
+  },
+  {
+    "offset": "0xf4d7",
+    "text": "鉛懲証明"
+  },
+  {
+    "offset": "0xf4f0",
+    "text": "万戸長"
+  },
+  {
+    "offset": "0xf4fa",
+    "text": "西域遠征"
+  },
+  {
+    "offset": "0xf50e",
+    "text": "平安末"
+  },
+  {
+    "offset": "0xf515",
+    "text": "鎌倉初期"
+  },
+  {
+    "offset": "0xf52a",
+    "text": "ぃ宗隆"
+  },
+  {
+    "offset": "0xf536",
+    "text": "下野国那須"
+  },
+  {
+    "offset": "0xf5b3",
+    "text": "柁所領"
+  },
+  {
+    "offset": "0xf5c2",
+    "text": "鎌倉前期"
+  },
+  {
+    "offset": "0xf5d1",
+    "text": "μ小山政光"
+  },
+  {
+    "offset": "0xf5e5",
+    "text": "下野国"
+  },
+  {
+    "offset": "0xf5ed",
+    "text": "志太義広"
+  },
+  {
+    "offset": "0xf5fe",
+    "text": "飜源範頼"
+  },
+  {
+    "offset": "0xf60e",
+    "text": "平家追討"
+  },
+  {
+    "offset": "0xf61d",
+    "text": "奥州征伐"
+  },
+  {
+    "offset": "0xf63c",
+    "text": "北条氏"
+  },
+  {
+    "offset": "0xf64c",
+    "text": "淡路守"
+  },
+  {
+    "offset": "0xf707",
+    "text": "即位後"
+  },
+  {
+    "offset": "0xf74a",
+    "text": "骰陀最盛期"
+  },
+  {
+    "offset": "0xf762",
+    "text": "不手際"
+  },
+  {
+    "offset": "0xf778",
+    "text": "大西征"
+  },
+  {
+    "offset": "0xf787",
+    "text": "味失意"
+  },
+  {
+    "offset": "0xf7d1",
+    "text": "骰陀第"
+  },
+  {
+    "offset": "0xf7d8",
+    "text": "代君主"
+  },
+  {
+    "offset": "0xf7f2",
+    "text": "平安末"
+  },
+  {
+    "offset": "0xf7f9",
+    "text": "鎌倉初期"
+  },
+  {
+    "offset": "0xf807",
+    "text": "義経記"
+  },
+  {
+    "offset": "0xf818",
+    "text": "爨英雄化"
+  },
+  {
+    "offset": "0xf82e",
+    "text": "熊野別当弁正"
+  },
+  {
+    "offset": "0xf84e",
+    "text": "比叡山西塔"
+  },
+  {
+    "offset": "0xf86b",
+    "text": "平氏追討"
+  },
+  {
+    "offset": "0xf88a",
+    "text": "藤原泰衡"
+  },
+  {
+    "offset": "0xf8cd",
+    "text": "繁討伐"
+  },
+  {
+    "offset": "0xf90d",
+    "text": "λ万戸長"
+  },
+  {
+    "offset": "0xf93f",
+    "text": "金国討伐"
+  },
+  {
+    "offset": "0xf948",
+    "text": "最高指揮官"
+  },
+  {
+    "offset": "0xf9ad",
+    "text": "川中流"
+  },
+  {
+    "offset": "0xf9b4",
+    "text": "本拠地"
+  },
+  {
+    "offset": "0xf9e0",
+    "text": "萄南方"
+  },
+  {
+    "offset": "0xfa2a",
+    "text": "鎌倉前期"
+  },
+  {
+    "offset": "0xfa33",
+    "text": "政治家"
+  },
+  {
+    "offset": "0xfa3c",
+    "text": "明法家"
+  },
+  {
+    "offset": "0xfa4e",
+    "text": "鎌倉幕府問注所"
+  },
+  {
+    "offset": "0xfa5e",
+    "text": "初代執事"
+  },
+  {
+    "offset": "0xfa91",
+    "text": "実務能力"
+  },
+  {
+    "offset": "0xfaa2",
+    "text": "大江広元"
+  },
+  {
+    "offset": "0xfad8",
+    "text": "平安後期"
+  },
+  {
+    "offset": "0xfaec",
+    "text": "摂津源氏"
+  },
+  {
+    "offset": "0xfb0a",
+    "text": "源義朝"
+  },
+  {
+    "offset": "0xfb18",
+    "text": "平清盛"
+  },
+  {
+    "offset": "0xfb2c",
+    "text": "以仁王"
+  },
+  {
+    "offset": "0xfb33",
+    "text": "平氏討伐"
+  },
+  {
+    "offset": "0xfb82",
+    "text": "鎌倉幕府初代将軍"
+  },
+  {
+    "offset": "0xfb94",
+    "text": "武家政治"
+  },
+  {
+    "offset": "0xfb9d",
+    "text": "創始者"
+  },
+  {
+    "offset": "0xfbca",
+    "text": "北条政子"
+  },
+  {
+    "offset": "0xfbdf",
+    "text": "年平氏討伐"
+  },
+  {
+    "offset": "0xfc0a",
+    "text": "征夷大将軍"
+  },
+  {
+    "offset": "0xfc2a",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0xfc40",
+    "text": "兄頼朝"
+  },
+  {
+    "offset": "0xfc4c",
+    "text": "平家追討"
+  },
+  {
+    "offset": "0xfc68",
+    "text": "後白河法皇"
+  },
+  {
+    "offset": "0xfc94",
+    "text": "藤原氏"
+  },
+  {
+    "offset": "0xfcb1",
+    "text": "藤原泰衡"
+  },
+  {
+    "offset": "0xfcdf",
+    "text": "以仁王"
+  },
+  {
+    "offset": "0xfcf0",
+    "text": "剥陀源氏"
+  },
+  {
+    "offset": "0xfcfa",
+    "text": "平氏打倒"
+  },
+  {
+    "offset": "0xfd86",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0xfd95",
+    "text": "蒲冠者"
+  },
+  {
+    "offset": "0xfda7",
+    "text": "兄頼朝"
+  },
+  {
+    "offset": "0xfde2",
+    "text": "弟義経"
+  },
+  {
+    "offset": "0xfde9",
+    "text": "没落後"
+  },
+  {
+    "offset": "0xfdfb",
+    "text": "伊豆修禅寺"
+  },
+  {
+    "offset": "0xfe20",
+    "text": "木曾義仲"
+  },
+  {
+    "offset": "0xfe29",
+    "text": "異母兄"
+  },
+  {
+    "offset": "0xfe35",
+    "text": "藤原氏"
+  },
+  {
+    "offset": "0xfe3c",
+    "text": "下級貴族"
+  },
+  {
+    "offset": "0xfe55",
+    "text": "榾源頼政"
+  },
+  {
+    "offset": "0xfe6f",
+    "text": "八条院蔵人"
+  },
+  {
+    "offset": "0xfe9e",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0xfeab",
+    "text": "鎌倉幕府第"
+  },
+  {
+    "offset": "0xfeb6",
+    "text": "代将軍"
+  },
+  {
+    "offset": "0xfecf",
+    "text": "頼朝死後"
+  },
+  {
+    "offset": "0xfed8",
+    "text": "北条一門"
+  },
+  {
+    "offset": "0xfef5",
+    "text": "北条義時"
+  },
+  {
+    "offset": "0xff05",
+    "text": "兄頼家"
+  },
+  {
+    "offset": "0xff0c",
+    "text": "子公暁"
+  },
+  {
+    "offset": "0xff4c",
+    "text": "帝国皇帝"
+  },
+  {
+    "offset": "0xff5d",
+    "text": "骰陀政権"
+  },
+  {
+    "offset": "0xff9e",
+    "text": "骰即興"
+  },
+  {
+    "offset": "0xffcf",
+    "text": "地中海帝国建設"
+  },
+  {
+    "offset": "0xfffa",
+    "text": "鎌倉時代前期"
+  },
+  {
+    "offset": "0x1001e",
+    "text": "大豪族"
+  },
+  {
+    "offset": "0x10039",
+    "text": "将軍実朝"
+  },
+  {
+    "offset": "0x10052",
+    "text": "和田義盛"
+  },
+  {
+    "offset": "0x10064",
+    "text": "北条義時"
+  },
+  {
+    "offset": "0x10074",
+    "text": "北条氏"
+  },
+  {
+    "offset": "0x1009c",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0x100c8",
+    "text": "領土争"
+  },
+  {
+    "offset": "0x100e0",
+    "text": "柁対抗"
+  },
+  {
+    "offset": "0x10184",
+    "text": "骰陀貴族"
+  },
+  {
+    "offset": "0x101ba",
+    "text": "鬥名乗"
+  },
+  {
+    "offset": "0x10221",
+    "text": "旅行家"
+  },
+  {
+    "offset": "0x102ac",
+    "text": "東方見聞録"
+  },
+  {
+    "offset": "0x102d3",
+    "text": "大庭景久"
+  },
+  {
+    "offset": "0x102dc",
+    "text": "大庭景親"
+  },
+  {
+    "offset": "0x102ee",
+    "text": "石橋山"
+  },
+  {
+    "offset": "0x10304",
+    "text": "甲斐源氏"
+  },
+  {
+    "offset": "0x10313",
+    "text": "橘遠茂"
+  },
+  {
+    "offset": "0x10339",
+    "text": "平維盛"
+  },
+  {
+    "offset": "0x10344",
+    "text": "義仲軍"
+  },
+  {
+    "offset": "0x10361",
+    "text": "緬途中"
+  },
+  {
+    "offset": "0x10377",
+    "text": "牡自害"
+  },
+  {
+    "offset": "0x10414",
+    "text": "即位後"
+  },
+  {
+    "offset": "0x1044c",
+    "text": "財務長官"
+  },
+  {
+    "offset": "0x104b0",
+    "text": "連合軍"
+  },
+  {
+    "offset": "0x1051f",
+    "text": "騎士中"
+  },
+  {
+    "offset": "0x10548",
+    "text": "氏出身"
+  },
+  {
+    "offset": "0x105b9",
+    "text": "帝国創世期"
+  },
+  {
+    "offset": "0x105d2",
+    "text": "族征伐"
+  },
+  {
+    "offset": "0x1063b",
+    "text": "分裂状態"
+  },
+  {
+    "offset": "0x10688",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0x106ce",
+    "text": "一時争"
+  },
+  {
+    "offset": "0x106f3",
+    "text": "合同路線"
+  },
+  {
+    "offset": "0x1071a",
+    "text": "氏出身"
+  },
+  {
+    "offset": "0x10739",
+    "text": "馬泥棒"
+  },
+  {
+    "offset": "0x107a4",
+    "text": "万戸長"
+  },
+  {
+    "offset": "0x107b7",
+    "text": "网広平王"
+  },
+  {
+    "offset": "0x107ca",
+    "text": "鎌倉幕府"
+  },
+  {
+    "offset": "0x107d3",
+    "text": "代執権"
+  },
+  {
+    "offset": "0x107ed",
+    "text": "姉政子"
+  },
+  {
+    "offset": "0x10814",
+    "text": "政敵和田氏"
+  },
+  {
+    "offset": "0x1083c",
+    "text": "武家政権"
+  },
+  {
+    "offset": "0x10855",
+    "text": "榿執権政治"
+  },
+  {
+    "offset": "0x10878",
+    "text": "北条時宗"
+  },
+  {
+    "offset": "0x10890",
+    "text": "相模四郎"
+  },
+  {
+    "offset": "0x108aa",
+    "text": "評定衆"
+  },
+  {
+    "offset": "0x108b1",
+    "text": "引付頭人"
+  },
+  {
+    "offset": "0x108ba",
+    "text": "武蔵守"
+  },
+  {
+    "offset": "0x108de",
+    "text": "同日没"
+  },
+  {
+    "offset": "0x10900",
+    "text": "鎌倉幕府"
+  },
+  {
+    "offset": "0x1090c",
+    "text": "代執権"
+  },
+  {
+    "offset": "0x10914",
+    "text": "北条時頼"
+  },
+  {
+    "offset": "0x10922",
+    "text": "通称相模太郎"
+  },
+  {
+    "offset": "0x10930",
+    "text": "蒙古襲来前"
+  },
+  {
+    "offset": "0x10968",
+    "text": "元軍来襲"
+  },
+  {
+    "offset": "0x10976",
+    "text": "指導力"
+  },
+  {
+    "offset": "0x10982",
+    "text": "暴風雨"
+  },
+  {
+    "offset": "0x109aa",
+    "text": "鎌倉幕府"
+  },
+  {
+    "offset": "0x109be",
+    "text": "挙兵当初"
+  },
+  {
+    "offset": "0x109ce",
+    "text": "頼朝没後"
+  },
+  {
+    "offset": "0x109d8",
+    "text": "代将軍頼家"
+  },
+  {
+    "offset": "0x10a04",
+    "text": "畠山氏"
+  },
+  {
+    "offset": "0x10a16",
+    "text": "代将軍実朝"
+  },
+  {
+    "offset": "0x10a31",
+    "text": "榮政子"
+  },
+  {
+    "offset": "0x10a9e",
+    "text": "大陸領経営"
+  },
+  {
+    "offset": "0x10aa9",
+    "text": "大陸外交"
+  },
+  {
+    "offset": "0x10ac3",
+    "text": "国内貴族"
+  },
+  {
+    "offset": "0x10b1a",
+    "text": "異母弟"
+  },
+  {
+    "offset": "0x10b22",
+    "text": "幼少期"
+  },
+  {
+    "offset": "0x10b29",
+    "text": "同母兄"
+  },
+  {
+    "offset": "0x10bcb",
+    "text": "爛事件"
+  },
+  {
+    "offset": "0x10c3c",
+    "text": "柁分裂"
+  },
+  {
+    "offset": "0x10c6f",
+    "text": "暇黄金時代"
+  },
+  {
+    "offset": "0x10ccc",
+    "text": "皇帝位"
+  },
+  {
+    "offset": "0x10cea",
+    "text": "南宋末"
+  },
+  {
+    "offset": "0x10d1e",
+    "text": "義勇軍"
+  },
+  {
+    "offset": "0x10de9",
+    "text": "恋物語"
+  },
+  {
+    "offset": "0x10dfc",
+    "text": "長編叙事詩"
+  },
+  {
+    "offset": "0x10e95",
+    "text": "帝国皇帝"
+  },
+  {
+    "offset": "0x10ea6",
+    "text": "十字軍史上"
+  },
+  {
+    "offset": "0x10ef5",
+    "text": "帝国皇帝"
+  },
+  {
+    "offset": "0x10f53",
+    "text": "帝国皇帝"
+  },
+  {
+    "offset": "0x10fa7",
+    "text": "皇帝在位"
+  },
+  {
+    "offset": "0x10fdd",
+    "text": "赤髭王"
+  },
+  {
+    "offset": "0x10ff6",
+    "text": "本国内"
+  },
+  {
+    "offset": "0x11007",
+    "text": "回十字軍"
+  },
+  {
+    "offset": "0x1108e",
+    "text": "十三翼"
+  },
+  {
+    "offset": "0x110a5",
+    "text": "側諸部族"
+  },
+  {
+    "offset": "0x111f3",
+    "text": "骰陀将軍"
+  },
+  {
+    "offset": "0x11229",
+    "text": "反乱軍"
+  },
+  {
+    "offset": "0x11255",
+    "text": "皇帝軍"
+  },
+  {
+    "offset": "0x112c0",
+    "text": "帝国内"
+  },
+  {
+    "offset": "0x112c8",
+    "text": "燉斉分裂"
+  },
+  {
+    "offset": "0x11345",
+    "text": "猖丞相"
+  },
+  {
+    "offset": "0x1134c",
+    "text": "都元帥"
+  },
+  {
+    "offset": "0x1136a",
+    "text": "侵入時"
+  },
+  {
+    "offset": "0x113eb",
+    "text": "翌年陥落"
+  },
+  {
+    "offset": "0x113fa",
+    "text": "服毒自殺"
+  },
+  {
+    "offset": "0x11406",
+    "text": "鎌倉幕府初代"
+  },
+  {
+    "offset": "0x11413",
+    "text": "侍所別当"
+  },
+  {
+    "offset": "0x1141d",
+    "text": "三浦義明"
+  },
+  {
+    "offset": "0x1142a",
+    "text": "有力御家人"
+  },
+  {
+    "offset": "0x11436",
+    "text": "頼朝挙兵以後"
+  },
+  {
+    "offset": "0x11453",
+    "text": "代表的"
+  },
+  {
+    "offset": "0x1145a",
+    "text": "鎌倉武士"
+  },
+  {
+    "offset": "0x1146a",
+    "text": "北条氏"
+  },
+  {
+    "offset": "0x11478",
+    "text": "齎挙兵"
+  },
+  {
+    "offset": "0x1148d",
+    "text": "侍所別当職"
+  },
+  {
+    "offset": "0x11498",
+    "text": "北条氏"
+  },
+  {
+    "offset": "0x114cc",
+    "text": "最高司法官"
+  },
+  {
+    "offset": "0x114d8",
+    "text": "即位前"
+  },
+  {
+    "offset": "0x11503",
+    "text": "十字軍遠征中"
+  },
+  {
+    "offset": "0x11512",
+    "text": "蒼猖統治"
+  },
+  {
+    "offset": "0x1156e",
+    "text": "伝説上"
+  },
+  {
+    "offset": "0x11586",
+    "text": "礼節正"
+  },
+  {
+    "offset": "0x115b4",
+    "text": "悪代官"
+  },
+  {
+    "offset": "0x115e1",
+    "text": "征服者"
+  },
+  {
+    "offset": "0x11656",
+    "text": "代理役"
+  },
+  {
+    "offset": "0x11706",
+    "text": "遠征帰還"
+  },
+  {
+    "offset": "0x11783",
+    "text": "回十字軍"
+  },
+  {
+    "offset": "0x117cf",
+    "text": "遠征帰途"
+  },
+  {
+    "offset": "0x11821",
+    "text": "帝国皇帝"
+  },
+  {
+    "offset": "0x1183c",
+    "text": "暇皇帝"
+  },
+  {
+    "offset": "0x1186a",
+    "text": "鯣選出"
+  },
+  {
+    "offset": "0x11873",
+    "text": "大空位時代"
+  },
+  {
+    "offset": "0x11888",
+    "text": "衙敵対者"
+  },
+  {
+    "offset": "0x11956",
+    "text": "王即位後"
+  },
+  {
+    "offset": "0x119d2",
+    "text": "派遣軍"
+  },
+  {
+    "offset": "0x11a22",
+    "text": "心意気"
+  },
+  {
+    "offset": "0x11a3b",
+    "text": "有力領主"
+  },
+  {
+    "offset": "0x11a70",
+    "text": "大陸領"
+  },
+  {
+    "offset": "0x11b01",
+    "text": "獅子心王"
+  },
+  {
+    "offset": "0x11b0f",
+    "text": "回十字軍"
+  },
+  {
+    "offset": "0x11b2e",
+    "text": "重装騎兵隊"
+  },
+  {
+    "offset": "0x11b39",
+    "text": "弓手隊"
+  },
+  {
+    "offset": "0x11b40",
+    "text": "協働作戦"
+  },
+  {
+    "offset": "0x11b70",
+    "text": "治世中"
+  },
+  {
+    "offset": "0x11bba",
+    "text": "高麗朝"
+  },
+  {
+    "offset": "0x11bc7",
+    "text": "蒙古襲来"
+  },
+  {
+    "offset": "0x11be7",
+    "text": "説得力"
+  },
+  {
+    "offset": "0x11c47",
+    "text": "大司教位"
+  },
+  {
+    "offset": "0x11c74",
+    "text": "大司教"
+  },
+  {
+    "offset": "0x11c96",
+    "text": "空位収入"
+  },
+  {
+    "offset": "0x11cef",
+    "text": "大司教"
+  },
+  {
+    "offset": "0x11d57",
+    "text": "政治的"
+  },
+  {
+    "offset": "0x11d6c",
+    "text": "緩地位"
+  },
+  {
+    "offset": "0x11d9c",
+    "text": "世界史"
+  },
+  {
+    "offset": "0x11dbd",
+    "text": "蒙古史"
+  },
+  {
+    "offset": "0x11de8",
+    "text": "代君主"
+  },
+  {
+    "offset": "0x11ed0",
+    "text": "骰陀政治家"
+  },
+  {
+    "offset": "0x11f29",
+    "text": "爬攻略"
+  },
+  {
+    "offset": "0x11f5e",
+    "text": "骰陀政治"
+  },
+  {
+    "offset": "0x11f89",
+    "text": "熏陀使者"
+  },
+  {
+    "offset": "0x11fca",
+    "text": "熏陀防衛体制"
+  },
+  {
+    "offset": "0x1202b",
+    "text": "金国討伐戦"
+  },
+  {
+    "offset": "0x1205c",
+    "text": "財政家"
+  },
+  {
+    "offset": "0x1210e",
+    "text": "近江源氏"
+  },
+  {
+    "offset": "0x12122",
+    "text": "近江国浅井郡山本山"
+  },
+  {
+    "offset": "0x12147",
+    "text": "痔反平家"
+  },
+  {
+    "offset": "0x1218e",
+    "text": "道案内"
+  },
+  {
+    "offset": "0x12199",
+    "text": "市中警備"
+  },
+  {
+    "offset": "0x121a2",
+    "text": "責任者"
+  },
+  {
+    "offset": "0x121ad",
+    "text": "伊賀国司"
+  },
+  {
+    "offset": "0x121c9",
+    "text": "地理学者"
+  },
+  {
+    "offset": "0x1221c",
+    "text": "書店主"
+  },
+  {
+    "offset": "0x12238",
+    "text": "諸国集成"
+  },
+  {
+    "offset": "0x12259",
+    "text": "地名事典"
+  },
+  {
+    "offset": "0x12276",
+    "text": "真言宗"
+  },
+  {
+    "offset": "0x12285",
+    "text": "遠藤盛遠"
+  },
+  {
+    "offset": "0x12297",
+    "text": "摂津渡辺党"
+  },
+  {
+    "offset": "0x122aa",
+    "text": "袈裟御前"
+  },
+  {
+    "offset": "0x12332",
+    "text": "繁一部族長"
+  },
+  {
+    "offset": "0x1233f",
+    "text": "熏柁背"
+  },
+  {
+    "offset": "0x12369",
+    "text": "連合軍"
+  },
+  {
+    "offset": "0x123a6",
+    "text": "高麗第"
+  },
+  {
+    "offset": "0x123ae",
+    "text": "代国王"
+  },
+  {
+    "offset": "0x123c5",
+    "text": "崔忠献"
+  },
+  {
+    "offset": "0x123df",
+    "text": "网高麗"
+  },
+  {
+    "offset": "0x123e8",
+    "text": "武人権臣"
+  },
+  {
+    "offset": "0x123f2",
+    "text": "実質上"
+  },
+  {
+    "offset": "0x123fa",
+    "text": "支配者"
+  },
+  {
+    "offset": "0x1247b",
+    "text": "繁集落"
+  },
+  {
+    "offset": "0x1248a",
+    "text": "十三翼"
+  },
+  {
+    "offset": "0x124fc",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12518",
+    "text": "愛情度"
+  },
+  {
+    "offset": "0x12552",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12598",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x125d6",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x1261c",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12623",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x1263e",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12656",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x1265d",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x1267c",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12693",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12722",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x1273a",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x12741",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12786",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x127a6",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x127ad",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x127e1",
+    "text": "結婚直後"
+  },
+  {
+    "offset": "0x12807",
+    "text": "帝国成立後"
+  },
+  {
+    "offset": "0x1281f",
+    "text": "中最大"
+  },
+  {
+    "offset": "0x1282f",
+    "text": "河中州"
+  },
+  {
+    "offset": "0x12852",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12859",
+    "text": "北条時宗"
+  },
+  {
+    "offset": "0x12866",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x1286d",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x1287f",
+    "text": "安達泰盛"
+  },
+  {
+    "offset": "0x1288b",
+    "text": "堀内殿"
+  },
+  {
+    "offset": "0x1289a",
+    "text": "鎌倉幕府"
+  },
+  {
+    "offset": "0x128a3",
+    "text": "代執権北条時宗"
+  },
+  {
+    "offset": "0x128cc",
+    "text": "蜴棣生"
+  },
+  {
+    "offset": "0x128d8",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12907",
+    "text": "网部族"
+  },
+  {
+    "offset": "0x12922",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12929",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0x12934",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x1293b",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x12942",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12954",
+    "text": "北条時政"
+  },
+  {
+    "offset": "0x12994",
+    "text": "執権政治"
+  },
+  {
+    "offset": "0x129a7",
+    "text": "尼将軍"
+  },
+  {
+    "offset": "0x129c6",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12a16",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12a2f",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12a36",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12a94",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12aae",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12b1a",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12b34",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12b3b",
+    "text": "藤原秀衡"
+  },
+  {
+    "offset": "0x12b48",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12b63",
+    "text": "藤原基成"
+  },
+  {
+    "offset": "0x12b78",
+    "text": "藤原基成"
+  },
+  {
+    "offset": "0x12b89",
+    "text": "陸奥守"
+  },
+  {
+    "offset": "0x12ba5",
+    "text": "藤原秀衡"
+  },
+  {
+    "offset": "0x12bc6",
+    "text": "藤原泰衡"
+  },
+  {
+    "offset": "0x12bd6",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x12bdd",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12bf2",
+    "text": "翹豪族城資国"
+  },
+  {
+    "offset": "0x12c29",
+    "text": "卷資盛"
+  },
+  {
+    "offset": "0x12c30",
+    "text": "越後鳥坂城"
+  },
+  {
+    "offset": "0x12c69",
+    "text": "浅利義遠"
+  },
+  {
+    "offset": "0x12c8e",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12c95",
+    "text": "源実朝"
+  },
+  {
+    "offset": "0x12ca0",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12cbb",
+    "text": "源実朝"
+  },
+  {
+    "offset": "0x12cc7",
+    "text": "通称八条禅尼"
+  },
+  {
+    "offset": "0x12cd6",
+    "text": "μ内大臣坊門信清"
+  },
+  {
+    "offset": "0x12ceb",
+    "text": "年実朝"
+  },
+  {
+    "offset": "0x12d1a",
+    "text": "飜帰京"
+  },
+  {
+    "offset": "0x12d40",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12d55",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x12da6",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12dad",
+    "text": "木曾義仲"
+  },
+  {
+    "offset": "0x12dba",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x12dc1",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12de8",
+    "text": "μ中原兼遠"
+  },
+  {
+    "offset": "0x12e00",
+    "text": "平家物語"
+  },
+  {
+    "offset": "0x12e0e",
+    "text": "伝説的記録"
+  },
+  {
+    "offset": "0x12e33",
+    "text": "武勇優"
+  },
+  {
+    "offset": "0x12e4a",
+    "text": "愛情度"
+  },
+  {
+    "offset": "0x12e7e",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12e92",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12eb1",
+    "text": "帝国皇帝"
+  },
+  {
+    "offset": "0x12ed6",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0x12efa",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12f11",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12f18",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x12f32",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12f5c",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x12f75",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x12f7c",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x12f83",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x12fd5",
+    "text": "人間的"
+  },
+  {
+    "offset": "0x12ffc",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13003",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13015",
+    "text": "西夏国王"
+  },
+  {
+    "offset": "0x13023",
+    "text": "李安全"
+  },
+  {
+    "offset": "0x1304a",
+    "text": "父襄宗"
+  },
+  {
+    "offset": "0x13072",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x13088",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x130a4",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x130c2",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x130c9",
+    "text": "平清盛"
+  },
+  {
+    "offset": "0x130d4",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x130db",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13119",
+    "text": "高倉天皇"
+  },
+  {
+    "offset": "0x1312b",
+    "text": "安徳天皇"
+  },
+  {
+    "offset": "0x13143",
+    "text": "清盛没後"
+  },
+  {
+    "offset": "0x13152",
+    "text": "二位尼"
+  },
+  {
+    "offset": "0x1316e",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13186",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x1319c",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x131a3",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x131ce",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x131e4",
+    "text": "鎌倉時代"
+  },
+  {
+    "offset": "0x131ed",
+    "text": "豊後国"
+  },
+  {
+    "offset": "0x131fa",
+    "text": "大友能直"
+  },
+  {
+    "offset": "0x13224",
+    "text": "妻平氏"
+  },
+  {
+    "offset": "0x13234",
+    "text": "治後家尼"
+  },
+  {
+    "offset": "0x13246",
+    "text": "風早禅尼"
+  },
+  {
+    "offset": "0x13274",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x1327b",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x132a6",
+    "text": "李仏金"
+  },
+  {
+    "offset": "0x132b5",
+    "text": "父恵宗"
+  },
+  {
+    "offset": "0x132c8",
+    "text": "代国王"
+  },
+  {
+    "offset": "0x132fc",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13303",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13316",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x1334d",
+    "text": "朝初代"
+  },
+  {
+    "offset": "0x13364",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x1337b",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13382",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13394",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x1339b",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x133b6",
+    "text": "源義経"
+  },
+  {
+    "offset": "0x133c3",
+    "text": "容姿端麗"
+  },
+  {
+    "offset": "0x133dc",
+    "text": "吉野山"
+  },
+  {
+    "offset": "0x13408",
+    "text": "義経恋慕"
+  },
+  {
+    "offset": "0x13448",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13463",
+    "text": "平安末期"
+  },
+  {
+    "offset": "0x1346c",
+    "text": "遠江国池田宿"
+  },
+  {
+    "offset": "0x1347f",
+    "text": "平宗盛"
+  },
+  {
+    "offset": "0x134b3",
+    "text": "弟重衡"
+  },
+  {
+    "offset": "0x134f8",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x1350e",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x1352c",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x13541",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x1355c",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13588",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x135d8",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x135ee",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x135f5",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13612",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13628",
+    "text": "平安末期"
+  },
+  {
+    "offset": "0x13631",
+    "text": "女流歌人"
+  },
+  {
+    "offset": "0x1363a",
+    "text": "源頼政"
+  },
+  {
+    "offset": "0x13645",
+    "text": "二条院讃岐"
+  },
+  {
+    "offset": "0x13661",
+    "text": "二条天皇"
+  },
+  {
+    "offset": "0x1366f",
+    "text": "同天皇"
+  },
+  {
+    "offset": "0x13693",
+    "text": "燐讃岐"
+  },
+  {
+    "offset": "0x136a9",
+    "text": "二条院讃岐集"
+  },
+  {
+    "offset": "0x136bc",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x1373e",
+    "text": "年死去"
+  },
+  {
+    "offset": "0x1377e",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13785",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13797",
+    "text": "女流歌人"
+  },
+  {
+    "offset": "0x137a0",
+    "text": "待宵侍従"
+  },
+  {
+    "offset": "0x137cf",
+    "text": "源頼政"
+  },
+  {
+    "offset": "0x137d7",
+    "text": "恋愛歌"
+  },
+  {
+    "offset": "0x137ec",
+    "text": "美濃国"
+  },
+  {
+    "offset": "0x137f7",
+    "text": "帰京後"
+  },
+  {
+    "offset": "0x137ff",
+    "text": "高倉天皇"
+  },
+  {
+    "offset": "0x13821",
+    "text": "小侍従集"
+  },
+  {
+    "offset": "0x13830",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13847",
+    "text": "藤原憲方"
+  },
+  {
+    "offset": "0x13854",
+    "text": "小宰相"
+  },
+  {
+    "offset": "0x1386e",
+    "text": "平通盛"
+  },
+  {
+    "offset": "0x1389c",
+    "text": "小宰相"
+  },
+  {
+    "offset": "0x138a5",
+    "text": "平氏一門"
+  },
+  {
+    "offset": "0x138da",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13950",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13966",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x139b4",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x139cd",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x139d4",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13a5c",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13aac",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13ab3",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13ac6",
+    "text": "猖王妃"
+  },
+  {
+    "offset": "0x13ace",
+    "text": "衛紹王"
+  },
+  {
+    "offset": "0x13b06",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13b1c",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13b41",
+    "text": "良橋太郎入道"
+  },
+  {
+    "offset": "0x13b52",
+    "text": "伊豆流人時代"
+  },
+  {
+    "offset": "0x13b8b",
+    "text": "北条政子"
+  },
+  {
+    "offset": "0x13b9c",
+    "text": "比企谷"
+  },
+  {
+    "offset": "0x13bc2",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13bd8",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13bdf",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13c18",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13c5a",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13c61",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13cae",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13d3a",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13d82",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13d98",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13dae",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x13dc9",
+    "text": "帝国皇帝"
+  },
+  {
+    "offset": "0x13def",
+    "text": "代理皇帝"
+  },
+  {
+    "offset": "0x13e08",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x13e21",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13e7e",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x13e92",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x13e99",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13f16",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x13f2f",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x13f5a",
+    "text": "部滅亡"
+  },
+  {
+    "offset": "0x13fda",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x13ff3",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x14012",
+    "text": "繁首領"
+  },
+  {
+    "offset": "0x1408c",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x140c0",
+    "text": "開始時"
+  },
+  {
+    "offset": "0x140d8",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x140df",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x14106",
+    "text": "政治力"
+  },
+  {
+    "offset": "0x1410d",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x14120",
+    "text": "戦闘力"
+  },
+  {
+    "offset": "0x14127",
+    "text": "指揮力"
+  },
+  {
+    "offset": "0x1414a",
+    "text": "汗国王"
+  },
+  {
+    "offset": "0x1416a",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0x14177",
+    "text": "鎌倉幕府"
+  },
+  {
+    "offset": "0x14180",
+    "text": "代将軍"
+  },
+  {
+    "offset": "0x1418d",
+    "text": "年将軍"
+  },
+  {
+    "offset": "0x14199",
+    "text": "翌年北条氏"
+  },
+  {
+    "offset": "0x141ad",
+    "text": "将軍職"
+  },
+  {
+    "offset": "0x141b4",
+    "text": "弟実朝"
+  },
+  {
+    "offset": "0x141c1",
+    "text": "比企氏"
+  },
+  {
+    "offset": "0x141ce",
+    "text": "北条氏"
+  },
+  {
+    "offset": "0x141e5",
+    "text": "伊豆修禅寺"
+  },
+  {
+    "offset": "0x141f9",
+    "text": "北条氏"
+  },
+  {
+    "offset": "0x1421e",
+    "text": "鎌倉時代"
+  },
+  {
+    "offset": "0x1422c",
+    "text": "北条時宗"
+  },
+  {
+    "offset": "0x14255",
+    "text": "平頼綱"
+  },
+  {
+    "offset": "0x1426d",
+    "text": "蜴槎頼綱"
+  },
+  {
+    "offset": "0x14286",
+    "text": "独裁権"
+  },
+  {
+    "offset": "0x14293",
+    "text": "幕政改革"
+  },
+  {
+    "offset": "0x142a9",
+    "text": "徳政令"
+  },
+  {
+    "offset": "0x142d9",
+    "text": "親義経"
+  },
+  {
+    "offset": "0x142f6",
+    "text": "兄藤原泰衡"
+  },
+  {
+    "offset": "0x1430e",
+    "text": "藤原秀衡"
+  },
+  {
+    "offset": "0x1433b",
+    "text": "中間的立場"
+  },
+  {
+    "offset": "0x14361",
+    "text": "本吉冠者"
+  },
+  {
+    "offset": "0x14377",
+    "text": "奥州合戦"
+  },
+  {
+    "offset": "0x14382",
+    "text": "鎌倉勢"
+  },
+  {
+    "offset": "0x14390",
+    "text": "相模国"
+  },
+  {
+    "offset": "0x143ab",
+    "text": "屡城資家"
+  },
+  {
+    "offset": "0x143b9",
+    "text": "越後国"
+  },
+  {
+    "offset": "0x143d3",
+    "text": "幕府勢"
+  },
+  {
+    "offset": "0x143fa",
+    "text": "雲南王"
+  },
+  {
+    "offset": "0x14444",
+    "text": "鎮南王"
+  },
+  {
+    "offset": "0x14488",
+    "text": "金征討"
+  },
+  {
+    "offset": "0x1448f",
+    "text": "大西征"
+  },
+  {
+    "offset": "0x144af",
+    "text": "网摂政"
+  },
+  {
+    "offset": "0x14537",
+    "text": "熏即征伐"
+  },
+  {
+    "offset": "0x14541",
+    "text": "西域諸国"
+  },
+  {
+    "offset": "0x14567",
+    "text": "館中央"
+  },
+  {
+    "offset": "0x14588",
+    "text": "陀基礎"
+  },
+  {
+    "offset": "0x14690",
+    "text": "源平内乱期"
+  },
+  {
+    "offset": "0x1469c",
+    "text": "追討軍"
+  },
+  {
+    "offset": "0x146b7",
+    "text": "富士川"
+  },
+  {
+    "offset": "0x146d7",
+    "text": "墨俣川"
+  },
+  {
+    "offset": "0x146de",
+    "text": "源行家"
+  },
+  {
+    "offset": "0x146f9",
+    "text": "義仲討伐"
+  },
+  {
+    "offset": "0x1470a",
+    "text": "越中境"
+  },
+  {
+    "offset": "0x14711",
+    "text": "志保山"
+  },
+  {
+    "offset": "0x1471f",
+    "text": "痔同地"
+  },
+  {
+    "offset": "0x14751",
+    "text": "痔源頼政"
+  },
+  {
+    "offset": "0x1476a",
+    "text": "東大寺"
+  },
+  {
+    "offset": "0x14771",
+    "text": "興福寺"
+  },
+  {
+    "offset": "0x147b2",
+    "text": "奈良僧徒"
+  },
+  {
+    "offset": "0x147cc",
+    "text": "木津川"
+  },
+  {
+    "offset": "0x147ef",
+    "text": "延暦寺"
+  },
+  {
+    "offset": "0x147f7",
+    "text": "園城寺"
+  },
+  {
+    "offset": "0x14804",
+    "text": "山本義経"
+  },
+  {
+    "offset": "0x14823",
+    "text": "園城寺"
+  },
+  {
+    "offset": "0x14830",
+    "text": "堂塔房舎"
+  },
+  {
+    "offset": "0x1484e",
+    "text": "義仲追討"
+  },
+  {
+    "offset": "0x1485a",
+    "text": "大将軍平維盛"
+  },
+  {
+    "offset": "0x1486f",
+    "text": "副将軍"
+  },
+  {
+    "offset": "0x1487e",
+    "text": "北陸道"
+  },
+  {
+    "offset": "0x148db",
+    "text": "大西征"
+  },
+  {
+    "offset": "0x148e2",
+    "text": "従軍後"
+  },
+  {
+    "offset": "0x14a24",
+    "text": "大西征"
+  },
+  {
+    "offset": "0x14a37",
+    "text": "積極的攻撃"
+  },
+  {
+    "offset": "0x14ad4",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0x14aee",
+    "text": "网三幡姫"
+  },
+  {
+    "offset": "0x14b06",
+    "text": "三幡姫"
+  },
+  {
+    "offset": "0x14b0e",
+    "text": "洛菲称号"
+  },
+  {
+    "offset": "0x14b60",
+    "text": "三幡姫"
+  },
+  {
+    "offset": "0x14b9e",
+    "text": "後見人"
+  },
+  {
+    "offset": "0x14be2",
+    "text": "源行家"
+  },
+  {
+    "offset": "0x14c08",
+    "text": "関係修復"
+  },
+  {
+    "offset": "0x14c9c",
+    "text": "汗国第"
+  },
+  {
+    "offset": "0x14cc0",
+    "text": "政治的"
+  },
+  {
+    "offset": "0x14d15",
+    "text": "帝国第"
+  },
+  {
+    "offset": "0x14d58",
+    "text": "駅伝制"
+  },
+  {
+    "offset": "0x14d77",
+    "text": "北中国"
+  },
+  {
+    "offset": "0x14d98",
+    "text": "遠征軍"
+  },
+  {
+    "offset": "0x14dd0",
+    "text": "源頼朝"
+  },
+  {
+    "offset": "0x14ded",
+    "text": "木曾義仲"
+  },
+  {
+    "offset": "0x14dfe",
+    "text": "て許嫁"
+  },
+  {
+    "offset": "0x14e21",
+    "text": "ふ頼朝"
+  },
+  {
+    "offset": "0x14e31",
+    "text": "网大姫"
+  },
+  {
+    "offset": "0x14efc",
+    "text": "西平王"
+  },
+  {
+    "offset": "0x14f2b",
+    "text": "頭文字"
+  },
+  {
+    "offset": "0x14fa3",
+    "text": "能力値"
+  },
+  {
+    "offset": "0x1525a",
+    "text": "足利義清"
+  },
+  {
+    "offset": "0x15296",
+    "text": "安達泰盛"
+  },
+  {
+    "offset": "0x15500",
+    "text": "鄲伊勢義盛"
+  },
+  {
+    "offset": "0x15566",
+    "text": "今井兼平"
+  },
+  {
+    "offset": "0x155de",
+    "text": "宇佐公通"
+  },
+  {
+    "offset": "0x155f2",
+    "text": "海野幸氏"
+  },
+  {
+    "offset": "0x15606",
+    "text": "衛紹王"
+  },
+  {
+    "offset": "0x15642",
+    "text": "大江広元"
+  },
+  {
+    "offset": "0x15656",
+    "text": "大河兼任"
+  },
+  {
+    "offset": "0x156ba",
+    "text": "郭守敬"
+  },
+  {
+    "offset": "0x156e2",
+    "text": "賈似道"
+  },
+  {
+    "offset": "0x1570a",
+    "text": "梶原景時"
+  },
+  {
+    "offset": "0x1571d",
+    "text": "熄繿麹"
+  },
+  {
+    "offset": "0x15782",
+    "text": "河田次郎"
+  },
+  {
+    "offset": "0x157a8",
+    "text": "幽菊池高直"
+  },
+  {
+    "offset": "0x157e6",
+    "text": "木曾義仲"
+  },
+  {
+    "offset": "0x157fa",
+    "text": "吉次信高"
+  },
+  {
+    "offset": "0x1584a",
+    "text": "金方慶"
+  },
+  {
+    "offset": "0x15912",
+    "text": "熊谷直実"
+  },
+  {
+    "offset": "0x15a14",
+    "text": "畔洪茶丘"
+  },
+  {
+    "offset": "0x15a28",
+    "text": "抱河野通清"
+  },
+  {
+    "offset": "0x15a3e",
+    "text": "河野通信"
+  },
+  {
+    "offset": "0x15aca",
+    "text": "崔忠献"
+  },
+  {
+    "offset": "0x15ade",
+    "text": "斎藤実盛"
+  },
+  {
+    "offset": "0x15af2",
+    "text": "佐伯景弘"
+  },
+  {
+    "offset": "0x15b1a",
+    "text": "佐竹秀義"
+  },
+  {
+    "offset": "0x15b40",
+    "text": "悦佐藤元治"
+  },
+  {
+    "offset": "0x15c0a",
+    "text": "志太義広"
+  },
+  {
+    "offset": "0x15c1e",
+    "text": "史天沢"
+  },
+  {
+    "offset": "0x15c32",
+    "text": "史弥遠"
+  },
+  {
+    "offset": "0x15d48",
+    "text": "艇襄宗"
+  },
+  {
+    "offset": "0x15d5e",
+    "text": "少弐資能"
+  },
+  {
+    "offset": "0x15dea",
+    "text": "妹尾兼康"
+  },
+  {
+    "offset": "0x15fde",
+    "text": "竹崎季長"
+  },
+  {
+    "offset": "0x15ff2",
+    "text": "武田信光"
+  },
+  {
+    "offset": "0x1606a",
+    "text": "大夫房覚明"
+  },
+  {
+    "offset": "0x160ce",
+    "text": "千葉常胤"
+  },
+  {
+    "offset": "0x1611e",
+    "text": "長春真人"
+  },
+  {
+    "offset": "0x16182",
+    "text": "陳興道"
+  },
+  {
+    "offset": "0x161d0",
+    "text": "┷陳和卿"
+  },
+  {
+    "offset": "0x161e4",
+    "text": "壮土御門通親"
+  },
+  {
+    "offset": "0x16360",
+    "text": "沿土肥実平"
+  },
+  {
+    "offset": "0x163c4",
+    "text": "華長沼宗政"
+  },
+  {
+    "offset": "0x163da",
+    "text": "那須与一"
+  },
+  {
+    "offset": "0x16452",
+    "text": "新田義重"
+  },
+  {
+    "offset": "0x16478",
+    "text": "鑓根井行親"
+  },
+  {
+    "offset": "0x1652c",
+    "text": "葵畠山重忠"
+  },
+  {
+    "offset": "0x165ce",
+    "text": "比企能員"
+  },
+  {
+    "offset": "0x165e2",
+    "text": "樋口兼光"
+  },
+  {
+    "offset": "0x166aa",
+    "text": "藤原景清"
+  },
+  {
+    "offset": "0x166be",
+    "text": "藤原国衡"
+  },
+  {
+    "offset": "0x166d2",
+    "text": "藤原忠衡"
+  },
+  {
+    "offset": "0x166e6",
+    "text": "藤原定家"
+  },
+  {
+    "offset": "0x166fa",
+    "text": "藤原秀衡"
+  },
+  {
+    "offset": "0x1670e",
+    "text": "藤原泰衡"
+  },
+  {
+    "offset": "0x167ea",
+    "text": "文天祥"
+  },
+  {
+    "offset": "0x1684e",
+    "text": "北条時政"
+  },
+  {
+    "offset": "0x16862",
+    "text": "北条時宗"
+  },
+  {
+    "offset": "0x16876",
+    "text": "北条宗政"
+  },
+  {
+    "offset": "0x1688a",
+    "text": "北条義時"
+  },
+  {
+    "offset": "0x1692a",
+    "text": "俣野景久"
+  },
+  {
+    "offset": "0x1698e",
+    "text": "三浦義村"
+  },
+  {
+    "offset": "0x16a42",
+    "text": "三善康信"
+  },
+  {
+    "offset": "0x16a7e",
+    "text": "武蔵坊弁慶"
+  },
+  {
+    "offset": "0x16b32",
+    "text": "山本義経"
+  },
+  {
+    "offset": "0x16b5a",
+    "text": "耶律阿海"
+  },
+  {
+    "offset": "0x16b6e",
+    "text": "耶律楚材"
+  },
+  {
+    "offset": "0x16be6",
+    "text": "李奎報"
+  },
+  {
+    "offset": "0x16cc2",
+    "text": "和田義盛"
+  },
+  {
+    "offset": "0x16cd6",
+    "text": "完顔福興"
+  }
+]

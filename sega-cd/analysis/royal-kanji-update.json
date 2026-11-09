@@ -1,0 +1,1655 @@
+{
+  "entries": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1544E",
+      "ja": "\u001bKｱﾙﾌｫﾝｿ賢王\u001bH",
+      "ru": "Альфонс X",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Alfonso =",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1548A",
+      "ja": "\u001bKｱﾚｸｼｵｽ4世\u001bH",
+      "ru": "Алексей IV",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Alexius }~",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "154B2",
+      "ja": "\u001bKｱﾝﾘ1世\u001bH",
+      "ru": "Генрих I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Henri $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "154DA",
+      "ja": "\u001bKｲｻｷｵｽ2世\u001bH",
+      "ru": "Исаак II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Isaacius \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1562E",
+      "ja": "\u001bKｴﾝﾄﾞﾚ2世\u001bH",
+      "ru": "Андраш II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Andrew \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1566A",
+      "ja": "\u001bKｵﾀｶﾙ2世\u001bH",
+      "ru": "Отакар II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Otakar \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1567E",
+      "ja": "\u001bKｵｯﾄｰ4世\u001bH",
+      "ru": "Оттон IV",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Otto }~",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "156F6",
+      "ja": "\u001bKｶｼﾞﾐｪｼｭ2世\u001bH",
+      "ru": "Казимир II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Kazimierz \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15BA6",
+      "ja": "\u001bKｻﾝｼｭ1世\u001bH",
+      "ru": "Санчо I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Sancho $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15C96",
+      "ja": "\u001bKｼｬﾙﾙ1世\u001bH",
+      "ru": "Карл I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Charles $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16222",
+      "ja": "\u001bKﾃｵﾄﾞﾛｽ1世\u001bH",
+      "ru": "Феодор I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Theodorus $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "165F6",
+      "ja": "\u001bKﾋﾞｯﾗﾏ5世\u001bH",
+      "ru": "Биррама V",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Birrama @",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16646",
+      "ja": "\u001bKﾌｨﾘｯﾌﾟ2世\u001bH",
+      "ru": "Филипп II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Philip \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1665A",
+      "ja": "\u001bKﾌｨﾘｯﾌﾟ3世\u001bH",
+      "ru": "Филипп III",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Philip ^",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1679A",
+      "ja": "\u001bKﾌﾘｰﾄﾞﾘﾋ1世\u001bH",
+      "ru": "Фридрих I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Frederick $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "167AE",
+      "ja": "\u001bKﾌﾘｰﾄﾞﾘﾋ2世\u001bH",
+      "ru": "Фридрих II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Frederick \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "167FE",
+      "ja": "\u001bKﾍﾞｰﾗ3世\u001bH",
+      "ru": "Бела III",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Bela ^",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16812",
+      "ja": "\u001bKﾍﾟﾄﾞﾛ3世\u001bH",
+      "ru": "Педро III",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Pedro ^",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1683A",
+      "ja": "\u001bKﾍﾝﾘｰ3世\u001bH",
+      "ru": "Генрих III",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Henry ^",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "168C6",
+      "ja": "\u001bKﾎﾞﾚｽﾜﾌ5世\u001bH",
+      "ru": "Болеслав V",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Boleslav @",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16BFA",
+      "ja": "\u001bKﾘﾁｬｰﾄﾞ1世\u001bH",
+      "ru": "Ричард I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Richard $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16C4A",
+      "ja": "\u001bKﾙﾄﾞﾙﾌ1世\u001bH",
+      "ru": "Рудольф I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Rudolf $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16C72",
+      "ja": "\u001bKﾚｼｪｸ1世\u001bH",
+      "ru": "Лешек I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Leszek $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15606",
+      "ja": "衛紹王",
+      "ru": "Вэйшао",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Wei-shao",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15642",
+      "ja": "大江広元",
+      "ru": "Хиромото",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Hiromoto",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "156BA",
+      "ja": "郭守敬",
+      "ru": "Го Шоуцзин",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Guo Sho-jing",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "156E2",
+      "ja": "賈似道",
+      "ru": "Цзя Сыдао",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Jia Si-dao",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1570A",
+      "ja": "梶原景時",
+      "ru": "Кадзивара",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Kajiwara",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 2
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15796",
+      "ja": "桓宗",
+      "ru": "Хуань-цзун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Hang-zong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "157D2",
+      "ja": "煕宗",
+      "ru": "Си-цзун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Xi-xong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1584A",
+      "ja": "金方慶",
+      "ru": "Ким Бангён",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Kim Bangyung",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "159B2",
+      "ja": "元宗",
+      "ru": "Вонджон",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Won-chong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "159EE",
+      "ja": "高宗",
+      "ru": "Гао-цзун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Gao-zong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15A02",
+      "ja": "孝宗",
+      "ru": "Сяо-цзун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Xiao-zong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15A16",
+      "ja": "洪茶丘",
+      "ru": "Хун Чацю",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Hong Cha-qin",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15ACA",
+      "ja": "崔忠献",
+      "ru": "Чхунхон",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Cho Chun-hun",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15C1E",
+      "ja": "史天沢",
+      "ru": "Ши Тяньцзэ",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Shi Tian-ze",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15C32",
+      "ja": "史弥遠",
+      "ru": "Ши Миюань",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Shi Mi-yuan",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15CD2",
+      "ja": "朱熹",
+      "ru": "Чжу Си",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Chu Hsi",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15D36",
+      "ja": "章宗",
+      "ru": "Чжан-цзун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Zhang-zong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15D4A",
+      "ja": "襄宗",
+      "ru": "Сян-цзун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Xiang-zong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15D5E",
+      "ja": "少弐資能",
+      "ru": "Сёни",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Shoni",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15DAE",
+      "ja": "真徳秀",
+      "ru": "Чжэнь Дэсю",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Zhen De-xiu",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15DD6",
+      "ja": "聖宗",
+      "ru": "Шэн-цзун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Sheng-zong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15FDE",
+      "ja": "竹崎季長",
+      "ru": "Такэдзаки",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Takezaki",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 2
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1611E",
+      "ja": "長春真人",
+      "ru": "Чанчунь",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Zhang-chun",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16182",
+      "ja": "陳興道",
+      "ru": "Чан Хынг",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Tran Hung",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16196",
+      "ja": "陳守度",
+      "ru": "Чан Тху До",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Tran Thu-Do",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "161E6",
+      "ja": "土御門通親",
+      "ru": "Цутимикадо",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Tsuchimikado",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1633A",
+      "ja": "度宗",
+      "ru": "Ду-цзун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Du-zong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "163C6",
+      "ja": "長沼宗政",
+      "ru": "Наганума",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Naganuma",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16466",
+      "ja": "寧宗",
+      "ru": "Нин-цзун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ning-zong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1652E",
+      "ja": "畠山重忠",
+      "ru": "Хатакэяма",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Hatakeyama",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 2
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16876",
+      "ja": "北条宗政",
+      "ru": "Мунэмаса",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Munemasa",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1688A",
+      "ja": "北条義時",
+      "ru": "Ёситоки",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Yoshitoki",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1698E",
+      "ja": "三浦義村",
+      "ru": "Миура",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Miura",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "169DE",
+      "ja": "源 範頼",
+      "ru": "Нориёри",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Noriyori",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16A06",
+      "ja": "源 義経",
+      "ru": "Ёсицунэ",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Yoshitsune",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16A42",
+      "ja": "三善康信",
+      "ru": "Миёси",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Miyoshi",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16AE2",
+      "ja": "明宗",
+      "ru": "Мёнжон",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ming-zong",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16B5A",
+      "ja": "耶律阿海",
+      "ru": "Елюй",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ye-lu",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16B6E",
+      "ja": "耶律楚材",
+      "ru": "Елюй Чуцай",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ye-lu Chukai",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 2
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16BE6",
+      "ja": "李奎報",
+      "ru": "Ли Гюбо",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Li Kyu-bo",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31B1A",
+      "ja": "\u001bKｱﾙﾌｫﾝｿ賢王\u001bH",
+      "ru": "Альфонс X",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Alfonso =",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "35096",
+      "ja": "\u001bKｱﾚｸｼｵｽ4世\u001bH",
+      "ru": "Алексей IV",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Alexius }~",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F6D6",
+      "ja": "\u001bKｱﾝﾘ1世\u001bH",
+      "ru": "Генрих I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Henri $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33C1E",
+      "ja": "\u001bKｲｻｷｵｽ2世\u001bH",
+      "ru": "Исаак II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Isaacius \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F772",
+      "ja": "\u001bKｴﾝﾄﾞﾚ2世\u001bH",
+      "ru": "Андраш II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Andrew \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31DF2",
+      "ja": "\u001bKｵﾀｶﾙ2世\u001bH",
+      "ru": "Отакар II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Otakar \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F7A6",
+      "ja": "\u001bKｵｯﾄｰ4世\u001bH",
+      "ru": "Оттон IV",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Otto }~",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33C86",
+      "ja": "\u001bKｶｼﾞﾐｪｼｭ2世\u001bH",
+      "ru": "Казимир II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Kazimierz \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2FBEA",
+      "ja": "\u001bKｻﾝｼｭ1世\u001bH",
+      "ru": "Санчо I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Sancho $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34132",
+      "ja": "\u001bKｻﾝｼｭ1世\u001bH",
+      "ru": "Санчо I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Sancho $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31A7E",
+      "ja": "\u001bKｼｬﾙﾙ1世\u001bH",
+      "ru": "Карл I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Charles $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2FB1A",
+      "ja": "\u001bKﾃｵﾄﾞﾛｽ1世\u001bH",
+      "ru": "Феодор I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Theodorus $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3402E",
+      "ja": "\u001bKﾋﾞｯﾗﾏ5世\u001bH",
+      "ru": "Биррама V",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Birrama @",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F842",
+      "ja": "\u001bKﾌｨﾘｯﾌﾟ2世\u001bH",
+      "ru": "Филипп II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Philip \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33D8A",
+      "ja": "\u001bKﾌｨﾘｯﾌﾟ2世\u001bH",
+      "ru": "Филипп II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Philip \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31AE6",
+      "ja": "\u001bKﾌｨﾘｯﾌﾟ3世\u001bH",
+      "ru": "Филипп III",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Philip ^",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33CEE",
+      "ja": "\u001bKﾌﾘｰﾄﾞﾘﾋ1世\u001bH",
+      "ru": "Фридрих I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Frederick $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F7DA",
+      "ja": "\u001bKﾌﾘｰﾄﾞﾘﾋ2世\u001bH",
+      "ru": "Фридрих II",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Frederick \\",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33CBA",
+      "ja": "\u001bKﾍﾞｰﾗ3世\u001bH",
+      "ru": "Бела III",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Bela ^",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31E8E",
+      "ja": "\u001bKﾍﾟﾄﾞﾛ3世\u001bH",
+      "ru": "Педро III",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Pedro ^",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31AB2",
+      "ja": "\u001bKﾍﾝﾘｰ3世\u001bH",
+      "ru": "Генрих III",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Henry ^",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "319E2",
+      "ja": "\u001bKﾎﾞﾚｽﾜﾌ5世\u001bH",
+      "ru": "Болеслав V",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Boleslav @",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33D56",
+      "ja": "\u001bKﾘﾁｬｰﾄﾞ1世\u001bH",
+      "ru": "Ричард I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Richard $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31A4A",
+      "ja": "\u001bKﾙﾄﾞﾙﾌ1世\u001bH",
+      "ru": "Рудольф I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Rudolf $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F73E",
+      "ja": "\u001bKﾚｼｪｸ1世\u001bH",
+      "ru": "Лешек I",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Leszek $",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F292",
+      "ja": "衛紹王",
+      "ru": "Вэйшао",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Wei-shao",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "337DA",
+      "ja": "衛紹王",
+      "ru": "Вэйшао",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Wei-shao",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "308C4",
+      "ja": "大江広元",
+      "ru": "Хиромото",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Hiromoto",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32B82",
+      "ja": "少弐資能",
+      "ru": "Сёни",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Shoni",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F912",
+      "ja": "長春真人",
+      "ru": "Чанчунь",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Zhang-chun",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33E5A",
+      "ja": "長春真人",
+      "ru": "Чанчунь",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Zhang-chun",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33EF6",
+      "ja": "土御門通親",
+      "ru": "Цутимикадо",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Tsuchimikado",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "30912",
+      "ja": "長沼宗政",
+      "ru": "Наганума",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Naganuma",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32B4E",
+      "ja": "北条宗政",
+      "ru": "Мунэмаса",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Munemasa",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F418",
+      "ja": "北条義時",
+      "ru": "Ёситоки",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Yoshitoki",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34E26",
+      "ja": "北条義時",
+      "ru": "Ёситоки",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Yoshitoki",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "308F8",
+      "ja": "三浦義村",
+      "ru": "Миура",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Miura",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34E8E",
+      "ja": "三浦義村",
+      "ru": "Миура",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Miura",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "308DE",
+      "ja": "三善康信",
+      "ru": "Миёси",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Miyoshi",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2D97A",
+      "ja": "耶律阿海",
+      "ru": "Елюй",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ye-lu",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "A37C",
+      "ja": "\u001bKﾄﾚﾋﾞｿﾞﾝﾄ皇帝ｹﾞｵﾙｷﾞｵｽ1世\u001bH｡\n在位1266〜80｡",
+      "ru": "Георгий I, император\nТрапезунда. 1266-80.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "B70E",
+      "ja": "\u001bKｳｲｸﾞﾙ\u001bHﾆ代官ﾄｼﾃ派遣ｻﾚﾀ西遼人｡\n\u001bKﾊﾞﾙﾁｭｸ\u001bHﾆ殺ｻﾚﾀ｡",
+      "ru": "Западная Ляо.\nНаместник уйгуров.\nУбит Барчуком.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "A3A8",
+      "ja": "\u001bKﾙｰﾑ･ｾﾙｼﾞｭｰｸ\u001bH朝第6代･9代ﾉ\n\u001bKｽﾙﾀﾝ\u001bHｦ務ﾒﾀ｡\n在位1192〜96年､1204〜10年｡",
+      "ru": "6-й и 9-й султан\nРумских сельджуков.\nПравил: 1192-1196,\n1204-1210.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "11DCE",
+      "ja": "\u001bKｲﾝﾄﾞ\u001bHﾉ\u001bKﾔｰﾀﾞｳﾞｧ\u001bH朝ﾉ第7代君主｡\n在位1271〜1310年｡",
+      "ru": "7-й правитель Ядавов\nв Индии.\nПравил в 1271-1310.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "11E84",
+      "ja": "\u001bKﾘｭｰﾘｸ\u001bH家ﾉ\u001bKｳﾗｼﾞﾐﾙ\u001bH大公｡\n\u001bKﾉｳﾞｺﾞﾛﾄﾞ\u001bH公ﾓ兼ﾈﾀ｡\n在位1263〜72年｡",
+      "ru": "Рюрикович.\nВеликий князь\nВладимира, князь\nНовгорода.\n1263-1272.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5A80",
+      "ja": "\u001bKｱﾝﾄﾞﾛﾆｺｽ2世｡\nﾐｶｴﾙ8世\u001bHﾉ子｡\n父ﾉ没後､\u001bKﾋﾞｻﾞﾝﾂ\u001bH帝国皇帝位ﾆﾂｷ､\n父ﾄﾊ全ｸ異ﾅﾙ政策ｦﾄｯﾀ｡\n在位1282〜1328年｡",
+      "ru": "Андроник II, сын\nМихаила VIII. Сменил\nотца на троне Византии\nи сменил его курс.\nПравил в 1282-1328.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "647E",
+      "ja": "\u001bKｱﾙ･ﾏﾘｸ･ｱﾙ･ｱﾌﾀﾞﾙ｡\nｻﾗﾃﾞｨﾝ\u001bHﾉ子｡\n\u001bKﾀﾞﾏｽｸｽ\u001bHﾃﾞ王位ﾆﾂｸｶﾞ､\nﾉﾁﾆ叔父ﾉ\u001bKｱﾙ･ｱｰﾃﾞｨﾙ\u001bHﾆ追放ｻﾚﾙ｡",
+      "ru": "Аль-Малик аль-Афдаль,\nсын Салах ад-Дина.\nПравил Дамаском.\nДядя аль-Адиль\nизгнал.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    }
+  ],
+  "deferred": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1543A",
+      "ja": "\u001bKｱﾙﾌｫﾝｿ8世\u001bH",
+      "ru": "Альфонс VIII",
+      "capacity": 13
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15476",
+      "ja": "\u001bKｱﾚｸｼｵｽ3世\u001bH",
+      "ru": "Алексей III",
+      "capacity": 13
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15822",
+      "ja": "\u001bKｷﾞﾖｰﾑ2世\u001bH",
+      "ru": "Вильгельм II",
+      "capacity": 12
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "165BA",
+      "ja": "\u001bKﾊﾞﾙﾗｰﾗ2世\u001bH",
+      "ru": "Баллахала II",
+      "capacity": 13
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16722",
+      "ja": "\u001bKﾌｾｳﾞｫﾛﾄﾞ3世\u001bH",
+      "ru": "Всеволод III",
+      "capacity": 15
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "169A2",
+      "ja": "\u001bKﾐｶｴﾙ8世\u001bH",
+      "ru": "Михаил VIII",
+      "capacity": 11
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16B82",
+      "ja": "\u001bKﾔﾛｽﾗﾌ3世\u001bH",
+      "ru": "Ярослав III",
+      "capacity": 12
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16C36",
+      "ja": "\u001bKﾙｲ8世\u001bH",
+      "ru": "Людовик VIII",
+      "capacity": 9
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "167EA",
+      "ja": "文天祥",
+      "ru": "Вэнь Тяньсян",
+      "capacity": 10
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F876",
+      "ja": "\u001bKｱﾙﾌｫﾝｿ8世\u001bH",
+      "ru": "Альфонс VIII",
+      "capacity": 13
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33DBE",
+      "ja": "\u001bKｱﾙﾌｫﾝｿ8世\u001bH",
+      "ru": "Альфонс VIII",
+      "capacity": 13
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "350B0",
+      "ja": "\u001bKｱﾚｸｼｵｽ3世\u001bH",
+      "ru": "Алексей III",
+      "capacity": 13
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33D22",
+      "ja": "\u001bKｷﾞﾖｰﾑ2世\u001bH",
+      "ru": "Вильгельм II",
+      "capacity": 12
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F66E",
+      "ja": "\u001bKﾊﾞﾙﾗｰﾗ2世\u001bH",
+      "ru": "Баллахала II",
+      "capacity": 13
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33BB6",
+      "ja": "\u001bKﾊﾞﾙﾗｰﾗ2世\u001bH",
+      "ru": "Баллахала II",
+      "capacity": 13
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F6A2",
+      "ja": "\u001bKﾌｾｳﾞｫﾛﾄﾞ3世\u001bH",
+      "ru": "Всеволод III",
+      "capacity": 15
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33BEA",
+      "ja": "\u001bKﾌｾｳﾞｫﾛﾄﾞ3世\u001bH",
+      "ru": "Всеволод III",
+      "capacity": 15
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3197A",
+      "ja": "\u001bKﾐｶｴﾙ8世\u001bH",
+      "ru": "Михаил VIII",
+      "capacity": 11
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31946",
+      "ja": "\u001bKﾔﾛｽﾗﾌ3世\u001bH",
+      "ru": "Ярослав III",
+      "capacity": 12
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "30DF2",
+      "ja": "\u001bKﾙｲ8世\u001bH",
+      "ru": "Людовик VIII",
+      "capacity": 9
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31BB6",
+      "ja": "郭守敬",
+      "ru": "Го Шоуцзин",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "316F0",
+      "ja": "賈似道",
+      "ru": "Цзя Сыдао",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34E5A",
+      "ja": "梶原景時",
+      "ru": "Кадзивара",
+      "capacity": 8
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33842",
+      "ja": "桓宗",
+      "ru": "Хуань-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F3CA",
+      "ja": "煕宗",
+      "ru": "Си-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31C38",
+      "ja": "金方慶",
+      "ru": "Ким Бангён",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3166E",
+      "ja": "元宗",
+      "ru": "Вонджон",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F466",
+      "ja": "高宗",
+      "ru": "Гао-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "339AE",
+      "ja": "高宗",
+      "ru": "Гао-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3397A",
+      "ja": "孝宗",
+      "ru": "Сяо-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32A7E",
+      "ja": "洪茶丘",
+      "ru": "Хун Чацю",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F3E4",
+      "ja": "崔忠献",
+      "ru": "Чхунхон",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3392C",
+      "ja": "崔忠献",
+      "ru": "Чхунхон",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32A64",
+      "ja": "史天沢",
+      "ru": "Ши Тяньцзэ",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F44C",
+      "ja": "史弥遠",
+      "ru": "Ши Миюань",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33F10",
+      "ja": "朱熹",
+      "ru": "Чжу Си",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F2C6",
+      "ja": "章宗",
+      "ru": "Чжан-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3380E",
+      "ja": "章宗",
+      "ru": "Чжан-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F2FA",
+      "ja": "襄宗",
+      "ru": "Сян-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F9C8",
+      "ja": "真徳秀",
+      "ru": "Чжэнь Дэсю",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3170A",
+      "ja": "聖宗",
+      "ru": "Шэн-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31C52",
+      "ja": "竹崎季長",
+      "ru": "Такэдзаки",
+      "capacity": 8
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31C86",
+      "ja": "陳興道",
+      "ru": "Чан Хынг",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F9E2",
+      "ja": "陳守度",
+      "ru": "Чан Тху До",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33F2A",
+      "ja": "陳守度",
+      "ru": "Чан Тху До",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "316D6",
+      "ja": "度宗",
+      "ru": "Ду-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F432",
+      "ja": "寧宗",
+      "ru": "Нин-цзун",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34E74",
+      "ja": "畠山重忠",
+      "ru": "Хатакэяма",
+      "capacity": 8
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31C6C",
+      "ja": "文天祥",
+      "ru": "Вэнь Тяньсян",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34DF2",
+      "ja": "源 範頼",
+      "ru": "Нориёри",
+      "capacity": 7
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34E0C",
+      "ja": "源 義経",
+      "ru": "Ёсицунэ",
+      "capacity": 7
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33912",
+      "ja": "明宗",
+      "ru": "Мёнжон",
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F8F8",
+      "ja": "耶律楚材",
+      "ru": "Елюй Чуцай",
+      "capacity": 8
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33E40",
+      "ja": "耶律楚材",
+      "ru": "Елюй Чуцай",
+      "capacity": 8
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F994",
+      "ja": "李奎報",
+      "ru": "Ли Гюбо",
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33EDC",
+      "ja": "李奎報",
+      "ru": "Ли Гюбо",
+      "capacity": 6
+    }
+  ],
+  "translated_fields": 1116,
+  "paired_glyphs": 826,
+  "checks": [
+    "verify.py",
+    "test_text_encoding.py",
+    "test_menu_buffer.py",
+    "test_harem_layout.py",
+    "test_harem.py"
+  ],
+  "emulator": {
+    "core": "Genesis Plus GX",
+    "cold_boot": true,
+    "screenshots": [
+      "royal-numerals-1116.png",
+      "royal-numerals2-1116.png",
+      "andronicus-1116.png",
+      "kanji-expanded-list-1116.png",
+      "shi-tianze-1116.png"
+    ],
+    "notes": "Native Roman glyphs checked in ruler names and Andronicus biography. Expanded fixed-record fields checked in Shi Tianze / Shi Miyuan / Zhu Xi list; Shi Tianze card inspected. Other entries not individually exercised."
+  },
+  "translation_sha256": "fa5ec0e9f08d7221fb291c18e01e7911540e1ab7771d93933c1204cf833bc0d7",
+  "harem_regression": {
+    "frames": 44600,
+    "cdda_peaks": {
+      "intro": 14424,
+      "harem": 14270
+    },
+    "core_sha256": "de4c2ad5aed880c8b616e96d13d464eb193aaf3647feee198ce10ac49eb85d1c",
+    "final_screen": "harem-regression-return.png",
+    "final_map_matches_verified_frame": true
+  }
+}

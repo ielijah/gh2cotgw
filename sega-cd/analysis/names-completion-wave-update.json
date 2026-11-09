@@ -1,0 +1,1271 @@
+{
+  "entries": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15246",
+      "ja": "\u001bKｱｲﾊﾞｸ\u001bH",
+      "ru": "Кутб Айбек",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Qutb Aybak",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15412",
+      "ja": "\u001bKｱﾙｽﾗﾝ\u001bH",
+      "ru": "Арслан-хан",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15E62",
+      "ja": "\u001bKﾀｲﾐｰﾔ\u001bH",
+      "ru": "Ибн Таймия",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ibn Taymiya",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16146",
+      "ja": "\u001bKﾁﾙｸ\u001bH",
+      "ru": "Чжилугу",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Chiluku",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1616E",
+      "ja": "\u001bKﾁﾝｷﾞﾑ\u001bH",
+      "ru": "Чжэньцзинь",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Cin-kim",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16506",
+      "ja": "\u001bKﾊﾟｽﾊﾟ\u001bH",
+      "ru": "Пагба-лама",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Hphags Pa",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1656A",
+      "ja": "\u001bKﾊﾞﾗｶ\u001bH",
+      "ru": "Барака-хан",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Barakakham",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 2
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1525A",
+      "ja": "足利義清",
+      "ru": "Ёсикиё",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15296",
+      "ja": "安達泰盛",
+      "ru": "Ясумори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "154C6",
+      "ja": "\u001bKｲｰｺﾞﾘ公\u001bH",
+      "ru": "Игорь",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Igor"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15502",
+      "ja": "伊勢義盛",
+      "ru": "Ёсимори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Yoshimori"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1552A",
+      "ja": "\u001bKｲﾅﾙﾁ\u001bH",
+      "ru": "Иналчи",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15566",
+      "ja": "今井兼平",
+      "ru": "Канэхира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "155DE",
+      "ja": "宇佐公通",
+      "ru": "Кинмити",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "155F2",
+      "ja": "海野幸氏",
+      "ru": "Юкиудзи",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15656",
+      "ja": "大河兼任",
+      "ru": "Канэто",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1571E",
+      "ja": "上総広常",
+      "ru": "Хироцунэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15782",
+      "ja": "河田次郎",
+      "ru": "Дзиро",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "157AA",
+      "ja": "菊池高直",
+      "ru": "Таканао",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "157E6",
+      "ja": "木曾義仲",
+      "ru": "Ёсинака",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "157FA",
+      "ja": "吉次信高",
+      "ru": "Китидзи",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15836",
+      "ja": "\u001bKｷﾙｼﾞｰ\u001bH",
+      "ru": "Хильджи",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Khalji"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15872",
+      "ja": "草野永平",
+      "ru": "Нагахира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15886",
+      "ja": "\u001bKｸﾞﾀﾞﾆｽｸ公\u001bH",
+      "ru": "Годаниске",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Godanisqieu"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15912",
+      "ja": "熊谷直実",
+      "ru": "Наодзанэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1594E",
+      "ja": "\u001bKｹｲﾎｽﾛｰ1世\u001bH",
+      "ru": "Кей-Хосров",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Kay Khusraw"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "159DA",
+      "ja": "\u001bKｺｰﾝｳｫｰﾙ伯\u001bH",
+      "ru": "Корнуолл",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Cornwall"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15A2A",
+      "ja": "河野通清",
+      "ru": "Митикиё",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15A3E",
+      "ja": "河野通信",
+      "ru": "Митинобу",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15ADE",
+      "ja": "斎藤実盛",
+      "ru": "Санэмори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15AF2",
+      "ja": "佐伯景弘",
+      "ru": "Кагэхиро",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15B1A",
+      "ja": "佐竹秀義",
+      "ru": "Хидэёси",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15B42",
+      "ja": "佐藤元治",
+      "ru": "Мотохару",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15C0A",
+      "ja": "志太義広",
+      "ru": "Ёсихиро",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15CAA",
+      "ja": "\u001bKｼｬﾝﾊﾟｰﾆｭ伯\u001bH",
+      "ru": "Шампань",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Champagne"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15CBE",
+      "ja": "城 長茂",
+      "ru": "Нагамоти",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15D22",
+      "ja": "\u001bKｼｭｳﾞｧｰﾍﾞﾝ公\u001bH",
+      "ru": "Швабский",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Schoweben"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15DEA",
+      "ja": "妹尾兼康",
+      "ru": "Канэясу",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15E76",
+      "ja": "平 敦盛",
+      "ru": "Ацумори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15E8A",
+      "ja": "平 清綱",
+      "ru": "Киёцуна",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15E9E",
+      "ja": "平 清盛",
+      "ru": "Киёмори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15EB2",
+      "ja": "平 維盛",
+      "ru": "Корэмори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15EC6",
+      "ja": "平 貞能",
+      "ru": "Садаёси",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15EDA",
+      "ja": "平 資盛",
+      "ru": "Сукэмори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15EEE",
+      "ja": "平 忠度",
+      "ru": "Таданори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15F02",
+      "ja": "平 経盛",
+      "ru": "Цунэмори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15F16",
+      "ja": "平 時忠",
+      "ru": "Токитада",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15F2A",
+      "ja": "平 知盛",
+      "ru": "Томомори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15F3E",
+      "ja": "平 教経",
+      "ru": "Норицунэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15F52",
+      "ja": "平 教盛",
+      "ru": "Норимори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15F66",
+      "ja": "平 通盛",
+      "ru": "Митимори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15F7A",
+      "ja": "平 宗盛",
+      "ru": "Мунэмори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15F8E",
+      "ja": "平 頼綱",
+      "ru": "Ёрицуна",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15FA2",
+      "ja": "平 頼盛",
+      "ru": "Ёримори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15FF2",
+      "ja": "武田信光",
+      "ru": "Нобумицу",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1601A",
+      "ja": "橘 遠茂",
+      "ru": "Томоти",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1602E",
+      "ja": "楯 親忠",
+      "ru": "Тикатада",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16042",
+      "ja": "\u001bKﾀﾞﾆｰﾙ公\u001bH",
+      "ru": "Даниил",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Daniil"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1606A",
+      "ja": "大夫房覚明",
+      "ru": "Какумэй",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "160CE",
+      "ja": "千葉常胤",
+      "ru": "Цунэтанэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "161D2",
+      "ja": "陳和卿",
+      "ru": "Чэнь Хэцин",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16362",
+      "ja": "土肥実平",
+      "ru": "Санэхира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "163DA",
+      "ja": "那須与一",
+      "ru": "Ёити",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16452",
+      "ja": "新田義重",
+      "ru": "Ёсисигэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1647A",
+      "ja": "根井行親",
+      "ru": "Юкитика",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "165CE",
+      "ja": "比企能員",
+      "ru": "Ёсикадзу",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "165E2",
+      "ja": "樋口兼光",
+      "ru": "Канэмицу",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "166AA",
+      "ja": "藤原景清",
+      "ru": "Кагэкиё",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "166BE",
+      "ja": "藤原国衡",
+      "ru": "Кунихира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "166D2",
+      "ja": "藤原忠衡",
+      "ru": "Тадахира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "166E6",
+      "ja": "藤原定家",
+      "ru": "Тэйка",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "166FA",
+      "ja": "藤原秀衡",
+      "ru": "Хидэхира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1670E",
+      "ja": "藤原泰衡",
+      "ru": "Ясухира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16772",
+      "ja": "\u001bKﾌﾗﾝﾄﾞﾙ伯\u001bH",
+      "ru": "Фландр",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Flandre"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1684E",
+      "ja": "北条時政",
+      "ru": "Токимаса",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16862",
+      "ja": "北条時宗",
+      "ru": "Токимунэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1692A",
+      "ja": "俣野景久",
+      "ru": "Кагэхиса",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "169B6",
+      "ja": "源 実朝",
+      "ru": "Санэтомо",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "169CA",
+      "ja": "源 仲家",
+      "ru": "Накаиэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "169F2",
+      "ja": "源 行家",
+      "ru": "Юкииэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16A1A",
+      "ja": "源 頼朝",
+      "ru": "Ёритомо",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16A2E",
+      "ja": "源 頼政",
+      "ru": "Ёримаса",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16A7E",
+      "ja": "武蔵坊弁慶",
+      "ru": "Бэнкэй",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16AA6",
+      "ja": "\u001bKﾑﾊﾝﾏﾄﾞ\u001bH",
+      "ru": "Мухаммад",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16B0A",
+      "ja": "文覚",
+      "ru": "Монгаку",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "original_padding_bytes": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16B32",
+      "ja": "山本義経",
+      "ru": "Ёсицунэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16C22",
+      "ja": "\u001bKﾘﾝﾁｪﾝ\u001bH",
+      "ru": "Ринчен",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F00",
+      "ja": "源 頼家",
+      "ru": "Ёрииэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Yoriie"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F08",
+      "ja": "北条貞時",
+      "ru": "Садатоки",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Sadatoki"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F12",
+      "ja": "藤原頼衡",
+      "ru": "Ёрихира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F1C",
+      "ja": "藤原通衡",
+      "ru": "Митихира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F26",
+      "ja": "藤原高衡",
+      "ru": "Такахира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4FF2",
+      "ja": "ﾔﾄﾞｳﾞｨｶ",
+      "ru": "Ядвига",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5002",
+      "ja": "ﾑﾑﾀｰｽﾞ",
+      "ru": "Мумтаз",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "507C",
+      "ja": "巴御前",
+      "ru": "Томоэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "509A",
+      "ja": "ﾁｬﾌﾞﾝ",
+      "ru": "Чаби",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Cabui"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51F6",
+      "ja": "ｲｪｽｹﾞﾝ",
+      "ru": "Есугэн",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51FE",
+      "ja": "ｲｪｽｲ",
+      "ru": "Есуй",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5204",
+      "ja": "ｲｧﾃｨﾏｰﾄﾞ",
+      "ru": "Итимад",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2851C",
+      "ja": "藤原定家",
+      "ru": "Тэйка",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B1F6",
+      "ja": "藤原秀衡",
+      "ru": "Хидэхира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B292",
+      "ja": "木曾義仲",
+      "ru": "Ёсинака",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B466",
+      "ja": "佐伯景弘",
+      "ru": "Кагэхиро",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B49A",
+      "ja": "菊池高直",
+      "ru": "Таканао",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B8AA",
+      "ja": "河田次郎",
+      "ru": "Дзиро",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2BAB2",
+      "ja": "源 行家",
+      "ru": "Юкииэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2C758",
+      "ja": "藤原国衡",
+      "ru": "Кунихира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2C7C0",
+      "ja": "大河兼任",
+      "ru": "Канэто",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2C828",
+      "ja": "藤原高衡",
+      "ru": "Такахира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2C8AA",
+      "ja": "樋口兼光",
+      "ru": "Канэмицу",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2CA4A",
+      "ja": "千葉常胤",
+      "ru": "Цунэтанэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2ECB6",
+      "ja": "\u001bKｲｪｽｲ\u001bH",
+      "ru": "Есуй",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F4CE",
+      "ja": "\u001bKｹｲﾎｽﾛｰ1世\u001bH",
+      "ru": "Кей-Хосров",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Kay Khusraw"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F5D2",
+      "ja": "\u001bKﾑﾊﾝﾏﾄﾞ\u001bH",
+      "ru": "Мухаммад",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "30F5A",
+      "ja": "\u001bKｲｪｽｲ\u001bH",
+      "ru": "Есуй",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "316A2",
+      "ja": "北条時宗",
+      "ru": "Токимунэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32C1E",
+      "ja": "北条貞時",
+      "ru": "Садатоки",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Sadatoki"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33A16",
+      "ja": "\u001bKｹｲﾎｽﾛｰ1世\u001bH",
+      "ru": "Кей-Хосров",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "md_section": "people",
+      "md_key": "Kay Khusraw"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33B1A",
+      "ja": "\u001bKﾑﾊﾝﾏﾄﾞ\u001bH",
+      "ru": "Мухаммад",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "35644",
+      "ja": "\u001bKｲｪｽｲ\u001bH",
+      "ru": "Есуй",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1
+    }
+  ],
+  "deferred": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4FE6",
+      "ja": "ﾗｯﾁ",
+      "ru": "Лачи"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5018",
+      "ja": "ﾏﾙｷﾞﾄ",
+      "ru": "Маргит"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "508A",
+      "ja": "ﾃﾞｽﾋﾟﾅ",
+      "ru": "Деспина"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5092",
+      "ja": "ﾃｵﾄﾞｰﾗ",
+      "ru": "Феодора"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50AA",
+      "ja": "ﾀﾏﾁｬ",
+      "ru": "Тамача"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5114",
+      "ja": "ｼｰﾘｰﾝ",
+      "ru": "Ширин"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "511A",
+      "ja": "ｼｲﾗ",
+      "ru": "Шара"
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5196",
+      "ja": "ｶﾏﾗ",
+      "ru": "Камала"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B32E",
+      "ja": "平 通盛",
+      "ru": "Митимори"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B396",
+      "ja": "平 経盛",
+      "ru": "Цунэмори"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2B3CA",
+      "ja": "源 頼政",
+      "ru": "Ёримаса"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2CB4E",
+      "ja": "平 宗盛",
+      "ru": "Мунэмори"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2CB9C",
+      "ja": "平 忠度",
+      "ru": "Таданори"
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33946",
+      "ja": "源 頼朝",
+      "ru": "Ёритомо"
+    }
+  ],
+  "total_fields": 1654,
+  "pair_count": 1102,
+  "new_entries": 120,
+  "distinct_names": 99,
+  "checks": [
+    "build.py",
+    "verify.py",
+    "test_biographies.py",
+    "test_text_encoding.py"
+  ],
+  "emulator": {
+    "screens": [
+      "names-a-1654.png",
+      "names-a2-1654.png",
+      "arslan-name-1654.png"
+    ],
+    "final_cold_route": "arslan-name-1654-route.json",
+    "scope": "Две страницы списка; карточка Арслан-хана повторно после исправления имени. Остальные записи проверены статически. Гарем не запускался."
+  },
+  "notes": [
+    "Японские имена представлены личными именами согласно принятому формату справочника.",
+    "Арслан-хан определён по исходной биографии: карлукский правитель, а не Иль-Арслан.",
+    "Длинные имена, не помещающиеся в поле, отложены; завершение всего перевода имён не заявляется."
+  ],
+  "sources": [
+    "https://crd.ndl.go.jp/reference/entry/index.php?id=1000216922&page=ref_view"
+  ]
+}

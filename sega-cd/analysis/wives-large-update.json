@@ -1,0 +1,408 @@
+{
+  "entries": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "124E8",
+      "ja": "魅力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети с харизмой.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "124FC",
+      "ja": "指揮力･魅力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети: лидеры,\nхаризма.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12552",
+      "ja": "指揮力･魅力ﾉ高ｲ子ｦ産ﾑ女性｡\n\u001bKｲｰｺﾞﾘ\u001bH公ﾉ妻｡\n｢\u001bKｲｰｺﾞﾘ\u001bH軍記｣ﾉ\u001bKﾋﾛｲﾝ\u001bH｡",
+      "ru": "Дети: лидеры, харизма\nЖена князя Игоря\nиз Слова\nо полку Игореве.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1261C",
+      "ja": "政治力･戦闘力ﾉ高ｲ子ｦ産ﾑ｡",
+      "ru": "Дети: политики,\nбойцы.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1271A",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKｲｻｷｵｽ2世\u001bHﾉ后｡\n戦闘力･指揮力ﾉ高ｲ子ｦ産ﾑ｡\n史実ﾆｵｲﾃﾓ､\u001bKﾋﾞｻﾞﾝﾂ皇帝ｲｻｷｵｽ\u001bH2世ﾉ\n妻ﾃﾞｱﾙ｡",
+      "ru": "Жена Исаака II\nсо старта. Дети:\nвоины и лидеры.\nЖена византийского\nимператора Исаака II.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "128D8",
+      "ja": "政治力ﾉ高ｲ子ｦ産ﾑ女性｡\n\u001bKﾄﾏｯﾄ\u001bH族長ﾉ妻｡\n族長ﾉ死後､部族ﾉ実権ｦ握ｯﾀ｡",
+      "ru": "Дети - политики.\nВдова вождя туматов.\nСтала главой племени.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "129C6",
+      "ja": "政治力ﾉ高ｲ子ｦ産ﾑ女性｡\n\u001bKｶｽﾃｨｰﾘｬ王ｱﾙﾌｫﾝｿ\u001bH8世ﾉ娘｡\n\u001bKｱﾙﾌｫﾝｿ\u001bH9世ﾉ后ﾄﾅｯﾀ｡",
+      "ru": "Дети - политики.\nДочь Альфонса VIII\nКастильского.\nЖена Альфонса IX.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12A0E",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKﾘﾁｬｰﾄﾞ1世\u001bHﾉ后｡\n政治力･指揮力･魅力ﾉ高ｲ子ｦ\n産ﾑ女性｡\n\u001bKﾅｳﾞｧｰﾙ王女｡\nｷﾌﾟﾛｽ島\u001bHﾃﾞ､\u001bKｲｷﾞﾘｽ国王ﾘﾁｬｰﾄﾞ\u001bH1世ﾄ\n結婚ｼﾀ｡",
+      "ru": "Жена Ричарда I\nсо старта. Дети:\nполитики, лидеры\nс харизмой.\nПринцесса Наварры.\nВышла за Ричарда I\nна Кипре.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 7
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12A8C",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKﾌﾘｰﾄﾞﾘﾋ1世\u001bHﾉ后｡\n政治力･魅力ﾉ高ｲ子ｦ産ﾑ｡\n\u001bK神聖ﾛｰﾏ皇帝ﾌﾘｰﾄﾞﾘﾋ1世\u001bHﾉ妻｡\n\u001bKﾌﾘｰﾄﾞﾘﾋ\u001bH1世ﾉ孫ﾃﾞ､\u001bKｵｯﾄｰ\u001bH4世ﾉ妻ﾄﾅｯﾀ\n女性ﾓ､ｺﾉ名ﾀﾞｯﾀ｡",
+      "ru": "Жена Фридриха I\nсо старта. Дети:\nполитики с харизмой.\nЖена римского\nимператора. Так звали\nи его внучку, жену\nОттона IV.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 7
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12B1A",
+      "ja": "指揮力ﾉ高ｲ子ｦ産ﾑ｡",
+      "ru": "Дети - лидеры.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12E76",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKｱﾊﾞｶ\u001bHﾉ后｡\n指揮力･魅力ﾉ高ｲ子ｦ産ﾑ｡\n\u001bKﾋﾞｻﾞﾝﾂ帝国皇帝ﾐｶｴﾙ8世\u001bHﾉ王女｡\n名ﾊ､\u001bKﾏﾘｱ｡\nｲﾙ汗国第2代ﾊｰﾝ･ｱﾊﾞｶ\u001bHﾉ妻ﾄﾅｯﾀ｡",
+      "ru": "Жена Абаги со старта.\nДети - лидеры\nс харизмой. Мария,\nдочь византийского\nМихаила VIII.\nЖена Абаги,\n2-го ильхана.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 7
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12EF2",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKﾐｶｴﾙ8世\u001bHﾉ后｡\n政治力･戦闘力ﾉ高ｲ子ｦ産ﾑ｡\n\u001bKﾌﾟﾚｲ\u001bH開始時ｶﾗﾉ后ﾀﾞｶﾞ､ｶﾅﾘ\u001bKｶﾞｰﾄﾞ\u001bHﾊ固ｲ｡",
+      "ru": "Жена Михаила VIII\nсо старта. Дети:\nполитики, бойцы.\nХоть вы уже женаты,\nсблизиться непросто.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12FFC",
+      "ja": "政治力･戦闘力ﾉ高ｲ子ｦ産ﾑ｡\n西夏国王･襄宗(李安全)ﾉ娘｡\n1209年､\u001bKﾓﾝｺﾞﾙ\u001bHﾆ和ｦ乞ｳﾀﾒ､\n父襄宗ﾆ\u001bKﾁﾝｷﾞｽ･ﾊｰﾝ\u001bHﾆ差ｼ出ｻﾚﾀ｡",
+      "ru": "Дети: политики, бойцы\nДочь Сян-цзуна\nиз Западной Ся.\nВ 1209 отдана\nЧингисхану ради мира\nс монголами.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 6
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "130A4",
+      "ja": "戦闘力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети сильны в бою.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13186",
+      "ja": "指揮力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети - лидеры.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "132FC",
+      "ja": "政治力･戦闘力ﾉ高ｲ子ｦ産ﾑ｡",
+      "ru": "Дети: политики,\nбойцы.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13316",
+      "ja": "政治力ﾉ高ｲ子ｦ産ﾑ女性｡\n正確ﾆﾊ､\u001bKｼｬｼﾞｬﾙ･ﾄﾞｯﾙ｡\nﾊﾞﾌﾘｰ･ﾏﾑﾙｰｸ朝初代ｽﾙﾀﾝ｡\u001bH",
+      "ru": "Дети - политики.\nШаджар ад-Дурр,\nсултанша бахритских\nмамлюков.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "134F8",
+      "ja": "戦闘力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети сильны в бою.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1350E",
+      "ja": "戦闘力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети сильны в бою.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1355C",
+      "ja": "戦闘力･魅力ﾉ高ｲ子ｦ産ﾑ｡",
+      "ru": "Дети: бойцы, харизма",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13574",
+      "ja": "魅力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети с харизмой.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13588",
+      "ja": "戦闘力･魅力ﾉ高ｲ子ｦ産ﾑ｡\n\u001bKﾎﾟｰﾗﾝﾄﾞ王ﾚｼｪｸ\u001bH1世ﾉ娘｡\n\u001bKﾊﾘﾁ王ｶｰﾙﾏｰﾝ\u001bHﾉ妻ﾄﾅｯﾀ｡",
+      "ru": "Дети: бойцы, харизма\nДочь Лешека I.\nЖена Коломана,\nкороля Галича.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "135D0",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKｻﾗﾃﾞｨﾝ\u001bHﾉ后｡\n政治力･指揮力･魅力ﾉ高ｲ子ｦ\n産ﾑ女性｡",
+      "ru": "Жена Салах ад-Дина\nсо старта. Дети:\nполитики, лидеры\nс харизмой",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13746",
+      "ja": "魅力ﾉ高ｲ子ｦ産ﾑ女性｡\n正確ﾆﾊ､\u001bKｺﾞﾘｼﾞﾝ･ﾍﾞｷ｡\nｼﾞｪﾙｷﾝ\u001bH族ﾉ后｡",
+      "ru": "Дети с харизмой.\nГориджин-бэки,\nжена вождя джуркинов.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "138DA",
+      "ja": "戦闘力･魅力ﾉ高ｲ子ｦ産ﾑ｡",
+      "ru": "Дети: бойцы, харизма",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13950",
+      "ja": "戦闘力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети сильны в бою.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13966",
+      "ja": "政治力ﾉ高ｲ子ｦ産ﾑ女性｡\n\u001bKﾊﾝｶﾞﾘｰ王ｼｬﾙﾙ\u001bH1世ﾉ娘｡\n\u001bKﾌﾗﾝｽ王ﾌｨﾘｯﾌﾟ\u001bH3世ﾉ母｡",
+      "ru": "Дети - политики.\nДочь Карла I, Венгрия.\nМать Филиппа III,\nФранция.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13A5C",
+      "ja": "戦闘力ﾉ高ｲ子ｦ産ﾑ女性｡\n\u001bKﾊﾝｶﾞﾘｰ王ﾍﾞｰﾗ\u001bH4世ﾉ娘｡\n\u001bKﾎﾟｰﾗﾝﾄﾞ国王ﾎﾞﾚｽﾜﾌ\u001bH5世ﾉ妻ﾄﾅｯﾀ｡",
+      "ru": "Дети сильны в бою.\nДочь Белы IV\nВенгерского.\nЖена Болеслава V\nПольского.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13B06",
+      "ja": "政治力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети - политики.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13BC2",
+      "ja": "指揮力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети - лидеры.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13BD8",
+      "ja": "政治力･指揮力ﾉ高ｲ子ｦ産ﾑ｡\n\u001bKｿﾙｶﾝ･ｼﾗ\u001bHﾉ娘｡\n\u001bKﾁﾝｷﾞｽ･ﾊｰﾝ\u001bHﾉ后ﾄﾅｯﾀ｡",
+      "ru": "Дети: политики,\nлидеры. Дочь\nСорхан-Ширы, жена\nЧингисхана.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13C5A",
+      "ja": "政治力･戦闘力ﾉ高ｲ子ｦ産ﾑ｡\n\u001bKｶｽﾃｨｰﾘｬ王ｱﾙﾌｫﾝｿ\u001bH10世ﾉ妹｡\n\u001bKｲｷﾞﾘｽ王ｴﾄﾞﾜｰﾄﾞ\u001bH1世ﾉ后ﾄﾅｯﾀ｡",
+      "ru": "Дети: политики, бойцы\nСестра Альфонса X,\nКастилия. Жена\nЭдуарда I Английского.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13CAE",
+      "ja": "政治力ﾉ高ｲ子ｦ産ﾑ女性｡\n\u001bKｸﾏﾝ族長ｹﾃﾆｭ\u001bHﾉ娘｡\n\u001bKﾊﾝｶﾞﾘｰ国王ｲｼｭﾄｳﾞｧｰﾝ\u001bH5世ﾉ妻ﾄﾅｯﾀ｡",
+      "ru": "Дети - политики.\nДочь Котяна,\nвождя куманов. Жена\nИштвана V Венгерского.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13D3A",
+      "ja": "指揮力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети - лидеры.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13D82",
+      "ja": "指揮力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети - лидеры.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13D98",
+      "ja": "戦闘力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети сильны в бою.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13DAE",
+      "ja": "政治力ﾉ高ｲ子ｦ産ﾑ女性｡\n\u001bKﾗﾃﾝ帝国皇帝ｱﾝﾘ\u001bH1世ﾉ妹｡\n1217年ｶﾗ1219年ﾏﾃﾞ代理皇帝ｦ\n務ﾒﾀ｡",
+      "ru": "Дети - политики.\nСестра латинского\nГенриха I. Регент\nв 1217-1219 годах.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13E00",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKﾌｨﾘｯﾌﾟ2世\u001bHﾉ后｡\n指揮力･魅力ﾉ高ｲ子ｦ産ﾑ｡\n\u001bKｲｻﾞﾍﾞﾙ･ﾄﾞ･ｴﾉｰ｡\nｶﾛﾘﾝｸﾞ\u001bH家ﾉ末孫｡\n\u001bKﾌﾗﾝｽ王ﾌｨﾘｯﾌﾟ\u001bH2世ﾉ妻ﾄﾅｯﾀ｡",
+      "ru": "Жена Филиппа II\nсо старта. Дети:\nлидеры с харизмой.\nИзабелла де Эно,\nиз Каролингов.\nФилипп II - король\nФранции.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 7
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "140A4",
+      "ja": "魅力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети с харизмой.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "140F2",
+      "ja": "魅力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Дети с харизмой.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "14120",
+      "ja": "戦闘力･指揮力･魅力ﾉ高ｲ子ｦ\n産ﾑ女性｡\n\u001bKｵｺﾞﾀｲ汗国王ｶｲﾄﾞｩ\u001bHﾉ娘｡\n武勇ﾃﾞ名高ｲ｡",
+      "ru": "Дети: бойцы, лидеры,\nхаризма. Дочь Хайду\nиз улуса Угэдэя.\nХрабра.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 4
+    }
+  ],
+  "translated_fields": 1157,
+  "paired_glyphs": 845,
+  "checks": [
+    "build.py",
+    "verify.py",
+    "test_text_encoding.py",
+    "test_menu_buffer.py",
+    "test_harem_layout.py",
+    "test_harem.py"
+  ],
+  "emulator": {
+    "core": "Genesis Plus GX",
+    "cold_boot": true,
+    "visually_verified": [
+      "INIT.PRG;1:12A0E",
+      "INIT.PRG;1:12A8C"
+    ],
+    "screenshots": [
+      "berengaria-1157.png",
+      "beatrice-1157.png"
+    ],
+    "route": "beatrice-1157-route.json",
+    "limitation": "Other new biographies checked statically, not individually in game. Berengaria screenshot precedes the independent Beatrice-only seven-line correction. Japanese short name fields remain unchanged."
+  },
+  "translation_sha256": "269cd41c439a906da93db1520fee3bac0329fe27e56588575889b6cf763ff896",
+  "harem_regression": {
+    "frames": 44600,
+    "cdda_peaks": {
+      "intro": 14424,
+      "harem": 14270
+    },
+    "core_sha256": "de4c2ad5aed880c8b616e96d13d464eb193aaf3647feee198ce10ac49eb85d1c",
+    "final_screen": "harem-regression-return.png",
+    "final_map_matches_verified_frame": true
+  }
+}

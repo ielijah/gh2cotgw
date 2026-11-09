@@ -1,0 +1,417 @@
+{
+  "entries": [
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "271D6",
+      "ja": "(任意)  ",
+      "ru": "Любое",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "271E0",
+      "ja": "(蓄財型)",
+      "ru": "Казна",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "271EA",
+      "ja": "(軍事型)",
+      "ru": "Война",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "271F4",
+      "ja": "(内政型)",
+      "ru": "Хоз-во",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27202",
+      "ja": "(遅 ｲ)",
+      "ru": "Медл",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2720A",
+      "ja": "(普通)",
+      "ru": "Норма",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27212",
+      "ja": "(速 ｲ)",
+      "ru": "Быстр",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2721A",
+      "ja": "(最速)",
+      "ru": "Макс",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27226",
+      "ja": "(特産品)",
+      "ru": "Товары",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27230",
+      "ja": "(子供)",
+      "ru": "Дети",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27240",
+      "ja": "(同盟)",
+      "ru": "Союз",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27248",
+      "ja": "(部隊)",
+      "ru": "Войска",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27250",
+      "ja": "(政治顧問)",
+      "ru": "Советник",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27264",
+      "ja": "(国力)",
+      "ru": "Силы",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2726C",
+      "ja": "(同盟)",
+      "ru": "Союз",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27274",
+      "ja": "(部隊)",
+      "ru": "Войска",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2727C",
+      "ja": "(政治顧問)",
+      "ru": "Советник",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27290",
+      "ja": "(国力)",
+      "ru": "Силы",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "272D0",
+      "ja": "情 報",
+      "ru": "Инфо",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2730C",
+      "ja": "政治顧問",
+      "ru": "Советник",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27330",
+      "ja": "\u001bKｲｽﾗﾑ\u001bH",
+      "ru": "Ислам",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2734C",
+      "ja": "\u001bKｲﾝﾄﾞ\u001bH",
+      "ru": "Индия",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27356",
+      "ja": "内\u001bKｱｼﾞｱ\u001bH",
+      "ru": "Внутр Азия",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27362",
+      "ja": "\u001bKﾓﾝｺﾞﾙ\u001bH",
+      "ru": "Монголия",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27182",
+      "ja": "(装備率)  ",
+      "ru": "Оружие",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2718E",
+      "ja": "(部隊種類)",
+      "ru": "Род войск",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2719A",
+      "ja": "(兵士数)  ",
+      "ru": "Солдаты",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "271B2",
+      "ja": "(城防御度)",
+      "ru": "Защита",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "271BE",
+      "ja": "(農産力)  ",
+      "ru": "Урожай",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "271CA",
+      "ja": "(経済力)  ",
+      "ru": "Экономика",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27762",
+      "ja": "\u001bKﾌﾋﾞﾗｲ\u001bH",
+      "ru": "Хубилай",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2776C",
+      "ja": "\u001bKﾄｩﾙｲ\u001bH",
+      "ru": "Толуй",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27776",
+      "ja": "\u001bKｵｺﾞﾀｲ\u001bH",
+      "ru": "Угэдэй",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27780",
+      "ja": "\u001bKﾁｬｶﾞﾀｲ\u001bH",
+      "ru": "Чагатай",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "297AE",
+      "ja": "ﾄﾞﾉ部隊ﾆ\nｼﾏｽｶ",
+      "ru": "Какой отряд?",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "297BC",
+      "ja": "軍団ｦ\n編成ｼﾃｸﾀﾞｻｲ",
+      "ru": "Соберите легион",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "297D2",
+      "ja": "軍資金",
+      "ru": "Казна",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "297DA",
+      "ja": "兵糧",
+      "ru": "Еда",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29838",
+      "ja": "部隊数",
+      "ru": "Отряды",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29852",
+      "ja": " 内  乱 ",
+      "ru": "Мятеж",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29A46",
+      "ja": "登用ｽﾙ",
+      "ru": "Нанять",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29A4E",
+      "ja": "逃ｶﾞｽ",
+      "ru": "Уйти",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29A54",
+      "ja": "処刑ｽﾙ",
+      "ru": "Казнь",
+      "kind": "interface_followup",
+      "max_columns": 22,
+      "max_lines": 2
+    }
+  ],
+  "rejected": [
+    [
+      "2684C",
+      "Вы устали.\nОтдохните сейчас.",
+      29,
+      25
+    ],
+    [
+      "26866",
+      "Если вы заболеете,\nмне не оправдаться.",
+      39,
+      32
+    ],
+    [
+      "26888",
+      "Не надрывайтесь,\nэто вредит здоровью!",
+      37,
+      24
+    ],
+    [
+      "29882",
+      "\nСлучилась беда!",
+      17,
+      16
+    ]
+  ]
+}

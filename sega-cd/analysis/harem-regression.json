@@ -1,0 +1,10 @@
+{
+  "frames": 44600,
+  "cdda_peaks": {
+    "intro": 14424,
+    "harem": 14270
+  },
+  "core_sha256": "de4c2ad5aed880c8b616e96d13d464eb193aaf3647feee198ce10ac49eb85d1c",
+  "final_screen": "harem-regression-return.png",
+  "final_map_matches_verified_frame": true
+}

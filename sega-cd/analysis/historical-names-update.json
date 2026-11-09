@@ -1,0 +1,345 @@
+{
+  "entries": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "164CA",
+      "ja": "\u001bKﾊﾞｲﾊﾞﾙｽ\u001bH",
+      "ru": "Бейбарс",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Baybars",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "165A6",
+      "ja": "\u001bKﾊﾞﾙﾊﾞﾝ\u001bH",
+      "ru": "Балбан",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Balban",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "162C2",
+      "ja": "\u001bKﾄﾞｩｱ\u001bH",
+      "ru": "Дува",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Dua",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15B7E",
+      "ja": "\u001bKｻﾝｶﾞ\u001bH",
+      "ru": "Санга",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Sanga",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "156A6",
+      "ja": "\u001bKｶｲﾄﾞｩ\u001bH",
+      "ru": "Хайду",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Khaidu",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "152E6",
+      "ja": "\u001bKｱﾌﾏﾄﾞ\u001bH",
+      "ru": "Ахмад",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Afmad",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1643E",
+      "ja": "\u001bKﾆｻﾞｰﾐｰ\u001bH",
+      "ru": "Низами",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Nizami",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15552",
+      "ja": "\u001bKｲﾌﾞﾝ･ｱﾗﾋﾞｰ\u001bH",
+      "ru": "Ибн Араби",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ibn Araby",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "160A6",
+      "ja": "\u001bKﾀﾞﾝﾄﾞﾛ\u001bH",
+      "ru": "Дандоло",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Dandolo",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "16A56",
+      "ja": "\u001bKﾐﾝﾀﾞｳｶﾞｽ\u001bH",
+      "ru": "Миндовг",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Mindaugas",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15D0E",
+      "ja": "\u001bKｼﾞｭﾜｲﾆｰ\u001bH",
+      "ru": "Джувейни",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Juwayni",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "15A8E",
+      "ja": "\u001bKｺﾙｸﾞｽ\u001bH",
+      "ru": "Коргус",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Korgus",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1576E",
+      "ja": "\u001bKｶﾗｰｳｰﾝ\u001bH",
+      "ru": "Калаун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Qarlawun",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3180E",
+      "ja": "\u001bKﾊﾞｲﾊﾞﾙｽ\u001bH",
+      "ru": "Бейбарс",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Baybars",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "318AA",
+      "ja": "\u001bKﾊﾞﾙﾊﾞﾝ\u001bH",
+      "ru": "Балбан",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Balban",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31C04",
+      "ja": "\u001bKﾄﾞｩｱ\u001bH",
+      "ru": "Дува",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Dua",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31BEA",
+      "ja": "\u001bKｻﾝｶﾞ\u001bH",
+      "ru": "Санга",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Sanga",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "314CE",
+      "ja": "\u001bKｶｲﾄﾞｩ\u001bH",
+      "ru": "Хайду",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Khaidu",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "32A4A",
+      "ja": "\u001bKｱﾌﾏﾄﾞ\u001bH",
+      "ru": "Ахмад",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Afmad",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2FA16",
+      "ja": "\u001bKﾆｻﾞｰﾐｰ\u001bH",
+      "ru": "Низами",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Nizami",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33F5E",
+      "ja": "\u001bKﾆｻﾞｰﾐｰ\u001bH",
+      "ru": "Низами",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Nizami",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2FA30",
+      "ja": "\u001bKｲﾌﾞﾝ･ｱﾗﾋﾞｰ\u001bH",
+      "ru": "Ибн Араби",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ibn Araby",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33F78",
+      "ja": "\u001bKｲﾌﾞﾝ･ｱﾗﾋﾞｰ\u001bH",
+      "ru": "Ибн Араби",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Ibn Araby",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2FB9C",
+      "ja": "\u001bKﾀﾞﾝﾄﾞﾛ\u001bH",
+      "ru": "Дандоло",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Dandolo",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "340E4",
+      "ja": "\u001bKﾀﾞﾝﾄﾞﾛ\u001bH",
+      "ru": "Дандоло",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Dandolo",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2F70A",
+      "ja": "\u001bKﾐﾝﾀﾞｳｶﾞｽ\u001bH",
+      "ru": "Миндовг",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Mindaugas",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31842",
+      "ja": "\u001bKｼﾞｭﾜｲﾆｰ\u001bH",
+      "ru": "Джувейни",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Juwayni",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "31B4E",
+      "ja": "\u001bKｺﾙｸﾞｽ\u001bH",
+      "ru": "Коргус",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Korgus",
+      "max_columns": 14,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "317A6",
+      "ja": "\u001bKｶﾗｰｳｰﾝ\u001bH",
+      "ru": "Калаун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Qarlawun",
+      "max_columns": 14,
+      "max_lines": 1
+    }
+  ],
+  "translated_fields": 674,
+  "paired_glyphs": 679,
+  "checks": [
+    "verify.py",
+    "test_text_encoding.py"
+  ],
+  "emulator": {
+    "cold_boot": true,
+    "core": "Genesis Plus GX",
+    "visually_verified": [
+      "INIT.PRG;1:164CA",
+      "INIT.PRG;1:165A6",
+      "INIT.PRG;1:15552"
+    ],
+    "screenshots": [
+      "baybars-balban-list-674.png",
+      "baybars-card-674.png",
+      "ibn-arabi-list-674.png"
+    ],
+    "limitation": "Remaining names and in-campaign copies were checked statically only."
+  },
+  "translation_sha256": "db47b11798685a72b3a63e99d3fc9e3aaef9502c4aac0b8d37093eb7218f75a4"
+}

@@ -1,0 +1,227 @@
+{
+  "entries": [
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2ED24",
+      "ja": "\u001bKﾆﾄﾞﾝ\u001bH",
+      "ru": "Нидун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Nidon",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2EDBE",
+      "ja": "\u001bKﾑｱﾙﾝ\u001bH",
+      "ru": "Оэлун",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Mualun",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "33214",
+      "ja": "\u001bKﾁｬﾌﾞﾝ\u001bH",
+      "ru": "Чаби",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Cabui",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "332DA",
+      "ja": "\u001bKｼｬｰﾗ\u001bH",
+      "ru": "Шара",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Shara",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "332AE",
+      "ja": "\u001bKﾃﾞｽﾋﾟﾅ\u001bH",
+      "ru": "Деспина",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Despina",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3331C",
+      "ja": "\u001bKﾃｵﾄﾞｰﾗ\u001bH",
+      "ru": "Феодора",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Theodora",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "3338A",
+      "ja": "\u001bKﾏﾙｸﾞﾘｯﾄ\u001bH",
+      "ru": "Маргарита",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Margritte",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "355AA",
+      "ja": "\u001bKﾏﾙｷﾞﾄ\u001bH",
+      "ru": "Маргит",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Margit",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "355D6",
+      "ja": "\u001bKﾍﾞｱﾄﾘｸｽ\u001bH",
+      "ru": "Беатриса",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Beatrix",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "35526",
+      "ja": "\u001bKｻﾌｨｰｱ\u001bH",
+      "ru": "Сафия",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Saphia",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "311D8",
+      "ja": "\u001bKｲｻﾞﾍﾞﾙ\u001bH",
+      "ru": "Изабелла",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Isabelle",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "35618",
+      "ja": "\u001bKｲｻﾞﾍﾞﾙ\u001bH",
+      "ru": "Изабелла",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Isabelle",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "311C2",
+      "ja": "\u001bKｲｻﾞﾍﾞﾗ\u001bH",
+      "ru": "Изабелла",
+      "kind": "person_name",
+      "md_section": "people",
+      "md_key": "Isabella",
+      "max_columns": 12,
+      "max_lines": 1
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12E4A",
+      "ja": "愛情度ｶﾞｶﾅﾘ高ｲ｡\n口説ｷ落ﾄｽﾉﾊｿﾚﾎﾄﾞ難ｼｸﾅｲﾀﾞﾛｳ｡",
+      "ru": "Очень привязана.\nЛегко соблазнить.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1319C",
+      "ja": "政治力･指揮力ﾉ高ｲ子ｦ産ﾑ｡\n口説ｷ落ﾄｽﾆﾊ､骨ｶﾞ折ﾚｿｳﾀﾞ｡",
+      "ru": "Дети: политики,\nполководцы.\nСоблазнить трудно.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12518",
+      "ja": "愛情度ｶﾞ非常ﾆ高ｲ｡\n体力ｦ使ｳｺﾄﾅｸ､\n\u001bKｵﾙﾄﾞ\u001bH交渉ﾊ成功ｽﾙｶﾞ…｡",
+      "ru": "Сильная любовь.\nБлизость без затрат\nсил удастся, но...",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12D6C",
+      "ja": "魅力ﾉ高ｲ子ｦ産ﾑ女性｡\n\u001bKｵｺﾞﾀｲ\u001bHﾉ后ﾉ名ﾓ\u001bKﾄﾗｷﾅ\u001bHﾄｲｯﾀ｡",
+      "ru": "Дети: харизма.\nТак звали и жену\nУгэдэя.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "13524",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKｺﾞｰﾘｰ\u001bHﾉ后｡\n戦闘力･魅力ﾉ高ｲ子ｦ産ﾑ女性｡",
+      "ru": "Жена Гури в начале\nигры. Дети сильны\nв бою и харизме.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "1335C",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKﾊﾞｲﾊﾞﾙｽ\u001bHﾉ后｡\n戦闘力･指揮力ﾉ高ｲ子ｦ産ﾑ｡",
+      "ru": "Жена Бейбарса\nв начале игры.\nДети: воины и лидеры.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 3
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "12D38",
+      "ja": "\u001bKﾌﾟﾚｲ\u001bH開始時ﾉ\u001bKｼﾞｬﾑｶ\u001bHﾉ后｡\n戦闘力･魅力ﾉ高ｲ子ｦ産ﾑ｡",
+      "ru": "Жена Джамухи\nв начале игры.\nДети: бойцы, харизма.",
+      "kind": "biography",
+      "max_columns": 22,
+      "max_lines": 3
+    }
+  ],
+  "translated_fields": 751,
+  "paired_glyphs": 701,
+  "checks": [
+    "verify.py",
+    "test_text_encoding.py"
+  ],
+  "emulator": {
+    "core": "Genesis Plus GX",
+    "cold_boot": true,
+    "visually_verified": [
+      "INIT.PRG;1:12D38"
+    ],
+    "screenshot": "nidon-card-751.png",
+    "route": "wives-na-review-inputs.json",
+    "limitation": "Other biographies and SMAIN name copies checked statically. The short INIT name field for Nidon remains Japanese."
+  },
+  "translation_sha256": "59429dc7322d5266609e4922dd48c022712af4c2c76a6a0677884d74e6862286"
+}

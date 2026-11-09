@@ -1,0 +1,14 @@
+{
+  "map-original": {
+    "peak": 0,
+    "nonzero": 0
+  },
+  "voice-fixed": {
+    "peak": 14270,
+    "nonzero": 746246
+  },
+  "voice-broken": {
+    "peak": 0,
+    "nonzero": 0
+  }
+}

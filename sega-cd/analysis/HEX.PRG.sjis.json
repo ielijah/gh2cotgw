@@ -1,0 +1,274 @@
+[
+  {
+    "offset": "0x7a57",
+    "text": "誰氷蒐"
+  },
+  {
+    "offset": "0x7a6b",
+    "text": "氷蒐禰"
+  },
+  {
+    "offset": "0x9ec6",
+    "text": "辷吹蛻"
+  },
+  {
+    "offset": "0xa07d",
+    "text": "朗氷秋"
+  },
+  {
+    "offset": "0xa29a",
+    "text": "辷吹蛻"
+  },
+  {
+    "offset": "0xa2b6",
+    "text": "辷吹蛻"
+  },
+  {
+    "offset": "0xa2d4",
+    "text": "辷吹蛻"
+  },
+  {
+    "offset": "0xa2f2",
+    "text": "辷吹蛻"
+  },
+  {
+    "offset": "0x12bff",
+    "text": "禮蹴騎"
+  },
+  {
+    "offset": "0x1339b",
+    "text": "捻蹴崖騎"
+  },
+  {
+    "offset": "0x13a30",
+    "text": "突撃騎兵"
+  },
+  {
+    "offset": "0x13a3a",
+    "text": "軽弓騎兵"
+  },
+  {
+    "offset": "0x13a44",
+    "text": "蒙古騎兵"
+  },
+  {
+    "offset": "0x13a58",
+    "text": "狩猟騎兵"
+  },
+  {
+    "offset": "0x13b12",
+    "text": "内乱軍"
+  },
+  {
+    "offset": "0x13b28",
+    "text": "内乱軍"
+  },
+  {
+    "offset": "0x13b35",
+    "text": "屈辱忘"
+  },
+  {
+    "offset": "0x13b4c",
+    "text": "隣接国"
+  },
+  {
+    "offset": "0x13b60",
+    "text": "攻撃側"
+  },
+  {
+    "offset": "0x13b68",
+    "text": "守備側"
+  },
+  {
+    "offset": "0x13b77",
+    "text": "脱落者"
+  },
+  {
+    "offset": "0x13bc2",
+    "text": "攻撃側第"
+  },
+  {
+    "offset": "0x13bcc",
+    "text": "攻撃側"
+  },
+  {
+    "offset": "0x13bd4",
+    "text": "出現地点"
+  },
+  {
+    "offset": "0x13c00",
+    "text": "守備側第"
+  },
+  {
+    "offset": "0x13c14",
+    "text": "軍団配置"
+  },
+  {
+    "offset": "0x13c38",
+    "text": "攻撃側"
+  },
+  {
+    "offset": "0x13c40",
+    "text": "守備側"
+  },
+  {
+    "offset": "0x13c7d",
+    "text": "爭食糧"
+  },
+  {
+    "offset": "0x13d10",
+    "text": "退却可能国"
+  },
+  {
+    "offset": "0x13d25",
+    "text": "敵軍団"
+  },
+  {
+    "offset": "0x13dc6",
+    "text": "泊爬渡"
+  },
+  {
+    "offset": "0x13de8",
+    "text": "泊爬渡"
+  },
+  {
+    "offset": "0x13df4",
+    "text": "編成可能"
+  },
+  {
+    "offset": "0x13e38",
+    "text": "指揮下"
+  },
+  {
+    "offset": "0x13e80",
+    "text": "投降勧告"
+  },
+  {
+    "offset": "0x13ea1",
+    "text": "戚無視"
+  },
+  {
+    "offset": "0x13eb6",
+    "text": "投降勧告"
+  },
+  {
+    "offset": "0x13ec8",
+    "text": "以上味方軍団"
+  },
+  {
+    "offset": "0x13f3a",
+    "text": "降伏勧告"
+  },
+  {
+    "offset": "0x13f4e",
+    "text": "降伏勧告"
+  },
+  {
+    "offset": "0x13f6c",
+    "text": "降伏勧告"
+  },
+  {
+    "offset": "0x13f7d",
+    "text": "陀利益"
+  },
+  {
+    "offset": "0x13fcd",
+    "text": "停戦交渉"
+  },
+  {
+    "offset": "0x13fe0",
+    "text": "停戦協定"
+  },
+  {
+    "offset": "0x14004",
+    "text": "停戦協定"
+  },
+  {
+    "offset": "0x14018",
+    "text": "敵軍団"
+  },
+  {
+    "offset": "0x140c6",
+    "text": "司令官"
+  },
+  {
+    "offset": "0x14150",
+    "text": "内乱軍"
+  },
+  {
+    "offset": "0x141ac",
+    "text": "記録的"
+  },
+  {
+    "offset": "0x141d8",
+    "text": "熱帯性"
+  },
+  {
+    "offset": "0x141df",
+    "text": "暴風雨"
+  },
+  {
+    "offset": "0x14215",
+    "text": "業見舞"
+  },
+  {
+    "offset": "0x1427e",
+    "text": "機動力"
+  },
+  {
+    "offset": "0x142c8",
+    "text": "城防御度"
+  },
+  {
+    "offset": "0x142e4",
+    "text": "配置出来"
+  },
+  {
+    "offset": "0x142f5",
+    "text": "泊爬配置"
+  },
+  {
+    "offset": "0x14327",
+    "text": "泊爬指揮"
+  },
+  {
+    "offset": "0x14337",
+    "text": "実行済"
+  },
+  {
+    "offset": "0x14342",
+    "text": "司令官"
+  },
+  {
+    "offset": "0x14354",
+    "text": "泊爬混乱"
+  },
+  {
+    "offset": "0x143c6",
+    "text": "軍団司令官"
+  },
+  {
+    "offset": "0x143d2",
+    "text": "軍団司令官"
+  },
+  {
+    "offset": "0x143ec",
+    "text": "泊爬見"
+  },
+  {
+    "offset": "0x14420",
+    "text": "泊爬見"
+  },
+  {
+    "offset": "0x1442a",
+    "text": "軍団司令官"
+  },
+  {
+    "offset": "0x144cb",
+    "text": "敵部隊"
+  },
+  {
+    "offset": "0x144e4",
+    "text": "敵部隊"
+  }
+]

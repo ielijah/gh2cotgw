@@ -1,0 +1,84 @@
+[
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15246",
+    "ja": "\u001bKｱｲﾊﾞｸ\u001bH",
+    "ru": "Кутб Айбек",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Qutb Aybak",
+    "max_columns": 10,
+    "max_lines": 1,
+    "original_padding_bytes": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15412",
+    "ja": "\u001bKｱﾙｽﾗﾝ\u001bH",
+    "ru": "Арслан-хан",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "original_padding_bytes": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15E62",
+    "ja": "\u001bKﾀｲﾐｰﾔ\u001bH",
+    "ru": "Ибн Таймия",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Ibn Taymiya",
+    "max_columns": 10,
+    "max_lines": 1,
+    "original_padding_bytes": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16146",
+    "ja": "\u001bKﾁﾙｸ\u001bH",
+    "ru": "Чжилугу",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Chiluku",
+    "max_columns": 10,
+    "max_lines": 1,
+    "original_padding_bytes": 3
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1616E",
+    "ja": "\u001bKﾁﾝｷﾞﾑ\u001bH",
+    "ru": "Чжэньцзинь",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Cin-kim",
+    "max_columns": 10,
+    "max_lines": 1,
+    "original_padding_bytes": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16506",
+    "ja": "\u001bKﾊﾟｽﾊﾟ\u001bH",
+    "ru": "Пагба-лама",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Hphags Pa",
+    "max_columns": 10,
+    "max_lines": 1,
+    "original_padding_bytes": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1656A",
+    "ja": "\u001bKﾊﾞﾗｶ\u001bH",
+    "ru": "Барака-хан",
+    "kind": "person_name",
+    "md_section": "people",
+    "md_key": "Barakakham",
+    "max_columns": 10,
+    "max_lines": 1,
+    "original_padding_bytes": 2
+  }
+]
