@@ -32,3 +32,16 @@ __pycache__/
 *.flac
 
 *.state
+
+# Published translated CD audio and launch cue only
+/sega-cd/dub/*
+!/sega-cd/dub/README.md
+!/sega-cd/dub/tracks.json
+!/sega-cd/dub/game.cue
+!/sega-cd/dub/track0[2-9].wav
+!/sega-cd/dub/track[2-7][0-9].wav
+!/sega-cd/dub/track1[0-9].wav
+!/sega-cd/dub/track90.wav
+*.iso
+
+!/sega-cd/dub/track8[0-9].wav
