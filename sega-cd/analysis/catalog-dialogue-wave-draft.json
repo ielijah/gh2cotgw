@@ -1,0 +1,90 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27C58",
+    "ja": " ｼｶｼ､日本ﾊ統一ｻﾚﾙﾉｶﾞ余ﾘﾆﾓ\n遅ｽｷﾞﾀ…\n 強大ﾅ力ｦ蓄ｴﾀ諸外国ｦ前ﾆ､\nｺﾉ極東ﾉ小国ﾊ属国ﾄｼﾃ生ｷﾙ\nﾎｶ選ﾌﾞ道ﾊ､ﾅｶｯﾀﾉﾃﾞｱﾙ",
+    "ru": "Но Япония слишком\nпоздно объединилась.\nСильные соседи\nоставили ей лишь\nучасть вассала.",
+    "max_columns": 22,
+    "max_lines": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27CC0",
+    "ja": " ｼｶｼ､\u001bKﾓﾝｺﾞﾙ高原\u001bHﾉ統一ﾊ余ﾘﾆﾓ\n遅ｽｷﾞﾀ…\n 強大ﾅ力ｦ蓄ｴﾀ諸外国ｦ前ﾆｼ､\nｺﾉ新興国家ﾊ属国ﾄｼﾃ生ｷ残ﾙ\n道ｦ選ﾌﾞﾎｶﾊ､ﾅｶｯﾀﾉﾃﾞｱﾙ",
+    "ru": "Но Монголия слишком\nпоздно объединилась.\nПеред мощью соседей\nновой державе осталось\nстать их вассалом.",
+    "max_columns": 22,
+    "max_lines": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27D3E",
+    "ja": " 全\u001bKﾓﾝｺﾞﾙ\u001bHｦ統治ｽﾙ\u001bKﾊ-ﾝ(大汗)\u001bHﾆ\n推戴ｻﾚﾀ\u001bKﾃﾑｼﾞﾝ\u001bHﾆ､\u001bK｢ﾁﾝｷﾞｽ･ﾊ-ﾝ｣\u001bHﾉ\n称号ｶﾞ奉ｼﾞﾗﾚﾀ",
+    "ru": "Темучина избрали\nвеликим ханом всех\nмонголов и нарекли\nЧингисханом.",
+    "max_columns": 22,
+    "max_lines": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF88",
+    "ja": "行軍\u001bKﾓ-ﾄﾞ\u001bH",
+    "ru": "Марш",
+    "max_columns": 22,
+    "max_lines": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF96",
+    "ja": "戦闘\u001bKﾓ-ﾄﾞ\u001bH",
+    "ru": "Бой",
+    "max_columns": 22,
+    "max_lines": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C97A",
+    "ja": "木曾義高",
+    "ru": "Ёситака",
+    "max_columns": 10,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34EEE",
+    "ja": "三幡姫",
+    "ru": "Самман",
+    "max_columns": 10,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CCB6",
+    "ja": "亀前",
+    "ru": "Камэ",
+    "max_columns": 10,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CD50",
+    "ja": "平 時子",
+    "ru": "Токико",
+    "max_columns": 10,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CCF8",
+    "ja": "北条政子",
+    "ru": "Масако",
+    "max_columns": 10,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "354E4",
+    "ja": "北条政子",
+    "ru": "Масако",
+    "max_columns": 10,
+    "max_lines": 1
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4F50",
+    "ja": "ﾁｬｳﾙﾍﾞｷ姫",
+    "ru": "Чаур-беки",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16D2A",
+        "before": "0006af50"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5222",
+    "ja": "ｱｲｼﾞｱﾙｸ",
+    "ru": "Айджарук",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16DC2",
+        "before": "0006b222"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "521A",
+    "ja": "ｱﾄｩﾗﾃｨﾘ",
+    "ru": "Атула Тири",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16DC6",
+        "before": "0006b21a"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "51CE",
+    "ja": "ｴｲﾝﾃｨ",
+    "ru": "Эйнти",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16DF2",
+        "before": "0006b1ce"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "51C6",
+    "ja": "ｴｳｼﾞｯﾄ",
+    "ru": "Эуджит",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16DF6",
+        "before": "0006b1c6"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5168",
+    "ja": "ｸﾝ",
+    "ru": "Кун",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E2E",
+        "before": "0006b168"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "513E",
+    "ja": "ｺﾞﾘｼﾞﾝ",
+    "ru": "Хориджин",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E42",
+        "before": "0006b13e"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "510C",
+    "ja": "ｼﾞｪﾑｷﾝ",
+    "ru": "Джемкин",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E62",
+        "before": "0006b10c"
+      }
+    ]
+  }
+]

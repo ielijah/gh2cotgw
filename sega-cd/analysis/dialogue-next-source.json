@@ -1,0 +1,4034 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2610E",
+    "capacity": 4,
+    "ja": "BｧNｹ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "264F4",
+    "capacity": 8,
+    "ja": "ﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268D6",
+    "capacity": 4,
+    "ja": "ｸﾙ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268DC",
+    "capacity": 6,
+    "ja": "･ﾍﾞｷ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268E4",
+    "capacity": 4,
+    "ja": "ﾄｸ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268EA",
+    "capacity": 5,
+    "ja": "ｶﾞｲ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268F0",
+    "capacity": 5,
+    "ja": "ﾀﾞｲ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268F6",
+    "capacity": 4,
+    "ja": "ﾄｩ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268FC",
+    "capacity": 5,
+    "ja": "ﾄﾞﾗ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26902",
+    "capacity": 4,
+    "ja": "ｸﾗ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26908",
+    "capacity": 7,
+    "ja": "ﾗｰｼﾞｬ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26910",
+    "capacity": 6,
+    "ja": "ｼﾞｬﾔ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26918",
+    "capacity": 4,
+    "ja": "新田",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2691E",
+    "capacity": 4,
+    "ja": "豊島",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26924",
+    "capacity": 6,
+    "ja": "津々見",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26930",
+    "capacity": 4,
+    "ja": "山本",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26936",
+    "capacity": 4,
+    "ja": "中山",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2693C",
+    "capacity": 4,
+    "ja": "村上",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26942",
+    "capacity": 4,
+    "ja": "菊池",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26948",
+    "capacity": 4,
+    "ja": "河越",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2694E",
+    "capacity": 4,
+    "ja": "曾我",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26954",
+    "capacity": 4,
+    "ja": "越智",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2695A",
+    "capacity": 4,
+    "ja": "江戸",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26960",
+    "capacity": 4,
+    "ja": "結城",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26966",
+    "capacity": 4,
+    "ja": "小山",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2696C",
+    "capacity": 6,
+    "ja": "宇都宮",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26974",
+    "capacity": 4,
+    "ja": "里見",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2697A",
+    "capacity": 4,
+    "ja": "鎌田",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26980",
+    "capacity": 4,
+    "ja": "中原",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26986",
+    "capacity": 6,
+    "ja": "佐々木",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2698E",
+    "capacity": 4,
+    "ja": "新田",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26994",
+    "capacity": 4,
+    "ja": "板垣",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2699A",
+    "capacity": 4,
+    "ja": "一条",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269A0",
+    "capacity": 4,
+    "ja": "武田",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269A6",
+    "capacity": 4,
+    "ja": "九条",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269AC",
+    "capacity": 4,
+    "ja": "阿野",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269B2",
+    "capacity": 4,
+    "ja": "安達",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269B8",
+    "capacity": 4,
+    "ja": "足利",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269BE",
+    "capacity": 4,
+    "ja": "佐藤",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269C4",
+    "capacity": 4,
+    "ja": "大庭",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269CA",
+    "capacity": 4,
+    "ja": "佐竹",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269D4",
+    "capacity": 4,
+    "ja": "比企",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269DA",
+    "capacity": 4,
+    "ja": "北条",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269E0",
+    "capacity": 4,
+    "ja": "和田",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269E6",
+    "capacity": 4,
+    "ja": "藤原",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A8C",
+    "capacity": 6,
+    "ja": "ｳﾞｨﾋ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A94",
+    "capacity": 5,
+    "ja": "ｽﾀﾝ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A9A",
+    "capacity": 5,
+    "ja": "ﾄｩｽ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AA0",
+    "capacity": 6,
+    "ja": "ﾍﾞｽﾄ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AA8",
+    "capacity": 6,
+    "ja": "ﾊﾞｰﾄ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AB0",
+    "capacity": 4,
+    "ja": "ｽｷ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AB6",
+    "capacity": 5,
+    "ja": "ｽﾗﾌ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ABC",
+    "capacity": 6,
+    "ja": "ﾄﾞﾛｽ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AC4",
+    "capacity": 4,
+    "ja": "ﾄﾘ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ACA",
+    "capacity": 5,
+    "ja": "ｼｵｽ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AD0",
+    "capacity": 4,
+    "ja": "\u001bKﾅｰ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AD6",
+    "capacity": 7,
+    "ja": "\u001bKｱﾌﾞﾄﾞ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ADE",
+    "capacity": 6,
+    "ja": "\u001bKｲﾌﾞﾝ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AE6",
+    "capacity": 4,
+    "ja": "\u001bKﾏﾌ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AEC",
+    "capacity": 4,
+    "ja": "\u001bKｹｲ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AF2",
+    "capacity": 5,
+    "ja": "\u001bKｱﾙ･",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BBA",
+    "capacity": 4,
+    "ja": "ﾗﾝ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BC0",
+    "capacity": 4,
+    "ja": "ﾙﾃ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BC6",
+    "capacity": 4,
+    "ja": "ﾙﾝ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BCC",
+    "capacity": 4,
+    "ja": "ｱﾝ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BD2",
+    "capacity": 4,
+    "ja": "ｷﾅ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BD8",
+    "capacity": 4,
+    "ja": "ｸﾝ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BDE",
+    "capacity": 4,
+    "ja": "ｻﾝ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BE4",
+    "capacity": 4,
+    "ja": "ｽｶ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BEA",
+    "capacity": 4,
+    "ja": "ﾃｨ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BF0",
+    "capacity": 5,
+    "ja": "ﾗｰﾀ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BF6",
+    "capacity": 5,
+    "ja": "ﾊｰﾙ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BFC",
+    "capacity": 5,
+    "ja": "ｼｬﾅ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C02",
+    "capacity": 5,
+    "ja": "ﾚｯﾄ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C08",
+    "capacity": 4,
+    "ja": "ﾘｽ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C0E",
+    "capacity": 5,
+    "ja": "ﾘｰﾅ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C14",
+    "capacity": 6,
+    "ja": "ﾃﾞｨｱ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C1C",
+    "capacity": 5,
+    "ja": "ｱﾝﾇ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C22",
+    "capacity": 6,
+    "ja": "ﾘｰﾁｪ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C2A",
+    "capacity": 4,
+    "ja": "ｼｱ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C30",
+    "capacity": 6,
+    "ja": "ﾄﾞｰﾗ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C38",
+    "capacity": 5,
+    "ja": "ﾃｨﾏ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C3E",
+    "capacity": 5,
+    "ja": "ｲﾀﾞ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C44",
+    "capacity": 5,
+    "ja": "ﾘｰﾝ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C4A",
+    "capacity": 7,
+    "ja": "ｻﾞｰﾄﾞ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C82",
+    "capacity": 4,
+    "ja": "瑠璃",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C88",
+    "capacity": 4,
+    "ja": "沙羅",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D3E",
+    "capacity": 4,
+    "ja": "公主",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D48",
+    "capacity": 4,
+    "ja": "菊池",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D4E",
+    "capacity": 4,
+    "ja": "河野",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D58",
+    "capacity": 4,
+    "ja": "木曾",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D62",
+    "capacity": 4,
+    "ja": "佐竹",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D68",
+    "capacity": 4,
+    "ja": "藤原",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D6E",
+    "capacity": 4,
+    "ja": "菊池",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D74",
+    "capacity": 4,
+    "ja": "河野",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D7E",
+    "capacity": 4,
+    "ja": "木曾",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D88",
+    "capacity": 4,
+    "ja": "佐竹",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D8E",
+    "capacity": 4,
+    "ja": "藤原",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D98",
+    "capacity": 4,
+    "ja": "菊池",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D9E",
+    "capacity": 4,
+    "ja": "河野",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DA8",
+    "capacity": 4,
+    "ja": "木曾",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DB2",
+    "capacity": 4,
+    "ja": "佐竹",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DB8",
+    "capacity": 4,
+    "ja": "藤原",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DBE",
+    "capacity": 4,
+    "ja": "北条",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E42",
+    "capacity": 4,
+    "ja": "軍団",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E48",
+    "capacity": 6,
+    "ja": "武士団",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E50",
+    "capacity": 4,
+    "ja": "王朝",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E56",
+    "capacity": 4,
+    "ja": "王国",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E5C",
+    "capacity": 4,
+    "ja": "国府",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E62",
+    "capacity": 4,
+    "ja": "政権",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E68",
+    "capacity": 6,
+    "ja": "執政府",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E70",
+    "capacity": 4,
+    "ja": "幕府",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E7E",
+    "capacity": 4,
+    "ja": "王国",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E90",
+    "capacity": 4,
+    "ja": "連合",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E96",
+    "capacity": 4,
+    "ja": "公国",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E9C",
+    "capacity": 4,
+    "ja": "王国",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EA2",
+    "capacity": 4,
+    "ja": "帝国",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F38",
+    "capacity": 4,
+    "ja": "王朝",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F3E",
+    "capacity": 4,
+    "ja": "帝国",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F44",
+    "capacity": 20,
+    "ja": "ｶﾞ\n脅迫ﾆ屈伏ｼﾃｼﾏｲﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F5C",
+    "capacity": 6,
+    "ja": "ｦ行ｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F6C",
+    "capacity": 13,
+    "ja": "様ﾉ\nｺﾞ指示通ﾘ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F7A",
+    "capacity": 5,
+    "ja": "\n施ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F84",
+    "capacity": 6,
+    "ja": "ﾆ対ｼﾃ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26FE0",
+    "capacity": 11,
+    "ja": "ﾊ実行ﾃﾞｷﾏｾﾝ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26FF6",
+    "capacity": 13,
+    "ja": "ｶﾞ独立ｼﾀﾖｳﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27004",
+    "capacity": 7,
+    "ja": "ﾉ領主ﾉ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2700C",
+    "capacity": 22,
+    "ja": "我ｶﾞ勢力ｶﾗ\n独立ｲﾀｼﾏｼﾀ!",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2702C",
+    "capacity": 13,
+    "ja": "様ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2706C",
+    "capacity": 16,
+    "ja": "様ｶﾞ\nｵ亡ｸﾅﾘﾆﾅﾗﾚﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2707E",
+    "capacity": 17,
+    "ja": "様ﾉ\n血統ﾊ絶ｴﾗﾚﾀ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27090",
+    "capacity": 10,
+    "ja": "ﾊ\n滅亡ｼﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "270A4",
+    "capacity": 3,
+    "ja": "様､",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "270E2",
+    "capacity": 6,
+    "ja": "(香料)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27108",
+    "capacity": 8,
+    "ja": "(木工品)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27112",
+    "capacity": 8,
+    "ja": "(医薬品)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2711C",
+    "capacity": 8,
+    "ja": "(貴金属)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27126",
+    "capacity": 6,
+    "ja": "(宝石)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27134",
+    "capacity": 6,
+    "ja": "(毛皮)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2714A",
+    "capacity": 5,
+    "ja": "商人)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27156",
+    "capacity": 6,
+    "ja": "(従順)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2715E",
+    "capacity": 6,
+    "ja": "(対等)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27166",
+    "capacity": 6,
+    "ja": "(脅迫)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2716E",
+    "capacity": 6,
+    "ja": "(侵略)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27238",
+    "capacity": 6,
+    "ja": "(将軍)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2725C",
+    "capacity": 6,
+    "ja": "(領主)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27288",
+    "capacity": 6,
+    "ja": "(領主)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272C4",
+    "capacity": 5,
+    "ja": "終 了",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272CA",
+    "capacity": 5,
+    "ja": "機 能",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272D6",
+    "capacity": 5,
+    "ja": "商 人",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272DC",
+    "capacity": 5,
+    "ja": "外 交",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272E2",
+    "capacity": 5,
+    "ja": "内 政",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272E8",
+    "capacity": 5,
+    "ja": "軍 事",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272EE",
+    "capacity": 5,
+    "ja": "人 事",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272F4",
+    "capacity": 5,
+    "ja": "指 示",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272FA",
+    "capacity": 5,
+    "ja": "方 針",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27300",
+    "capacity": 4,
+    "ja": "国王",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27306",
+    "capacity": 4,
+    "ja": "領主",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27316",
+    "capacity": 4,
+    "ja": "将軍",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2731C",
+    "capacity": 4,
+    "ja": "王族",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27322",
+    "capacity": 4,
+    "ja": "親族",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2732A",
+    "capacity": 4,
+    "ja": "中国",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2733A",
+    "capacity": 4,
+    "ja": "東欧",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27340",
+    "capacity": 4,
+    "ja": "西欧",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27346",
+    "capacity": 4,
+    "ja": "日本",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27394",
+    "capacity": 4,
+    "ja": "武具",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2739A",
+    "capacity": 4,
+    "ja": "食糧",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273A0",
+    "capacity": 4,
+    "ja": "香料",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273A6",
+    "capacity": 4,
+    "ja": "織物",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273D6",
+    "capacity": 4,
+    "ja": "宝石",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273E0",
+    "capacity": 4,
+    "ja": "毛皮",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273E6",
+    "capacity": 4,
+    "ja": "武士",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273EC",
+    "capacity": 4,
+    "ja": "騎士",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273F2",
+    "capacity": 8,
+    "ja": "突撃騎兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273FC",
+    "capacity": 8,
+    "ja": "軽弓騎兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27406",
+    "capacity": 8,
+    "ja": "蒙古騎兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27410",
+    "capacity": 6,
+    "ja": "槍騎兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27418",
+    "capacity": 8,
+    "ja": "狩猟騎兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27422",
+    "capacity": 6,
+    "ja": "投石機",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2742A",
+    "capacity": 4,
+    "ja": "象兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27430",
+    "capacity": 6,
+    "ja": "弩弓兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27438",
+    "capacity": 6,
+    "ja": "長弓兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27440",
+    "capacity": 6,
+    "ja": "短弓兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27448",
+    "capacity": 6,
+    "ja": "火砲兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27450",
+    "capacity": 6,
+    "ja": "長槍兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27458",
+    "capacity": 6,
+    "ja": "重歩兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27460",
+    "capacity": 6,
+    "ja": "軽歩兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27468",
+    "capacity": 6,
+    "ja": "(武士)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27470",
+    "capacity": 6,
+    "ja": "(騎士)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27478",
+    "capacity": 10,
+    "ja": "(突撃騎兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27484",
+    "capacity": 10,
+    "ja": "(軽弓騎兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27490",
+    "capacity": 10,
+    "ja": "(蒙古騎兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2749C",
+    "capacity": 8,
+    "ja": "(槍騎兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "274A6",
+    "capacity": 10,
+    "ja": "(狩猟騎兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "274B2",
+    "capacity": 8,
+    "ja": "(投石機)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "274BC",
+    "capacity": 6,
+    "ja": "(象兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "274C4",
+    "capacity": 8,
+    "ja": "(弩弓兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "274CE",
+    "capacity": 8,
+    "ja": "(長弓兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "274D8",
+    "capacity": 8,
+    "ja": "(短弓兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "274E2",
+    "capacity": 8,
+    "ja": "(火砲兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "274EC",
+    "capacity": 8,
+    "ja": "(長槍兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "274F6",
+    "capacity": 8,
+    "ja": "(重歩兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27500",
+    "capacity": 8,
+    "ja": "(軽歩兵)",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2750A",
+    "capacity": 9,
+    "ja": "\u001bKﾍﾞﾈﾁｱ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27514",
+    "capacity": 8,
+    "ja": "\u001bKｲｽﾗﾑ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2751E",
+    "capacity": 4,
+    "ja": "中国",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27524",
+    "capacity": 9,
+    "ja": "\u001bKｳｲｸﾞﾙ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2752E",
+    "capacity": 15,
+    "ja": "\n悲ｼｲｵ知ﾗｾﾃﾞｽ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2753E",
+    "capacity": 15,
+    "ja": "ｶﾞ\nｵ亡ｸﾅﾘﾆﾅﾘﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2773E",
+    "capacity": 15,
+    "ja": "』\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2774E",
+    "capacity": 10,
+    "ja": "\u001bHｵ名前ﾊ『",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2778C",
+    "capacity": 9,
+    "ja": "』ﾄ決ﾒﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27796",
+    "capacity": 16,
+    "ja": "ｵ名前ﾊ占ｲ師ｶﾞ\n『",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277A8",
+    "capacity": 18,
+    "ja": "』ﾄﾊ\nﾖｲｵ名前ﾃﾞｽﾅ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277C0",
+    "capacity": 13,
+    "ja": "様ｶﾞｵ亡ｸﾅﾘﾆ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277CE",
+    "capacity": 9,
+    "ja": "子出産後\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277E0",
+    "capacity": 13,
+    "ja": "様ｶﾞ出産ｻﾚﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277EE",
+    "capacity": 4,
+    "ja": "子ｦ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277FC",
+    "capacity": 5,
+    "ja": "ﾒﾃﾞﾀｸ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27850",
+    "capacity": 10,
+    "ja": "ｶﾞ伝ｴﾃｷﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2785C",
+    "capacity": 10,
+    "ja": "同盟終了ｦ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278AA",
+    "capacity": 17,
+    "ja": "ﾉ\n後任ｦｵ決ﾒﾆﾅﾘﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278BE",
+    "capacity": 5,
+    "ja": "将軍ﾉ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278C4",
+    "capacity": 13,
+    "ja": "様ｶﾞ亡ｸﾅﾗﾚﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278D6",
+    "capacity": 14,
+    "ja": "ｶﾞ\n死ﾝﾃﾞｼﾏｯﾀ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278E6",
+    "capacity": 9,
+    "ja": "政治顧問ﾉ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278F0",
+    "capacity": 13,
+    "ja": "ｶﾞ死ﾝﾀﾞﾓﾖｳﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27902",
+    "capacity": 18,
+    "ja": "様ｶﾞ\nｵ亡ｸﾅﾘﾆﾅﾗﾚﾀ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27916",
+    "capacity": 4,
+    "ja": "ｵ子ﾉ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2793E",
+    "capacity": 4,
+    "ja": "ｵ后ﾉ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27978",
+    "capacity": 12,
+    "ja": "ﾉ病ｶﾞ治ﾗﾚﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27988",
+    "capacity": 4,
+    "ja": "疫病",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2798E",
+    "capacity": 5,
+    "ja": "干ﾊﾞﾂ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27994",
+    "capacity": 4,
+    "ja": "台風",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2799A",
+    "capacity": 4,
+    "ja": "寒波",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279A0",
+    "capacity": 4,
+    "ja": "砂嵐",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279A6",
+    "capacity": 8,
+    "ja": " 疫  病 ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279B0",
+    "capacity": 9,
+    "ja": " 干  ﾊﾞﾂ ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279BA",
+    "capacity": 8,
+    "ja": " 台  風 ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279C4",
+    "capacity": 8,
+    "ja": " 寒  波 ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279CE",
+    "capacity": 8,
+    "ja": " 砂  嵐 ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279F0",
+    "capacity": 16,
+    "ja": "\u001bCFﾉ被害ｶﾞ出ﾃｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A02",
+    "capacity": 18,
+    "ja": "大変ﾃﾞｽ\n我ｶﾞ国ﾆ\u001bC1",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A16",
+    "capacity": 11,
+    "ja": "我ｶﾞ国ﾆ\n\u001bC2",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A22",
+    "capacity": 8,
+    "ja": "ﾔﾗﾚﾀﾖｳﾀﾞ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A2C",
+    "capacity": 9,
+    "ja": "ﾔﾗﾚﾀﾖｳﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A36",
+    "capacity": 10,
+    "ja": "病ﾆ倒ﾗﾚﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A52",
+    "capacity": 5,
+    "ja": "ﾄﾞｳﾔﾗ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A88",
+    "capacity": 35,
+    "ja": "ｵ喜ﾋﾞ下ｻｲ\n今季ﾊ\u001bC2大豊作\u001bCFﾆｺﾞｻﾞｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27AC4",
+    "capacity": 8,
+    "ja": " 豊  作 ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27BB0",
+    "capacity": 19,
+    "ja": "様\n人望ｦﾏｽﾏｽ高ﾒﾏｼﾀﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27BC4",
+    "capacity": 5,
+    "ja": "ｻｽｶﾞﾊ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27C58",
+    "capacity": 103,
+    "ja": " ｼｶｼ､日本ﾊ統一ｻﾚﾙﾉｶﾞ余ﾘﾆﾓ\n遅ｽｷﾞﾀ…\n 強大ﾅ力ｦ蓄ｴﾀ諸外国ｦ前ﾆ､\nｺﾉ極東ﾉ小国ﾊ属国ﾄｼﾃ生ｷﾙ\nﾎｶ選ﾌﾞ道ﾊ､ﾅｶｯﾀﾉﾃﾞｱﾙ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27CC0",
+    "capacity": 110,
+    "ja": " ｼｶｼ､\u001bKﾓﾝｺﾞﾙ高原\u001bHﾉ統一ﾊ余ﾘﾆﾓ\n遅ｽｷﾞﾀ…\n 強大ﾅ力ｦ蓄ｴﾀ諸外国ｦ前ﾆｼ､\nｺﾉ新興国家ﾊ属国ﾄｼﾃ生ｷ残ﾙ\n道ｦ選ﾌﾞﾎｶﾊ､ﾅｶｯﾀﾉﾃﾞｱﾙ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27D30",
+    "capacity": 13,
+    "ja": "\u001bKﾁﾝｷﾞｽ･ﾊ-ﾝ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27D3E",
+    "capacity": 82,
+    "ja": " 全\u001bKﾓﾝｺﾞﾙ\u001bHｦ統治ｽﾙ\u001bKﾊ-ﾝ(大汗)\u001bHﾆ\n推戴ｻﾚﾀ\u001bKﾃﾑｼﾞﾝ\u001bHﾆ､\u001bK｢ﾁﾝｷﾞｽ･ﾊ-ﾝ｣\u001bHﾉ\n称号ｶﾞ奉ｼﾞﾗﾚﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27D92",
+    "capacity": 29,
+    "ja": "天下ｦ夢見ﾀ男ｶﾞ､ﾏﾀ一人､消ｴﾀ…｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DB0",
+    "capacity": 18,
+    "ja": "神ﾊ､彼ｦ見捨ﾃﾀﾉｶ…､",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DC4",
+    "capacity": 27,
+    "ja": "歴史ﾉ奔流ﾉ前ﾆｱｴﾅｸ散ｯﾀﾉﾃﾞｱﾙ｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DE0",
+    "capacity": 23,
+    "ja": "乱世ｦ憂ｲ､立ﾁｱｶﾞｯﾀ英雄ﾓ､",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DF8",
+    "capacity": 22,
+    "ja": "一人ﾉ男ﾉ生涯ﾊ幕ｦ閉ｼﾞﾀ｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E10",
+    "capacity": 23,
+    "ja": "己ﾚﾉ信ｽﾞﾙ道ｦ行ｷ､燃ｴ尽ｷﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E28",
+    "capacity": 20,
+    "ja": "次代ﾍﾉ礎ﾄﾅｯﾀﾉﾃﾞｱﾙ…｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E3E",
+    "capacity": 16,
+    "ja": "ﾀﾞｶﾞ､彼ﾉ流ｼﾀ血ﾊ､",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E50",
+    "capacity": 17,
+    "ja": "変ｴﾙｺﾄﾊﾃﾞｷﾅｶｯﾀ…｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E62",
+    "capacity": 13,
+    "ja": "ﾓﾏﾀ､時代ﾉ流ﾚｦ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E70",
+    "capacity": 17,
+    "ja": "ｦ必要ﾄｼﾅｶｯﾀﾉﾃﾞｱﾙ｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E82",
+    "capacity": 6,
+    "ja": "時代ﾊ､",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E8A",
+    "capacity": 4,
+    "ja": "死ｽ｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27F38",
+    "capacity": 16,
+    "ja": "主ﾆ何ﾆ投資ｻｾﾏｽｶ ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27FD4",
+    "capacity": 4,
+    "ja": "特産",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27FDA",
+    "capacity": 4,
+    "ja": "畜産",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27FE0",
+    "capacity": 4,
+    "ja": "農産",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28030",
+    "capacity": 4,
+    "ja": "外交",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28036",
+    "capacity": 4,
+    "ja": "輸送",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2803C",
+    "capacity": 4,
+    "ja": "移動",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28042",
+    "capacity": 4,
+    "ja": "遠征",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28048",
+    "capacity": 15,
+    "ja": "ﾉ指示ｦ\nﾅｻﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28058",
+    "capacity": 6,
+    "ja": "ﾄﾞﾉ国ﾆ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28060",
+    "capacity": 4,
+    "ja": "部隊",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28066",
+    "capacity": 4,
+    "ja": "食糧",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28070",
+    "capacity": 6,
+    "ja": "移動量",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28078",
+    "capacity": 22,
+    "ja": "ﾉ輸送ｦ\nﾄﾞﾚﾀﾞｹｵ望ﾐﾃﾞｽｶﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28090",
+    "capacity": 12,
+    "ja": "ﾊ\nﾓｳｲｯﾊﾟｲﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2809E",
+    "capacity": 5,
+    "ja": "ｿﾉ国ﾉ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "280B8",
+    "capacity": 8,
+    "ja": "ｶﾞ\nｱﾘﾏｾﾇ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "280C2",
+    "capacity": 6,
+    "ja": "ｿﾉ国ﾆﾊ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "281C6",
+    "capacity": 10,
+    "ja": "ﾉ領主ﾆｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "281D2",
+    "capacity": 4,
+    "ja": "殿ｦ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "281D8",
+    "capacity": 4,
+    "ja": "任命",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2822E",
+    "capacity": 17,
+    "ja": "様\nｵ変ﾜﾘｺﾞｻﾞｲﾏｾﾇｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2825C",
+    "capacity": 10,
+    "ja": "ﾉ顧問ﾆｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28268",
+    "capacity": 4,
+    "ja": "殿ｦ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2826E",
+    "capacity": 4,
+    "ja": "任命",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28274",
+    "capacity": 12,
+    "ja": "将軍ﾆ降格ｼﾃ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28344",
+    "capacity": 12,
+    "ja": "本当ﾆ降格ｼﾃ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28352",
+    "capacity": 4,
+    "ja": "降格",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "283E0",
+    "capacity": 16,
+    "ja": "ﾖ､\nｺﾚﾖﾘ父ﾉ役ﾆ立ﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "283F2",
+    "capacity": 19,
+    "ja": "ﾖ､\n姫ﾉ事ﾖﾛｼｸ頼ﾝﾀﾞｿﾞ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28406",
+    "capacity": 21,
+    "ja": "ﾖ､ｺﾚﾃﾞ\nｿﾅﾀﾓﾜｼﾉ一族ｼﾞｬ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28476",
+    "capacity": 16,
+    "ja": "様ﾉｺﾄｦ\n想ｯﾃｵﾘﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28488",
+    "capacity": 4,
+    "ja": "秘ｶﾆ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2848E",
+    "capacity": 13,
+    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2849C",
+    "capacity": 4,
+    "ja": "婚姻",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284AE",
+    "capacity": 5,
+    "ja": "ｵ美ｼｲ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284B4",
+    "capacity": 5,
+    "ja": "利発ﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284BA",
+    "capacity": 7,
+    "ja": "気丈夫ﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284C2",
+    "capacity": 7,
+    "ja": "見識ﾉｱﾙ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284CA",
+    "capacity": 5,
+    "ja": "方ﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284D0",
+    "capacity": 8,
+    "ja": "様ﾊ\nﾀｲｿｳ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284DA",
+    "capacity": 10,
+    "ja": "強引ﾆ口説ｸ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284E6",
+    "capacity": 11,
+    "ja": "大ﾗｶﾆ愛ｦ語ﾙ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284F2",
+    "capacity": 10,
+    "ja": "優ｼｸ愛ｦ語ﾙ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284FE",
+    "capacity": 10,
+    "ja": "ｼﾞｯﾄ目ｦ見ﾙ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2850A",
+    "capacity": 12,
+    "ja": "\nﾉｶﾞﾖﾛｼｲｶﾄ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28518",
+    "capacity": 3,
+    "ja": "ｺｺﾊ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28526",
+    "capacity": 36,
+    "ja": "来ﾇ人ｦﾏﾂﾎﾉ浦ﾉ夕ﾅｷﾞﾆ\n焼ﾔﾓｼﾎﾉ身ﾓｺｶﾞﾚﾂﾂ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2854C",
+    "capacity": 20,
+    "ja": "今夜ﾊｵ后様ﾄ\nｵ過ｺﾞｼﾆﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28562",
+    "capacity": 20,
+    "ja": "姫様ｦ将軍ﾉ誰ｶﾆ\n嫁ｶﾞｾ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28578",
+    "capacity": 21,
+    "ja": "ｺﾞ子息様ｦ将軍ﾆ\nｵ立ﾃﾅｻ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2858E",
+    "capacity": 15,
+    "ja": "将軍ﾉ人事ｦ\n行ﾜﾚ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2859E",
+    "capacity": 17,
+    "ja": "政治顧問ﾉ\n人事ｦﾅｻ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "285B0",
+    "capacity": 17,
+    "ja": "属国ﾉ領主ｦ\n任命ﾅｻ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "285C2",
+    "capacity": 6,
+    "ja": "ﾙﾉﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28670",
+    "capacity": 6,
+    "ja": "部隊数",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "286A6",
+    "capacity": 6,
+    "ja": "輸送量",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "286AE",
+    "capacity": 12,
+    "ja": "輸送ｦ実行ｼﾃ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2875E",
+    "capacity": 6,
+    "ja": "雇用数",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28766",
+    "capacity": 7,
+    "ja": "必要ﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2876E",
+    "capacity": 14,
+    "ja": "ﾊ1部隊ﾆﾂｷ\n金ｶﾞ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2877E",
+    "capacity": 6,
+    "ja": "解雇数",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28786",
+    "capacity": 4,
+    "ja": "減ﾗｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2878C",
+    "capacity": 10,
+    "ja": "自ﾗ訓練ﾅｻﾙ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28798",
+    "capacity": 4,
+    "ja": "増ﾔｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2880E",
+    "capacity": 5,
+    "ja": "ﾉﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28814",
+    "capacity": 11,
+    "ja": "本国ﾉ部隊ｦ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28820",
+    "capacity": 10,
+    "ja": "ｦ\nﾅｻﾙﾉﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2882C",
+    "capacity": 6,
+    "ja": "他国ﾍﾉ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28850",
+    "capacity": 6,
+    "ja": "特産品",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28858",
+    "capacity": 4,
+    "ja": "食糧",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28862",
+    "capacity": 4,
+    "ja": "数量",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28868",
+    "capacity": 14,
+    "ja": "ｦ\nｲｸﾗ施ｼﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28878",
+    "capacity": 3,
+    "ja": "民ﾆ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2887C",
+    "capacity": 10,
+    "ja": "ｶﾞ\nｱﾘﾏｾﾇ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28888",
+    "capacity": 3,
+    "ja": "施ｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "288A8",
+    "capacity": 4,
+    "ja": "金額",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2894C",
+    "capacity": 6,
+    "ja": "ﾃﾞｽｶﾞ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28958",
+    "capacity": 4,
+    "ja": "数量",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2897A",
+    "capacity": 15,
+    "ja": "ﾃﾞｽ\nｲｸﾗｵ売ﾘﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2898C",
+    "capacity": 3,
+    "ja": "ﾊ金",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "289F0",
+    "capacity": 6,
+    "ja": "ﾃﾞｽｶﾞ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "289FC",
+    "capacity": 4,
+    "ja": "数量",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A02",
+    "capacity": 15,
+    "ja": "ﾃﾞｽ\nｲｸﾗｵ買ｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A14",
+    "capacity": 3,
+    "ja": "ﾊ金",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A28",
+    "capacity": 20,
+    "ja": "ｦ何部隊\nｵ雇ｲﾆﾅﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A8A",
+    "capacity": 6,
+    "ja": "雇用数",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A92",
+    "capacity": 7,
+    "ja": "必要ﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A9A",
+    "capacity": 13,
+    "ja": "1部隊ﾆﾂｷ\n金ｶﾞ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28B68",
+    "capacity": 11,
+    "ja": "将軍ﾊ\nｵﾘﾏｾﾝ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C24",
+    "capacity": 9,
+    "ja": "他国ﾉ様子",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C38",
+    "capacity": 6,
+    "ja": "ﾙﾉﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C40",
+    "capacity": 8,
+    "ja": "ｦ\n一覧ﾅｻ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C4A",
+    "capacity": 8,
+    "ja": "ｦ\nｺﾞ覧ﾆﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28CC2",
+    "capacity": 16,
+    "ja": "ﾉ使者ﾊ\n誰ﾆﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28CD4",
+    "capacity": 18,
+    "ja": "ﾊ\n我ﾗｶﾞ傘下ﾆ下ﾘﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28CF6",
+    "capacity": 11,
+    "ja": "ｦ送ｯﾃ参ﾘﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D02",
+    "capacity": 4,
+    "ja": "ﾊ\n金",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D08",
+    "capacity": 9,
+    "ja": "脅迫ﾆ対ｼ､",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D12",
+    "capacity": 22,
+    "ja": "ﾊ我ﾗﾉ脅迫ｦ\n全ｸ無視ｼﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D2A",
+    "capacity": 11,
+    "ja": "ｦ送ｯﾃ参ﾘﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D36",
+    "capacity": 4,
+    "ja": "ﾊ\n金",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D3C",
+    "capacity": 9,
+    "ja": "要求ｦ受ｹ､",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D46",
+    "capacity": 23,
+    "ja": "ﾊ貢物ﾉ要求ｦ\n全ｸ無視ｼﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D5E",
+    "capacity": 19,
+    "ja": "ﾊ\n同盟ﾉ延長ｦﾊﾈﾂｹﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D72",
+    "capacity": 22,
+    "ja": "ﾄﾉ\n同盟期間ｶﾞ延長ｻﾚﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D8A",
+    "capacity": 18,
+    "ja": "ﾄﾉ\n同盟ｶﾞ締結ｻﾚﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D9E",
+    "capacity": 19,
+    "ja": "ﾊ\n同盟ﾉ要求ｦﾊﾈﾂｹﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28DBC",
+    "capacity": 23,
+    "ja": "万国ﾆ英名響ｶｽ我ﾗｶﾞ君主\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28DD4",
+    "capacity": 23,
+    "ja": "天下ﾆ武名聞ｺﾕﾙ我ｶﾞ主君\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28DEC",
+    "capacity": 23,
+    "ja": "草原ﾆ勇名馳ｾﾙ我ﾗｶﾞ族長\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28F16",
+    "capacity": 24,
+    "ja": "ｵ国ﾉ大事ｦ決ﾒﾙﾉﾊ､私ﾃﾞﾊﾅｸ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28F30",
+    "capacity": 40,
+    "ja": "様ﾓｵ人ｶﾞ悪ｲ…\n私ﾉ考ｴﾊｱﾅﾀ様ﾄ同ｼﾞﾃﾞｺﾞｻﾞｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28F5A",
+    "capacity": 11,
+    "ja": "様ﾃﾞｺﾞｻﾞｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28F72",
+    "capacity": 13,
+    "ja": "降伏ｼﾃ属国ﾄﾅﾙ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28F80",
+    "capacity": 15,
+    "ja": "本国ﾉ金半分ｦﾀﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28FF8",
+    "capacity": 15,
+    "ja": "ﾉ使者ｶﾞ参ﾘﾏｼﾀｿﾞ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2904E",
+    "capacity": 10,
+    "ja": "様ﾆ降伏ｻﾚﾖ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2906C",
+    "capacity": 15,
+    "ja": "脅迫ﾉ使者ｦ送ｯﾃ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2907C",
+    "capacity": 4,
+    "ja": "脅迫",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29082",
+    "capacity": 19,
+    "ja": "世界ﾆ冠ﾀﾙ我ﾗｶﾞ君主\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29096",
+    "capacity": 21,
+    "ja": "武門ﾉ誉ﾚ高ｷ我ﾗｶﾞ主君\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "290AC",
+    "capacity": 23,
+    "ja": "天帝ﾉ覚ｴﾒﾃﾞﾀｷ我ﾗｶﾞ族長\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29280",
+    "capacity": 13,
+    "ja": "様ﾆ貢物ｦ贈ﾗﾚﾖ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292A6",
+    "capacity": 19,
+    "ja": "貢物要求ﾉ使者ｦ\n送ｯﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292C4",
+    "capacity": 19,
+    "ja": "年ﾉ同盟延長ｦｵ望ﾐﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292D8",
+    "capacity": 12,
+    "ja": "様ﾊ両国ﾉﾀﾒ､\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292E6",
+    "capacity": 17,
+    "ja": "年間ﾉ同盟ｦｵ望ﾐﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292F8",
+    "capacity": 15,
+    "ja": "様ﾊ栄光ｱﾙ\n貴国ﾄ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29510",
+    "capacity": 15,
+    "ja": "同盟ﾉ使者ｦ送ｯﾃ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29520",
+    "capacity": 4,
+    "ja": "同盟",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29526",
+    "capacity": 4,
+    "ja": "年数",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "295FE",
+    "capacity": 4,
+    "ja": "遠征",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2962A",
+    "capacity": 4,
+    "ja": "脅迫",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29630",
+    "capacity": 23,
+    "ja": "住民ｶﾗ金ｦ徴税ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29648",
+    "capacity": 24,
+    "ja": "本国ﾉ部隊ｦ解雇ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29662",
+    "capacity": 24,
+    "ja": "本国ﾉ部隊ｦ訓練ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2967C",
+    "capacity": 19,
+    "ja": "武具ｦ購入ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29690",
+    "capacity": 22,
+    "ja": "住民ﾉ再配分ｦｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296A8",
+    "capacity": 7,
+    "ja": "\n売却ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296B2",
+    "capacity": 14,
+    "ja": "購入ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296C2",
+    "capacity": 5,
+    "ja": "食糧ｦ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296C8",
+    "capacity": 7,
+    "ja": "兵ｦ雇用",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296D0",
+    "capacity": 4,
+    "ja": "徴兵",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296D6",
+    "capacity": 10,
+    "ja": "ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296E2",
+    "capacity": 8,
+    "ja": "住民ﾆ金ｦ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296EC",
+    "capacity": 10,
+    "ja": "住民ﾆ食糧ｦ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296F8",
+    "capacity": 6,
+    "ja": "城防御",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29700",
+    "capacity": 4,
+    "ja": "農業",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29706",
+    "capacity": 4,
+    "ja": "商業",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2970C",
+    "capacity": 15,
+    "ja": "ﾆ投資ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2971C",
+    "capacity": 12,
+    "ja": "ﾍ\n部隊ｦ行ｶｾﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2972A",
+    "capacity": 14,
+    "ja": "ﾍ金･\n食糧ｦ送ｯﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2973A",
+    "capacity": 4,
+    "ja": "脅迫",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29740",
+    "capacity": 9,
+    "ja": "貢物ｦ要求",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2974A",
+    "capacity": 16,
+    "ja": "年間ﾉ\n同盟ｦ結ﾝﾃﾞ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29774",
+    "capacity": 18,
+    "ja": "ｦ\n軍団司令官ﾆｲﾀｼﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29788",
+    "capacity": 13,
+    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29796",
+    "capacity": 11,
+    "ja": "軍団ｦ任ｾﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "297A2",
+    "capacity": 11,
+    "ja": "ﾄﾞﾉ将軍ﾆ\n第",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "297E0",
+    "capacity": 23,
+    "ja": "ﾃﾞ､軍ﾉ\n補給率ﾊ最大ﾆﾅﾘﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "297F8",
+    "capacity": 4,
+    "ja": "食糧",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29816",
+    "capacity": 12,
+    "ja": "遠征ｦ開始ｼﾃ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29840",
+    "capacity": 17,
+    "ja": "ﾃﾞ\n内乱ｶﾞ発生ｼﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2985C",
+    "capacity": 12,
+    "ja": "ﾆ\n攻ﾒ込ﾐﾏｼﾀ!",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2986E",
+    "capacity": 14,
+    "ja": "ｶﾞ攻ﾒ込ﾝﾃﾞｷﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29894",
+    "capacity": 17,
+    "ja": "ﾍﾉ\n遠征ｦｵ許ｼ願ｲﾀｲ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298A6",
+    "capacity": 7,
+    "ja": "\nｺﾉ私ﾒﾆ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298AE",
+    "capacity": 10,
+    "ja": "ﾊ\n戦死ｼﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298BA",
+    "capacity": 13,
+    "ja": "ﾉ軍ﾊ\n全滅ｼﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298C8",
+    "capacity": 16,
+    "ja": "ﾉ領主ｦ\n誰ﾆｲﾀｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298DA",
+    "capacity": 10,
+    "ja": "ｦ抜擢ｲﾀｼﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298E6",
+    "capacity": 9,
+    "ja": "ﾉ領主ﾄｼﾃ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29926",
+    "capacity": 11,
+    "ja": "ｶﾞ\n勝利ｼﾏｼﾀ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2997A",
+    "capacity": 6,
+    "ja": "内乱軍",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "299FE",
+    "capacity": 17,
+    "ja": "様ｦ\n后ﾆｵ迎ｴｲﾀｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29A10",
+    "capacity": 8,
+    "ja": "ｺﾉ国ﾉ姫､",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29A2E",
+    "capacity": 22,
+    "ja": "ｶﾞ\nﾄﾞﾝﾅ男ﾅﾉｶ見定ﾒﾃﾔﾙﾜ!",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29A4E",
+    "capacity": 5,
+    "ja": "逃ｶﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  }
+]

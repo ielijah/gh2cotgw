@@ -1,0 +1,943 @@
+{
+  "entries": [
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4AF6C",
+      "ja": "我ｶﾞ国ﾆ商人ｶﾞ\n来ﾃｲﾙﾖｳﾃﾞｽ",
+      "ru": "К нам прибыли купцы.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4AF86",
+      "ja": "ｺﾞ自分ﾃﾞ命令ｦ\n実行ﾅｻｲﾏｽｶ",
+      "ru": "Прикажете лично?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4B6D0",
+      "ja": "ﾄﾞｺｦ\n本国ﾆｼﾏｽｶ",
+      "ru": "Где столица?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4B9EA",
+      "ja": "ｿﾉ国ﾊ他勢力ﾉ\n支配下ﾆｱﾘﾏｽ",
+      "ru": "Это чужая земля.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4BF7B",
+      "ja": "\nｵ子ﾉ名前ﾊｺﾞ自分ﾃﾞ\nｵﾂｹﾆﾅﾘﾏｽｶ",
+      "ru": "Сами назовёте\nребёнка?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4BF98",
+      "ja": "子ﾉ名ﾊ親ｶﾞﾂｹﾙﾉｶﾞ\n一番ﾃﾞｺﾞｻﾞｲﾏｽﾄﾓ!",
+      "ru": "Имя ребёнку\nдадут родители!",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C4B2",
+      "ja": "国政ﾉ委任ｦ\nｵ止ﾒﾆﾅﾙﾉﾃﾞｽﾅ",
+      "ru": "Отменить\nпоручение?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C4EA",
+      "ja": "ﾄﾞﾉ国ﾆ命令書ｦ\nｵ出ｼﾅｻｲﾏｽｶ",
+      "ru": "Куда послать приказ?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C51A",
+      "ja": "住民ﾉ配分ｦｲｶﾖｳﾆ\n変更ﾅｻﾙﾉﾃﾞｽｶﾅ",
+      "ru": "Как распределить\nжителей?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C5D8",
+      "ja": "ｺﾞ覧ﾉ命令書ﾆ\n何ｶｺﾞ不満ﾊｱﾘﾏｽｶ",
+      "ru": "Чем плох этот приказ?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C5F6",
+      "ja": "ﾄﾞﾉ国ｦ\n委任ﾅｻﾙﾉﾃﾞｽｶﾅ",
+      "ru": "Какую землю вверить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C60C",
+      "ja": "ｽﾃﾞﾆ私ﾒﾆ\n委任ｻﾚﾃｵﾘﾏｽｶﾞ…",
+      "ru": "Уже поручено мне.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C63A",
+      "ja": "私ﾒﾆ全ﾃｦ\nｵ任ｾ頂ｹﾙﾉﾃﾞｽﾅ",
+      "ru": "Поручите всё мне?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C6B4",
+      "ja": "ｿﾉ国ﾊｽﾃﾞﾆ\n命令ｶﾞ終了ｼﾃｲﾏｽ",
+      "ru": "Приказы уже выполнены.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C6E0",
+      "ja": "遠征先ﾊﾄﾞｺﾃﾞ\nｺﾞｻﾞｲﾏｽｶ",
+      "ru": "Куда идём в поход?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C720",
+      "ja": "ﾄﾞﾉ国ﾆ\n移動ｻｾﾙﾉﾃﾞｽｶ",
+      "ru": "Куда переместить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C74E",
+      "ja": "ｿﾉ国ﾉ部隊ﾊ\nｽﾃﾞﾆ一杯ﾃﾞｽ",
+      "ru": "Войск уже достаточно.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C77E",
+      "ja": "部隊ﾉ移動ｦ\nﾄﾞﾚﾀﾞｹｵ望ﾐﾃﾞｽｶﾅ",
+      "ru": "Сколько войск\nпослать?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C7AA",
+      "ja": "ﾄﾞﾉ国ﾆ\n輸送ｻｾﾙﾉﾃﾞｽｶ",
+      "ru": "Куда отправить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C80E",
+      "ja": "ﾄﾞﾉ国ﾆ使者ｦ\n送ﾗｾﾏｽｶ",
+      "ru": "Куда слать посла?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C8E4",
+      "ja": "誰ｦ領主ﾆ\n任命ﾅｻﾙﾉﾃﾞｽｶﾅ",
+      "ru": "Кто будет наместник?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C95C",
+      "ja": "誰ｦ政治顧問ﾆ\n任命ﾅｻﾙﾉﾃﾞｽｶﾅ",
+      "ru": "Кто будет советник?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C978",
+      "ja": "ﾄﾞﾉ国ﾉ政治顧問ｦ\n降格ﾅｻﾙﾉﾃﾞｽｶ",
+      "ru": "Чьего советника\nпонизить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CA04",
+      "ja": "ﾄﾞﾉ将軍ｦ\n降格ﾅｻﾙﾉﾃﾞｽｶ",
+      "ru": "Кого понизить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CA60",
+      "ja": "ﾄﾞﾉｺﾞ子息様ｦ\n将軍ﾆﾅｻﾚﾏｽｶ",
+      "ru": "Какого сына\nназначить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CACA",
+      "ja": "ﾄﾞﾅﾀ様ｦｵ嫁ﾆ\n出ｻﾚﾙﾉﾃﾞｽｶ",
+      "ru": "Кого выдать замуж?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CAF4",
+      "ja": "ﾄﾞﾉ将軍ﾆ\n嫁ｶﾞｾﾙﾉﾃﾞｽｶ",
+      "ru": "Кому отдать в жёны?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CB70",
+      "ja": "ﾄﾞﾅﾀ様ﾉﾓﾄﾆ\n参ﾗﾚﾏｽｶ",
+      "ru": "К кому пойдёте?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CC70",
+      "ja": "ﾄﾞﾉ国ﾍ\n移動ﾅｻｲﾏｽｶ",
+      "ru": "Куда пойдёте?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CC82",
+      "ja": "私ﾒﾓｺﾞ同行ｻｾﾃ\nｲﾀﾀﾞｹﾏｽｶ",
+      "ru": "Можно мне с вами?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CC9A",
+      "ja": "ﾄﾞﾉ国ﾍ\n移動ｻｾﾙﾉﾃﾞｽｶ",
+      "ru": "Куда отправить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CCD4",
+      "ja": "ﾄﾞﾉ部隊ｦ\n移動ｻｾﾏｽｶ           ",
+      "ru": "Какие войска\nпереместить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CCF2",
+      "ja": "部隊ｦﾄﾞﾚﾀﾞｹ\n移動ｻｾﾙﾉﾃﾞｽｶﾅ",
+      "ru": "Сколько войск\nпослать?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CD40",
+      "ja": "ｿﾉ国ﾉ国庫ﾊ\nﾓｳｲｯﾊﾟｲﾃﾞｽ",
+      "ru": "Казна уже полна.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CDEE",
+      "ja": "ﾄﾞﾉ部隊ｦ\n解雇ﾅｻｲﾏｽｶ          ",
+      "ru": "Какие войска\nуволить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CE0C",
+      "ja": "ﾄﾞﾚﾀﾞｹ\n解雇ﾅｻｲﾏｽｶ",
+      "ru": "Сколько уволить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CF14",
+      "ja": "民ﾊ困窮ｼﾃｵﾘﾏｽ\n何ﾓ徴収ﾃﾞｷﾏｾﾇ…",
+      "ru": "Народ беден.\nНечего взыскать.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D43E",
+      "ja": "ｿﾚﾃﾞﾊﾄﾞﾉ将軍ﾆ\n指揮権ｦ委ﾈﾏｽｶ",
+      "ru": "Кому доверить\nвойско?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D48C",
+      "ja": "金ｦﾄﾞﾚﾀﾞｹ\n持ﾀｾﾏｽｶﾅ",
+      "ru": "Сколько золота?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D4B0",
+      "ja": "自ﾗ軍ﾉ総指揮ｦ\nﾅｻｲﾏｽｶ",
+      "ru": "Возглавите армию?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D4C6",
+      "ja": "軍団ｦｺﾞ自分ﾃﾞ\n編成ﾅｻｲﾏｽｶ",
+      "ru": "Сами создадите\nлегионы?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D4EA",
+      "ja": "遠征ｦ\n中止ﾅｻﾙﾉﾃﾞｽｶ",
+      "ru": "Отменить поход?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D528",
+      "ja": "遠征軍ﾆ何部隊\n編成ｲﾀｼﾏｽｶ",
+      "ru": "Сколько войск\nв поход?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4AFA0",
+      "ja": "ｿﾚﾃﾞﾊ私ﾒﾆ\nｵ任ｾｸﾀﾞｻｲ",
+      "ru": "Доверьтесь мне.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4B6B2",
+      "ja": "ｲｯﾀｲﾄﾞﾅﾀｶﾞ跡目ｦ\nｵ継ｷﾞﾆﾅﾗﾚﾙﾉｶ",
+      "ru": "Кто станет\nнаследником?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C476",
+      "ja": "作成ｼﾀ命令書ﾆ\n間違ｲﾊｺﾞｻﾞｲﾏｾﾝﾅ",
+      "ru": "Приказ составлен\nверно?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C494",
+      "ja": "修正ｼﾀ命令書ﾆ\n間違ｲﾊｺﾞｻﾞｲﾏｾﾝﾅ",
+      "ru": "Приказ исправлен\nверно?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C4CA",
+      "ja": "政治顧問ﾉｲﾅｲ国ﾊ\n投資ﾊ実行ﾃﾞｷﾏｾﾝ",
+      "ru": "Без советника\nнет вложений.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C504",
+      "ja": "住民ﾉ配分ｦ\nｵ決ﾒｸﾀﾞｻｲ",
+      "ru": "Назначьте работы.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C574",
+      "ja": "ｺﾉ国ﾍﾊ命令書ﾊ\n出ｻﾚﾃｵﾘﾏｾﾇ…",
+      "ru": "Приказ ещё не послан.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C590",
+      "ja": "ﾄﾞﾉ国ﾍﾉ命令書ｦ\n作成ｲﾀｼﾏｼｮｳ",
+      "ru": "Куда написать приказ?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C5AC",
+      "ja": "ｿﾚﾃﾞﾊ､\nｻﾗｻﾗｻﾗﾄ…",
+      "ru": "Сейчас запишу...",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C5BE",
+      "ja": "ﾃﾞｷｱｶﾞﾘﾏｼﾀ\nﾄﾞｳｿﾞｺﾞ覧ｸﾀﾞｻｲ",
+      "ru": "Готово.\nПрошу взглянуть.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C6F6",
+      "ja": "畏ﾚﾅｶﾞﾗｿﾉ国ﾆﾊ\n遠征ﾃﾞｷﾏｾﾇ",
+      "ru": "Туда нельзя в поход.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C734",
+      "ja": "畏ﾚﾅｶﾞﾗｿﾉ国ﾆﾊ\n移動ﾃﾞｷﾏｾﾇ",
+      "ru": "Туда не перейти.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C766",
+      "ja": "移動元ﾉ国ﾆﾊ\n部隊ｶﾞｱﾘﾏｾﾇ",
+      "ru": "Здесь нет войск.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C7BE",
+      "ja": "畏ﾚﾅｶﾞﾗｿﾉ国ﾆﾊ\n輸送ﾃﾞｷﾏｾﾇ",
+      "ru": "Туда не отправить.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C822",
+      "ja": "畏ﾚﾅｶﾞﾗｿﾉ国ﾆﾊ\n外交ﾃﾞｷﾏｾﾇ",
+      "ru": "Переговоры невозможны.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C8CC",
+      "ja": "本国ﾍﾊ領主ﾊ\n派遣ﾃﾞｷﾏｾﾇ",
+      "ru": "В столицу нельзя.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C912",
+      "ja": "ｺｺﾊ私ﾒｦ\n任命ｼﾃﾊ頂ｹﾏｾﾇｶ",
+      "ru": "Назначьте меня.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C996",
+      "ja": "王族ﾉ者ﾊ\n顧問ﾆﾊﾅﾚﾏｾﾇ",
+      "ru": "Родня не советники.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C9AC",
+      "ja": "ｿﾉ国ﾆ政治顧問ﾊ\nｵﾘﾏｾﾇ",
+      "ru": "Советника нет.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C9C2",
+      "ja": "将軍ﾊｺﾚ以上\n増ﾔｾﾏｾﾇ",
+      "ru": "Лимит полководцев.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CB0A",
+      "ja": "ｿﾉ将軍ﾄﾊ\n婚姻ﾃﾞｷﾏｾﾇ",
+      "ru": "Брак невозможен.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CB5A",
+      "ja": "ｿﾛｿﾛｵ相手ｦ\nｵ迎ｴﾅｻｲﾏｾ",
+      "ru": "Пора найти супругу.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CB84",
+      "ja": "ｵ疲ﾚ様ﾃﾞ\nｺﾞｻﾞｲﾏｼﾀ",
+      "ru": "Пора отдохнуть.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CC3C",
+      "ja": "他ﾉ国ｦ\n指定ｼﾃ下ｻｲ",
+      "ru": "Выберите другую.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CC4E",
+      "ja": "ｿﾉ国ﾄﾊ\n隣接ｼﾃｵﾘﾏｾﾝ",
+      "ru": "Нет общей границы.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CCAE",
+      "ja": "ｺﾚ以上ﾉ部隊ﾊ\n移動ﾃﾞｷﾏｾﾇ",
+      "ru": "Больше не перевести.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CCC6",
+      "ja": "金ｶﾞ\n足ﾘﾏｾﾇｿﾞ",
+      "ru": "Мало золота.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CD0C",
+      "ja": "ﾓｳｺﾚ以上ﾊ\n移動ﾃﾞｷﾏｾﾇｿﾞ",
+      "ru": "Больше не перевести.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CD70",
+      "ja": "移動ﾃﾞｷﾙ国ｶﾞ\nｺﾞｻﾞｲﾏｾﾝ…",
+      "ru": "Некуда переходить.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CD88",
+      "ja": "本国ﾆﾊ兵ｶﾞ一人ﾓ\nｵﾘﾏｾﾇｶﾞ…",
+      "ru": "В столице нет войск.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CDD6",
+      "ja": "残念ﾅｶﾞﾗ効果ﾊ\nｱﾘﾏｾﾝﾃﾞｼﾀ",
+      "ru": "Увы, без результата.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CEB4",
+      "ja": "住民ﾉ\u001bKﾓﾗﾙ\u001bHｶﾞ\n上昇ｼﾏｼﾀｿﾞ",
+      "ru": "Народ стал довольнее.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CECE",
+      "ja": "施ｼﾀ量ｶﾞ\n少ﾅｽｷﾞﾏｼﾀﾅ",
+      "ru": "Слишком мало дали.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CF58",
+      "ja": "商人ﾊ\n来ﾃｵﾘﾏｾﾇ",
+      "ru": "Купцов нет.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D008",
+      "ja": "売ﾚﾙﾓﾉｶﾞ何一ﾂ\nｺﾞｻﾞｲﾏｾﾝ…",
+      "ru": "Нечего продавать.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D022",
+      "ja": "国庫ﾉ金ﾊ少ｼﾓ\n残ｯﾃｵﾘﾏｾﾝ",
+      "ru": "Казна пуста.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D03A",
+      "ja": "ｺﾚ以上､部隊ﾉ数ﾊ\n増ﾔｾﾏｾﾝ",
+      "ru": "Войск уже достаточно.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D45A",
+      "ja": "ｺﾚ以上編成ｽﾙﾀﾒﾉ\n資金ｶﾞｱﾘﾏｾﾝ",
+      "ru": "Нет денег\nна новые легионы",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D476",
+      "ja": "我ｶﾞ国ﾉ部隊ﾊ\nﾓｳｵﾘﾏｾﾝ",
+      "ru": "Войск больше нет.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D4A0",
+      "ja": "余分ﾅ金ﾊ\nｱﾘﾏｾﾇ",
+      "ru": "Нет излишков.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D4FE",
+      "ja": "遠征ｦ行ｳﾆﾊ\n金ｶﾞ足ﾘﾏｾﾇ",
+      "ru": "Нет денег на поход.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D514",
+      "ja": "国ﾆ兵隊ｶﾞ\nｵﾘﾏｾﾇｶﾞ…",
+      "ru": "У нас нет войск.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D5C4",
+      "ja": "\u001bKﾗｯﾁ様\u001bHﾊ勝手ﾆ\n\u001bKｵﾙﾄﾞ\u001bHﾆ入ﾗﾚﾏｼﾀ",
+      "ru": "Лачи сама\nвошла в гарем.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C456",
+      "ja": "ﾏｽﾞ本国ﾉ政治顧問ｦ\n任命ｼﾃｸﾀﾞｻｲﾏｾ",
+      "ru": "Назначьте\nсоветника столице.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C558",
+      "ja": "ﾄﾞﾉ国ﾉ命令書ｦ\n修正ﾅｻﾙﾉﾃﾞｽｶﾅ",
+      "ru": "Чей приказ исправим?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C6A2",
+      "ja": "本国ﾆﾊ\n指示ﾃﾞｷﾏｾﾝ",
+      "ru": "Столице нельзя.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C7F0",
+      "ja": "脅迫ｻｾﾏｽｶｿﾚﾄﾓ\n貢物ｦ要求ｻｾﾏｽｶ",
+      "ru": "Угроза\nили дань?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C860",
+      "ja": "指示ｦ出ｾﾙ\n属国ｶﾞｱﾘﾏｾﾝ",
+      "ru": "Нет вассалов.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C890",
+      "ja": "属国ｶﾞﾋﾄﾂﾓ\nｱﾘﾏｾﾇｶﾞ…",
+      "ru": "Нет вассалов.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C8B2",
+      "ja": "ﾄﾞﾉ国ﾉ領主ｦ\n任命ﾅｻﾙﾉﾃﾞｽｶ",
+      "ru": "Где быть наместнику?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C93E",
+      "ja": "ﾄﾞﾉ国ﾉ政治顧問ｦ\n任命ﾅｻﾙﾉﾃﾞｽｶ",
+      "ru": "Куда назначить\nсоветника?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4C9F2",
+      "ja": "ｺﾉ者ｦ登用\nｲﾀｼﾏｽｶ",
+      "ru": "Нанять его?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CAB2",
+      "ja": "ｵ戯ﾚｦ… 姫様ﾊ\nｲﾗｯｼｬｲﾏｾﾝ",
+      "ru": "У вас нет дочерей.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CB42",
+      "ja": "今､ｵ后様ﾊ誰ﾓ\nｲﾗｯｼｬｲﾏｾﾝ",
+      "ru": "У вас нет супруг.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CD2C",
+      "ja": "ﾄﾞﾉ国ﾆ\n輸送ﾅｻﾙﾉﾃﾞｽｶ",
+      "ru": "Куда отправить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CDC2",
+      "ja": "訓練度ｶﾞ\n上昇ｼﾏｼﾀｿﾞ",
+      "ru": "Выучка возросла.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CE96",
+      "ja": "ﾄﾞﾉ特産品ｦ\n施ｼﾅｻｲﾏｽｶ        ",
+      "ru": "Что раздать народу?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CEFE",
+      "ja": "住民ﾊ一人ﾓ\nｵﾘﾏｾﾇｶﾞ…",
+      "ru": "Жителей нет.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CFE8",
+      "ja": "残念ﾅｶﾞﾗｺﾉ国ﾆﾊ\n交易商人ｶﾞｵﾘﾏｾﾇ",
+      "ru": "В этой земле\nнет торговца.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    }
+  ],
+  "new_entries": 102,
+  "total_fields": 1756,
+  "paired_glyphs": 1108,
+  "checks": [
+    "build.py",
+    "verify.py",
+    "test_biographies.py",
+    "test_text_encoding.py"
+  ],
+  "emulator": {
+    "core": "Genesis Plus GX",
+    "cold_boot": true,
+    "verified_translated_screen": "dialogue-wave-market-final.png",
+    "route": "dialogue-wave-market-final-route.json",
+    "scope": "Проверено сообщение об отсутствии торговца. Остальные 101 запись проверены статически; полное прохождение событий не выполнялось.",
+    "additional_observation": "На экране кадров отдельная японская подсказка ещё остаётся: dialogue-wave-governor-final.png. Не заявляется проверкой нового русского вопроса назначения.",
+    "harem_regression_run": false
+  },
+  "source_boundaries": "16 строк извлечены непосредственно из ISO после трёхбайтовых служебных префиксов; префиксы сохранены. Составные фразы и форматные строки с неподдерживаемыми управляющими командами отложены.",
+  "iso_sha256": "3b3c79ed8321fa146488886b889d5d3e462f76d45486a1c103e6fab0881304ae",
+  "smd_built": false
+}

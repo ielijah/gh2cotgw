@@ -1,0 +1,114 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277FC",
+    "ja": "ﾒﾃﾞﾀｸ",
+    "ru": "Поздравляем!\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1201C",
+        "before": "000337fc"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277F4",
+    "ja": "男",
+    "ru": "Родился сын.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "12030",
+        "before": "000337f4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277F8",
+    "ja": "女",
+    "ru": "Родилась дочь.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "12028",
+        "before": "000337f8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277EE",
+    "ja": "子ｦ\n",
+    "ru": "\nМать: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "12038",
+        "before": "000337ee"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277D8",
+    "ja": "男",
+    "ru": "Родился сын.\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1205C",
+        "before": "000337d8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277DC",
+    "ja": "女",
+    "ru": "Родилась дочь.\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "12054",
+        "before": "000337dc"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277CE",
+    "ja": "子出産後\n",
+    "ru": "После родов\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "12064",
+        "before": "000337ce"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1434 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "270A4",
+    "ja": "様､",
+    "ru": ", ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "270E2",
+    "ja": "(香料)",
+    "ru": "(Прян)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27108",
+    "ja": "(木工品)",
+    "ru": "(Дерево)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27112",
+    "ja": "(医薬品)",
+    "ru": "(Лекар)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2711C",
+    "ja": "(貴金属)",
+    "ru": "(Метал)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27126",
+    "ja": "(宝石)",
+    "ru": "(Кам)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27134",
+    "ja": "(毛皮)",
+    "ru": "(Мех)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2714A",
+    "ja": "商人)",
+    "ru": "Купец)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "F640",
+        "before": "0003314a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27156",
+    "ja": "(従順)",
+    "ru": "(Пок)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2715E",
+    "ja": "(対等)",
+    "ru": "(Равн)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27166",
+    "ja": "(脅迫)",
+    "ru": "(Угр)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2716E",
+    "ja": "(侵略)",
+    "ru": "(Войн)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27238",
+    "ja": "(将軍)",
+    "ru": "(Воен)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2725C",
+    "ja": "(領主)",
+    "ru": "(Нам)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27288",
+    "ja": "(領主)",
+    "ru": "(Нам)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28048",
+    "ja": "ﾉ指示ｦ\nﾅｻﾙﾉﾃﾞｽｶ",
+    "ru": ":\nотдать приказ?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "16908",
+        "before": "00034048"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28058",
+    "ja": "ﾄﾞﾉ国ﾆ",
+    "ru": "Куда: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28078",
+    "ja": "ﾉ輸送ｦ\nﾄﾞﾚﾀﾞｹｵ望ﾐﾃﾞｽｶﾅ",
+    "ru": "\nСколько отправить?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2809E",
+    "ja": "ｿﾉ国ﾉ",
+    "ru": "В стране\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "16C68",
+        "before": "0003409e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284DA",
+    "ja": "強引ﾆ口説ｸ",
+    "ru": "Добиваться упорно",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4CBB2",
+        "before": "000344da"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284F2",
+    "ja": "優ｼｸ愛ｦ語ﾙ",
+    "ru": "Говорить нежно",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4CBAA",
+        "before": "000344f2"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2850A",
+    "ja": "\nﾉｶﾞﾖﾛｼｲｶﾄ…",
+    "ru": "\nТак будет лучше",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1835C",
+        "before": "0003450a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28518",
+    "ja": "ｺｺﾊ",
+    "ru": "Совет: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1833A",
+        "before": "00034518"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28766",
+    "ja": "必要ﾃﾞｽ",
+    "ru": " золота",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "19630",
+        "before": "00034766"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2876E",
+    "ja": "ﾊ1部隊ﾆﾂｷ\n金ｶﾞ",
+    "ru": "\nЦена за отряд: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "19618",
+        "before": "0003476e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2880E",
+    "ja": "ﾉﾃﾞｽﾅ",
+    "ru": "\nВерно?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "19A26",
+        "before": "0003480e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28814",
+    "ja": "本国ﾉ部隊ｦ\n",
+    "ru": "Войска столицы:\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "19A06",
+        "before": "00034814"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28820",
+    "ja": "ｦ\nﾅｻﾙﾉﾃﾞｽﾅ",
+    "ru": "\nВыполнить?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "199E8",
+        "before": "00034820"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2882C",
+    "ja": "他国ﾍﾉ",
+    "ru": "В другую страну:\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "199C6",
+        "before": "0003482c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28868",
+    "ja": "ｦ\nｲｸﾗ施ｼﾅｻｲﾏｽｶ",
+    "ru": "\nСколько раздать?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1A020",
+        "before": "00034868"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2887C",
+    "ja": "ｶﾞ\nｱﾘﾏｾﾇ…",
+    "ru": "\nНе хватает...",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "19FD2",
+        "before": "0003487c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28888",
+    "ja": "施ｽ",
+    "ru": "Раздать",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "19F9C",
+        "before": "00034888"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2894C",
+    "ja": "ﾃﾞｽｶﾞ\n",
+    "ru": "\nОднако...\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1A6F4",
+        "before": "0003494c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2897A",
+    "ja": "ﾃﾞｽ\nｲｸﾗｵ売ﾘﾃﾞｽｶ",
+    "ru": "\nСколько продать?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1A616",
+        "before": "0003497a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2898C",
+    "ja": "ﾊ金",
+    "ru": "\nЦена: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1A5BA",
+        "before": "0003498c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "289F0",
+    "ja": "ﾃﾞｽｶﾞ\n",
+    "ru": "\nОднако...\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1AAB0",
+        "before": "000349f0"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A02",
+    "ja": "ﾃﾞｽ\nｲｸﾗｵ買ｲﾃﾞｽｶ",
+    "ru": "\nСколько купить?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1AA3A",
+        "before": "00034a02"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A14",
+    "ja": "ﾊ金",
+    "ru": "\nЦена: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1A9DE",
+        "before": "00034a14"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A28",
+    "ja": "ｦ何部隊\nｵ雇ｲﾆﾅﾙﾉﾃﾞｽｶ",
+    "ru": "\nСколько нанять\nотрядов?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4CFBC",
+        "before": "00034a28"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A92",
+    "ja": "必要ﾃﾞｽ",
+    "ru": " золота",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1B1BA",
+        "before": "00034a92"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A9A",
+    "ja": "1部隊ﾆﾂｷ\n金ｶﾞ",
+    "ru": "Цена за отряд: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1B1A4",
+        "before": "00034a9a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C38",
+    "ja": "ﾙﾉﾃﾞｽﾅ",
+    "ru": "?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C40",
+    "ja": "ｦ\n一覧ﾅｻ",
+    "ru": "\nОткрыть список",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1C9BE",
+        "before": "00034c40"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C4A",
+    "ja": "ｦ\nｺﾞ覧ﾆﾅ",
+    "ru": "\nПосмотреть сведения",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1C9B6",
+        "before": "00034c4a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28CC2",
+    "ja": "ﾉ使者ﾊ\n誰ﾆﾅｻｲﾏｽｶ",
+    "ru": "\nКого отправить\nпосланником?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1CC38",
+        "before": "00034cc2"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28CF6",
+    "ja": "ｦ送ｯﾃ参ﾘﾏｼﾀ",
+    "ru": "\nЗолото доставлено",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1CDA2",
+        "before": "00034cf6"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D02",
+    "ja": "ﾊ\n金",
+    "ru": "\nЗолото: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1CD90",
+        "before": "00034d02"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D08",
+    "ja": "脅迫ﾆ対ｼ､",
+    "ru": "В ответ на угрозы:\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1CD76",
+        "before": "00034d08"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D2A",
+    "ja": "ｦ送ｯﾃ参ﾘﾏｼﾀ",
+    "ru": "\nЗолото доставлено",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1CEBE",
+        "before": "00034d2a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D36",
+    "ja": "ﾊ\n金",
+    "ru": "\nЗолото: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1CEAC",
+        "before": "00034d36"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D3C",
+    "ja": "要求ｦ受ｹ､",
+    "ru": "В ответ на требования:\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1CE92",
+        "before": "00034d3c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2904E",
+    "ja": "様ﾆ降伏ｻﾚﾖ",
+    "ru": "\nПокоритесь!",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1D3E8",
+        "before": "0003504e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2906C",
+    "ja": "脅迫ﾉ使者ｦ送ｯﾃ\n",
+    "ru": "Послать с угрозами\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1D654",
+        "before": "0003506c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29280",
+    "ja": "様ﾆ貢物ｦ贈ﾗﾚﾖ",
+    "ru": "\nПришлите дань!",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1D73C",
+        "before": "00035280"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292A6",
+    "ja": "貢物要求ﾉ使者ｦ\n送ｯﾃ",
+    "ru": "Послать за данью\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292C4",
+    "ja": "年ﾉ同盟延長ｦｵ望ﾐﾃﾞｽ",
+    "ru": " лет\nпродления союза",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D2AC",
+        "before": "000352c4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292D8",
+    "ja": "様ﾊ両国ﾉﾀﾒ､\n",
+    "ru": "\nРади наших стран:\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D2A8",
+        "before": "000352d8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292E6",
+    "ja": "年間ﾉ同盟ｦｵ望ﾐﾃﾞｽ",
+    "ru": " лет\nЖелаем заключить союз",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D2A4",
+        "before": "000352e6"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292F8",
+    "ja": "様ﾊ栄光ｱﾙ\n貴国ﾄ",
+    "ru": "\nПредлагает союз на ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D2A0",
+        "before": "000352f8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29510",
+    "ja": "同盟ﾉ使者ｦ送ｯﾃ\n",
+    "ru": "Послать ради союза\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1DDB8",
+        "before": "00035510"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296A8",
+    "ja": "\n売却ｼﾃ",
+    "ru": "\nПродать\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1EF86",
+        "before": "000356a8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296B2",
+    "ja": "購入ｼﾏｽ\n実行ｼﾃ",
+    "ru": "\nКупить\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296C8",
+    "ja": "兵ｦ雇用",
+    "ru": "Нанять войска\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D340",
+        "before": "000356c8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296D6",
+    "ja": "ｼﾏｽ\n実行ｼﾃ",
+    "ru": "\nВыполнить\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1F2EA",
+        "before": "000356d6"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296E2",
+    "ja": "住民ﾆ金ｦ",
+    "ru": "Золото народу: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1F8A0",
+        "before": "000356e2"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296EC",
+    "ja": "住民ﾆ食糧ｦ",
+    "ru": "Провиант народу: ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1F83C",
+        "before": "000356ec"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2970C",
+    "ja": "ﾆ投資ｼﾏｽ\n実行ｼﾃ",
+    "ru": "\nВложить средства\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1F978",
+        "before": "0003570c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2971C",
+    "ja": "ﾍ\n部隊ｦ行ｶｾﾃ",
+    "ru": ":\nотправить войска\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1FC74",
+        "before": "0003571c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2972A",
+    "ja": "ﾍ金･\n食糧ｦ送ｯﾃ",
+    "ru": ":\nзолото и провиант\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1FE08",
+        "before": "0003572a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29740",
+    "ja": "貢物ｦ要求",
+    "ru": "Требовать дань",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "2009A",
+        "before": "00035740"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2974A",
+    "ja": "年間ﾉ\n同盟ｦ結ﾝﾃﾞ",
+    "ru": " лет\nЗаключить союз\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "20200",
+        "before": "0003574a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29774",
+    "ja": "ｦ\n軍団司令官ﾆｲﾀｼﾏｽ",
+    "ru": "\nНазначить командиром\nлегиона",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "20F52",
+        "before": "00035774"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29788",
+    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "\nПодтверждаете?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "20EDE",
+        "before": "00035788"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29796",
+    "ja": "軍団ｦ任ｾﾏｽｶ",
+    "ru": "\nПоручить легион?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "20E78",
+        "before": "00035796"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "297A2",
+    "ja": "ﾄﾞﾉ将軍ﾆ\n第",
+    "ru": "Кому поручить\nлегион ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "20E62",
+        "before": "000357a2"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29816",
+    "ja": "遠征ｦ開始ｼﾃ\n",
+    "ru": "Начать поход\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "21B1E",
+        "before": "00035816"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2985C",
+    "ja": "ﾆ\n攻ﾒ込ﾐﾏｼﾀ!",
+    "ru": "\nНачалось вторжение!",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "21EDC",
+        "before": "0003585c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29894",
+    "ja": "ﾍﾉ\n遠征ｦｵ許ｼ願ｲﾀｲ",
+    "ru": "\nПозвольте мне\nвыступить в поход",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "21DAA",
+        "before": "00035894"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298A6",
+    "ja": "\nｺﾉ私ﾒﾆ",
+    "ru": "\nМне ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298C8",
+    "ja": "ﾉ領主ｦ\n誰ﾆｲﾀｼﾏｽｶ",
+    "ru": "\nКто будет наместником?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D5A0",
+        "before": "000358c8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298DA",
+    "ja": "ｦ抜擢ｲﾀｼﾏｽ",
+    "ru": "\nНазначить",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "22D8A",
+        "before": "000358da"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298E6",
+    "ja": "ﾉ領主ﾄｼﾃ\n",
+    "ru": "\nНаместник:\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "22D7C",
+        "before": "000358e6"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "299FE",
+    "ja": "様ｦ\n后ﾆｵ迎ｴｲﾀｼﾏｽｶ",
+    "ru": "\nВзять в жёны?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29A10",
+    "ja": "ｺﾉ国ﾉ姫､",
+    "ru": "Местная княжна\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "23650",
+        "before": "00035a10"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29A4E",
+    "ja": "逃ｶﾞｽ",
+    "ru": "Отпустить",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D5FA",
+        "before": "00035a4e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AACA",
+    "ja": "消去ｼ",
+    "ru": "Удалить",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D89A",
+        "before": "00036aca"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ACB4",
+    "ja": "\n(空ｷ ",
+    "ru": "\n(Своб ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "251AA",
+        "before": "00036cb4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27D92",
+    "ja": "天下ｦ夢見ﾀ男ｶﾞ､ﾏﾀ一人､消ｴﾀ…｡",
+    "ru": "Ещё один герой,\nмечтавший о мире, пал.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C3F2",
+        "before": "00033d92"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DB0",
+    "ja": "神ﾊ､彼ｦ見捨ﾃﾀﾉｶ…､",
+    "ru": "Бог покинул его?..",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DC4",
+    "ja": "歴史ﾉ奔流ﾉ前ﾆｱｴﾅｸ散ｯﾀﾉﾃﾞｱﾙ｡",
+    "ru": "Он погиб в бурном\nпотоке истории.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C3EA",
+        "before": "00033dc4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DE0",
+    "ja": "乱世ｦ憂ｲ､立ﾁｱｶﾞｯﾀ英雄ﾓ､",
+    "ru": "Герой восстал\nпротив смуты, но...",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C3E6",
+        "before": "00033de0"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DF8",
+    "ja": "一人ﾉ男ﾉ生涯ﾊ幕ｦ閉ｼﾞﾀ｡",
+    "ru": "Жизнь человека\nподошла к концу.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C3E2",
+        "before": "00033df8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E10",
+    "ja": "己ﾚﾉ信ｽﾞﾙ道ｦ行ｷ､燃ｴ尽ｷﾀ",
+    "ru": "Он верил в свой путь\nи сгорел без остатка.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C3DE",
+        "before": "00033e10"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E28",
+    "ja": "次代ﾍﾉ礎ﾄﾅｯﾀﾉﾃﾞｱﾙ…｡",
+    "ru": "стала залогом\nгрядущих свершений.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C3DA",
+        "before": "00033e28"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E3E",
+    "ja": "ﾀﾞｶﾞ､彼ﾉ流ｼﾀ血ﾊ､",
+    "ru": "Но пролитая им кровь",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C3D6",
+        "before": "00033e3e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E50",
+    "ja": "変ｴﾙｺﾄﾊﾃﾞｷﾅｶｯﾀ…｡",
+    "ru": "изменить ход времён.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "15890",
+        "before": "00033e50"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E62",
+    "ja": "ﾓﾏﾀ､時代ﾉ流ﾚｦ",
+    "ru": " не смог",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E70",
+    "ja": "ｦ必要ﾄｼﾅｶｯﾀﾉﾃﾞｱﾙ｡",
+    "ru": "\nне был нужен эпохе.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1583C",
+        "before": "00033e70"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E82",
+    "ja": "時代ﾊ､",
+    "ru": "Герой ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E8A",
+    "ja": "死ｽ｡",
+    "ru": "\nУмер.",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1573A",
+        "before": "00033e8a"
+      }
+    ]
+  }
+]

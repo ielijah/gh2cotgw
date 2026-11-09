@@ -1,0 +1,482 @@
+[
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5CF2",
+    "ja": "狼ﾀﾁﾉ凱歌ﾊ今ﾔ",
+    "ru": "Победная песнь серых волков",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "5E72",
+        "before": "0006bcf2"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5CE2",
+    "ja": " 世界中ﾆ響ｷﾜﾀｯﾀ",
+    "ru": "разнеслась по всему миру.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "5E76",
+        "before": "0006bce2"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5CD2",
+    "ja": "ｶﾂﾃ誰ﾓ成ｼ得ﾅｶｯﾀ",
+    "ru": "Никому ещё не удавалось",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "5E7A",
+        "before": "0006bcd2"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5CC2",
+    "ja": "世界統一ﾉ覇業ｶﾞ",
+    "ru": "объединить весь мир.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "5E7E",
+        "before": "0006bcc2"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5CBA",
+    "ja": "ﾉ手ﾆﾖｯﾃ",
+    "ru": " сумел",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "5E82",
+        "before": "0006bcba"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5CAC",
+    "ja": "達成ｻﾚﾀﾉﾃﾞｱﾙ",
+    "ru": "свершить это.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "5E86",
+        "before": "0006bcac"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D46",
+    "ja": "偉大ﾅﾙ英雄伝説ｶﾞ",
+    "ru": "Так родилась ещё одна",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "6412",
+        "before": "0006bd46"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D36",
+    "ja": "ﾏﾀﾋﾄﾂ ｺｺﾆ誕生ｼﾀ",
+    "ru": "легенда о великом герое.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "6416",
+        "before": "0006bd36"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D26",
+    "ja": "ｶﾂﾃ誰ﾓ成ｼ得ﾅｶｯﾀ",
+    "ru": "Никому ещё не удавалось",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "641A",
+        "before": "0006bd26"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D16",
+    "ja": "世界統一ﾉ覇業ｶﾞ",
+    "ru": "объединить весь мир.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "641E",
+        "before": "0006bd16"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D0E",
+    "ja": "ﾉ手ﾆﾖｯﾃ",
+    "ru": " сумел",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "6422",
+        "before": "0006bd0e"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D00",
+    "ja": "達成ｻﾚﾀﾉﾃﾞｱﾙ",
+    "ru": "свершить это.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "6426",
+        "before": "0006bd00"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5DA2",
+    "ja": "兵ﾓ市民ﾓ ﾄﾞﾚﾎﾄﾞ",
+    "ru": "Воины и мирные жители",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "6934",
+        "before": "0006bda2"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D8E",
+    "ja": "ｺﾉ日ｦ待ﾁ望ﾝﾀﾞｺﾄﾀﾞﾛｳ",
+    "ru": "так долго ждали этого дня!",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "6938",
+        "before": "0006bd8e"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D7E",
+    "ja": "ｶﾂﾃ誰ﾓ成ｼ得ﾅｶｯﾀ",
+    "ru": "Никому ещё не удавалось",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "693C",
+        "before": "0006bd7e"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D6E",
+    "ja": "世界統一ﾉ覇業ｶﾞ",
+    "ru": "объединить весь мир.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "6940",
+        "before": "0006bd6e"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D66",
+    "ja": "ﾉ手ﾆﾖｯﾃ",
+    "ru": " сумел",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "6944",
+        "before": "0006bd66"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5D58",
+    "ja": "達成ｻﾚﾀﾉﾃﾞｱﾙ",
+    "ru": "свершить это.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "6948",
+        "before": "0006bd58"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5E00",
+    "ja": "ｿﾉ日､世界中ﾉ民ｶﾞ",
+    "ru": "В тот день народы всего мира",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "7046",
+        "before": "0006be00"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5DE8",
+    "ja": "\u001bKｱｯﾗｰ\u001bHﾉ神ﾉ前ﾆﾋｻﾞﾏｽﾞｲﾀ",
+    "ru": "преклонились перед Аллахом.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "704A",
+        "before": "0006bde8"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5DD8",
+    "ja": "ｶﾂﾃ誰ﾓ成ｼ得ﾅｶｯﾀ",
+    "ru": "Никому ещё не удавалось",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "704E",
+        "before": "0006bdd8"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5DC8",
+    "ja": "世界統一ﾉ覇業ｶﾞ",
+    "ru": "объединить весь мир.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "7052",
+        "before": "0006bdc8"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5DC0",
+    "ja": "ﾉ手ﾆﾖｯﾃ",
+    "ru": " сумел",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "7056",
+        "before": "0006bdc0"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5DB2",
+    "ja": "達成ｻﾚﾀﾉﾃﾞｱﾙ",
+    "ru": "свершить это.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "705A",
+        "before": "0006bdb2"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5E5E",
+    "ja": "ﾊｼﾞﾒﾊ極東ﾉ小ｻｸ名ﾓﾅｲ",
+    "ru": "Всё началось с малой державы",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "7522",
+        "before": "0006be5e"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5E48",
+    "ja": "島国ﾉ勢力ﾆｽｷﾞﾅｶｯﾀ･･･",
+    "ru": "на далёких восточных островах.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "7526",
+        "before": "0006be48"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5E38",
+    "ja": "ｶﾂﾃ誰ﾓ成ｼ得ﾅｶｯﾀ",
+    "ru": "Никому ещё не удавалось",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "752A",
+        "before": "0006be38"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5E28",
+    "ja": "世界統一ﾉ覇業ｶﾞ",
+    "ru": "объединить весь мир.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "752E",
+        "before": "0006be28"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5E20",
+    "ja": "ﾉ手ﾆﾖｯﾃ",
+    "ru": " сумел",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "7532",
+        "before": "0006be20"
+      }
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5E12",
+    "ja": "達成ｻﾚﾀﾉﾃﾞｱﾙ",
+    "ru": "свершить это.",
+    "kind": "ending_caption",
+    "max_columns": 30,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "ENDING.PRG;1",
+        "offset": "7536",
+        "before": "0006be12"
+      }
+    ]
+  }
+]

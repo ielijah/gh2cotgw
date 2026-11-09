@@ -1,0 +1,222 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F44",
+    "ja": "ｶﾞ\n脅迫ﾆ屈伏ｼﾃｼﾏｲﾏｼﾀ",
+    "ru": "\nуступил угрозам.",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F5A",
+    "ja": "ﾉ",
+    "ru": "\n",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F5C",
+    "ja": "ｦ行ｲﾏｽ",
+    "ru": "\nПриказ исполнен.",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "D106",
+        "before": "00032f5c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F64",
+    "ja": "ﾍ\n",
+    "ru": "\n",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F6C",
+    "ja": "様ﾉ\nｺﾞ指示通ﾘ",
+    "ru": "\nКак вы приказали,\n",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "D09C",
+        "before": "00032f6c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F7A",
+    "ja": "\n施ｼﾃ",
+    "ru": "\nРоздано: ",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "D184",
+        "before": "00032f7a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F80",
+    "ja": "ｼﾃ",
+    "ru": "\n",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F84",
+    "ja": "ﾆ対ｼﾃ\n",
+    "ru": "\n",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26FE0",
+    "ja": "ﾊ実行ﾃﾞｷﾏｾﾝ",
+    "ru": "\nНевозможно исполнить.",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "D362",
+        "before": "00032fe0"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26FF6",
+    "ja": "ｶﾞ独立ｼﾀﾖｳﾃﾞｽ",
+    "ru": "\nобъявил независимость.",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "DB18",
+        "before": "00032ff6"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27176",
+    "ja": "(任意)    ",
+    "ru": "(Выбор)",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "271A6",
+    "ja": "(任意)    ",
+    "ru": "(Выбор)",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28358",
+    "ja": "%-10s%2d才\n",
+    "ru": "%-10s%2d г\n",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "native_stream": true
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28878",
+    "ja": "民ﾆ",
+    "ru": "Народу: ",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "19FEA",
+        "before": "00034878"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28B34",
+    "ja": "%-10s%2d才\n",
+    "ru": "%-10s%2d г\n",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "native_stream": true
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296C2",
+    "ja": "食糧ｦ",
+    "ru": "Провиант: ",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1F0F4",
+        "before": "000356c2"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29DB8",
+    "ja": "女ﾉ勘ﾃﾞｽｶﾞ×××××殿ﾊ\nﾄﾞｳﾓ信用ﾃﾞｷﾏｾﾝ",
+    "ru": "Чутьё подсказывает:\nему нельзя верить.",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment",
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D7E2",
+        "before": "00035db8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A4E2",
+    "ja": "ｵｫ×××××…\n我ｶﾞ×××××ﾖ",
+    "ru": "О, любимая...\nМоя дорогая!",
+    "max_columns": 22,
+    "max_lines": 4,
+    "kind": "dialogue_fragment"
+  }
+]

@@ -1,0 +1,513 @@
+{
+  "added_fields": 48,
+  "event_and_label_fields": 40,
+  "name_fields": 8,
+  "total_fields": 2063,
+  "glyph_pairs": 1141,
+  "checks": [
+    "verify.py",
+    "test_text_encoding.py",
+    "test_biographies.py",
+    "test_personnel_hints.py",
+    "test_event_composition.py"
+  ],
+  "emulator": [
+    "cold map and policy order menu",
+    "cold child list page 2"
+  ],
+  "not_emulated": [
+    "new event messages",
+    "new economic confirmations"
+  ],
+  "track57_sha256": "33799b0c64fd0cca9eede19f42c416a19644b294d643c6826629e57fdafab4e2",
+  "entries": [
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2750A",
+      "ja": "\u001bKﾍﾞﾈﾁｱ\u001bH",
+      "ru": "Венеция",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27514",
+      "ja": "\u001bKｲｽﾗﾑ\u001bH",
+      "ru": "Ислам",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27524",
+      "ja": "\u001bKｳｲｸﾞﾙ\u001bH",
+      "ru": "Уйгуры",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2753E",
+      "ja": "ｶﾞ\nｵ亡ｸﾅﾘﾆﾅﾘﾏｼﾀ",
+      "ru": "\nСкончался.",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "277C0",
+      "ja": "様ｶﾞｵ亡ｸﾅﾘﾆ…",
+      "ru": "\nСкончалась.",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "277E0",
+      "ja": "様ｶﾞ出産ｻﾚﾏｼﾀ",
+      "ru": "\nРодила.",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "278C4",
+      "ja": "様ｶﾞ亡ｸﾅﾗﾚﾏｼﾀ",
+      "ru": "\nСкончался.",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27902",
+      "ja": "様ｶﾞ\nｵ亡ｸﾅﾘﾆﾅﾗﾚﾀ…",
+      "ru": "\nСкончался...",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27978",
+      "ja": "ﾉ病ｶﾞ治ﾗﾚﾏｼﾀ",
+      "ru": "\nЗдоров.",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27A36",
+      "ja": "病ﾆ倒ﾗﾚﾏｼﾀ",
+      "ru": " заболел.",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "279A6",
+      "ja": " 疫  病 ",
+      "ru": "Эпидемия",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "279B0",
+      "ja": " 干  ﾊﾞﾂ ",
+      "ru": "Засуха",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "279BA",
+      "ja": " 台  風 ",
+      "ru": "Тайфун",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "279C4",
+      "ja": " 寒  波 ",
+      "ru": "Морозы",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "279CE",
+      "ja": " 砂  嵐 ",
+      "ru": "Пес буря",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27AC4",
+      "ja": " 豊  作 ",
+      "ru": "Урожай",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28CD4",
+      "ja": "ﾊ\n我ﾗｶﾞ傘下ﾆ下ﾘﾏｼﾀ",
+      "ru": "\nПодчинились нам",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28D12",
+      "ja": "ﾊ我ﾗﾉ脅迫ｦ\n全ｸ無視ｼﾏｼﾀ",
+      "ru": "\nУгрозы отвергнуты",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28D46",
+      "ja": "ﾊ貢物ﾉ要求ｦ\n全ｸ無視ｼﾏｼﾀ",
+      "ru": "\nОтказ платить дань",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28D5E",
+      "ja": "ﾊ\n同盟ﾉ延長ｦﾊﾈﾂｹﾏｼﾀ",
+      "ru": "\nСоюз не продлён",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28D72",
+      "ja": "ﾄﾉ\n同盟期間ｶﾞ延長ｻﾚﾏｼﾀ",
+      "ru": "\nСоюз продлён",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28D8A",
+      "ja": "ﾄﾉ\n同盟ｶﾞ締結ｻﾚﾏｼﾀ",
+      "ru": "\nСоюз заключён",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28D9E",
+      "ja": "ﾊ\n同盟ﾉ要求ｦﾊﾈﾂｹﾏｼﾀ",
+      "ru": "\nОтказ от союза",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29630",
+      "ja": "住民ｶﾗ金ｦ徴税ｼﾏｽ\n実行ｼﾃ",
+      "ru": "Сбор налогов\n",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29648",
+      "ja": "本国ﾉ部隊ｦ解雇ｼﾏｽ\n実行ｼﾃ",
+      "ru": "Роспуск войск\n",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29662",
+      "ja": "本国ﾉ部隊ｦ訓練ｼﾏｽ\n実行ｼﾃ",
+      "ru": "Обучение войск\n",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2967C",
+      "ja": "武具ｦ購入ｼﾏｽ\n実行ｼﾃ",
+      "ru": "Купить оружие\n",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29690",
+      "ja": "住民ﾉ再配分ｦｼﾏｽ\n実行ｼﾃ",
+      "ru": "Смена занятий\n",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29840",
+      "ja": "ﾃﾞ\n内乱ｶﾞ発生ｼﾏｼﾀ",
+      "ru": "\nНачался мятеж!",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2986E",
+      "ja": "ｶﾞ攻ﾒ込ﾝﾃﾞｷﾏｼﾀ",
+      "ru": "\nВторжение!",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29926",
+      "ja": "ｶﾞ\n勝利ｼﾏｼﾀ",
+      "ru": "\nПобеда!",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CA7A",
+      "ja": "様ﾊ\nﾏﾀﾞﾏﾀﾞｵ若過ｷﾞﾏｽｿﾞ",
+      "ru": "\nЕщё слишком молод",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4CAE2",
+      "ja": "様ﾊ\nﾏﾀﾞﾏﾀﾞ幼ｽｷﾞﾏｽ",
+      "ru": "\nЕщё слишком юна",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "4D4E0",
+      "ja": "ﾖﾛｼｲ\nﾃﾞｽﾅ",
+      "ru": "Хорошо?",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2AAC2",
+      "ja": "出来ﾏｾﾝ",
+      "ru": "Нельзя",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "284E6",
+      "ja": "大ﾗｶﾆ愛ｦ語ﾙ",
+      "ru": "О любви",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "284FE",
+      "ja": "ｼﾞｯﾄ目ｦ見ﾙ",
+      "ru": "Взгляд",
+      "kind": "interface",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "278F0",
+      "ja": "ｶﾞ死ﾝﾀﾞﾓﾖｳﾃﾞｽ",
+      "ru": "\nВидимо, умер",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "298AE",
+      "ja": "ﾊ\n戦死ｼﾏｼﾀ",
+      "ru": "\nПогиб.",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "298BA",
+      "ja": "ﾉ軍ﾊ\n全滅ｼﾏｼﾀ",
+      "ru": "\nРазгромлены",
+      "kind": "composite_event",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F50",
+      "ja": "ﾁｬｳﾙﾍﾞｷ姫",
+      "ru": "Чаур-беки",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16D2A",
+          "before": "0006af50"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5222",
+      "ja": "ｱｲｼﾞｱﾙｸ",
+      "ru": "Айджарук",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DC2",
+          "before": "0006b222"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "521A",
+      "ja": "ｱﾄｩﾗﾃｨﾘ",
+      "ru": "Атула Тири",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DC6",
+          "before": "0006b21a"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51CE",
+      "ja": "ｴｲﾝﾃｨ",
+      "ru": "Эйнти",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DF2",
+          "before": "0006b1ce"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51C6",
+      "ja": "ｴｳｼﾞｯﾄ",
+      "ru": "Эуджит",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DF6",
+          "before": "0006b1c6"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5168",
+      "ja": "ｸﾝ",
+      "ru": "Кун",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E2E",
+          "before": "0006b168"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "513E",
+      "ja": "ｺﾞﾘｼﾞﾝ",
+      "ru": "Хориджин",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E42",
+          "before": "0006b13e"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "510C",
+      "ja": "ｼﾞｪﾑｷﾝ",
+      "ru": "Джемкин",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E62",
+          "before": "0006b10c"
+        }
+      ]
+    }
+  ]
+}

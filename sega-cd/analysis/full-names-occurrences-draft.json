@@ -1,0 +1,497 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3335E",
+    "ja": "\u001bKｴﾙｼﾞｭｰﾍﾞｯﾄ\u001bH",
+    "ru": "Эржебет",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35602",
+    "ja": "\u001bKﾍﾟﾚﾝｶﾞﾘｱ\u001bH",
+    "ru": "Беренгария",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2EAE2",
+    "ja": "\u001bKﾁｬｳﾙﾍﾞｷ姫\u001bH",
+    "ru": "Чаур-беки",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33348",
+    "ja": "\u001bKｸﾆｸﾞﾝﾀﾞ\u001bH",
+    "ru": "Кунигунда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "333B6",
+    "ja": "\u001bKｸﾚﾒﾝﾃｨｱ\u001bH",
+    "ru": "Клеменция",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31196",
+    "ja": "\u001bKｹﾞｲﾄﾙｰﾄ\u001bH",
+    "ru": "Гертруда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310E6",
+    "ja": "\u001bKｿﾞﾊﾞｲﾀﾞ\u001bH",
+    "ru": "Зубайда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3553C",
+    "ja": "\u001bKｿﾞﾊﾞｲﾀﾞ\u001bH",
+    "ru": "Зубайда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "311EE",
+    "ja": "\u001bKﾍﾞﾚﾝｹﾞﾗ\u001bH",
+    "ru": "Беренгела",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35594",
+    "ja": "\u001bKﾔﾛｽﾗﾌﾞﾅ\u001bH",
+    "ru": "Ярославна",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "331E8",
+    "ja": "\u001bKｱｲｼﾞｱﾙｸ\u001bH",
+    "ru": "Айджарук",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33298",
+    "ja": "\u001bKｱﾄｩﾗﾃｨﾘ\u001bH",
+    "ru": "Атула Тири",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32AF8",
+    "ja": "\u001bKｳｸﾞﾙｸﾁ\u001bH",
+    "ru": "Угрукчи",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33166",
+    "ja": "\u001bKｼｬﾙﾙ2世\u001bH",
+    "ru": "Карл II",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31154",
+    "ja": "\u001bKｲｮﾗﾝﾄﾞ\u001bH",
+    "ru": "Иоланда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3113E",
+    "ja": "\u001bKｴｳﾌｪﾐｱ\u001bH",
+    "ru": "Евфимия",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "355EC",
+    "ja": "\u001bKｺﾝｽﾀﾝｽ\u001bH",
+    "ru": "Констанция",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3116A",
+    "ja": "\u001bKｼｸﾞﾘﾀﾞ\u001bH",
+    "ru": "Сигрида",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310D0",
+    "ja": "\u001bKｼｬｼﾞｬﾙ\u001bH",
+    "ru": "Шаджар",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33374",
+    "ja": "\u001bKﾒﾋﾁﾙﾃﾞ\u001bH",
+    "ru": "Матильда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "311AC",
+    "ja": "\u001bKｴｳｼﾞｯﾄ\u001bH",
+    "ru": "Эуджит",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED66",
+    "ja": "\u001bKｺﾞﾘｼﾞﾝ\u001bH",
+    "ru": "Хориджин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310A4",
+    "ja": "\u001bKｼﾞｪﾑｷﾝ\u001bH",
+    "ru": "Джемкин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31112",
+    "ja": "\u001bKｼｰﾘｰﾝ\u001bH",
+    "ru": "Ширин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35568",
+    "ja": "\u001bKｼｰﾘｰﾝ\u001bH",
+    "ru": "Ширин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "333CC",
+    "ja": "\u001bKｴﾚｵﾉﾗ\u001bH",
+    "ru": "Элеонора",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3322A",
+    "ja": "\u001bKｵﾙｶﾞﾅ\u001bH",
+    "ru": "Органа",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED0E",
+    "ja": "\u001bKｶﾀﾞｱﾝ\u001bH",
+    "ru": "Кадаан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "331FE",
+    "ja": "\u001bKｻﾝｻﾙﾏ\u001bH",
+    "ru": "Сансалма",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310FC",
+    "ja": "\u001bKﾀﾙｰﾌﾞ\u001bH",
+    "ru": "Таруб",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35552",
+    "ja": "\u001bKﾀﾙｰﾌﾞ\u001bH",
+    "ru": "Таруб",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED7C",
+    "ja": "\u001bKﾎﾞﾄｸｲ\u001bH",
+    "ru": "Ботохуй",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3108E",
+    "ja": "\u001bKｴｲﾝﾃｨ\u001bH",
+    "ru": "Эйнти",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ECF8",
+    "ja": "\u001bKﾀﾏﾁｬ\u001bH",
+    "ru": "Тамача",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "333A0",
+    "ja": "\u001bKｴﾘｰﾅ\u001bH",
+    "ru": "Элина",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ECE2",
+    "ja": "\u001bKｶﾙﾁｭ\u001bH",
+    "ru": "Карчу",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31180",
+    "ja": "\u001bKｻﾛﾒｱ\u001bH",
+    "ru": "Саломея",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "332F0",
+    "ja": "\u001bKﾄﾞﾆｱ\u001bH",
+    "ru": "Дония",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30FF4",
+    "ja": "\u001bKﾄﾗｷﾅ\u001bH",
+    "ru": "Торэгэнэ",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3100A",
+    "ja": "\u001bKﾌﾟｽｶ\u001bH",
+    "ru": "Пуска",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2EDA8",
+    "ja": "\u001bKﾗｯﾁ\u001bH",
+    "ru": "Лачи",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30F9C",
+    "ja": "\u001bKｼｲﾗ\u001bH",
+    "ru": "Шара",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3548C",
+    "ja": "\u001bKｼｲﾗ\u001bH",
+    "ru": "Шара",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33306",
+    "ja": "\u001bKｶﾏﾗ\u001bH",
+    "ru": "Камала",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310BA",
+    "ja": "\u001bKｱﾆｽ\u001bH",
+    "ru": "Анис",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED3A",
+    "ja": "\u001bKｱﾗﾝ\u001bH",
+    "ru": "Алан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33332",
+    "ja": "\u001bKｱﾝﾅ\u001bH",
+    "ru": "Анна",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED50",
+    "ja": "\u001bKｸﾗﾝ\u001bH",
+    "ru": "Хулан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30F86",
+    "ja": "\u001bKｸﾗﾝ\u001bH",
+    "ru": "Хулан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35670",
+    "ja": "\u001bKｸﾗﾝ\u001bH",
+    "ru": "Хулан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30FDE",
+    "ja": "\u001bKﾁｬｶ\u001bH",
+    "ru": "Чака",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "354B8",
+    "ja": "\u001bKﾁｬｶ\u001bH",
+    "ru": "Чака",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31020",
+    "ja": "\u001bKﾛｻﾝ\u001bH",
+    "ru": "Росан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED92",
+    "ja": "\u001bKｿﾁ\u001bH",
+    "ru": "Сочи",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30FB2",
+    "ja": "\u001bKｸﾝ\u001bH",
+    "ru": "Кун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  }
+]

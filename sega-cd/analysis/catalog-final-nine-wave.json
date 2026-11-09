@@ -1,0 +1,276 @@
+[
+  {
+    "file": "INIT.PRG;1",
+    "offset": "51D4",
+    "ja": "永興公主",
+    "ru": "Юнсин",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16DEE",
+        "before": "0006b1d4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33282",
+    "ja": "永興公主",
+    "ru": "Юнсин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5180",
+    "ja": "岐国公主",
+    "ru": "Циго",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E1E",
+        "before": "0006b180"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30FC8",
+    "ja": "岐国公主",
+    "ru": "Циго",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "354A2",
+    "ja": "岐国公主",
+    "ru": "Циго",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5156",
+    "ja": "光明公主",
+    "ru": "Гуанмин",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E36",
+        "before": "0006b156"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33240",
+    "ja": "光明公主",
+    "ru": "Гуанмин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "50DE",
+    "ja": "順天公主",
+    "ru": "Тхуантхьен",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E7A",
+        "before": "0006b0de"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3326C",
+    "ja": "順天公主",
+    "ru": "Тхуантхьен",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "50D4",
+    "ja": "昭聖公主",
+    "ru": "Тьеу Тхань",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E7E",
+        "before": "0006b0d4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31078",
+    "ja": "昭聖公主",
+    "ru": "Тьеу Тхань",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35510",
+    "ja": "昭聖公主",
+    "ru": "Тьеу Тхань",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "50CE",
+    "ja": "深妙",
+    "ru": "Синмё",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E82",
+        "before": "0006b0ce"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CD92",
+    "ja": "深妙",
+    "ru": "Синмё",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "50C4",
+    "ja": "宣徳公主",
+    "ru": "Сюаньдэ",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E86",
+        "before": "0006b0c4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31036",
+    "ja": "宣徳公主",
+    "ru": "Сюаньдэ",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "354CE",
+    "ja": "宣徳公主",
+    "ru": "Сюаньдэ",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "505A",
+    "ja": "藤原礼子",
+    "ru": "Рэйко",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16EC6",
+        "before": "0006b05a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CCA0",
+    "ja": "藤原礼子",
+    "ru": "Рэйко",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4FDC",
+    "ja": "麗華公主",
+    "ru": "Лихуа",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16F0A",
+        "before": "0006afdc"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31062",
+    "ja": "麗華公主",
+    "ru": "Лихуа",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "354FA",
+    "ja": "麗華公主",
+    "ru": "Лихуа",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C626",
+    "ja": "殿ﾆ\n既ﾆ委任ｻﾚﾃｵﾘﾏｽ",
+    "ru": "\nУже поручено",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C652",
+    "ja": "殿ﾆ\nｵ任ｾｼﾃﾖﾛｼｲﾃﾞｽﾅ",
+    "ru": "\nПоручить ему?",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C6CE",
+    "ja": "前ﾉ指示ｦ無効ﾆｼﾃ\n",
+    "ru": "Отмена приказа\n",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C710",
+    "ja": "遠征ﾉ指示ﾊ\nｺﾚﾃﾞ",
+    "ru": "Поход:\nготово",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C79A",
+    "ja": "移動ﾉ指示ﾊ\nｺﾚﾃﾞ",
+    "ru": "Переход:\nготово",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C7D8",
+    "ja": "輸送ﾉ指示ﾊ\nｺﾚﾃﾞ",
+    "ru": "Посылка:\nготово",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C83C",
+    "ja": "外交ﾉ指示ﾊ\nｺﾚﾃﾞ",
+    "ru": "Диплом:\nготово",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C876",
+    "ja": "ﾉ指示ｦ\n出ｻﾚﾙﾉﾃﾞｽﾅ",
+    "ru": "\nОтдать приказ?",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C8FC",
+    "ja": "様ﾆ\n畏ﾚﾅｶﾞﾗ申ｼ上ｹﾞﾏｽ",
+    "ru": "\nСкажу почтительно",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CA90",
+    "ja": "ｺﾞ子息様ｦ将軍ﾆｼﾃ\n",
+    "ru": "Сыну дать чин\n",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CB1E",
+    "ja": "姫様ｦｵ嫁ﾆ出ｻﾚﾃ\n",
+    "ru": "Выдать замуж\n",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CC62",
+    "ja": "移動ｦ実行ｼﾃ\n",
+    "ru": "Переход\n",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CDA2",
+    "ja": "ﾄﾞﾉ国ﾍ\n移動",
+    "ru": "Куда идти?",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CE1E",
+    "ja": "解雇ｦ終了ｼﾃ\n",
+    "ru": "Увольнение\n",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CE4F",
+    "ja": "移動",
+    "ru": "Ход",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CE54",
+    "ja": "輸送",
+    "ru": "Груз",
+    "kind": "descriptor_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  }
+]

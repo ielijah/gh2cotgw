@@ -1,0 +1,927 @@
+{
+  "entries": [
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2854C",
+      "ja": "今夜ﾊｵ后様ﾄ\nｵ過ｺﾞｼﾆﾅ",
+      "ru": "Вечер с супругой",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28562",
+      "ja": "姫様ｦ将軍ﾉ誰ｶﾆ\n嫁ｶﾞｾ",
+      "ru": "Выдать замуж",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28578",
+      "ja": "ｺﾞ子息様ｦ将軍ﾆ\nｵ立ﾃﾅｻ",
+      "ru": "Сын - полководец",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2858E",
+      "ja": "将軍ﾉ人事ｦ\n行ﾜﾚ",
+      "ru": "Кадры войска",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2859E",
+      "ja": "政治顧問ﾉ\n人事ｦﾅｻ",
+      "ru": "Новый советник",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "285B0",
+      "ja": "属国ﾉ領主ｦ\n任命ﾅｻ",
+      "ru": "Выбор наместника",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "285C2",
+      "ja": "ﾙﾉﾃﾞｽﾅ",
+      "ru": "?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28670",
+      "ja": "部隊数",
+      "ru": "Войска",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "286A6",
+      "ja": "輸送量",
+      "ru": "Объём",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2875E",
+      "ja": "雇用数",
+      "ru": "Найм",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28786",
+      "ja": "減ﾗｽ",
+      "ru": "Убав",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28798",
+      "ja": "増ﾔｽ",
+      "ru": "Доб",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28850",
+      "ja": "特産品",
+      "ru": "Товары",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28858",
+      "ja": "食糧",
+      "ru": "Еда",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28862",
+      "ja": "数量",
+      "ru": "Кол",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28958",
+      "ja": "数量",
+      "ru": "Кол",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "289FC",
+      "ja": "数量",
+      "ru": "Кол",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28A8A",
+      "ja": "雇用数",
+      "ru": "Найм",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28B68",
+      "ja": "将軍ﾊ\nｵﾘﾏｾﾝ",
+      "ru": "Нет воевод",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27F38",
+      "ja": "主ﾆ何ﾆ投資ｻｾﾏｽｶ ",
+      "ru": "Во что вложить?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "264F4",
+      "ja": "ﾖﾛｼｲﾃﾞｽｶ",
+      "ru": "Верно?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28F80",
+      "ja": "本国ﾉ金半分ｦﾀﾞｽ",
+      "ru": "Дать полказны",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28F30",
+      "ja": "様ﾓｵ人ｶﾞ悪ｲ…\n私ﾉ考ｴﾊｱﾅﾀ様ﾄ同ｼﾞﾃﾞｺﾞｻﾞｲﾏｽ",
+      "ru": "Вы лукавите...\nЯ с вами согласен.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13ADE",
+      "ja": "敵ｶﾞ見ｱﾀﾘﾏｾﾝ",
+      "ru": "Врага нет.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13B12",
+      "ja": "内乱軍",
+      "ru": "Мятеж",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13B28",
+      "ja": "内乱軍",
+      "ru": "Мятеж",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13B60",
+      "ja": "攻撃側",
+      "ru": "Атака",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13B68",
+      "ja": "守備側",
+      "ru": "Защита",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13B70",
+      "ja": "軍団ﾃﾞ\n脱落者ｶﾞ出ﾃｲﾏｽ",
+      "ru": "В легионе\nдезертиры.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13C20",
+      "ja": "軍団ﾊ\n退却ﾆ失敗ｼﾏｼﾀ",
+      "ru": "Отход не удался.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13C38",
+      "ja": "攻撃側",
+      "ru": "Атака",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13C40",
+      "ja": "守備側",
+      "ru": "Защита",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14088",
+      "ja": "死亡",
+      "ru": "Умер",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "140D2",
+      "ja": "内乱",
+      "ru": "Бунт",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14150",
+      "ja": "内乱軍",
+      "ru": "Мятеж",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14182",
+      "ja": "内乱",
+      "ru": "Бунт",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1428E",
+      "ja": "内乱",
+      "ru": "Бунт",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "1442A",
+      "ja": "軍団司令官",
+      "ru": "Командир",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14436",
+      "ja": "部隊",
+      "ru": "Юнит",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "144BC",
+      "ja": "全滅",
+      "ru": "Пали",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "144C2",
+      "ja": "混乱",
+      "ru": "Хаос",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A26",
+      "ja": "騎    士",
+      "ru": "Рыцари",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A30",
+      "ja": "突撃騎兵",
+      "ru": "Мамлюки",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A3A",
+      "ja": "軽弓騎兵",
+      "ru": "Лучники",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A44",
+      "ja": "蒙古騎兵",
+      "ru": "Монголы",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A4E",
+      "ja": "槍 騎 兵",
+      "ru": "Уланы",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A58",
+      "ja": "狩猟騎兵",
+      "ru": "Кочевые",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A62",
+      "ja": "投 石 機",
+      "ru": "Катапул",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A6C",
+      "ja": "象    兵",
+      "ru": "Слоны",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A76",
+      "ja": "弩 弓 兵",
+      "ru": "Арбалеты",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A80",
+      "ja": "長 弓 兵",
+      "ru": "Дл лук",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A8A",
+      "ja": "短 弓 兵",
+      "ru": "Кр лук",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A94",
+      "ja": "火 砲 兵",
+      "ru": "Пушки",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13A9E",
+      "ja": "長 槍 兵",
+      "ru": "Пики",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13AA8",
+      "ja": "重 歩 兵",
+      "ru": "Тяж пех",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13AB2",
+      "ja": "軽 歩 兵",
+      "ru": "Лёг пех",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "273F2",
+      "ja": "突撃騎兵",
+      "ru": "Мамлюки",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "273FC",
+      "ja": "軽弓騎兵",
+      "ru": "Лучники",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27406",
+      "ja": "蒙古騎兵",
+      "ru": "Монголы",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27410",
+      "ja": "槍騎兵",
+      "ru": "Уланы",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27418",
+      "ja": "狩猟騎兵",
+      "ru": "Кочевые",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27438",
+      "ja": "長弓兵",
+      "ru": "Дл лук",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27440",
+      "ja": "短弓兵",
+      "ru": "Кр лук",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27448",
+      "ja": "火砲兵",
+      "ru": "Пушки",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27450",
+      "ja": "長槍兵",
+      "ru": "Пики",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27478",
+      "ja": "(突撃騎兵)",
+      "ru": "(Мамлюки)",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27484",
+      "ja": "(軽弓騎兵)",
+      "ru": "(Лучники)",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27490",
+      "ja": "(蒙古騎兵)",
+      "ru": "(Монголы)",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2749C",
+      "ja": "(槍騎兵)",
+      "ru": "(Уланы)",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "274A6",
+      "ja": "(狩猟騎兵)",
+      "ru": "(Кочевые)",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "274CE",
+      "ja": "(長弓兵)",
+      "ru": "(Дл лук)",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "274D8",
+      "ja": "(短弓兵)",
+      "ru": "(Кр лук)",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "274E2",
+      "ja": "(火砲兵)",
+      "ru": "(Пушки)",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "274EC",
+      "ja": "(長槍兵)",
+      "ru": "(Пики)",
+      "kind": "unit_name",
+      "max_columns": 12,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2877E",
+      "ja": "解雇数",
+      "ru": "Увол",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "288A8",
+      "ja": "金額",
+      "ru": "Злат",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28C24",
+      "ja": "他国ﾉ様子",
+      "ru": "О землях",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2752E",
+      "ja": "\n悲ｼｲｵ知ﾗｾﾃﾞｽ…",
+      "ru": "Дурная весть",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2822E",
+      "ja": "様\nｵ変ﾜﾘｺﾞｻﾞｲﾏｾﾇｶ",
+      "ru": "Как здоровье?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "28F72",
+      "ja": "降伏ｼﾃ属国ﾄﾅﾙ",
+      "ru": "В вассалы",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "297E0",
+      "ja": "ﾃﾞ､軍ﾉ\n補給率ﾊ最大ﾆﾅﾘﾏｽ",
+      "ru": "Снабжение\nполное.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "29A2E",
+      "ja": "ｶﾞ\nﾄﾞﾝﾅ男ﾅﾉｶ見定ﾒﾃﾔﾙﾜ!",
+      "ru": "Каков ты мужчина!",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13B46",
+      "ja": "軍団ﾊ\n隣接国ﾆ退却ｼﾏｼﾀ",
+      "ru": "Отход\nк соседям.",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13B90",
+      "ja": "力尽ｷ病没ｼﾏｼﾀ",
+      "ru": "Умер больным",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "13F6C",
+      "ja": "降伏勧告ｦｼﾏｽｶ",
+      "ru": "Сдавайтесь?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14304",
+      "ja": "\n自分ﾃﾞ部隊ｦ\n配置ｼﾏｽｶ",
+      "ru": "Расставите\nвойска?",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    },
+    {
+      "file": "HEX.PRG;1",
+      "offset": "14342",
+      "ja": "司令官ｶﾞｲﾏｾﾝ",
+      "ru": "Нет главы",
+      "kind": "dialogue",
+      "max_columns": 22,
+      "max_lines": 2
+    }
+  ],
+  "deferred": [
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "273E6",
+      "ja": "武士",
+      "ru": "Самураи",
+      "bytes": 8,
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "273EC",
+      "ja": "騎士",
+      "ru": "Рыцари",
+      "bytes": 6,
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27422",
+      "ja": "投石機",
+      "ru": "Катапул",
+      "bytes": 8,
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2742A",
+      "ja": "象兵",
+      "ru": "Слоны",
+      "bytes": 6,
+      "capacity": 4
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27430",
+      "ja": "弩弓兵",
+      "ru": "Арбалеты",
+      "bytes": 8,
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27458",
+      "ja": "重歩兵",
+      "ru": "Тяж пех",
+      "bytes": 8,
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27460",
+      "ja": "軽歩兵",
+      "ru": "Лёг пех",
+      "bytes": 8,
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27468",
+      "ja": "(武士)",
+      "ru": "(Самураи)",
+      "bytes": 10,
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27470",
+      "ja": "(騎士)",
+      "ru": "(Рыцари)",
+      "bytes": 8,
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "274B2",
+      "ja": "(投石機)",
+      "ru": "(Катапул)",
+      "bytes": 10,
+      "capacity": 8
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "274BC",
+      "ja": "(象兵)",
+      "ru": "(Слоны)",
+      "bytes": 8,
+      "capacity": 6
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "274C4",
+      "ja": "(弩弓兵)",
+      "ru": "(Арбалеты)",
+      "bytes": 10,
+      "capacity": 8
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "274F6",
+      "ja": "(重歩兵)",
+      "ru": "(Тяж пех)",
+      "bytes": 10,
+      "capacity": 8
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27500",
+      "ja": "(軽歩兵)",
+      "ru": "(Лёг пех)",
+      "bytes": 10,
+      "capacity": 8
+    }
+  ],
+  "new_entries": 87,
+  "total_fields": 1843,
+  "pair_count": 1122,
+  "iso_sha256": "024188630c991e81c7a0a34562a7119fcbd77f0466697823f97eaf1b5b6e0b24",
+  "checks": [
+    "build.py",
+    "verify.py",
+    "test_text_encoding.py",
+    "test_biographies.py",
+    "test_personnel_hints.py"
+  ],
+  "emulator": {
+    "core": "Genesis Plus GX",
+    "cold_boot": true,
+    "route": "dialogue-wave-governor-final-route.json",
+    "screen": "personnel-hint-1843.png",
+    "observed": "Выбор наместника? — русский текст, один вопросительный знак, без пробела перед ним и без выхода за рамку.",
+    "scope": "Проверена одна составная подсказка на игровом экране. Все шесть вариантов проверены test_personnel_hints.py. Боевые экраны и прочие новые реплики не проверялись поштучно в эмуляторе.",
+    "harem_regression_run": false
+  },
+  "notes": [
+    "Названия войск согласованы с терминологией Mega Drive, сокращения без точек.",
+    "14 коротких полей названий войск отложены: русский вариант не помещается; соседние данные не изменялись.",
+    "Шесть начал подсказок кадров находятся в таблице SMAIN 4CBE8; общий суффикс 285C2 добавляется вызовом по адресу файла 18576. Машинный код не менялся.",
+    "SMD не собирался."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "track": 57,
+  "text": "Все ваши подданные достойны уважения.",
+  "voice": "Наложница",
+  "direction": "[softly][hesitant][subdued]",
+  "provider": "ElevenLabs",
+  "frames": 265188,
+  "lead_seconds": 1.2,
+  "sha256": "33799b0c64fd0cca9eede19f42c416a19644b294d643c6826629e57fdafab4e2",
+  "backup": "sega-cd\\build\\audio-preview\\track57-before-subjects.wav",
+  "delivery_requires_listener_review": true
+}

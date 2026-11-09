@@ -1,0 +1,929 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26FF6",
+    "capacity": 13,
+    "ja": "ｶﾞ独立ｼﾀﾖｳﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2702C",
+    "capacity": 13,
+    "ja": "様ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2752E",
+    "capacity": 15,
+    "ja": "\n悲ｼｲｵ知ﾗｾﾃﾞｽ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2773E",
+    "capacity": 15,
+    "ja": "』\u001bHﾃﾞ\nﾖﾛｼｲﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277A8",
+    "capacity": 18,
+    "ja": "』ﾄﾊ\nﾖｲｵ名前ﾃﾞｽﾅ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278AA",
+    "capacity": 17,
+    "ja": "ﾉ\n後任ｦｵ決ﾒﾆﾅﾘﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278F0",
+    "capacity": 13,
+    "ja": "ｶﾞ死ﾝﾀﾞﾓﾖｳﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279F0",
+    "capacity": 16,
+    "ja": "\u001bCFﾉ被害ｶﾞ出ﾃｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A02",
+    "capacity": 18,
+    "ja": "大変ﾃﾞｽ\n我ｶﾞ国ﾆ\u001bC1",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A88",
+    "capacity": 35,
+    "ja": "ｵ喜ﾋﾞ下ｻｲ\n今季ﾊ\u001bC2大豊作\u001bCFﾆｺﾞｻﾞｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27BB0",
+    "capacity": 19,
+    "ja": "様\n人望ｦﾏｽﾏｽ高ﾒﾏｼﾀﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27D92",
+    "capacity": 29,
+    "ja": "天下ｦ夢見ﾀ男ｶﾞ､ﾏﾀ一人､消ｴﾀ…｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DC4",
+    "capacity": 27,
+    "ja": "歴史ﾉ奔流ﾉ前ﾆｱｴﾅｸ散ｯﾀﾉﾃﾞｱﾙ｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DF8",
+    "capacity": 22,
+    "ja": "一人ﾉ男ﾉ生涯ﾊ幕ｦ閉ｼﾞﾀ｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E28",
+    "capacity": 20,
+    "ja": "次代ﾍﾉ礎ﾄﾅｯﾀﾉﾃﾞｱﾙ…｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E50",
+    "capacity": 17,
+    "ja": "変ｴﾙｺﾄﾊﾃﾞｷﾅｶｯﾀ…｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E70",
+    "capacity": 17,
+    "ja": "ｦ必要ﾄｼﾅｶｯﾀﾉﾃﾞｱﾙ｡",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27F38",
+    "capacity": 16,
+    "ja": "主ﾆ何ﾆ投資ｻｾﾏｽｶ ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28048",
+    "capacity": 15,
+    "ja": "ﾉ指示ｦ\nﾅｻﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28078",
+    "capacity": 22,
+    "ja": "ﾉ輸送ｦ\nﾄﾞﾚﾀﾞｹｵ望ﾐﾃﾞｽｶﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28090",
+    "capacity": 12,
+    "ja": "ﾊ\nﾓｳｲｯﾊﾟｲﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2848E",
+    "capacity": 13,
+    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28820",
+    "capacity": 10,
+    "ja": "ｦ\nﾅｻﾙﾉﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28868",
+    "capacity": 14,
+    "ja": "ｦ\nｲｸﾗ施ｼﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2897A",
+    "capacity": 15,
+    "ja": "ﾃﾞｽ\nｲｸﾗｵ売ﾘﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A02",
+    "capacity": 15,
+    "ja": "ﾃﾞｽ\nｲｸﾗｵ買ｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A28",
+    "capacity": 20,
+    "ja": "ｦ何部隊\nｵ雇ｲﾆﾅﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28CC2",
+    "capacity": 16,
+    "ja": "ﾉ使者ﾊ\n誰ﾆﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28F30",
+    "capacity": 40,
+    "ja": "様ﾓｵ人ｶﾞ悪ｲ…\n私ﾉ考ｴﾊｱﾅﾀ様ﾄ同ｼﾞﾃﾞｺﾞｻﾞｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28F5A",
+    "capacity": 11,
+    "ja": "様ﾃﾞｺﾞｻﾞｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292C4",
+    "capacity": 19,
+    "ja": "年ﾉ同盟延長ｦｵ望ﾐﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292E6",
+    "capacity": 17,
+    "ja": "年間ﾉ同盟ｦｵ望ﾐﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29630",
+    "capacity": 23,
+    "ja": "住民ｶﾗ金ｦ徴税ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29648",
+    "capacity": 24,
+    "ja": "本国ﾉ部隊ｦ解雇ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29662",
+    "capacity": 24,
+    "ja": "本国ﾉ部隊ｦ訓練ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2967C",
+    "capacity": 19,
+    "ja": "武具ｦ購入ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29690",
+    "capacity": 22,
+    "ja": "住民ﾉ再配分ｦｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296B2",
+    "capacity": 14,
+    "ja": "購入ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2970C",
+    "capacity": 15,
+    "ja": "ﾆ投資ｼﾏｽ\n実行ｼﾃ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29774",
+    "capacity": 18,
+    "ja": "ｦ\n軍団司令官ﾆｲﾀｼﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29788",
+    "capacity": 13,
+    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "297E0",
+    "capacity": 23,
+    "ja": "ﾃﾞ､軍ﾉ\n補給率ﾊ最大ﾆﾅﾘﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298C8",
+    "capacity": 16,
+    "ja": "ﾉ領主ｦ\n誰ﾆｲﾀｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "299FE",
+    "capacity": 17,
+    "ja": "様ｦ\n后ﾆｵ迎ｴｲﾀｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29CBC",
+    "capacity": 23,
+    "ja": "ﾄｲｳ\n逸材ｶﾞｵﾘﾏｽ 登用ｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29DB8",
+    "capacity": 38,
+    "ja": "女ﾉ勘ﾃﾞｽｶﾞ×××××殿ﾊ\nﾄﾞｳﾓ信用ﾃﾞｷﾏｾﾝ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF70",
+    "capacity": 12,
+    "ja": "ﾃﾞｽ\n変更ｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AFC2",
+    "capacity": 17,
+    "ja": "ﾆ変更ｼﾏｽ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AFDE",
+    "capacity": 21,
+    "ja": "ﾃﾞｽ\nﾄﾞｳ変更ｼﾏｽｶ      ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B086",
+    "capacity": 29,
+    "ja": "ﾊｺﾚ以降\n\u001bKｺﾝﾋﾟｭ-ﾀ-\u001bHｶﾞ担当ｼﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B0D6",
+    "capacity": 19,
+    "ja": "ｺﾉ\u001bKｹﾞ-ﾑ\u001bHｦ終了ｼﾏｽ\n",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "332AD",
+    "capacity": 11,
+    "ja": "\r\u001bKﾃﾞｽﾋﾟﾅ\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35201",
+    "capacity": 16,
+    "ja": "?\u001bKｼｭｳﾞｧｰﾍﾞﾝ公\u001bH",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4AF6C",
+    "capacity": 24,
+    "ja": "我ｶﾞ国ﾆ商人ｶﾞ\n来ﾃｲﾙﾖｳﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4AF86",
+    "capacity": 24,
+    "ja": "ｺﾞ自分ﾃﾞ命令ｦ\n実行ﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4B6D0",
+    "capacity": 14,
+    "ja": "ﾄﾞｺｦ\n本国ﾆｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4B9EA",
+    "capacity": 24,
+    "ja": "ｿﾉ国ﾊ他勢力ﾉ\n支配下ﾆｱﾘﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4BF4F",
+    "capacity": 19,
+    "ja": "\r命名ｦｵ止ﾒﾆ\nﾅﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4BF7B",
+    "capacity": 28,
+    "ja": "\nｵ子ﾉ名前ﾊｺﾞ自分ﾃﾞ\nｵﾂｹﾆﾅﾘﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4BF98",
+    "capacity": 33,
+    "ja": "子ﾉ名ﾊ親ｶﾞﾂｹﾙﾉｶﾞ\n一番ﾃﾞｺﾞｻﾞｲﾏｽﾄﾓ!",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C4B2",
+    "capacity": 23,
+    "ja": "国政ﾉ委任ｦ\nｵ止ﾒﾆﾅﾙﾉﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C4EA",
+    "capacity": 24,
+    "ja": "ﾄﾞﾉ国ﾆ命令書ｦ\nｵ出ｼﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C51A",
+    "capacity": 29,
+    "ja": "住民ﾉ配分ｦｲｶﾖｳﾆ\n変更ﾅｻﾙﾉﾃﾞｽｶﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C5D8",
+    "capacity": 28,
+    "ja": "ｺﾞ覧ﾉ命令書ﾆ\n何ｶｺﾞ不満ﾊｱﾘﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C5F6",
+    "capacity": 20,
+    "ja": "ﾄﾞﾉ国ｦ\n委任ﾅｻﾙﾉﾃﾞｽｶﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C60C",
+    "capacity": 24,
+    "ja": "ｽﾃﾞﾆ私ﾒﾆ\n委任ｻﾚﾃｵﾘﾏｽｶﾞ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C626",
+    "capacity": 18,
+    "ja": "殿ﾆ\n既ﾆ委任ｻﾚﾃｵﾘﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C63A",
+    "capacity": 22,
+    "ja": "私ﾒﾆ全ﾃｦ\nｵ任ｾ頂ｹﾙﾉﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C652",
+    "capacity": 18,
+    "ja": "殿ﾆ\nｵ任ｾｼﾃﾖﾛｼｲﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C6B4",
+    "capacity": 25,
+    "ja": "ｿﾉ国ﾊｽﾃﾞﾆ\n命令ｶﾞ終了ｼﾃｲﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C6E0",
+    "capacity": 21,
+    "ja": "遠征先ﾊﾄﾞｺﾃﾞ\nｺﾞｻﾞｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C720",
+    "capacity": 19,
+    "ja": "ﾄﾞﾉ国ﾆ\n移動ｻｾﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C74E",
+    "capacity": 22,
+    "ja": "ｿﾉ国ﾉ部隊ﾊ\nｽﾃﾞﾆ一杯ﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C77E",
+    "capacity": 26,
+    "ja": "部隊ﾉ移動ｦ\nﾄﾞﾚﾀﾞｹｵ望ﾐﾃﾞｽｶﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C7AA",
+    "capacity": 19,
+    "ja": "ﾄﾞﾉ国ﾆ\n輸送ｻｾﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C80E",
+    "capacity": 19,
+    "ja": "ﾄﾞﾉ国ﾆ使者ｦ\n送ﾗｾﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C876",
+    "capacity": 17,
+    "ja": "ﾉ指示ｦ\n出ｻﾚﾙﾉﾃﾞｽﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C8E4",
+    "capacity": 22,
+    "ja": "誰ｦ領主ﾆ\n任命ﾅｻﾙﾉﾃﾞｽｶﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C8FC",
+    "capacity": 20,
+    "ja": "様ﾆ\n畏ﾚﾅｶﾞﾗ申ｼ上ｹﾞﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C95C",
+    "capacity": 26,
+    "ja": "誰ｦ政治顧問ﾆ\n任命ﾅｻﾙﾉﾃﾞｽｶﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C978",
+    "capacity": 28,
+    "ja": "ﾄﾞﾉ国ﾉ政治顧問ｦ\n降格ﾅｻﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CA04",
+    "capacity": 21,
+    "ja": "ﾄﾞﾉ将軍ｦ\n降格ﾅｻﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CA60",
+    "capacity": 24,
+    "ja": "ﾄﾞﾉｺﾞ子息様ｦ\n将軍ﾆﾅｻﾚﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CA7A",
+    "capacity": 21,
+    "ja": "様ﾊ\nﾏﾀﾞﾏﾀﾞｵ若過ｷﾞﾏｽｿﾞ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CACA",
+    "capacity": 22,
+    "ja": "ﾄﾞﾅﾀ様ｦｵ嫁ﾆ\n出ｻﾚﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CAE2",
+    "capacity": 17,
+    "ja": "様ﾊ\nﾏﾀﾞﾏﾀﾞ幼ｽｷﾞﾏｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CAF4",
+    "capacity": 20,
+    "ja": "ﾄﾞﾉ将軍ﾆ\n嫁ｶﾞｾﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CB70",
+    "capacity": 18,
+    "ja": "ﾄﾞﾅﾀ様ﾉﾓﾄﾆ\n参ﾗﾚﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CC70",
+    "capacity": 17,
+    "ja": "ﾄﾞﾉ国ﾍ\n移動ﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CC82",
+    "capacity": 22,
+    "ja": "私ﾒﾓｺﾞ同行ｻｾﾃ\nｲﾀﾀﾞｹﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CC9A",
+    "capacity": 19,
+    "ja": "ﾄﾞﾉ国ﾍ\n移動ｻｾﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CCD4",
+    "capacity": 29,
+    "ja": "ﾄﾞﾉ部隊ｦ\n移動ｻｾﾏｽｶ           ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CCF2",
+    "capacity": 25,
+    "ja": "部隊ｦﾄﾞﾚﾀﾞｹ\n移動ｻｾﾙﾉﾃﾞｽｶﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CD40",
+    "capacity": 21,
+    "ja": "ｿﾉ国ﾉ国庫ﾊ\nﾓｳｲｯﾊﾟｲﾃﾞｽ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CDEE",
+    "capacity": 29,
+    "ja": "ﾄﾞﾉ部隊ｦ\n解雇ﾅｻｲﾏｽｶ          ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CE0C",
+    "capacity": 17,
+    "ja": "ﾄﾞﾚﾀﾞｹ\n解雇ﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CF14",
+    "capacity": 29,
+    "ja": "民ﾊ困窮ｼﾃｵﾘﾏｽ\n何ﾓ徴収ﾃﾞｷﾏｾﾇ…",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4D43E",
+    "capacity": 27,
+    "ja": "ｿﾚﾃﾞﾊﾄﾞﾉ将軍ﾆ\n指揮権ｦ委ﾈﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4D48C",
+    "capacity": 18,
+    "ja": "金ｦﾄﾞﾚﾀﾞｹ\n持ﾀｾﾏｽｶﾅ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4D4B0",
+    "capacity": 20,
+    "ja": "自ﾗ軍ﾉ総指揮ｦ\nﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4D4C6",
+    "capacity": 24,
+    "ja": "軍団ｦｺﾞ自分ﾃﾞ\n編成ﾅｻｲﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4D4EA",
+    "capacity": 18,
+    "ja": "遠征ｦ\n中止ﾅｻﾙﾉﾃﾞｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4D528",
+    "capacity": 24,
+    "ja": "遠征軍ﾆ何部隊\n編成ｲﾀｼﾏｽｶ",
+    "ru": "",
+    "status": "unreviewed",
+    "format_tokens": []
+  }
+]

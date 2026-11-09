@@ -1,0 +1,738 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272C4",
+    "ja": "終 了",
+    "ru": "Конец",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA78",
+        "before": "000332c4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272CA",
+    "ja": "機 能",
+    "ru": "Функции",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA74",
+        "before": "000332ca"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272D6",
+    "ja": "商 人",
+    "ru": "Купец",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA6C",
+        "before": "000332d6"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272DC",
+    "ja": "外 交",
+    "ru": "Диплом",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA68",
+        "before": "000332dc"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272E2",
+    "ja": "内 政",
+    "ru": "Хоз-во",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA64",
+        "before": "000332e2"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272E8",
+    "ja": "軍 事",
+    "ru": "Война",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA60",
+        "before": "000332e8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272EE",
+    "ja": "人 事",
+    "ru": "Кадры",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA5C",
+        "before": "000332ee"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272F4",
+    "ja": "指 示",
+    "ru": "Приказ",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA58",
+        "before": "000332f4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "272FA",
+    "ja": "方 針",
+    "ru": "Политика",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA54",
+        "before": "000332fa"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27300",
+    "ja": "国王",
+    "ru": "Правитель",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA88",
+        "before": "00033300"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27306",
+    "ja": "領主",
+    "ru": "Наместник",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA84",
+        "before": "00033306"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27316",
+    "ja": "将軍",
+    "ru": "Полководец",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA7C",
+        "before": "00033316"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2731C",
+    "ja": "王族",
+    "ru": "Династия",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA98",
+        "before": "0003331c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27322",
+    "ja": "親族",
+    "ru": "Родня",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BA94",
+        "before": "00033322"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2732A",
+    "ja": "中国",
+    "ru": "Китай",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BAB8",
+        "before": "0003332a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2733A",
+    "ja": "東欧",
+    "ru": "ВостЕвропа",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BAB0",
+        "before": "0003333a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27340",
+    "ja": "西欧",
+    "ru": "ЗапЕвропа",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BAAC",
+        "before": "00033340"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27346",
+    "ja": "日本",
+    "ru": "Япония",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BAA8",
+        "before": "00033346"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27394",
+    "ja": "武具",
+    "ru": "Оружие",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BB20",
+        "before": "00033394"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2739A",
+    "ja": "食糧",
+    "ru": "Провиант",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BB1C",
+        "before": "0003339a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273A0",
+    "ja": "香料",
+    "ru": "Пряности",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BB18",
+        "before": "000333a0"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273A6",
+    "ja": "織物",
+    "ru": "Ткани",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BB14",
+        "before": "000333a6"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273D6",
+    "ja": "宝石",
+    "ru": "Самоцветы",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BAFC",
+        "before": "000333d6"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273E0",
+    "ja": "毛皮",
+    "ru": "Меха",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BAF4",
+        "before": "000333e0"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2751E",
+    "ja": "中国",
+    "ru": "Китай",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BBA8",
+        "before": "0003351e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27988",
+    "ja": "疫病",
+    "ru": "Эпидемия",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BFE6",
+        "before": "00033988"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2798E",
+    "ja": "干ﾊﾞﾂ",
+    "ru": "Засуха",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BFE2",
+        "before": "0003398e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27994",
+    "ja": "台風",
+    "ru": "Тайфун",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BFDE",
+        "before": "00033994"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2799A",
+    "ja": "寒波",
+    "ru": "Морозы",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BFDA",
+        "before": "0003399a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279A0",
+    "ja": "砂嵐",
+    "ru": "Песч буря",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BFD6",
+        "before": "000339a0"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27FD4",
+    "ja": "特産",
+    "ru": "Промыслы",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C672",
+        "before": "00033fd4"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27FDA",
+    "ja": "畜産",
+    "ru": "Скотовод",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C66E",
+        "before": "00033fda"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27FE0",
+    "ja": "農産",
+    "ru": "Земледел",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C66A",
+        "before": "00033fe0"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28030",
+    "ja": "外交",
+    "ru": "Диплом",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C69E",
+        "before": "00034030"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28036",
+    "ja": "輸送",
+    "ru": "Пересылка",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C69A",
+        "before": "00034036"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2803C",
+    "ja": "移動",
+    "ru": "Переход",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C696",
+        "before": "0003403c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28042",
+    "ja": "遠征",
+    "ru": "Поход",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C692",
+        "before": "00034042"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28066",
+    "ja": "食糧",
+    "ru": "Провиант",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C7EC",
+        "before": "00034066"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "295FE",
+    "ja": "遠征",
+    "ru": "Поход",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D30C",
+        "before": "000355fe"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2962A",
+    "ja": "脅迫",
+    "ru": "Угроза",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D310",
+        "before": "0003562a"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296D0",
+    "ja": "徴兵",
+    "ru": "Призыв",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D33C",
+        "before": "000356d0"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296F8",
+    "ja": "城防御",
+    "ru": "Оборона",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D34C",
+        "before": "000356f8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29700",
+    "ja": "農業",
+    "ru": "Земледел",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D348",
+        "before": "00035700"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29706",
+    "ja": "商業",
+    "ru": "Торговля",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D344",
+        "before": "00035706"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AFB2",
+    "ja": "普通",
+    "ru": "Обычно",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D8EA",
+        "before": "00036fb2"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AFBC",
+    "ja": "最速",
+    "ru": "Мгновенно",
+    "kind": "interface_label",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4D8E2",
+        "before": "00036fbc"
+      }
+    ]
+  }
+]

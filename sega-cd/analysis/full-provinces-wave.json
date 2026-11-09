@@ -1,0 +1,569 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D0A",
+    "ja": "\u001bKｵﾉﾝ河流域\u001bH",
+    "ru": "Река Онон",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D1A",
+    "ja": "\u001bKｹﾙﾚﾝ河流域\u001bH",
+    "ru": "Река Керулен",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D2A",
+    "ja": "興安嶺西麓",
+    "ru": "Зап Хинган",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D3A",
+    "ja": "内\u001bKﾓﾝｺﾞﾙ高原\u001bH",
+    "ru": "Внутр Монголия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D4A",
+    "ja": "\u001bKﾔﾌﾞﾛﾉｲ山麓\u001bH",
+    "ru": "Яблоновый хр",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D5A",
+    "ja": "\u001bKｺﾞﾙｺﾞﾅｸ河原\u001bH",
+    "ru": "Река Горгонак",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D6A",
+    "ja": "\u001bKﾄｰﾗ河流域\u001bH",
+    "ru": "Река Туул",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D7A",
+    "ja": "\u001bKﾊﾞｲｶﾙ湖東岸\u001bH",
+    "ru": "Вост Байкал",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D8A",
+    "ja": "\u001bKｾﾚﾝｹﾞ河流域\u001bH",
+    "ru": "Река Селенга",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49D9A",
+    "ja": "\u001bKｼﾍﾞﾘｱ南部\u001bH",
+    "ru": "Южная Сибирь",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49DAA",
+    "ja": "\u001bKﾊﾞｲｶﾙ湖西岸\u001bH",
+    "ru": "Зап Байкал",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49DBA",
+    "ja": "\u001bKﾊﾝｶﾞｲ山麓\u001bH",
+    "ru": "Горы Хангай",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49DCA",
+    "ja": "\u001bKｴﾆｾｲ河上流\u001bH",
+    "ru": "Река Енисей",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49DDA",
+    "ja": "\u001bKｱﾙﾀｲ山麓\u001bH",
+    "ru": "Горы Алтая",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49F1A",
+    "ja": "奥州",
+    "ru": "Осю",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49F2A",
+    "ja": "常陸",
+    "ru": "Хитати",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49F3A",
+    "ja": "越後",
+    "ru": "Этиго",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49F4A",
+    "ja": "信濃",
+    "ru": "Синано",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49F5A",
+    "ja": "鎌倉",
+    "ru": "Камакура",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49F6A",
+    "ja": "東海",
+    "ru": "Токай",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49F7A",
+    "ja": "越前",
+    "ru": "Этидзэн",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49F8A",
+    "ja": "美濃",
+    "ru": "Мино",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49F9A",
+    "ja": "近江",
+    "ru": "Оми",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49FAA",
+    "ja": "畿内",
+    "ru": "Кинай",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49FBA",
+    "ja": "福原",
+    "ru": "Фукухара",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49FCA",
+    "ja": "四国",
+    "ru": "Сикоку",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49FDA",
+    "ja": "中国",
+    "ru": "Тюгоку",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "49FEA",
+    "ja": "九州",
+    "ru": "Кюсю",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A12A",
+    "ja": "\u001bKﾓﾝｺﾞﾙ高原\u001bH",
+    "ru": "Монголия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A13A",
+    "ja": "\u001bKｼﾞｭﾝｶﾞﾘｱ\u001bH",
+    "ru": "Джунгария",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A14A",
+    "ja": "\u001bKｷﾌﾟﾁｬｸ\u001bH",
+    "ru": "Кипчак",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A15A",
+    "ja": "遼東",
+    "ru": "Ляодун",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A16A",
+    "ja": "華北",
+    "ru": "Северный Китай",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A17A",
+    "ja": "甘粛",
+    "ru": "Ганьсу",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A18A",
+    "ja": "高昌",
+    "ru": "Гаочан",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A19A",
+    "ja": "\u001bKﾄﾙｷｽﾀﾝ\u001bH",
+    "ru": "Туркестан",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A1AA",
+    "ja": "\u001bKﾁﾍﾞｯﾄ\u001bH",
+    "ru": "Тибет",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A1BA",
+    "ja": "朝鮮半島",
+    "ru": "Корея",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A1CA",
+    "ja": "日本",
+    "ru": "Япония",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A1DA",
+    "ja": "華南",
+    "ru": "Южный Китай",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A1EA",
+    "ja": "安南",
+    "ru": "Аннам",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A1FA",
+    "ja": "\u001bKﾋﾞﾙﾏ\u001bH",
+    "ru": "Бирма",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A20A",
+    "ja": "小\u001bKｱｼﾞｱ\u001bH",
+    "ru": "Малая Азия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A21A",
+    "ja": "\u001bKｼﾘｱ\u001bH",
+    "ru": "Сирия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A22A",
+    "ja": "\u001bKﾏｸﾞﾘﾌﾞ\u001bH",
+    "ru": "Магриб",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A23A",
+    "ja": "\u001bKｴｼﾞﾌﾟﾄ\u001bH",
+    "ru": "Египет",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A24A",
+    "ja": "\u001bKｱﾗﾋﾞｱ\u001bH",
+    "ru": "Аравия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A25A",
+    "ja": "\u001bKﾍﾟﾙｼｱ\u001bH",
+    "ru": "Персия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A26A",
+    "ja": "\u001bKﾊﾟﾝｼﾞｬﾌﾞ\u001bH",
+    "ru": "Пенджаб",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A27A",
+    "ja": "\u001bKﾋﾝﾄﾞｽﾀﾝ\u001bH",
+    "ru": "Индостан",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A28A",
+    "ja": "南\u001bKｲﾝﾄﾞ\u001bH",
+    "ru": "Южная Индия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A29A",
+    "ja": "\u001bKﾙｰｼ\u001bH",
+    "ru": "Русь",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A2AA",
+    "ja": "\u001bKﾊﾞﾙｶﾝ\u001bH",
+    "ru": "Балканы",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A2BA",
+    "ja": "\u001bKﾊﾞﾙﾄ海東岸\u001bH",
+    "ru": "Берег Балтики",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A2CA",
+    "ja": "\u001bKﾎﾟｰﾗﾝﾄﾞ\u001bH",
+    "ru": "Польша",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A2DA",
+    "ja": "\u001bKﾊﾝｶﾞﾘｰ\u001bH",
+    "ru": "Венгрия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A2EA",
+    "ja": "\u001bKﾄﾞｲﾂ\u001bH",
+    "ru": "Германия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A2FA",
+    "ja": "\u001bKｲﾀﾘｱ\u001bH",
+    "ru": "Италия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A30A",
+    "ja": "\u001bKｲｷﾞﾘｽ\u001bH",
+    "ru": "Англия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A31A",
+    "ja": "\u001bKﾌﾗﾝｽ\u001bH",
+    "ru": "Франция",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4A32A",
+    "ja": "\u001bKｲﾍﾞﾘｱ\u001bH",
+    "ru": "Иберия",
+    "kind": "province",
+    "max_columns": 14,
+    "max_lines": 1
+  }
+]

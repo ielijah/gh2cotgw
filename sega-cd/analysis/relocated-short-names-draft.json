@@ -1,0 +1,402 @@
+[
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4F30",
+    "ja": "ﾌｹﾞﾁ",
+    "ru": "Хугэчи",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16D3E",
+        "before": "0006af30"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4F36",
+    "ja": "ﾄﾞﾙｼﾞ",
+    "ru": "Дорджи",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16D3A",
+        "before": "0006af36"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4F3C",
+    "ja": "ﾄｺﾞﾝ",
+    "ru": "Тогон",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16D36",
+        "before": "0006af3c"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4F42",
+    "ja": "ﾄｩﾙｲ",
+    "ru": "Толуй",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16D32",
+        "before": "0006af42"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4F48",
+    "ja": "ﾁｬｶﾞﾀｲ",
+    "ru": "Чагатай",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16D2E",
+        "before": "0006af48"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4F72",
+    "ja": "ｼﾞｭﾁ",
+    "ru": "Джучи",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16D1A",
+        "before": "0006af72"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4F90",
+    "ja": "ｻﾗｰﾐｼｭ",
+    "ru": "Саламыш",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16D0A",
+        "before": "0006af90"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4F98",
+    "ja": "ｺｺﾁｭｳ",
+    "ru": "Кокэчу",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16D06",
+        "before": "0006af98"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4FA8",
+    "ja": "ｶﾞｲﾊﾄｩ",
+    "ru": "Гайхату",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16CFE",
+        "before": "0006afa8"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4FB0",
+    "ja": "ｵｺﾞﾀｲ",
+    "ru": "Угэдэй",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16CFA",
+        "before": "0006afb0"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4FE6",
+    "ja": "ﾗｯﾁ",
+    "ru": "Лачи",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16F06",
+        "before": "0006afe6"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "500A",
+    "ja": "ﾑｱﾙﾝ",
+    "ru": "Оэлун",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16EF2",
+        "before": "0006b00a"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5010",
+    "ja": "ﾏﾙｸﾞﾘｯﾄ",
+    "ru": "Маргарита",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16EEE",
+        "before": "0006b010"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5018",
+    "ja": "ﾏﾙｷﾞﾄ",
+    "ru": "Маргит",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16EEA",
+        "before": "0006b018"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "504C",
+    "ja": "ﾍﾞｱﾄﾘｸｽ",
+    "ru": "Беатриса",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16ECE",
+        "before": "0006b04c"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5070",
+    "ja": "ﾆﾄﾞﾝ",
+    "ru": "Нидун",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16EBA",
+        "before": "0006b070"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "508A",
+    "ja": "ﾃﾞｽﾋﾟﾅ",
+    "ru": "Деспина",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16EAA",
+        "before": "0006b08a"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5092",
+    "ja": "ﾃｵﾄﾞｰﾗ",
+    "ru": "Феодора",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16EA6",
+        "before": "0006b092"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "50AA",
+    "ja": "ﾀﾏﾁｬ",
+    "ru": "Тамача",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E96",
+        "before": "0006b0aa"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5114",
+    "ja": "ｼｰﾘｰﾝ",
+    "ru": "Ширин",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E5E",
+        "before": "0006b114"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "511A",
+    "ja": "ｼｲﾗ",
+    "ru": "Шара",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E5A",
+        "before": "0006b11a"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "512A",
+    "ja": "ｻﾌｨｰｱ",
+    "ru": "Сафия",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E4E",
+        "before": "0006b12a"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "5196",
+    "ja": "ｶﾏﾗ",
+    "ru": "Камала",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16E12",
+        "before": "0006b196"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "51E6",
+    "ja": "ｲｻﾞﾍﾞﾙ",
+    "ru": "Изабелла",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16DE6",
+        "before": "0006b1e6"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "51EE",
+    "ja": "ｲｻﾞﾍﾞﾗ",
+    "ru": "Изабелла",
+    "kind": "person_name",
+    "max_columns": 10,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "16DE2",
+        "before": "0006b1ee"
+      }
+    ]
+  }
+]

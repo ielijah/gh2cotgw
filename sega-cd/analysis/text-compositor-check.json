@@ -1,6 +1,6 @@
 {
-  "pairs": 1102,
-  "capacity": 2444,
+  "pairs": 1197,
+  "capacity": 2256,
   "extra_stack_bytes": 32,
   "checks": [
     "all code boundaries",

@@ -1,0 +1,21 @@
+{
+  "text": "Выберите\nпункт меню",
+  "storage": {
+    "offset": 237264,
+    "length": 20,
+    "ru": "Выберите\nпункт меню"
+  },
+  "iso_sha256": "e75c0348bab1580ae1a49eb1cbdec0e988fc0f9c4a32ea622071bce68fb5776e",
+  "checks": [
+    "build.py",
+    "verify.py",
+    "test_text_encoding.py",
+    "test_personnel_hints.py"
+  ],
+  "emulator": "Genesis Plus GX, cold boot",
+  "route": "start-prompt-route.json",
+  "screenshot": "start-prompt-final.png",
+  "observed": "Обе строки читаются и полностью помещаются в окне главного меню.",
+  "smd_built": false,
+  "harem_regression_run": false
+}

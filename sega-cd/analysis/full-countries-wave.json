@@ -1,0 +1,967 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C3BC",
+    "ja": "奥州藤原氏",
+    "ru": "Фудзивара Осю",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C410",
+    "ja": "九州武士団",
+    "ru": "Воины Кюсю",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C42C",
+    "ja": "摂津源氏",
+    "ru": "Минамото Сэтцу",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C4D4",
+    "ja": "河野水軍",
+    "ru": "Флот Коно",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C57C",
+    "ja": "木曾源氏",
+    "ru": "Минамото Кисо",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C598",
+    "ja": "桓武平氏",
+    "ru": "Тайра Камму",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C694",
+    "ja": "常陸源氏",
+    "ru": "Минамото Хитати",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C73C",
+    "ja": "清和源氏",
+    "ru": "Минамото Сэйва",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E3BC",
+    "ja": "\u001bKﾓﾝｺﾞﾙ族\u001bH",
+    "ru": "Монголы",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E410",
+    "ja": "\u001bKﾅｲﾏﾝ族\u001bH",
+    "ru": "Найманы",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E42C",
+    "ja": "\u001bKﾄﾏｯﾄ族\u001bH",
+    "ru": "Тумэты",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E50C",
+    "ja": "\u001bKｷﾙｷﾞｽ族\u001bH",
+    "ru": "Киргизы",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E528",
+    "ja": "\u001bKｵﾝｷﾞﾗﾄ族\u001bH",
+    "ru": "Онгираты",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E544",
+    "ja": "\u001bKｹﾚｲﾄ族\u001bH",
+    "ru": "Кереиты",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E560",
+    "ja": "\u001bKｼﾞｪﾙｷﾝ族\u001bH",
+    "ru": "Джуркины",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E57C",
+    "ja": "\u001bKｵﾝｸﾞｯﾄ族\u001bH",
+    "ru": "Онгуты",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E598",
+    "ja": "\u001bKｵｲﾗｰﾄ族\u001bH",
+    "ru": "Ойраты",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E5B4",
+    "ja": "\u001bKﾒﾙｷﾄ族\u001bH",
+    "ru": "Меркиты",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E608",
+    "ja": "\u001bKｼﾞｬﾀﾞﾗﾝ族\u001bH",
+    "ru": "Джадараны",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E694",
+    "ja": "\u001bKﾀﾀﾙ族\u001bH",
+    "ru": "Татары",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2E73C",
+    "ja": "\u001bKﾀｲﾁｳﾄ族\u001bH",
+    "ru": "Тайчиуты",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "303BC",
+    "ja": "\u001bKﾓﾝｺﾞﾙ帝国\u001bH",
+    "ru": "Империя монголов",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "303D8",
+    "ja": "\u001bKｼﾞｭﾝｶﾞﾘｱ諸族\u001bH",
+    "ru": "Джунгария",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "303F4",
+    "ja": "\u001bKｸﾏﾝ族同盟\u001bH",
+    "ru": "Союз половцев",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30410",
+    "ja": "金",
+    "ru": "Цзинь",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3042C",
+    "ja": "西夏",
+    "ru": "Си Ся",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30448",
+    "ja": "\u001bKｳｲｸﾞﾙ王国\u001bH",
+    "ru": "Уйгурия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30464",
+    "ja": "西遼",
+    "ru": "Западное Ляо",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30480",
+    "ja": "吐蕃",
+    "ru": "Тибет",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3049C",
+    "ja": "高麗",
+    "ru": "Корё",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "304B8",
+    "ja": "鎌倉幕府",
+    "ru": "Сёгунат Камакура",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "304D4",
+    "ja": "南宋",
+    "ru": "Южная Сун",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "304F0",
+    "ja": "大越･大理連合",
+    "ru": "Дайвьет и Дали",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3050C",
+    "ja": "\u001bKﾊﾟｶﾞﾝ朝\u001bH",
+    "ru": "Паган",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30528",
+    "ja": "\u001bKｾﾙｼﾞｭｰｸ連邦\u001bH",
+    "ru": "Сельджуки",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30544",
+    "ja": "\u001bKｱｲﾕｰﾌﾞ朝\u001bH",
+    "ru": "Айюбиды",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30560",
+    "ja": "\u001bKｱﾙﾓﾊｰﾄﾞ帝国\u001bH",
+    "ru": "Альмохады",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3057C",
+    "ja": "\u001bKｶﾘﾌ領\u001bH",
+    "ru": "Халифат",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30598",
+    "ja": "\u001bKﾎﾗｽﾞﾑ帝国\u001bH",
+    "ru": "Хорезм",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "305B4",
+    "ja": "\u001bKｺﾞｰﾙ朝\u001bH",
+    "ru": "Гуриды",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "305D0",
+    "ja": "\u001bKｲﾝﾄﾞ諸王朝\u001bH",
+    "ru": "Индия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "305EC",
+    "ja": "\u001bKｷｴﾌ公国\u001bH",
+    "ru": "Киевская Русь",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30608",
+    "ja": "\u001bKﾗﾃﾝ帝国\u001bH",
+    "ru": "Латин империя",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30624",
+    "ja": "\u001bKﾘﾄｱﾆｱ諸国\u001bH",
+    "ru": "Литва",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30640",
+    "ja": "\u001bKﾎﾟｰﾗﾝﾄﾞ王国\u001bH",
+    "ru": "Польша",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3065C",
+    "ja": "\u001bKﾊﾝｶﾞﾘｰ王国\u001bH",
+    "ru": "Венгрия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30678",
+    "ja": "神聖\u001bKﾛｰﾏ帝国\u001bH",
+    "ru": "Свящ Рим империя",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30694",
+    "ja": "\u001bKｱﾝｼﾞｭｰ朝\u001bH",
+    "ru": "Анжуйская Англия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "306B0",
+    "ja": "\u001bKｶﾍﾟｰ朝\u001bH",
+    "ru": "Капетинги",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "306CC",
+    "ja": "\u001bKｽﾍﾟｲﾝ諸王朝\u001bH",
+    "ru": "Испания",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32660",
+    "ja": "元",
+    "ru": "Юань",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3267C",
+    "ja": "\u001bKｵｺﾞﾀｲ汗国\u001bH",
+    "ru": "Улус Угэдэя",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32698",
+    "ja": "\u001bKｷﾌﾟﾁｬｸ汗国\u001bH",
+    "ru": "Золотая Орда",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "326B4",
+    "ja": "\u001bKﾁｬｶﾞﾀｲ汗国\u001bH",
+    "ru": "Улус Чагатая",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32740",
+    "ja": "高麗",
+    "ru": "Корё",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3275C",
+    "ja": "鎌倉幕府",
+    "ru": "Сёгунат Камакура",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32778",
+    "ja": "南宋",
+    "ru": "Южная Сун",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32794",
+    "ja": "大越国",
+    "ru": "Дайвьет",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "327B0",
+    "ja": "\u001bKﾊﾟｶﾞﾝ朝\u001bH",
+    "ru": "Паган",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "327E8",
+    "ja": "\u001bKﾏﾑﾙｰｸ朝\u001bH",
+    "ru": "Мамлюки",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32804",
+    "ja": "\u001bKﾊﾌｽ朝\u001bH",
+    "ru": "Хафсиды",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32858",
+    "ja": "\u001bKﾃﾞﾘｰｽﾙﾀﾝ領\u001bH",
+    "ru": "Дели",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32874",
+    "ja": "\u001bKｲﾝﾄﾞ諸王朝\u001bH",
+    "ru": "Индия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "328E4",
+    "ja": "\u001bKﾎﾟｰﾗﾝﾄﾞ王国\u001bH",
+    "ru": "Польша",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32900",
+    "ja": "\u001bKﾊﾝｶﾞﾘｰ王国\u001bH",
+    "ru": "Венгрия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3291C",
+    "ja": "神聖\u001bKﾛｰﾏ帝国\u001bH",
+    "ru": "Свящ Рим империя",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32938",
+    "ja": "\u001bKｱﾝｼﾞｭｰ朝\u001bH",
+    "ru": "Анжуйская Англия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32954",
+    "ja": "\u001bKｶﾍﾟｰ朝\u001bH",
+    "ru": "Капетинги",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32970",
+    "ja": "\u001bKｽﾍﾟｲﾝ諸王朝\u001bH",
+    "ru": "Испания",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3298C",
+    "ja": "\u001bKﾄﾞｲﾂ騎士団領\u001bH",
+    "ru": "Тевтонский орден",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "329A8",
+    "ja": "両\u001bKｼﾁﾘｱ王国\u001bH",
+    "ru": "Обе Сицилии",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "329C4",
+    "ja": "\u001bKｲﾙ汗国\u001bH",
+    "ru": "Ильханат",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "329E0",
+    "ja": "\u001bKﾋﾞｻﾞﾝﾂ帝国\u001bH",
+    "ru": "Византия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34904",
+    "ja": "\u001bKﾓﾝｺﾞﾙ帝国\u001bH",
+    "ru": "Империя монголов",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34920",
+    "ja": "\u001bKｼﾞｭﾝｶﾞﾘｱ諸族\u001bH",
+    "ru": "Джунгария",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3493C",
+    "ja": "\u001bKｸﾏﾝ族同盟\u001bH",
+    "ru": "Союз половцев",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34958",
+    "ja": "金",
+    "ru": "Цзинь",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34974",
+    "ja": "西夏",
+    "ru": "Си Ся",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34990",
+    "ja": "\u001bKｳｲｸﾞﾙ王国\u001bH",
+    "ru": "Уйгурия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "349AC",
+    "ja": "西遼",
+    "ru": "Западное Ляо",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "349C8",
+    "ja": "吐蕃",
+    "ru": "Тибет",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "349E4",
+    "ja": "高麗",
+    "ru": "Корё",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34A00",
+    "ja": "鎌倉幕府",
+    "ru": "Сёгунат Камакура",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34A1C",
+    "ja": "南宋",
+    "ru": "Южная Сун",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34A38",
+    "ja": "大越･大理連合",
+    "ru": "Дайвьет и Дали",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34A54",
+    "ja": "\u001bKﾊﾟｶﾞﾝ朝\u001bH",
+    "ru": "Паган",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34A70",
+    "ja": "\u001bKｾﾙｼﾞｭｰｸ連邦\u001bH",
+    "ru": "Сельджуки",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34A8C",
+    "ja": "\u001bKｱｲﾕｰﾌﾞ朝\u001bH",
+    "ru": "Айюбиды",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34AA8",
+    "ja": "\u001bKｱﾙﾓﾊｰﾄﾞ帝国\u001bH",
+    "ru": "Альмохады",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34AC4",
+    "ja": "\u001bKｶﾘﾌ領\u001bH",
+    "ru": "Халифат",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34AE0",
+    "ja": "\u001bKﾎﾗｽﾞﾑ帝国\u001bH",
+    "ru": "Хорезм",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34AFC",
+    "ja": "\u001bKｺﾞｰﾙ朝\u001bH",
+    "ru": "Гуриды",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34B18",
+    "ja": "\u001bKｲﾝﾄﾞ諸王朝\u001bH",
+    "ru": "Индия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34B34",
+    "ja": "\u001bKｷｴﾌ公国\u001bH",
+    "ru": "Киевская Русь",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34B88",
+    "ja": "\u001bKﾎﾟｰﾗﾝﾄﾞ王国\u001bH",
+    "ru": "Польша",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34BA4",
+    "ja": "\u001bKﾊﾝｶﾞﾘｰ王国\u001bH",
+    "ru": "Венгрия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34BC0",
+    "ja": "神聖\u001bKﾛｰﾏ帝国\u001bH",
+    "ru": "Свящ Рим империя",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34BDC",
+    "ja": "\u001bKｱﾝｼﾞｭｰ朝\u001bH",
+    "ru": "Анжуйская Англия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1,
+    "original_padding_bytes": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34BF8",
+    "ja": "\u001bKｶﾍﾟｰ朝\u001bH",
+    "ru": "Капетинги",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34C14",
+    "ja": "\u001bKｽﾍﾟｲﾝ諸王朝\u001bH",
+    "ru": "Испания",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34C30",
+    "ja": "\u001bKﾄﾞｲﾂ騎士団領\u001bH",
+    "ru": "Тевтонский орден",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34C4C",
+    "ja": "両\u001bKｼﾁﾘｱ王国\u001bH",
+    "ru": "Обе Сицилии",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34C84",
+    "ja": "\u001bKﾋﾞｻﾞﾝﾂ帝国\u001bH",
+    "ru": "Византия",
+    "kind": "scenario_country",
+    "max_columns": 16,
+    "max_lines": 1
+  }
+]

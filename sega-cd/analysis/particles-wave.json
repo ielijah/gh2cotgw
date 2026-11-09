@@ -1,0 +1,402 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27024",
+    "ja": "ｶﾞ",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27028",
+    "ja": "ﾉ\n",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2709C",
+    "ja": "殿",
+    "ru": "",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "270A0",
+    "ja": "様",
+    "ru": "",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2712E",
+    "ja": "(絹)",
+    "ru": "(Шёлк)",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4B742",
+        "before": "0003312e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273DC",
+    "ja": "絹",
+    "ru": "Шёлк",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4BAF8",
+        "before": "000333dc"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "276E0",
+    "ja": "姫",
+    "ru": "",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27716",
+    "ja": "姫",
+    "ru": "",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2775A",
+    "ja": "姫",
+    "ru": "",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278BC",
+    "ja": "ﾉ",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278D4",
+    "ja": "ﾉ",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278FE",
+    "ja": "ﾉ\n",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A42",
+    "ja": "ﾜｼ",
+    "ru": "Я",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A46",
+    "ja": "私",
+    "ru": "Я",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A4A",
+    "ja": "様",
+    "ru": "",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A4E",
+    "ja": "ﾓ\n",
+    "ru": " тоже\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "1346E",
+        "before": "00033a4e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27BFE",
+    "ja": "ｳﾑ",
+    "ru": "Да",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E90",
+    "ja": "､",
+    "ru": ", ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "15726",
+        "before": "00033e90"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E92",
+    "ja": "年",
+    "ru": "г ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27FE6",
+    "ja": " 町 ",
+    "ru": "Город",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "4C666",
+        "before": "00033fe6"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2806C",
+    "ja": "金",
+    "ru": "Зл",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2885E",
+    "ja": "金",
+    "ru": "Зл",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28954",
+    "ja": "金",
+    "ru": "Зл",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "289F8",
+    "ja": "金",
+    "ru": "Зл",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29008",
+    "ja": "ﾉ\n",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296B0",
+    "ja": "ｦ",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2975C",
+    "ja": "ﾄ",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "297CE",
+    "ja": "第",
+    "ru": "",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2986A",
+    "ja": "ｶﾞ",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2987E",
+    "ja": "ﾉ\n",
+    "ru": "\n",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "299FA",
+    "ja": "ｳﾑ",
+    "ru": "Да",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29CB8",
+    "ja": "ｳﾑ",
+    "ru": "Да",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC06",
+    "ja": "年",
+    "ru": "г ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC0C",
+    "ja": "年",
+    "ru": "г ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF66",
+    "ja": "ｦOFF",
+    "ru": "выкл",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF6C",
+    "ja": "ｦON",
+    "ru": "вкл",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "25D82",
+        "before": "00036f6c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF7E",
+    "ja": "ﾊOFF",
+    "ru": "выкл",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF84",
+    "ja": "ﾊON",
+    "ru": "вкл",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "25D44",
+        "before": "00036f84"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B006",
+    "ja": "年",
+    "ru": "г ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4
+  }
+]

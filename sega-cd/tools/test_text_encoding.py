@@ -20,6 +20,7 @@ def decode(data):
 
 plain=formatted=0
 for e in m['applied']:
+    if e.get('native_stream'):continue
     if not e.get('native_decimal_format'):
         # The pre-tokenizer encoder, independently reproduced.
         result=[]
@@ -61,6 +62,7 @@ for ch,index in {'I':0x1a,'V':0x27,'X':0x29}.items():
     assert index==(ord(ch)+0xd1)&255
     assert any(main[0x36490+index*16:0x36490+(index+1)*16])
 for e in m['applied']:
+    if e.get('native_stream'):continue
     if not any(ch in e['ru'] for ch in 'IVX'):
         old=[]
         for line in e['ru'].split('\n'):

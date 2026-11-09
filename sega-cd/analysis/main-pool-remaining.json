@@ -1,0 +1,3560 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26840",
+    "ja": "戦略:%2d ",
+    "capacity": 9
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268CE",
+    "ja": "ｰ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268D0",
+    "ja": "ﾞ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268D6",
+    "ja": "ｸﾙ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268DC",
+    "ja": "･ﾍﾞｷ\u001bH",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268E4",
+    "ja": "ﾄｸ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268EA",
+    "ja": "ｶﾞｲ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268F0",
+    "ja": "ﾀﾞｲ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268F6",
+    "ja": "ﾄｩ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268FC",
+    "ja": "ﾄﾞﾗ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26902",
+    "ja": "ｸﾗ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26908",
+    "ja": "ﾗｰｼﾞｬ\u001bH",
+    "capacity": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26910",
+    "ja": "ｼﾞｬﾔ\u001bH",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26918",
+    "ja": "新田",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2691E",
+    "ja": "豊島",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26924",
+    "ja": "津々見",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2692C",
+    "ja": "源 ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26930",
+    "ja": "山本",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26936",
+    "ja": "中山",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2693C",
+    "ja": "村上",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26942",
+    "ja": "菊池",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26948",
+    "ja": "河越",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2694E",
+    "ja": "曾我",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26954",
+    "ja": "越智",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2695A",
+    "ja": "江戸",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26960",
+    "ja": "結城",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26966",
+    "ja": "小山",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2696C",
+    "ja": "宇都宮",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26974",
+    "ja": "里見",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2697A",
+    "ja": "鎌田",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26980",
+    "ja": "中原",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26986",
+    "ja": "佐々木",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2698E",
+    "ja": "新田",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26994",
+    "ja": "板垣",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2699A",
+    "ja": "一条",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269A0",
+    "ja": "武田",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269A6",
+    "ja": "九条",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269AC",
+    "ja": "阿野",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269B2",
+    "ja": "安達",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269B8",
+    "ja": "足利",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269BE",
+    "ja": "佐藤",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269C4",
+    "ja": "大庭",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269CA",
+    "ja": "佐竹",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269D0",
+    "ja": "平 ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269D4",
+    "ja": "比企",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269DA",
+    "ja": "北条",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269E0",
+    "ja": "和田",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269E6",
+    "ja": "藤原",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269EC",
+    "ja": "教",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269F0",
+    "ja": "資",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269F4",
+    "ja": "利",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269F8",
+    "ja": "通",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269FC",
+    "ja": "朝",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A00",
+    "ja": "国",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A04",
+    "ja": "貞",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A08",
+    "ja": "和",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A0C",
+    "ja": "兼",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A10",
+    "ja": "光",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A14",
+    "ja": "宗",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A18",
+    "ja": "幸",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A1C",
+    "ja": "道",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A20",
+    "ja": "為",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A24",
+    "ja": "忠",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A28",
+    "ja": "清",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A2C",
+    "ja": "泰",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A30",
+    "ja": "義",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A34",
+    "ja": "実",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A38",
+    "ja": "頼",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A3C",
+    "ja": "久",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A40",
+    "ja": "茂",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A44",
+    "ja": "隆",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A48",
+    "ja": "平",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A4C",
+    "ja": "成",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A50",
+    "ja": "経",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A54",
+    "ja": "信",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A58",
+    "ja": "衡",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A5C",
+    "ja": "季",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A60",
+    "ja": "景",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A64",
+    "ja": "遠",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A68",
+    "ja": "盛",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A6C",
+    "ja": "長",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A70",
+    "ja": "綱",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A74",
+    "ja": "氏",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A78",
+    "ja": "高",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A7C",
+    "ja": "家",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A80",
+    "ja": "政",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A84",
+    "ja": "親",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A88",
+    "ja": "時",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A8C",
+    "ja": "ｳﾞｨﾋ\u001bH",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A94",
+    "ja": "ｽﾀﾝ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A9A",
+    "ja": "ﾄｩｽ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AA0",
+    "ja": "ﾍﾞｽﾄ\u001bH",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AA8",
+    "ja": "ﾊﾞｰﾄ\u001bH",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AB0",
+    "ja": "ｽｷ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AB6",
+    "ja": "ｽﾗﾌ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ABC",
+    "ja": "ﾄﾞﾛｽ\u001bH",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AC4",
+    "ja": "ﾄﾘ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ACA",
+    "ja": "ｼｵｽ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AD0",
+    "ja": "\u001bKﾅｰ",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AD6",
+    "ja": "\u001bKｱﾌﾞﾄﾞ",
+    "capacity": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ADE",
+    "ja": "\u001bKｲﾌﾞﾝ",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AE6",
+    "ja": "\u001bKﾏﾌ",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AEC",
+    "ja": "\u001bKｹｲ",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AF2",
+    "ja": "\u001bKｱﾙ･",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AF8",
+    "ja": "韓",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AFC",
+    "ja": "孟",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B00",
+    "ja": "郭",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B04",
+    "ja": "高",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B08",
+    "ja": "楊",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B0C",
+    "ja": "石",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B10",
+    "ja": "厳",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B14",
+    "ja": "陸",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B18",
+    "ja": "関",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B1C",
+    "ja": "張",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B20",
+    "ja": "金",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B24",
+    "ja": "劉",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B28",
+    "ja": "朱",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B2C",
+    "ja": "王",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B30",
+    "ja": "陳",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B34",
+    "ja": "李",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B3A",
+    "ja": "世",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B3E",
+    "ja": "承",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B42",
+    "ja": "宗",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B46",
+    "ja": "敬",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B4A",
+    "ja": "紹",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B4E",
+    "ja": "継",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B52",
+    "ja": "克",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B56",
+    "ja": "宝",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B5A",
+    "ja": "子",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B5E",
+    "ja": "文",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B62",
+    "ja": "安",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B66",
+    "ja": "健",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B6A",
+    "ja": "大",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B6E",
+    "ja": "元",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B72",
+    "ja": "徳",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B76",
+    "ja": "真",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B7A",
+    "ja": "秀",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B7E",
+    "ja": "民",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B82",
+    "ja": "義",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B86",
+    "ja": "裕",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B8A",
+    "ja": "遠",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B8E",
+    "ja": "信",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B92",
+    "ja": "貞",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B96",
+    "ja": "成",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B9A",
+    "ja": "仁",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B9E",
+    "ja": "広",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BA2",
+    "ja": "惇",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BA6",
+    "ja": "融",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BAA",
+    "ja": "順",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BAE",
+    "ja": "昭",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BB2",
+    "ja": "明",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BBA",
+    "ja": "ﾗﾝ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BC0",
+    "ja": "ﾙﾃ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BC6",
+    "ja": "ﾙﾝ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BCC",
+    "ja": "ｱﾝ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BD2",
+    "ja": "ｷﾅ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BD8",
+    "ja": "ｸﾝ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BDE",
+    "ja": "ｻﾝ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BE4",
+    "ja": "ｽｶ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BEA",
+    "ja": "ﾃｨ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BF0",
+    "ja": "ﾗｰﾀ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BF6",
+    "ja": "ﾊｰﾙ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BFC",
+    "ja": "ｼｬﾅ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C02",
+    "ja": "ﾚｯﾄ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C08",
+    "ja": "ﾘｽ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C0E",
+    "ja": "ﾘｰﾅ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C14",
+    "ja": "ﾃﾞｨｱ\u001bH",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C1C",
+    "ja": "ｱﾝﾇ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C22",
+    "ja": "ﾘｰﾁｪ\u001bH",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C2A",
+    "ja": "ｼｱ\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C30",
+    "ja": "ﾄﾞｰﾗ\u001bH",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C38",
+    "ja": "ﾃｨﾏ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C3E",
+    "ja": "ｲﾀﾞ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C44",
+    "ja": "ﾘｰﾝ\u001bH",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C4A",
+    "ja": "ｻﾞｰﾄﾞ\u001bH",
+    "capacity": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C52",
+    "ja": "恭",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C56",
+    "ja": "慈",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C5A",
+    "ja": "永",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C5E",
+    "ja": "昭",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C62",
+    "ja": "順",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C66",
+    "ja": "光",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C6A",
+    "ja": "興",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C6E",
+    "ja": "仁",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C72",
+    "ja": "真",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C76",
+    "ja": "明",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C7A",
+    "ja": "智",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C7E",
+    "ja": "徳",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C82",
+    "ja": "瑠璃",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C88",
+    "ja": "沙羅",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C8E",
+    "ja": "香",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C92",
+    "ja": "涼",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C96",
+    "ja": "恵",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C9A",
+    "ja": "泉",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C9E",
+    "ja": "舞",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CA2",
+    "ja": "和",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CA6",
+    "ja": "星",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CAA",
+    "ja": "朝",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CAE",
+    "ja": "菊",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CB2",
+    "ja": "月",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CB6",
+    "ja": "徳",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CBA",
+    "ja": "淀",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CBE",
+    "ja": "恋",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CC2",
+    "ja": "弓",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CC6",
+    "ja": "夕",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CCA",
+    "ja": "唯",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CCE",
+    "ja": "鞠",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CD2",
+    "ja": "鈴",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CD6",
+    "ja": "藤",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CDA",
+    "ja": "妙",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CDE",
+    "ja": "忍",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CE2",
+    "ja": "桃",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CE6",
+    "ja": "紫",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CEA",
+    "ja": "清",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CEE",
+    "ja": "渚",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CF2",
+    "ja": "織",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CF6",
+    "ja": "乙",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CFA",
+    "ja": "桜",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CFE",
+    "ja": "文",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D02",
+    "ja": "葵",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D06",
+    "ja": "愛",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D0A",
+    "ja": "橘",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D0E",
+    "ja": "梓",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D12",
+    "ja": "桂",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D16",
+    "ja": "巴",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D1A",
+    "ja": "鶴",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D1E",
+    "ja": "霞",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D22",
+    "ja": "茜",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D26",
+    "ja": "綾",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D2A",
+    "ja": "琴",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D2E",
+    "ja": "遥",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D32",
+    "ja": "雪",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D36",
+    "ja": "薫",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D3A",
+    "ja": "静",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D3E",
+    "ja": "公主",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D44",
+    "ja": "姫",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D48",
+    "ja": "菊池",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D4E",
+    "ja": "河野",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D54",
+    "ja": "源 ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D58",
+    "ja": "木曾",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D5E",
+    "ja": "平 ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D62",
+    "ja": "佐竹",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D68",
+    "ja": "藤原",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D6E",
+    "ja": "菊池",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D74",
+    "ja": "河野",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D7A",
+    "ja": "源 ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D7E",
+    "ja": "木曾",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D84",
+    "ja": "平 ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D88",
+    "ja": "佐竹",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D8E",
+    "ja": "藤原",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D94",
+    "ja": "源 ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D98",
+    "ja": "菊池",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D9E",
+    "ja": "河野",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DA4",
+    "ja": "源 ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DA8",
+    "ja": "木曾",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DAE",
+    "ja": "平 ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DB2",
+    "ja": "佐竹",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DB8",
+    "ja": "藤原",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DBE",
+    "ja": "北条",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DC4",
+    "ja": "族\u001bH",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DCA",
+    "ja": "青",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DCE",
+    "ja": "黒",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DD2",
+    "ja": "白",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DD6",
+    "ja": "赤",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DDA",
+    "ja": "前",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DDE",
+    "ja": "新",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DE2",
+    "ja": "中",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DE6",
+    "ja": "下",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DEA",
+    "ja": "上",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DEE",
+    "ja": "大",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DF2",
+    "ja": "北",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DF6",
+    "ja": "南",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DFA",
+    "ja": "西",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DFE",
+    "ja": "東",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E02",
+    "ja": "原",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E06",
+    "ja": "野",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E0A",
+    "ja": "丘",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E0E",
+    "ja": "島",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E12",
+    "ja": "浜",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E16",
+    "ja": "岸",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E1A",
+    "ja": "城",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E1E",
+    "ja": "風",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E22",
+    "ja": "倉",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E26",
+    "ja": "河",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E2A",
+    "ja": "泉",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E2E",
+    "ja": "森",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E32",
+    "ja": "海",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E36",
+    "ja": "谷",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E3A",
+    "ja": "川",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E3E",
+    "ja": "山",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E42",
+    "ja": "軍団",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E48",
+    "ja": "武士団",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E50",
+    "ja": "王朝",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E56",
+    "ja": "王国",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E5C",
+    "ja": "国府",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E62",
+    "ja": "政権",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E68",
+    "ja": "執政府",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E70",
+    "ja": "幕府",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E76",
+    "ja": "国",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E7A",
+    "ja": "領",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E7E",
+    "ja": "王国",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E84",
+    "ja": "朝",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E8C",
+    "ja": "朝",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E90",
+    "ja": "連合",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E96",
+    "ja": "公国",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E9C",
+    "ja": "王国",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EA2",
+    "ja": "帝国",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EAE",
+    "ja": "大",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EB2",
+    "ja": "東",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EB6",
+    "ja": "西",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EBA",
+    "ja": "北",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EBE",
+    "ja": "南",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EC2",
+    "ja": "後",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EC6",
+    "ja": "前",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ECA",
+    "ja": "清",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ECE",
+    "ja": "夏",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ED2",
+    "ja": "許",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ED6",
+    "ja": "金",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EDA",
+    "ja": "衛",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EDE",
+    "ja": "明",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EE2",
+    "ja": "陳",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EE6",
+    "ja": "越",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EEA",
+    "ja": "梁",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EEE",
+    "ja": "商",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EF2",
+    "ja": "唐",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EF6",
+    "ja": "鄭",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EFA",
+    "ja": "曹",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EFE",
+    "ja": "斉",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F02",
+    "ja": "秦",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F06",
+    "ja": "新",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F0A",
+    "ja": "魯",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F0E",
+    "ja": "晋",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F12",
+    "ja": "呉",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F16",
+    "ja": "楚",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F1A",
+    "ja": "周",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F1E",
+    "ja": "漢",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F22",
+    "ja": "韓",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F26",
+    "ja": "燕",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F2A",
+    "ja": "遼",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F30",
+    "ja": "国",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F34",
+    "ja": "朝",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F38",
+    "ja": "王朝",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F3E",
+    "ja": "帝国",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F44",
+    "ja": "ｶﾞ\n脅迫ﾆ屈伏ｼﾃｼﾏｲﾏｼﾀ",
+    "capacity": 20
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F5A",
+    "ja": "ﾉ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F5C",
+    "ja": "ｦ行ｲﾏｽ",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F64",
+    "ja": "ﾍ\n",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F6C",
+    "ja": "様ﾉ\nｺﾞ指示通ﾘ",
+    "capacity": 13
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F7A",
+    "ja": "\n施ｼﾃ",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F80",
+    "ja": "ｼﾃ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F84",
+    "ja": "ﾆ対ｼﾃ\n",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26FE0",
+    "ja": "ﾊ実行ﾃﾞｷﾏｾﾝ",
+    "capacity": 11
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26FF6",
+    "ja": "ｶﾞ独立ｼﾀﾖｳﾃﾞｽ",
+    "capacity": 13
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27024",
+    "ja": "ｶﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27028",
+    "ja": "ﾉ\n",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2709C",
+    "ja": "殿",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "270A0",
+    "ja": "様",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "270A4",
+    "ja": "様､",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "270E2",
+    "ja": "(香料)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27108",
+    "ja": "(木工品)",
+    "capacity": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27112",
+    "ja": "(医薬品)",
+    "capacity": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2711C",
+    "ja": "(貴金属)",
+    "capacity": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27126",
+    "ja": "(宝石)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2712E",
+    "ja": "(絹)",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27134",
+    "ja": "(毛皮)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2714A",
+    "ja": "商人)",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27156",
+    "ja": "(従順)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2715E",
+    "ja": "(対等)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27166",
+    "ja": "(脅迫)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2716E",
+    "ja": "(侵略)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27176",
+    "ja": "(任意)    ",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "271A6",
+    "ja": "(任意)    ",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27238",
+    "ja": "(将軍)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2725C",
+    "ja": "(領主)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27288",
+    "ja": "(領主)",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "273DC",
+    "ja": "絹",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275A2",
+    "ja": "ｳﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275A6",
+    "ja": "･",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275AA",
+    "ja": "ｰ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275AC",
+    "ja": "ｯ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275AE",
+    "ja": "ｮ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275B2",
+    "ja": "ｭ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275B6",
+    "ja": "ｬ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275B8",
+    "ja": "ｫ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275BA",
+    "ja": "ｪ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275BC",
+    "ja": "ｩ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275BE",
+    "ja": "ｨ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275C0",
+    "ja": "ｧ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275C2",
+    "ja": "ﾎﾟ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275C6",
+    "ja": "ﾍﾟ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275CA",
+    "ja": "ﾌﾟ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275CE",
+    "ja": "ﾋﾟ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275D2",
+    "ja": "ﾊﾟ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275D6",
+    "ja": "ﾎﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275DA",
+    "ja": "ﾍﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275DE",
+    "ja": "ﾌﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275E2",
+    "ja": "ﾋﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275E6",
+    "ja": "ﾊﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275EA",
+    "ja": "ﾄﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275EE",
+    "ja": "ﾃﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275F2",
+    "ja": "ﾂﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275F6",
+    "ja": "ﾁﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275FA",
+    "ja": "ﾀﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275FE",
+    "ja": "ｿﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27602",
+    "ja": "ｾﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27606",
+    "ja": "ｽﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2760A",
+    "ja": "ｼﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2760E",
+    "ja": "ｻﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27612",
+    "ja": "ｺﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27616",
+    "ja": "ｹﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2761A",
+    "ja": "ｸﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2761E",
+    "ja": "ｷﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27622",
+    "ja": "ｶﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27626",
+    "ja": "ﾝ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2762A",
+    "ja": "ｦ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2762E",
+    "ja": "ﾜ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27630",
+    "ja": "ﾛ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27632",
+    "ja": "ﾚ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27634",
+    "ja": "ﾙ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27636",
+    "ja": "ﾘ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27638",
+    "ja": "ﾗ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2763A",
+    "ja": "ﾖ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2763E",
+    "ja": "ﾕ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27642",
+    "ja": "ﾔ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27644",
+    "ja": "ﾓ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27646",
+    "ja": "ﾒ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27648",
+    "ja": "ﾑ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2764A",
+    "ja": "ﾐ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2764C",
+    "ja": "ﾏ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2764E",
+    "ja": "ﾎ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27650",
+    "ja": "ﾍ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27652",
+    "ja": "ﾌ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27654",
+    "ja": "ﾋ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27656",
+    "ja": "ﾊ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27658",
+    "ja": "ﾉ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2765A",
+    "ja": "ﾈ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2765C",
+    "ja": "ﾇ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2765E",
+    "ja": "ﾆ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27660",
+    "ja": "ﾅ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27662",
+    "ja": "ﾄ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27664",
+    "ja": "ﾃ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27666",
+    "ja": "ﾂ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27668",
+    "ja": "ﾁ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2766A",
+    "ja": "ﾀ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2766C",
+    "ja": "ｿ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2766E",
+    "ja": "ｾ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27670",
+    "ja": "ｽ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27672",
+    "ja": "ｼ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27674",
+    "ja": "ｻ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27676",
+    "ja": "ｺ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27678",
+    "ja": "ｹ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2767A",
+    "ja": "ｸ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2767C",
+    "ja": "ｷ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2767E",
+    "ja": "ｶ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27680",
+    "ja": "ｵ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27682",
+    "ja": "ｴ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27684",
+    "ja": "ｳ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27686",
+    "ja": "ｲ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27688",
+    "ja": "ｱ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "276E0",
+    "ja": "姫",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27716",
+    "ja": "姫",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2775A",
+    "ja": "姫",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277CE",
+    "ja": "子出産後\n",
+    "capacity": 9
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277D8",
+    "ja": "男",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277DC",
+    "ja": "女",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277EE",
+    "ja": "子ｦ\n",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277F4",
+    "ja": "男",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277F8",
+    "ja": "女",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "277FC",
+    "ja": "ﾒﾃﾞﾀｸ",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278BC",
+    "ja": "ﾉ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278D4",
+    "ja": "ﾉ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "278FE",
+    "ja": "ﾉ\n",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "279F0",
+    "ja": "\u001bCFﾉ被害ｶﾞ出ﾃｲﾏｽ",
+    "capacity": 16
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A02",
+    "ja": "大変ﾃﾞｽ\n我ｶﾞ国ﾆ\u001bC1",
+    "capacity": 18
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A16",
+    "ja": "我ｶﾞ国ﾆ\n\u001bC2",
+    "capacity": 11
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A42",
+    "ja": "ﾜｼ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A46",
+    "ja": "私",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A4A",
+    "ja": "様",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A4E",
+    "ja": "ﾓ\n",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27A88",
+    "ja": "ｵ喜ﾋﾞ下ｻｲ\n今季ﾊ\u001bC2大豊作\u001bCFﾆｺﾞｻﾞｲﾏｽ",
+    "capacity": 35
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27BFE",
+    "ja": "ｳﾑ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27D92",
+    "ja": "天下ｦ夢見ﾀ男ｶﾞ､ﾏﾀ一人､消ｴﾀ…｡",
+    "capacity": 29
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DB0",
+    "ja": "神ﾊ､彼ｦ見捨ﾃﾀﾉｶ…､",
+    "capacity": 18
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DC4",
+    "ja": "歴史ﾉ奔流ﾉ前ﾆｱｴﾅｸ散ｯﾀﾉﾃﾞｱﾙ｡",
+    "capacity": 27
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DE0",
+    "ja": "乱世ｦ憂ｲ､立ﾁｱｶﾞｯﾀ英雄ﾓ､",
+    "capacity": 23
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27DF8",
+    "ja": "一人ﾉ男ﾉ生涯ﾊ幕ｦ閉ｼﾞﾀ｡",
+    "capacity": 22
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E10",
+    "ja": "己ﾚﾉ信ｽﾞﾙ道ｦ行ｷ､燃ｴ尽ｷﾀ",
+    "capacity": 23
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E28",
+    "ja": "次代ﾍﾉ礎ﾄﾅｯﾀﾉﾃﾞｱﾙ…｡",
+    "capacity": 20
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E3E",
+    "ja": "ﾀﾞｶﾞ､彼ﾉ流ｼﾀ血ﾊ､",
+    "capacity": 16
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E50",
+    "ja": "変ｴﾙｺﾄﾊﾃﾞｷﾅｶｯﾀ…｡",
+    "capacity": 17
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E62",
+    "ja": "ﾓﾏﾀ､時代ﾉ流ﾚｦ",
+    "capacity": 13
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E70",
+    "ja": "ｦ必要ﾄｼﾅｶｯﾀﾉﾃﾞｱﾙ｡",
+    "capacity": 17
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E82",
+    "ja": "時代ﾊ､",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E8A",
+    "ja": "死ｽ｡",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E90",
+    "ja": "､",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27E92",
+    "ja": "年",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27FE6",
+    "ja": " 町 ",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28048",
+    "ja": "ﾉ指示ｦ\nﾅｻﾙﾉﾃﾞｽｶ",
+    "capacity": 15
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28058",
+    "ja": "ﾄﾞﾉ国ﾆ",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2806C",
+    "ja": "金",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28078",
+    "ja": "ﾉ輸送ｦ\nﾄﾞﾚﾀﾞｹｵ望ﾐﾃﾞｽｶﾅ",
+    "capacity": 22
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2809E",
+    "ja": "ｿﾉ国ﾉ",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28358",
+    "ja": "%-10s%2d才\n",
+    "capacity": 11
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284DA",
+    "ja": "強引ﾆ口説ｸ",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "284F2",
+    "ja": "優ｼｸ愛ｦ語ﾙ",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2850A",
+    "ja": "\nﾉｶﾞﾖﾛｼｲｶﾄ…",
+    "capacity": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28518",
+    "ja": "ｺｺﾊ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28766",
+    "ja": "必要ﾃﾞｽ",
+    "capacity": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2876E",
+    "ja": "ﾊ1部隊ﾆﾂｷ\n金ｶﾞ",
+    "capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2880E",
+    "ja": "ﾉﾃﾞｽﾅ",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28814",
+    "ja": "本国ﾉ部隊ｦ\n",
+    "capacity": 11
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28820",
+    "ja": "ｦ\nﾅｻﾙﾉﾃﾞｽﾅ",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2882C",
+    "ja": "他国ﾍﾉ",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2885E",
+    "ja": "金",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28868",
+    "ja": "ｦ\nｲｸﾗ施ｼﾅｻｲﾏｽｶ",
+    "capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28878",
+    "ja": "民ﾆ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2887C",
+    "ja": "ｶﾞ\nｱﾘﾏｾﾇ…",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28888",
+    "ja": "施ｽ",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2894C",
+    "ja": "ﾃﾞｽｶﾞ\n",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28954",
+    "ja": "金",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2897A",
+    "ja": "ﾃﾞｽ\nｲｸﾗｵ売ﾘﾃﾞｽｶ",
+    "capacity": 15
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2898C",
+    "ja": "ﾊ金",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "289F0",
+    "ja": "ﾃﾞｽｶﾞ\n",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "289F8",
+    "ja": "金",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A02",
+    "ja": "ﾃﾞｽ\nｲｸﾗｵ買ｲﾃﾞｽｶ",
+    "capacity": 15
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A14",
+    "ja": "ﾊ金",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A28",
+    "ja": "ｦ何部隊\nｵ雇ｲﾆﾅﾙﾉﾃﾞｽｶ",
+    "capacity": 20
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A92",
+    "ja": "必要ﾃﾞｽ",
+    "capacity": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28A9A",
+    "ja": "1部隊ﾆﾂｷ\n金ｶﾞ",
+    "capacity": 13
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28B34",
+    "ja": "%-10s%2d才\n",
+    "capacity": 11
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C38",
+    "ja": "ﾙﾉﾃﾞｽﾅ",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C40",
+    "ja": "ｦ\n一覧ﾅｻ",
+    "capacity": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28C4A",
+    "ja": "ｦ\nｺﾞ覧ﾆﾅ",
+    "capacity": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28CC2",
+    "ja": "ﾉ使者ﾊ\n誰ﾆﾅｻｲﾏｽｶ",
+    "capacity": 16
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28CF6",
+    "ja": "ｦ送ｯﾃ参ﾘﾏｼﾀ",
+    "capacity": 11
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D02",
+    "ja": "ﾊ\n金",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D08",
+    "ja": "脅迫ﾆ対ｼ､",
+    "capacity": 9
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D2A",
+    "ja": "ｦ送ｯﾃ参ﾘﾏｼﾀ",
+    "capacity": 11
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D36",
+    "ja": "ﾊ\n金",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "28D3C",
+    "ja": "要求ｦ受ｹ､",
+    "capacity": 9
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29008",
+    "ja": "ﾉ\n",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2904E",
+    "ja": "様ﾆ降伏ｻﾚﾖ",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2906C",
+    "ja": "脅迫ﾉ使者ｦ送ｯﾃ\n",
+    "capacity": 15
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29280",
+    "ja": "様ﾆ貢物ｦ贈ﾗﾚﾖ",
+    "capacity": 13
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292A6",
+    "ja": "貢物要求ﾉ使者ｦ\n送ｯﾃ",
+    "capacity": 19
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292C4",
+    "ja": "年ﾉ同盟延長ｦｵ望ﾐﾃﾞｽ",
+    "capacity": 19
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292D8",
+    "ja": "様ﾊ両国ﾉﾀﾒ､\n",
+    "capacity": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292E6",
+    "ja": "年間ﾉ同盟ｦｵ望ﾐﾃﾞｽ",
+    "capacity": 17
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "292F8",
+    "ja": "様ﾊ栄光ｱﾙ\n貴国ﾄ",
+    "capacity": 15
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29510",
+    "ja": "同盟ﾉ使者ｦ送ｯﾃ\n",
+    "capacity": 15
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296A8",
+    "ja": "\n売却ｼﾃ",
+    "capacity": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296B0",
+    "ja": "ｦ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296B2",
+    "ja": "購入ｼﾏｽ\n実行ｼﾃ",
+    "capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296C2",
+    "ja": "食糧ｦ",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296C8",
+    "ja": "兵ｦ雇用",
+    "capacity": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296D6",
+    "ja": "ｼﾏｽ\n実行ｼﾃ",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296E2",
+    "ja": "住民ﾆ金ｦ",
+    "capacity": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "296EC",
+    "ja": "住民ﾆ食糧ｦ",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2970C",
+    "ja": "ﾆ投資ｼﾏｽ\n実行ｼﾃ",
+    "capacity": 15
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2971C",
+    "ja": "ﾍ\n部隊ｦ行ｶｾﾃ",
+    "capacity": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2972A",
+    "ja": "ﾍ金･\n食糧ｦ送ｯﾃ",
+    "capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29740",
+    "ja": "貢物ｦ要求",
+    "capacity": 9
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2974A",
+    "ja": "年間ﾉ\n同盟ｦ結ﾝﾃﾞ",
+    "capacity": 16
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2975C",
+    "ja": "ﾄ",
+    "capacity": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29774",
+    "ja": "ｦ\n軍団司令官ﾆｲﾀｼﾏｽ",
+    "capacity": 18
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29788",
+    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "capacity": 13
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29796",
+    "ja": "軍団ｦ任ｾﾏｽｶ",
+    "capacity": 11
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "297A2",
+    "ja": "ﾄﾞﾉ将軍ﾆ\n第",
+    "capacity": 11
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "297CE",
+    "ja": "第",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29816",
+    "ja": "遠征ｦ開始ｼﾃ\n",
+    "capacity": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2985C",
+    "ja": "ﾆ\n攻ﾒ込ﾐﾏｼﾀ!",
+    "capacity": 12
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2986A",
+    "ja": "ｶﾞ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2987E",
+    "ja": "ﾉ\n",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29894",
+    "ja": "ﾍﾉ\n遠征ｦｵ許ｼ願ｲﾀｲ",
+    "capacity": 17
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298A6",
+    "ja": "\nｺﾉ私ﾒﾆ",
+    "capacity": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298C8",
+    "ja": "ﾉ領主ｦ\n誰ﾆｲﾀｼﾏｽｶ",
+    "capacity": 16
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298DA",
+    "ja": "ｦ抜擢ｲﾀｼﾏｽ",
+    "capacity": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "298E6",
+    "ja": "ﾉ領主ﾄｼﾃ\n",
+    "capacity": 9
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "299FA",
+    "ja": "ｳﾑ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "299FE",
+    "ja": "様ｦ\n后ﾆｵ迎ｴｲﾀｼﾏｽｶ",
+    "capacity": 17
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29A10",
+    "ja": "ｺﾉ国ﾉ姫､",
+    "capacity": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29A4E",
+    "ja": "逃ｶﾞｽ",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29CB8",
+    "ja": "ｳﾑ",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29DB8",
+    "ja": "女ﾉ勘ﾃﾞｽｶﾞ×××××殿ﾊ\nﾄﾞｳﾓ信用ﾃﾞｷﾏｾﾝ",
+    "capacity": 38
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2A4E2",
+    "ja": "ｵｫ×××××…\n我ｶﾞ×××××ﾖ",
+    "capacity": 30
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AACA",
+    "ja": "消去ｼ",
+    "capacity": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC06",
+    "ja": "年",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AC0C",
+    "ja": "年",
+    "capacity": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ACB4",
+    "ja": "\n(空ｷ ",
+    "capacity": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF66",
+    "ja": "ｦOFF",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF6C",
+    "ja": "ｦON",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF7E",
+    "ja": "ﾊOFF",
+    "capacity": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2AF84",
+    "ja": "ﾊON",
+    "capacity": 3
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B006",
+    "ja": "年",
+    "capacity": 2
+  }
+]

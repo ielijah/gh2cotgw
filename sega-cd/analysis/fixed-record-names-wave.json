@@ -1,0 +1,1147 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3335E",
+    "ja": "\u001bKｴﾙｼﾞｭｰﾍﾞｯﾄ\u001bH",
+    "ru": "Эржебет",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35602",
+    "ja": "\u001bKﾍﾟﾚﾝｶﾞﾘｱ\u001bH",
+    "ru": "Беренгария",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2EAE2",
+    "ja": "\u001bKﾁｬｳﾙﾍﾞｷ姫\u001bH",
+    "ru": "Чаур-беки",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33348",
+    "ja": "\u001bKｸﾆｸﾞﾝﾀﾞ\u001bH",
+    "ru": "Кунигунда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "333B6",
+    "ja": "\u001bKｸﾚﾒﾝﾃｨｱ\u001bH",
+    "ru": "Клеменция",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31196",
+    "ja": "\u001bKｹﾞｲﾄﾙｰﾄ\u001bH",
+    "ru": "Гертруда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310E6",
+    "ja": "\u001bKｿﾞﾊﾞｲﾀﾞ\u001bH",
+    "ru": "Зубайда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3553C",
+    "ja": "\u001bKｿﾞﾊﾞｲﾀﾞ\u001bH",
+    "ru": "Зубайда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "311EE",
+    "ja": "\u001bKﾍﾞﾚﾝｹﾞﾗ\u001bH",
+    "ru": "Беренгела",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35594",
+    "ja": "\u001bKﾔﾛｽﾗﾌﾞﾅ\u001bH",
+    "ru": "Ярославна",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "331E8",
+    "ja": "\u001bKｱｲｼﾞｱﾙｸ\u001bH",
+    "ru": "Айджарук",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33298",
+    "ja": "\u001bKｱﾄｩﾗﾃｨﾘ\u001bH",
+    "ru": "Атула Тири",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32AF8",
+    "ja": "\u001bKｳｸﾞﾙｸﾁ\u001bH",
+    "ru": "Угрукчи",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33166",
+    "ja": "\u001bKｼｬﾙﾙ2世\u001bH",
+    "ru": "Карл II",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31154",
+    "ja": "\u001bKｲｮﾗﾝﾄﾞ\u001bH",
+    "ru": "Иоланда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3113E",
+    "ja": "\u001bKｴｳﾌｪﾐｱ\u001bH",
+    "ru": "Евфимия",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "355EC",
+    "ja": "\u001bKｺﾝｽﾀﾝｽ\u001bH",
+    "ru": "Констанция",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3116A",
+    "ja": "\u001bKｼｸﾞﾘﾀﾞ\u001bH",
+    "ru": "Сигрида",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310D0",
+    "ja": "\u001bKｼｬｼﾞｬﾙ\u001bH",
+    "ru": "Шаджар",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33374",
+    "ja": "\u001bKﾒﾋﾁﾙﾃﾞ\u001bH",
+    "ru": "Матильда",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "311AC",
+    "ja": "\u001bKｴｳｼﾞｯﾄ\u001bH",
+    "ru": "Эуджит",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED66",
+    "ja": "\u001bKｺﾞﾘｼﾞﾝ\u001bH",
+    "ru": "Хориджин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310A4",
+    "ja": "\u001bKｼﾞｪﾑｷﾝ\u001bH",
+    "ru": "Джемкин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31112",
+    "ja": "\u001bKｼｰﾘｰﾝ\u001bH",
+    "ru": "Ширин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35568",
+    "ja": "\u001bKｼｰﾘｰﾝ\u001bH",
+    "ru": "Ширин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "333CC",
+    "ja": "\u001bKｴﾚｵﾉﾗ\u001bH",
+    "ru": "Элеонора",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3322A",
+    "ja": "\u001bKｵﾙｶﾞﾅ\u001bH",
+    "ru": "Органа",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED0E",
+    "ja": "\u001bKｶﾀﾞｱﾝ\u001bH",
+    "ru": "Кадаан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "331FE",
+    "ja": "\u001bKｻﾝｻﾙﾏ\u001bH",
+    "ru": "Сансалма",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310FC",
+    "ja": "\u001bKﾀﾙｰﾌﾞ\u001bH",
+    "ru": "Таруб",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35552",
+    "ja": "\u001bKﾀﾙｰﾌﾞ\u001bH",
+    "ru": "Таруб",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED7C",
+    "ja": "\u001bKﾎﾞﾄｸｲ\u001bH",
+    "ru": "Ботохуй",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3108E",
+    "ja": "\u001bKｴｲﾝﾃｨ\u001bH",
+    "ru": "Эйнти",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ECF8",
+    "ja": "\u001bKﾀﾏﾁｬ\u001bH",
+    "ru": "Тамача",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "333A0",
+    "ja": "\u001bKｴﾘｰﾅ\u001bH",
+    "ru": "Элина",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ECE2",
+    "ja": "\u001bKｶﾙﾁｭ\u001bH",
+    "ru": "Карчу",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31180",
+    "ja": "\u001bKｻﾛﾒｱ\u001bH",
+    "ru": "Саломея",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "332F0",
+    "ja": "\u001bKﾄﾞﾆｱ\u001bH",
+    "ru": "Дония",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30FF4",
+    "ja": "\u001bKﾄﾗｷﾅ\u001bH",
+    "ru": "Торэгэнэ",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3100A",
+    "ja": "\u001bKﾌﾟｽｶ\u001bH",
+    "ru": "Пуска",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2EDA8",
+    "ja": "\u001bKﾗｯﾁ\u001bH",
+    "ru": "Лачи",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30F9C",
+    "ja": "\u001bKｼｲﾗ\u001bH",
+    "ru": "Шара",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3548C",
+    "ja": "\u001bKｼｲﾗ\u001bH",
+    "ru": "Шара",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33306",
+    "ja": "\u001bKｶﾏﾗ\u001bH",
+    "ru": "Камала",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "310BA",
+    "ja": "\u001bKｱﾆｽ\u001bH",
+    "ru": "Анис",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED3A",
+    "ja": "\u001bKｱﾗﾝ\u001bH",
+    "ru": "Алан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33332",
+    "ja": "\u001bKｱﾝﾅ\u001bH",
+    "ru": "Анна",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED50",
+    "ja": "\u001bKｸﾗﾝ\u001bH",
+    "ru": "Хулан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30F86",
+    "ja": "\u001bKｸﾗﾝ\u001bH",
+    "ru": "Хулан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "35670",
+    "ja": "\u001bKｸﾗﾝ\u001bH",
+    "ru": "Хулан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30FDE",
+    "ja": "\u001bKﾁｬｶ\u001bH",
+    "ru": "Чака",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "354B8",
+    "ja": "\u001bKﾁｬｶ\u001bH",
+    "ru": "Чака",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31020",
+    "ja": "\u001bKﾛｻﾝ\u001bH",
+    "ru": "Росан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2ED92",
+    "ja": "\u001bKｿﾁ\u001bH",
+    "ru": "Сочи",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "30FB2",
+    "ja": "\u001bKｸﾝ\u001bH",
+    "ru": "Кун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B25E",
+    "ja": "城 長茂",
+    "ru": "Нагамоти",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B2C6",
+    "ja": "源 頼朝",
+    "ru": "Ёритомо",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B32E",
+    "ja": "平 通盛",
+    "ru": "Митимори",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B348",
+    "ja": "平 教経",
+    "ru": "Норицунэ",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B362",
+    "ja": "平 知盛",
+    "ru": "Томомори",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B396",
+    "ja": "平 経盛",
+    "ru": "Цунэмори",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B3CA",
+    "ja": "源 頼政",
+    "ru": "Ёримаса",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B3FE",
+    "ja": "平 清盛",
+    "ru": "Киёмори",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B418",
+    "ja": "平 時忠",
+    "ru": "Токитада",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B994",
+    "ja": "文覚",
+    "ru": "Монгаку",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2B9AE",
+    "ja": "畠山重忠",
+    "ru": "Хатакэяма",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2BA4A",
+    "ja": "平 清綱",
+    "ru": "Киёцуна",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2BB00",
+    "ja": "陳和卿",
+    "ru": "Чэнь Хэцин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F22A",
+    "ja": "\u001bKｱﾙｽﾗﾝ\u001bH",
+    "ru": "Арслан-хан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F2C6",
+    "ja": "章宗",
+    "ru": "Чжан-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F2FA",
+    "ja": "襄宗",
+    "ru": "Сян-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F362",
+    "ja": "\u001bKﾁﾙｸ\u001bH",
+    "ru": "Чжилугу",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F3CA",
+    "ja": "煕宗",
+    "ru": "Си-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F3E4",
+    "ja": "崔忠献",
+    "ru": "Чхунхон",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F3FE",
+    "ja": "源 実朝",
+    "ru": "Санэтомо",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F432",
+    "ja": "寧宗",
+    "ru": "Нин-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F44C",
+    "ja": "史弥遠",
+    "ru": "Ши Миюань",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F466",
+    "ja": "高宗",
+    "ru": "Гао-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F63A",
+    "ja": "\u001bKｱｲﾊﾞｸ\u001bH",
+    "ru": "Кутб Айбек",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F8F8",
+    "ja": "耶律楚材",
+    "ru": "Елюй Чуцай",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F994",
+    "ja": "李奎報",
+    "ru": "Ли Гюбо",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F9C8",
+    "ja": "真徳秀",
+    "ru": "Чжэнь Дэсю",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F9E2",
+    "ja": "陳守度",
+    "ru": "Чан Тху До",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3149A",
+    "ja": "\u001bKﾁﾝｷﾞﾑ\u001bH",
+    "ru": "Чжэньцзинь",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3163A",
+    "ja": "\u001bKﾊﾟｽﾊﾟ\u001bH",
+    "ru": "Пагба-лама",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3166E",
+    "ja": "元宗",
+    "ru": "Вонджон",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "316D6",
+    "ja": "度宗",
+    "ru": "Ду-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "316F0",
+    "ja": "賈似道",
+    "ru": "Цзя Сыдао",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3170A",
+    "ja": "聖宗",
+    "ru": "Шэн-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31BB6",
+    "ja": "郭守敬",
+    "ru": "Го Шоуцзин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31C38",
+    "ja": "金方慶",
+    "ru": "Ким Бангён",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31C52",
+    "ja": "竹崎季長",
+    "ru": "Такэдзаки",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31C86",
+    "ja": "陳興道",
+    "ru": "Чан Хынг",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31CD4",
+    "ja": "\u001bKﾀｲﾐｰﾔ\u001bH",
+    "ru": "Ибн Таймия",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31E0C",
+    "ja": "\u001bKｻﾆｽﾗｳ\u001bH",
+    "ru": "Станислав",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33772",
+    "ja": "\u001bKｱﾙｽﾗﾝ\u001bH",
+    "ru": "Арслан-хан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3380E",
+    "ja": "章宗",
+    "ru": "Чжан-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33842",
+    "ja": "桓宗",
+    "ru": "Хуань-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "338AA",
+    "ja": "\u001bKﾁﾙｸ\u001bH",
+    "ru": "Чжилугу",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33912",
+    "ja": "明宗",
+    "ru": "Мёнжон",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3392C",
+    "ja": "崔忠献",
+    "ru": "Чхунхон",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33946",
+    "ja": "源 頼朝",
+    "ru": "Ёритомо",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3397A",
+    "ja": "孝宗",
+    "ru": "Сяо-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "339AE",
+    "ja": "高宗",
+    "ru": "Гао-цзун",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33E40",
+    "ja": "耶律楚材",
+    "ru": "Елюй Чуцай",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33EDC",
+    "ja": "李奎報",
+    "ru": "Ли Гюбо",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33F10",
+    "ja": "朱熹",
+    "ru": "Чжу Си",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33F2A",
+    "ja": "陳守度",
+    "ru": "Чан Тху До",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33FFA",
+    "ja": "\u001bKｱｲﾊﾞｸ\u001bH",
+    "ru": "Кутб Айбек",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C8F8",
+    "ja": "楯 親忠",
+    "ru": "Тикатада",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2C9FC",
+    "ja": "源 範頼",
+    "ru": "Нориёри",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CA16",
+    "ja": "源 義経",
+    "ru": "Ёсицунэ",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32A64",
+    "ja": "史天沢",
+    "ru": "Ши Тяньцзэ",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32A7E",
+    "ja": "洪茶丘",
+    "ru": "Хун Чацю",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "32B9C",
+    "ja": "平 頼綱",
+    "ru": "Ёрицуна",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34DF2",
+    "ja": "源 範頼",
+    "ru": "Нориёри",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34E0C",
+    "ja": "源 義経",
+    "ru": "Ёсицунэ",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 7
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34E5A",
+    "ja": "梶原景時",
+    "ru": "Кадзивара",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34E74",
+    "ja": "畠山重忠",
+    "ru": "Хатакэяма",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "34EC2",
+    "ja": "大姫",
+    "ru": "Охимэ",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10
+  }
+]

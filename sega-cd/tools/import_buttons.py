@@ -15,6 +15,8 @@ graphic_file=next(f for f in inventory['files'] if f['path']=='GH2GRP.DAT;1')
 base=graphic_file['lba']*2048
 captions={'B9':'Да','BA':'Нет',**json.loads((MD/'translation/graphics.json').read_text('utf8'))}
 out=ROOT/'assets/buttons';out.mkdir(exist_ok=True)
+previous=ROOT/'translation/buttons.json'
+local_entries=[e for e in json.loads(previous.read_text('utf8'))['entries'] if e.get('origin') in ('sega-cd-keyboard','sega-cd-age')] if previous.exists() else []
 entries=[];deferred=[]
 compact=json.loads((MD/'translation/menu-font.json').read_text('utf8'))
 (ROOT/'assets/button-compact-font.json').write_text(json.dumps({ch:compact[ch] for ch in 'ходвейст'},ensure_ascii=False,indent=2)+'\n',encoding='utf8')
@@ -58,6 +60,7 @@ for key,caption in captions.items():
     name=key.lower()+'.bin';(out/name).write_bytes(new)
     entries.append(dict(resource=key,caption=caption,file='assets/buttons/'+name,size=len(new),
                         sha256=hashlib.sha256(new).hexdigest(),source_cd_sha256=hashlib.sha256(old).hexdigest(),adaptation=adaptation))
+entries.extend(e for e in local_entries if not any(x['resource']==e['resource'] for x in entries))
 report=dict(source_md_version=manifest['version'],source_md_rom_sha256=manifest['rom_sha256'],
             pixel_policy='Exact Mega Drive pixels except two declared narrow labels using unchanged compact glyphs in two rows; no scaling or palette conversion',
             entries=entries,deferred=deferred)

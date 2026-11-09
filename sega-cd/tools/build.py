@@ -72,29 +72,38 @@ for ch in ',?!.:;()0123456789/CIVX-':
 # Digits, slash and spaces already have the same native half-width pixels.
 # Two native bytes occupy the same 16px as a paired glyph, without consuming
 # another Japanese font slot. Keep Cyrillic pairs on the imported font.
-from text_encoding import pieces, encode, decimal_tokens
+from text_encoding import pieces, encode, decimal_tokens, stream_tokens, stream_pieces, encode_stream
 native_pair = lambda pair: all(ch in '0123456789/ ?,CIVX-!.:;()' for ch in pair)
+prompt = json.loads((ROOT/'translation/start-menu-prompt.json').read_text('utf8'))
+relocated = json.loads((ROOT/'translation/relocated-text.json').read_text('utf8'))
+from chronicle_tables import TEXTS as CHRONICLE_TEXTS, apply as apply_chronicle_tables
 pairs = []
-for entry in translations:
+for entry in translations + [prompt] + relocated + CHRONICLE_TEXTS:
     formatted=entry.get('native_decimal_format',False)
-    if formatted: assert decimal_tokens(entry['ja'])==decimal_tokens(entry['ru']),entry
+    if entry.get('native_stream'):
+        oldstream=re.sub(r'\x1b[KH]','',entry['ja'])
+        assert stream_tokens(oldstream)==stream_tokens(entry['ru']),entry
+    elif formatted: assert decimal_tokens(entry['ja'])==decimal_tokens(entry['ru']),entry
     else: assert '%' not in entry['ru']
     if 'max_lines' in entry:
         assert len(entry['ru'].split('\n'))<=entry['max_lines'], entry
     if 'max_columns' in entry:
         assert all((len(line)+1)//2*2<=entry['max_columns'] for line in entry['ru'].split('\n')), entry
-    for kind,value in pieces(entry['ru'],formatted):
+    for kind,value in (stream_pieces(entry['ru']) if entry.get('native_stream') else pieces(entry['ru'],formatted)):
         if kind=='pair':
             assert all(ch in letter_rows for ch in value),value
             if value not in pairs:pairs.append(value)
 from text_compositor import install
-compositor, pair_codes = install(main, codes, unused, pairs, letter_rows)
+compositor, pair_codes = install(main, codes, unused, pairs, letter_rows, prompt['ru'], relocated)
 replaced = []
 
 def encode_text(text, formatted=False):
     return encode(text,pair_codes,formatted)
 start = files['SMAIN.PRG;1']['lba']*2048
 image[start:start+len(main)] = main
+from relocated_text import apply as apply_relocated_text
+apply_relocated_text(image, source, files, compositor['relocated_texts'])
+apply_chronicle_tables(image,source,files,compositor['chronicle_tables'])
 applied = []
 for entry in translations:
     f = files[entry['file']]
@@ -103,17 +112,30 @@ for entry in translations:
     padding=entry.get('original_padding_bytes',0)
     if padding:
         position=int(entry['offset'],16)
-        assert entry['file']=='INIT.PRG;1' and 0x15232<=position<0x16cc2 and (position-0x15232)%20==0
-        assert padding==10-len(old)>0
-        assert original[position:position+14]==old+bytes(14-len(old)), entry
+        if entry['file']=='INIT.PRG;1':
+            assert 0x15232<=position<0x16ce6 and (position-0x15232)%20==0
+            limit=entry.get('name_capacity',10);assert limit in (10,14)
+            assert padding==limit-len(old)>0
+            assert original[position:position+limit+1]==old+bytes(limit+1-len(old))
+            assert original[position:position+14]==old+bytes(14-len(old)), entry
+        else:
+            from scenario_names import valid_offset, valid_country_offset, valid_province_offset
+            country=entry.get('kind')=='scenario_country'
+            limit=16 if country else 14
+            assert entry['file']=='SMAIN.PRG;1' and (valid_country_offset(position) if country else valid_province_offset(position) if entry.get('kind')=='province' else valid_offset(position))
+            assert padding==limit-len(old)>0 and len(entry['ru'])<=limit
+            assert original[position:position+limit+1]==old+bytes(limit+1-len(old)),entry
         old+=bytes(padding)
-    new = encode_text(entry['ru'],entry.get('native_decimal_format',False))
+    new = encode_stream(entry['ru'],pair_codes) if entry.get('native_stream') else encode_text(entry['ru'],entry.get('native_decimal_format',False))
     controls = re.findall(b'\x1b(.)',old)
     if entry.get('native_prefix'):
         prefix=bytes.fromhex(entry['native_prefix'])
         assert prefix==b'\x1bB2' and old.startswith(prefix) and controls.count(b'B')==1, entry
         new=prefix+new
         controls.remove(b'B')
+    if entry.get('native_stream'):
+        assert re.findall(rb'\x1b[CB][0-9A-F]',old)==re.findall(rb'\x1b[CB][0-9A-F]',new),entry
+        controls=[code for code in controls if code not in (b'C',b'B')]
     assert all(code in (b'K',b'H',b'W') for code in controls), entry
     if b'W' in controls:
         assert old.endswith(b'\x1bW') and controls.count(b'W')==1, entry
@@ -124,13 +146,22 @@ for entry in translations:
     address = f['lba']*2048+offset
     image[address:address+len(old)+1] = new+bytes(len(old)+1-len(new))
     applied.append(dict(**entry, original_bytes=len(old), translated_bytes=len(new)))
+from catalog_index import apply as apply_catalog_index
+catalog_index=apply_catalog_index(image,source,files,applied)
 from menu_frame import apply as apply_menu_frame
-menu_frame=apply_menu_frame(image,source,files)
+menu_frame=apply_menu_frame(image,source,files,compositor['start_prompt']['offset'])
 from opening_text import apply as apply_opening
 opening_text=apply_opening(image,source,files)
 buttons=apply_buttons(image,source,files)
 assert len(image)==len(source)
 # Encode and replay standard IPS. No source file is included in the patch.
+from catalog_graphics import apply as apply_catalog_graphics
+catalog_graphics=apply_catalog_graphics(image,source,files)
+from music_titles import apply as apply_music_titles
+apply_music_titles(image,source,files,compositor['music_titles'])
+from catalog_list import apply as apply_catalog_list
+apply_catalog_list(image,source,files,compositor['catalog_list'])
+
 patch = bytearray(b'PATCH')
 pos = 0
 while pos<len(source):
@@ -150,13 +181,14 @@ stem='genchou-hishi-ru-experimental'
 report=dict(version='0.0.5-experimental', source_sha256=inventory['sha256'],
             iso_sha256=hashlib.sha256(image).hexdigest(), ips_sha256=hashlib.sha256(patch).hexdigest(),
             iso_size=len(image), audio_tracks_modified=0, applied=applied, glyph_replacements=replaced,
+            translated_field_count=len(applied)+len(relocated),
             paired_glyphs={pair:code.hex() for pair,code in pair_codes.items()},buttons=buttons,
-            text_compositor=compositor, menu_frame=menu_frame, opening_text=opening_text,
+            text_compositor=compositor, catalog_graphics=catalog_graphics, catalog_index=catalog_index, menu_frame=menu_frame, opening_text=opening_text,
             limitations=['8px glyphs packed in native 16px cells; UI width must be checked.',
                          'Compositor and font data occupy statically unused glyph cells; dynamic/resource usage not proven.',
                          'Partial interface and harem dialogue translation.'])
 (OUT/'manifest.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
-print(f'PASS: IPS replay, fixed ISO size, {len(applied)} strings, 66 source Cyrillic glyphs, {len(pairs)} pairs; CDDA unchanged')
+print(f'PASS: IPS replay, fixed ISO size, {len(applied)+len(relocated)} fields ({len(relocated)} relocated), 66 source Cyrillic glyphs, {len(pairs)} pairs; CDDA unchanged')
 
 from package_disc import package
 package('japanese-audio')

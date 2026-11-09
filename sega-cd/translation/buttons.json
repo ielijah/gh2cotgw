@@ -714,6 +714,52 @@
       "adaptation": null,
       "origin": "sega-cd-harem",
       "font_source": "mega-drive/translation/menu-font.json"
+    },
+    {
+      "resource": "04",
+      "caption": "Ру",
+      "file": "assets/buttons/04.bin",
+      "size": 128,
+      "sha256": "9b2f6ba9e28512f0f39be54bf92cd442075d2cc6d57e5878faa04828d9e1f07b",
+      "source_cd_sha256": "1a73671d352b83c97f4826312ac8e1ed5fbb6cc941e8123e42c26f35280c49e8",
+      "origin": "sega-cd-keyboard",
+      "adaptation": null,
+      "font_source": "mega-drive/translation/menu-font.json"
+    },
+    {
+      "resource": "05",
+      "caption": "",
+      "file": "assets/buttons/05.bin",
+      "size": 128,
+      "sha256": "fc1ab34685c687fb2c0c001f856b8c663eaf7eb9539122aa018b995aa03ae6a4",
+      "source_cd_sha256": "1ee6278348e52134a04bf75304198b51a1ac25321ea6ecea537d5f6289b89b90",
+      "origin": "sega-cd-keyboard",
+      "adaptation": null,
+      "font_source": "mega-drive/translation/menu-font.json",
+      "disabled_keyboard_tab": true
+    },
+    {
+      "resource": "06",
+      "caption": "",
+      "file": "assets/buttons/06.bin",
+      "size": 128,
+      "sha256": "fc1ab34685c687fb2c0c001f856b8c663eaf7eb9539122aa018b995aa03ae6a4",
+      "source_cd_sha256": "1c31cb9272a67a3a8c75678ce8198027d3c393def9dfd4dc167145a48d0b459f",
+      "origin": "sega-cd-keyboard",
+      "adaptation": null,
+      "font_source": "mega-drive/translation/menu-font.json",
+      "disabled_keyboard_tab": true
+    },
+    {
+      "resource": "F0",
+      "caption": "лет",
+      "file": "assets/buttons/f0.bin",
+      "size": 128,
+      "sha256": "96fe9cd07391ade918d42036cd7436b147fe2e079ca14d93a5773c9ca3a8ccf1",
+      "source_cd_sha256": "88a342f5198a146c8f0fb5b35c833098574e671bd702106f169d918b5ecec7b1",
+      "origin": "sega-cd-age",
+      "adaptation": null,
+      "font_source": "mega-drive/translation/menu-font.json"
     }
   ],
   "deferred": []

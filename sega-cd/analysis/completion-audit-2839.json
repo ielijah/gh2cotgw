@@ -1,0 +1,36 @@
+{
+  "status": "partial_verified",
+  "date": "2026-11-09",
+  "translated_fields": 2839,
+  "relocated_fields": 379,
+  "paired_glyphs": 1197,
+  "biographies": 453,
+  "catalogue_names": 342,
+  "catalogue_graphic_labels": 8,
+  "small_graphic_labels": 80,
+  "keyboard_keys": 90,
+  "iso_sha256": "759a555c6e36033462862903fbe47bfc24efebad7469acd23e753e6a34f10e42",
+  "changes": [
+    "Russian keyboard with 66 Cyrillic letters; native two-tile upload and length guards preserved",
+    "Remaining 33 catalogue name fields and eight music titles translated",
+    "All 342 catalogue records sorted into ten Russian alphabet ranges; portraits, attributes and biography pointers permuted together",
+    "Catalogue graphics repacked without overwriting adjacent pointer tables",
+    "Long list names bounded to ten cells, full names retained on biography cards",
+    "Music screen renders only its selected title inside the original tile window"
+  ],
+  "emulator_verified": [
+    "Russian keyboard: input, deletion, Ё, switching to Latin",
+    "Music title layout",
+    "Catalogue categories, Russian alphabetical index, name list and matching biography card from a cold boot"
+  ],
+  "cpu_verified": [
+    "All 66 single-letter bitmaps and widths, two-tile uploads, native byte limits",
+    "All 342 catalogue list names with preserved stack and records",
+    "All nine music renderer call contracts"
+  ],
+  "remaining_report": "analysis/remaining-translation-2839.json",
+  "harem_traversal_tested": false,
+  "mega_drive_built": false,
+  "audio_changed": false,
+  "git_pushed": false
+}

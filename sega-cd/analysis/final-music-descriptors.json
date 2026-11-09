@@ -1,0 +1,148 @@
+[
+  {
+    "file": "INIT.PRG;1",
+    "offset": "14FD4",
+    "ja": "9: 遥ｶﾅﾙ星",
+    "ru": "9: Далёкая звезда",
+    "kind": "music_title",
+    "max_columns": 22,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "177AA",
+        "before": "0007afd4"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "14FE0",
+    "ja": "8: 祈ﾘ",
+    "ru": "8: Молитва",
+    "kind": "music_title",
+    "max_columns": 22,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "177A6",
+        "before": "0007afe0"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "14FE8",
+    "ja": "7: 馬上ﾉ狼",
+    "ru": "7: Волк в седле",
+    "kind": "music_title",
+    "max_columns": 22,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "177A2",
+        "before": "0007afe8"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "14FF4",
+    "ja": "6: 弔鐘",
+    "ru": "6: Погребальный звон",
+    "kind": "music_title",
+    "max_columns": 22,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "1779E",
+        "before": "0007aff4"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "14FFC",
+    "ja": "5: \u001bKﾗﾗﾊﾞｲ\u001bH",
+    "ru": "5: Колыбельная",
+    "kind": "music_title",
+    "max_columns": 22,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "1779A",
+        "before": "0007affc"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1500A",
+    "ja": "4: 異教ﾉ地",
+    "ru": "4: Земля иноверцев",
+    "kind": "music_title",
+    "max_columns": 22,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "17796",
+        "before": "0007b00a"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15024",
+    "ja": "2: 華龍",
+    "ru": "2: Дракон Китая",
+    "kind": "music_title",
+    "max_columns": 22,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "1778E",
+        "before": "0007b024"
+      }
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1502C",
+    "ja": "1: 流浪ﾉ民",
+    "ru": "1: Кочевой народ",
+    "kind": "music_title",
+    "max_columns": 22,
+    "max_lines": 1,
+    "references": [
+      {
+        "file": "INIT.PRG;1",
+        "offset": "1778A",
+        "before": "0007b02c"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4AF5A",
+    "ja": "命令ｦｽﾍﾞﾃ\n終了ｼﾃ",
+    "ru": "Конец приказов",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4BF50",
+    "ja": "命名ｦｵ止ﾒﾆ\nﾅﾙﾉﾃﾞｽｶ",
+    "ru": "Не давать имя?",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 2
+  }
+]

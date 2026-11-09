@@ -1,0 +1,321 @@
+[
+  {
+    "file": "INIT.PRG;1",
+    "offset": "152FA",
+    "ja": "\u001bKｱﾐﾙ･ﾎｽﾛｰ\u001bH",
+    "ru": "Амир Хосров",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1535E",
+    "ja": "\u001bKｱﾙ･ｱｼｰﾙ\u001bH",
+    "ru": "Ибн аль-Асир",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1543A",
+    "ja": "\u001bKｱﾙﾌｫﾝｿ8世\u001bH",
+    "ru": "Альфонс VIII",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15476",
+    "ja": "\u001bKｱﾚｸｼｵｽ3世\u001bH",
+    "ru": "Алексей III",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15822",
+    "ja": "\u001bKｷﾞﾖｰﾑ2世\u001bH",
+    "ru": "Вильгельм II",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "158D6",
+    "ja": "\u001bKｸﾄﾞｶ･ﾍﾞｷ\u001bH",
+    "ru": "Худуха-беки",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15A66",
+    "ja": "\u001bKｺﾞﾘ･ｼﾑﾚﾝ\u001bH",
+    "ru": "Гори-Шимрен",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15B06",
+    "ja": "\u001bKｻｷｱﾊﾟﾝﾁｪﾝ\u001bH",
+    "ru": "Сакьяпандит",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15B6A",
+    "ja": "\u001bKｻﾗﾃﾞｨﾝ\u001bH",
+    "ru": "Салах ад-Дин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 4,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15BE2",
+    "ja": "\u001bKｼｷﾞ･ｸﾄｸ\u001bH",
+    "ru": "Шиги-Хутуг",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15CE6",
+    "ja": "\u001bKｼﾞｭﾊﾞｲﾙ\u001bH",
+    "ru": "Ибн Джубайр",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "15E12",
+    "ja": "\u001bKｿﾙｶﾝ･ｼﾗ\u001bH",
+    "ru": "Сорхан-Шира",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "160E2",
+    "ja": "\u001bKﾁﾑｰﾙ･ﾒﾘｸ\u001bH",
+    "ru": "Тимур-Мелик",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "162FE",
+    "ja": "\u001bKﾄｵﾘﾙ･ﾊｰﾝ\u001bH",
+    "ru": "Тогорил-хан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16326",
+    "ja": "\u001bKﾄｸﾄｱ･ﾍﾞｷ\u001bH",
+    "ru": "Тохтоа-беки",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16416",
+    "ja": "\u001bKﾅﾗﾃｨﾊﾊﾟﾃ\u001bH",
+    "ru": "Наратихапате",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1642A",
+    "ja": "\u001bKﾅﾗﾊﾟﾃｨｼﾄｩ\u001bH",
+    "ru": "Нарапатиситу",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "164DE",
+    "ja": "\u001bKﾊｲﾝﾘﾋ6世\u001bH",
+    "ru": "Генрих VI",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "165BA",
+    "ja": "\u001bKﾊﾞﾙﾗｰﾗ2世\u001bH",
+    "ru": "Баллахала II",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1660A",
+    "ja": "\u001bKﾋﾞﾙｹﾞ･ﾍﾞｷ\u001bH",
+    "ru": "Бильгэ-беки",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1666E",
+    "ja": "\u001bKﾌｫｰｹﾞﾙﾊﾞｲﾃﾞ\u001bH",
+    "ru": "Фогельвейде",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16722",
+    "ja": "\u001bKﾌｾｳﾞｫﾛﾄﾞ3世\u001bH",
+    "ru": "Всеволод III",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1674A",
+    "ja": "\u001bKﾌﾋﾞﾗｲ･ﾊｰﾝ\u001bH",
+    "ru": "Хубилай-хан",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "167D6",
+    "ja": "\u001bKﾌﾟﾘﾄﾋﾞﾗｰｼﾞｬ\u001bH",
+    "ru": "Притхвирадж",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "167EA",
+    "ja": "文天祥",
+    "ru": "Вэнь Тяньсян",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "1697A",
+    "ja": "\u001bKﾏﾝｸﾞ･ﾁﾑｰﾙ\u001bH",
+    "ru": "Менгу-Тимур",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "169A2",
+    "ja": "\u001bKﾐｶｴﾙ8世\u001bH",
+    "ru": "Михаил VIII",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16A92",
+    "ja": "\u001bKﾑﾊﾏﾄﾞﾅｰｾﾙ\u001bH",
+    "ru": "Мухаммад Насир",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 1,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16ABA",
+    "ja": "\u001bKﾑﾝﾀｼﾙ\u001bH",
+    "ru": "аль-Мунтасир",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16B82",
+    "ja": "\u001bKﾔﾛｽﾗﾌ3世\u001bH",
+    "ru": "Ярослав III",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16C36",
+    "ja": "\u001bKﾙｲ8世\u001bH",
+    "ru": "Людовик VIII",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 5,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16CC2",
+    "ja": "和田義盛",
+    "ru": "Вада Ёсимори",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6,
+    "name_capacity": 14
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "16CD6",
+    "ja": "完顔福興",
+    "ru": "Ваньянь Фусин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6,
+    "name_capacity": 14
+  }
+]

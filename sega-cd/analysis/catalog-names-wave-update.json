@@ -1,0 +1,962 @@
+{
+  "added_fields": 64,
+  "catalog_names": 53,
+  "scenario_name_occurrences": 6,
+  "historical_messages": 3,
+  "mode_labels": 2,
+  "total_fields": 2015,
+  "glyph_pairs": 1135,
+  "remaining_names_in_reviewed_table": 17,
+  "emulator_checks": [
+    "cold children list page 1",
+    "cold wives Ha list"
+  ],
+  "static_only": [
+    "historical messages",
+    "mode labels",
+    "individual unvisited names"
+  ],
+  "unchanged_track57_sha256": "33799b0c64fd0cca9eede19f42c416a19644b294d643c6826629e57fdafab4e2",
+  "sources": [
+    "https://awak-labo.com/chinghiskhan/3-06.html",
+    "https://www.tokaiedu.co.jp/kamome/contents.php?i=1467"
+  ],
+  "entries": [
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4FD0",
+      "ja": "ｳｸﾞﾙｸﾁ",
+      "ru": "Угрукчи",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16CEA",
+          "before": "0006afd0"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4FB6",
+      "ja": "大姫",
+      "ru": "Охимэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16CF6",
+          "before": "0006afb6"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F9E",
+      "ja": "木曾義高",
+      "ru": "Ёситака",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16D02",
+          "before": "0006af9e"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F88",
+      "ja": "三幡姫",
+      "ru": "Самман",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16D0E",
+          "before": "0006af88"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F78",
+      "ja": "ｼｬﾙﾙ2世",
+      "ru": "Карл II",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16D16",
+          "before": "0006af78"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F6A",
+      "ja": "平 清房",
+      "ru": "Киёфуса",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16D1E",
+          "before": "0006af6a"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F62",
+      "ja": "平 重衡",
+      "ru": "Сигэхира",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16D22",
+          "before": "0006af62"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4F5A",
+      "ja": "平 知度",
+      "ru": "Томонори",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16D26",
+          "before": "0006af5a"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5216",
+      "ja": "ｱﾆｽ",
+      "ru": "Анис",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DCA",
+          "before": "0006b216"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5212",
+      "ja": "ｱﾗﾝ",
+      "ru": "Алан",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DCE",
+          "before": "0006b212"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "520E",
+      "ja": "ｱﾝﾅ",
+      "ru": "Анна",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DD2",
+          "before": "0006b20e"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51DE",
+      "ja": "ｲｮﾗﾝﾄﾞ",
+      "ru": "Иоланда",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DEA",
+          "before": "0006b1de"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51BE",
+      "ja": "ｴｳﾌｪﾐｱ",
+      "ru": "Евфимия",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DFA",
+          "before": "0006b1be"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51B8",
+      "ja": "ｴﾘｰﾅ",
+      "ru": "Элина",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16DFE",
+          "before": "0006b1b8"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51AC",
+      "ja": "ｴﾙｼﾞｭｰﾍﾞｯﾄ",
+      "ru": "Эржебет",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E02",
+          "before": "0006b1ac"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51A6",
+      "ja": "ｴﾚｵﾉﾗ",
+      "ru": "Элеонора",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E06",
+          "before": "0006b1a6"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "51A0",
+      "ja": "ｵﾙｶﾞﾅ",
+      "ru": "Органа",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E0A",
+          "before": "0006b1a0"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "519A",
+      "ja": "ｶﾀﾞｱﾝ",
+      "ru": "Кадаан",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E0E",
+          "before": "0006b19a"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5190",
+      "ja": "亀前",
+      "ru": "Камэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E16",
+          "before": "0006b190"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "518A",
+      "ja": "ｶﾙﾁｭ",
+      "ru": "Карчу",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E1A",
+          "before": "0006b18a"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5178",
+      "ja": "ｸﾆｸﾞﾝﾀﾞ",
+      "ru": "Кунигунда",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E22",
+          "before": "0006b178"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5174",
+      "ja": "ｸﾗﾝ",
+      "ru": "Хулан",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E26",
+          "before": "0006b174"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "516C",
+      "ja": "ｸﾚﾒﾝﾃｨｱ",
+      "ru": "Клеменция",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E2A",
+          "before": "0006b16c"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5160",
+      "ja": "ｹﾞｲﾄﾙｰﾄ",
+      "ru": "Гертруда",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E32",
+          "before": "0006b160"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "514E",
+      "ja": "小宰相",
+      "ru": "Кодзайсё",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E3A",
+          "before": "0006b14e"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5146",
+      "ja": "小侍従",
+      "ru": "Кодзидзю",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E3E",
+          "before": "0006b146"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5136",
+      "ja": "ｺﾝｽﾀﾝｽ",
+      "ru": "Констанция",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E46",
+          "before": "0006b136"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5130",
+      "ja": "讃岐",
+      "ru": "Сануки",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E4A",
+          "before": "0006b130"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5124",
+      "ja": "ｻﾛﾒｱ",
+      "ru": "Саломея",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E52",
+          "before": "0006b124"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "511E",
+      "ja": "ｻﾝｻﾙﾏ",
+      "ru": "Сансалма",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E56",
+          "before": "0006b11e"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5104",
+      "ja": "ｼｸﾞﾘﾀﾞ",
+      "ru": "Сигрида",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E66",
+          "before": "0006b104"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50FE",
+      "ja": "侍従",
+      "ru": "Дзидзю",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E6A",
+          "before": "0006b0fe"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50F6",
+      "ja": "静御前",
+      "ru": "Сидзука",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E6E",
+          "before": "0006b0f6"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50E8",
+      "ja": "ｼｬｼﾞｬﾙ",
+      "ru": "Шаджар",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E76",
+          "before": "0006b0e8"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50C0",
+      "ja": "ｿﾁ",
+      "ru": "Сочи",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E8A",
+          "before": "0006b0c0"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50B8",
+      "ja": "ｿﾞﾊﾞｲﾀﾞ",
+      "ru": "Зубайда",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E8E",
+          "before": "0006b0b8"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50B0",
+      "ja": "平 時子",
+      "ru": "Токико",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E92",
+          "before": "0006b0b0"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50A4",
+      "ja": "ﾀﾙｰﾌﾞ",
+      "ru": "Таруб",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E9A",
+          "before": "0006b0a4"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "50A0",
+      "ja": "ﾁｬｶ",
+      "ru": "Чака",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16E9E",
+          "before": "0006b0a0"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5084",
+      "ja": "ﾄﾞﾆｱ",
+      "ru": "Дония",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16EAE",
+          "before": "0006b084"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5076",
+      "ja": "ﾄﾗｷﾅ",
+      "ru": "Торэгэнэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16EB6",
+          "before": "0006b076"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "506A",
+      "ja": "八条",
+      "ru": "Хатидзё",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16EBE",
+          "before": "0006b06a"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5064",
+      "ja": "板額",
+      "ru": "Хангаку",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16EC2",
+          "before": "0006b064"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5054",
+      "ja": "ﾌﾟｽｶ",
+      "ru": "Пуска",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16ECA",
+          "before": "0006b054"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5042",
+      "ja": "ﾍﾟﾚﾝｶﾞﾘｱ",
+      "ru": "Беренгария",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16ED2",
+          "before": "0006b042"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "503A",
+      "ja": "ﾍﾞﾚﾝｹﾞﾗ",
+      "ru": "Беренгела",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16ED6",
+          "before": "0006b03a"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5030",
+      "ja": "北条政子",
+      "ru": "Масако",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16EDA",
+          "before": "0006b030"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "502A",
+      "ja": "ﾎﾞﾄｸｲ",
+      "ru": "Ботохуй",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16EDE",
+          "before": "0006b02a"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "5024",
+      "ja": "堀内",
+      "ru": "Хориути",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16EE2",
+          "before": "0006b024"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "501E",
+      "ja": "ﾎﾞﾙﾃ",
+      "ru": "Бортэ",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16EE6",
+          "before": "0006b01e"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4FFA",
+      "ja": "ﾒﾋﾁﾙﾃﾞ",
+      "ru": "Матильда",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16EFA",
+          "before": "0006affa"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4FEA",
+      "ja": "ﾔﾛｽﾗﾌﾞﾅ",
+      "ru": "Ярославна",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16F02",
+          "before": "0006afea"
+        }
+      ]
+    },
+    {
+      "file": "INIT.PRG;1",
+      "offset": "4FD8",
+      "ja": "ﾛｻﾝ",
+      "ru": "Росан",
+      "kind": "person_name",
+      "max_columns": 10,
+      "max_lines": 1,
+      "references": [
+        {
+          "file": "INIT.PRG;1",
+          "offset": "16F0E",
+          "before": "0006afd8"
+        }
+      ]
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27C58",
+      "ja": " ｼｶｼ､日本ﾊ統一ｻﾚﾙﾉｶﾞ余ﾘﾆﾓ\n遅ｽｷﾞﾀ…\n 強大ﾅ力ｦ蓄ｴﾀ諸外国ｦ前ﾆ､\nｺﾉ極東ﾉ小国ﾊ属国ﾄｼﾃ生ｷﾙ\nﾎｶ選ﾌﾞ道ﾊ､ﾅｶｯﾀﾉﾃﾞｱﾙ",
+      "ru": "Но Япония слишком\nпоздно объединилась.\nСильные соседи\nоставили ей лишь\nучасть вассала.",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27CC0",
+      "ja": " ｼｶｼ､\u001bKﾓﾝｺﾞﾙ高原\u001bHﾉ統一ﾊ余ﾘﾆﾓ\n遅ｽｷﾞﾀ…\n 強大ﾅ力ｦ蓄ｴﾀ諸外国ｦ前ﾆｼ､\nｺﾉ新興国家ﾊ属国ﾄｼﾃ生ｷ残ﾙ\n道ｦ選ﾌﾞﾎｶﾊ､ﾅｶｯﾀﾉﾃﾞｱﾙ",
+      "ru": "Но Монголия слишком\nпоздно объединилась.\nПеред мощью соседей\nновой державе осталось\nстать их вассалом.",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "27D3E",
+      "ja": " 全\u001bKﾓﾝｺﾞﾙ\u001bHｦ統治ｽﾙ\u001bKﾊ-ﾝ(大汗)\u001bHﾆ\n推戴ｻﾚﾀ\u001bKﾃﾑｼﾞﾝ\u001bHﾆ､\u001bK｢ﾁﾝｷﾞｽ･ﾊ-ﾝ｣\u001bHﾉ\n称号ｶﾞ奉ｼﾞﾗﾚﾀ",
+      "ru": "Темучина избрали\nвеликим ханом всех\nмонголов и нарекли\nЧингисханом.",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2AF88",
+      "ja": "行軍\u001bKﾓ-ﾄﾞ\u001bH",
+      "ru": "Марш",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2AF96",
+      "ja": "戦闘\u001bKﾓ-ﾄﾞ\u001bH",
+      "ru": "Бой",
+      "max_columns": 22,
+      "max_lines": 5
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2C97A",
+      "ja": "木曾義高",
+      "ru": "Ёситака",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "34EEE",
+      "ja": "三幡姫",
+      "ru": "Самман",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2CCB6",
+      "ja": "亀前",
+      "ru": "Камэ",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2CD50",
+      "ja": "平 時子",
+      "ru": "Токико",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "2CCF8",
+      "ja": "北条政子",
+      "ru": "Масако",
+      "max_columns": 10,
+      "max_lines": 1
+    },
+    {
+      "file": "SMAIN.PRG;1",
+      "offset": "354E4",
+      "ja": "北条政子",
+      "ru": "Масако",
+      "max_columns": 10,
+      "max_lines": 1
+    }
+  ]
+}
