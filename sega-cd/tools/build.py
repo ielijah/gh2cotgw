@@ -79,7 +79,9 @@ relocated = json.loads((ROOT/'translation/relocated-text.json').read_text('utf8'
 from chronicle_tables import TEXTS as CHRONICLE_TEXTS, apply as apply_chronicle_tables
 from battle_text import TEXTS as BATTLE_TEXTS, apply as apply_battle_text
 pairs = []
-for entry in translations + [prompt] + relocated + CHRONICLE_TEXTS + BATTLE_TEXTS:
+from women_traits import texts as women_trait_texts, apply as apply_women_traits
+from harem_options import TEXTS as HAREM_OPTIONS_TEXTS, apply as apply_harem_options
+for entry in translations + [prompt] + relocated + CHRONICLE_TEXTS + BATTLE_TEXTS + HAREM_OPTIONS_TEXTS + [{'ru':t} for t in women_trait_texts()]:
     formatted=entry.get('native_decimal_format',False)
     if entry.get('native_stream'):
         oldstream=re.sub(r'\x1b[KH]','',entry['ja'])
@@ -109,6 +111,8 @@ from relocated_text import apply as apply_relocated_text
 apply_relocated_text(image, source, files, compositor['relocated_texts'])
 apply_chronicle_tables(image,source,files,compositor['chronicle_tables'])
 applied = []
+from biography_bank import offsets as biography_offsets, apply as apply_biographies
+bio_offsets = set(biography_offsets(source, files))
 for entry in translations:
     f = files[entry['file']]
     original = payload(entry['file'])
@@ -146,12 +150,16 @@ for entry in translations:
         new += b'\x1bW'  # Preserve the original wait command, not just its text.
     offset = int(entry['offset'],16)
     assert original[offset:offset+len(old)+1] == old+b'\0', entry
-    assert len(new)<=len(old), (entry,len(new),len(old))
+    is_bio = entry['file']=='INIT.PRG;1' and offset in bio_offsets
+    assert is_bio or len(new)<=len(old), (entry,len(new),len(old))
     address = f['lba']*2048+offset
-    image[address:address+len(old)+1] = new+bytes(len(old)+1-len(new))
+    if not is_bio:
+        image[address:address+len(old)+1] = new+bytes(len(old)+1-len(new))
     applied.append(dict(**entry, original_bytes=len(old), translated_bytes=len(new)))
+biography_bank=apply_biographies(image,source,files,applied,encode_text)
 from catalog_index import apply as apply_catalog_index
-catalog_index=apply_catalog_index(image,source,files,applied)
+catalog_index=apply_catalog_index(image,source,files,applied,compositor['relocated_texts'])
+women_traits=apply_women_traits(image,source,files,biography_bank,catalog_index['wives']['order'],encode_text)
 from menu_frame import apply as apply_menu_frame
 menu_frame=apply_menu_frame(image,source,files,compositor['start_prompt']['offset'])
 from opening_text import apply as apply_opening
@@ -174,12 +182,18 @@ from dialogue_buffers import apply as apply_dialogue_buffers
 dialogue_buffers=apply_dialogue_buffers(image,source,files)
 apply_battle_text(image,source,files,compositor['battle_text'])
 
+apply_harem_options(image,source,files,compositor['harem_options'])
+from map_labels import apply as apply_map_labels
+apply_map_labels(image,source,files,compositor['map_labels'])
+from harem_cards import apply as apply_harem_success
+harem_success=apply_harem_success(image,source,files)
+
 patch = bytearray(b'PATCH')
 pos = 0
-while pos<len(source):
-    if source[pos]==image[pos]: pos+=1; continue
+while pos<len(image):
+    if pos<len(source) and source[pos]==image[pos]: pos+=1; continue
     start=pos
-    while pos<len(source) and source[pos]!=image[pos] and pos-start<65535: pos+=1
+    while pos<len(image) and (pos>=len(source) or source[pos]!=image[pos]) and pos-start<65535: pos+=1
     patch += start.to_bytes(3,'big')+(pos-start).to_bytes(2,'big')+image[start:pos]
 patch += b'EOF'
 replayed=bytearray(source);pos=5
@@ -190,17 +204,17 @@ assert replayed==image
 stem='genchou-hishi-ru-experimental'
 (OUT/(stem+'.iso')).write_bytes(image)
 (OUT/(stem+'.ips')).write_bytes(patch)
-report=dict(version='0.0.5-experimental', source_sha256=inventory['sha256'],
+report=dict(harem_success=harem_success,version='0.0.5-experimental', source_sha256=inventory['sha256'],
             iso_sha256=hashlib.sha256(image).hexdigest(), ips_sha256=hashlib.sha256(patch).hexdigest(),
             iso_size=len(image), audio_tracks_modified=0, applied=applied, glyph_replacements=replaced,
             translated_field_count=len(applied)+len(relocated),
             paired_glyphs={pair:code.hex() for pair,code in pair_codes.items()},buttons=buttons,
-            text_compositor=compositor, dialogue_buffers=dialogue_buffers, catalog_graphics=catalog_graphics, catalog_index=catalog_index, menu_frame=menu_frame, opening_text=opening_text, ending_graphics=ending_graphics, title_graphics=title_graphics,
+            text_compositor=compositor, biography_bank=biography_bank, women_traits=women_traits, dialogue_buffers=dialogue_buffers, catalog_graphics=catalog_graphics, catalog_index=catalog_index, menu_frame=menu_frame, opening_text=opening_text, ending_graphics=ending_graphics, title_graphics=title_graphics,
             limitations=['8px glyphs packed in native 16px cells; UI width must be checked.',
                          'Compositor and font data occupy statically unused glyph cells; dynamic/resource usage not proven.',
                          'Partial interface and harem dialogue translation.'])
 (OUT/'manifest.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
-print(f'PASS: IPS replay, fixed ISO size, {len(applied)+len(relocated)} fields ({len(relocated)} relocated), 66 source Cyrillic glyphs, {len(pairs)} pairs; CDDA unchanged')
+print(f'PASS: IPS replay, expanded ISO {len(source)} -> {len(image)}, {len(applied)+len(relocated)} fields ({len(relocated)} relocated), 66 source Cyrillic glyphs, {len(pairs)} pairs; CDDA unchanged')
 
 if os.getenv('GH2_SKIP_PACKAGES')!='1':
     from package_disc import package

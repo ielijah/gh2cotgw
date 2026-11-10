@@ -1,0 +1,102 @@
+[
+  {
+    "raw_hex": "f0def0aa20393939390af0cef071f070f1702020",
+    "full_text": "Меха 9999\nПродать.  Хорошо? ",
+    "function": "0x2acf0",
+    "kind": 0,
+    "bytes": 20,
+    "text": "Меха 9999\nПродать.  ",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "raw_hex": "f67cf35520393939390af0cef071f070f1702020",
+    "full_text": "Шёлк 9999\nПродать.  Хорошо? ",
+    "function": "0x2acf0",
+    "kind": 1,
+    "bytes": 20,
+    "text": "Шёлк 9999\nПродать.  ",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "raw_hex": "f157f17df553f1d3f1c420393939390af0cef071f070f1702020",
+    "full_text": "Самоцветы  9999\nПродать.  Хорошо? ",
+    "function": "0x2acf0",
+    "kind": 2,
+    "bytes": 26,
+    "text": "Самоцветы  9999\nПродать.  ",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "raw_hex": "f0cef088f5a7f2683a20393939390af07cf041f0692e20",
+    "full_text": "Провиант: 9999\nКупить. Хорошо? ",
+    "function": "0x2b012",
+    "kind": 0,
+    "bytes": 23,
+    "text": "Провиант: 9999\nКупить. ",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "raw_hex": "f14cf147f088f1d53a20f074f1a9f052f2af0a",
+    "full_text": "Торговля: вложение\nХорошо? ",
+    "function": "0x2b8d0",
+    "kind": 0,
+    "bytes": 19,
+    "text": "Торговля: вложение\n",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "raw_hex": "f37ef2c1f2adf1aa3a20f074f1a9f052f2af0a",
+    "full_text": "Земледел: вложение\nХорошо? ",
+    "function": "0x2b8d0",
+    "kind": 1,
+    "bytes": 19,
+    "text": "Земледел: вложение\n",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "raw_hex": "f28cf0f8f177f0993a20f074f1a9f052f2af0a",
+    "full_text": "Оборона : вложение\nХорошо? ",
+    "function": "0x2b8d0",
+    "kind": 2,
+    "bytes": 19,
+    "text": "Оборона : вложение\n",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "raw_hex": "33333af34af09af0e2f08bf0abf34af09a0af053f2c8f09a2e20",
+    "full_text": "33:Река Онон Река\nВойска. Хорошо? ",
+    "function": "0x2bb64",
+    "kind": 0,
+    "bytes": 26,
+    "text": "33:Река Онон Река\nВойска. ",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "raw_hex": "33333af34af09af0e2f08bf0abf34af09a0af2a3f0e1f0732c20f2adf1c62020",
+    "full_text": "33:Река Онон Река\nЗолото, еда.  Хорошо? ",
+    "function": "0x2bcfe",
+    "kind": 0,
+    "bytes": 32,
+    "text": "33:Река Онон Река\nЗолото, еда.  ",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "raw_hex": "33333af34af09af0e2f08bf0abf34af09a0a38f184f1d3f186f2c4f0772e20",
+    "full_text": "33:Река Онон Река\n8 лет союза. Хорошо? ",
+    "function": "0x2c0d0",
+    "kind": 0,
+    "bytes": 31,
+    "text": "33:Река Онон Река\n8 лет союза. ",
+    "stack_intact": true,
+    "error": null
+  }
+]

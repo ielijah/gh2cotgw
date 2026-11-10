@@ -1,0 +1,458 @@
+[
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 1,
+    "file": "assets/harem-generated/01-mongolian/card-01.png"
+  },
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 3,
+    "file": "assets/harem-generated/01-mongolian/card-03.png"
+  },
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 4,
+    "file": "assets/harem-generated/01-mongolian/card-04.png"
+  },
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 5,
+    "file": "assets/harem-generated/01-mongolian/card-05.png"
+  },
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 6,
+    "file": "assets/harem-generated/01-mongolian/card-06.png"
+  },
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 7,
+    "file": "assets/harem-generated/01-mongolian/card-07.png"
+  },
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 8,
+    "file": "assets/harem-generated/01-mongolian/card-08.png"
+  },
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 9,
+    "file": "assets/harem-generated/01-mongolian/card-09.png"
+  },
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 10,
+    "file": "assets/harem-generated/01-mongolian/card-10.png"
+  },
+  {
+    "culture": 0,
+    "group": "01-mongolian",
+    "card": 11,
+    "file": "assets/harem-generated/01-mongolian/card-11.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 1,
+    "file": "assets/harem-generated/02-central-asian/card-01.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 2,
+    "file": "assets/harem-generated/02-central-asian/card-02.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 3,
+    "file": "assets/harem-generated/02-central-asian/card-03.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 4,
+    "file": "assets/harem-generated/02-central-asian/card-04.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 5,
+    "file": "assets/harem-generated/02-central-asian/card-05.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 6,
+    "file": "assets/harem-generated/02-central-asian/card-06.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 7,
+    "file": "assets/harem-generated/02-central-asian/card-07.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 8,
+    "file": "assets/harem-generated/02-central-asian/card-08.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 9,
+    "file": "assets/harem-generated/02-central-asian/card-09.png"
+  },
+  {
+    "culture": 1,
+    "group": "02-central-asian",
+    "card": 10,
+    "file": "assets/harem-generated/02-central-asian/card-10.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 1,
+    "file": "assets/harem-generated/03-south-asian/card-01.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 2,
+    "file": "assets/harem-generated/03-south-asian/card-02.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 3,
+    "file": "assets/harem-generated/03-south-asian/card-03.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 4,
+    "file": "assets/harem-generated/03-south-asian/card-04.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 5,
+    "file": "assets/harem-generated/03-south-asian/card-05.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 6,
+    "file": "assets/harem-generated/03-south-asian/card-06.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 7,
+    "file": "assets/harem-generated/03-south-asian/card-07.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 8,
+    "file": "assets/harem-generated/03-south-asian/card-08.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 9,
+    "file": "assets/harem-generated/03-south-asian/card-09.png"
+  },
+  {
+    "culture": 2,
+    "group": "03-south-asian",
+    "card": 10,
+    "file": "assets/harem-generated/03-south-asian/card-10.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 1,
+    "file": "assets/harem-generated/04-japanese/card-01.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 2,
+    "file": "assets/harem-generated/04-japanese/card-02.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 3,
+    "file": "assets/harem-generated/04-japanese/card-03.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 4,
+    "file": "assets/harem-generated/04-japanese/card-04.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 5,
+    "file": "assets/harem-generated/04-japanese/card-05.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 6,
+    "file": "assets/harem-generated/04-japanese/card-06.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 7,
+    "file": "assets/harem-generated/04-japanese/card-07.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 8,
+    "file": "assets/harem-generated/04-japanese/card-08.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 9,
+    "file": "assets/harem-generated/04-japanese/card-09.png"
+  },
+  {
+    "culture": 3,
+    "group": "04-japanese",
+    "card": 10,
+    "file": "assets/harem-generated/04-japanese/card-10.png"
+  },
+  {
+    "culture": 4,
+    "group": "05-western-european",
+    "card": 1,
+    "file": "assets/harem-generated/05-western-european/card-01.png"
+  },
+  {
+    "culture": 4,
+    "group": "05-western-european",
+    "card": 2,
+    "file": "assets/harem-generated/05-western-european/card-02.png"
+  },
+  {
+    "culture": 4,
+    "group": "05-western-european",
+    "card": 3,
+    "file": "assets/harem-generated/05-western-european/card-03.png"
+  },
+  {
+    "culture": 4,
+    "group": "05-western-european",
+    "card": 4,
+    "file": "assets/harem-generated/05-western-european/card-04.png"
+  },
+  {
+    "culture": 4,
+    "group": "05-western-european",
+    "card": 5,
+    "file": "assets/harem-generated/05-western-european/card-05.png"
+  },
+  {
+    "culture": 4,
+    "group": "05-western-european",
+    "card": 6,
+    "file": "assets/harem-generated/05-western-european/card-06.png"
+  },
+  {
+    "culture": 4,
+    "group": "05-western-european",
+    "card": 7,
+    "file": "assets/harem-generated/05-western-european/card-07.png"
+  },
+  {
+    "culture": 4,
+    "group": "05-western-european",
+    "card": 8,
+    "file": "assets/harem-generated/05-western-european/card-08.png"
+  },
+  {
+    "culture": 4,
+    "group": "05-western-european",
+    "card": 9,
+    "file": "assets/harem-generated/05-western-european/card-09.png"
+  },
+  {
+    "culture": 5,
+    "group": "06-eastern-european",
+    "card": 1,
+    "file": "assets/harem-generated/06-eastern-european/card-01.png"
+  },
+  {
+    "culture": 5,
+    "group": "06-eastern-european",
+    "card": 2,
+    "file": "assets/harem-generated/06-eastern-european/card-02.png"
+  },
+  {
+    "culture": 5,
+    "group": "06-eastern-european",
+    "card": 3,
+    "file": "assets/harem-generated/06-eastern-european/card-03.png"
+  },
+  {
+    "culture": 5,
+    "group": "06-eastern-european",
+    "card": 4,
+    "file": "assets/harem-generated/06-eastern-european/card-04.png"
+  },
+  {
+    "culture": 5,
+    "group": "06-eastern-european",
+    "card": 5,
+    "file": "assets/harem-generated/06-eastern-european/card-05.png"
+  },
+  {
+    "culture": 5,
+    "group": "06-eastern-european",
+    "card": 6,
+    "file": "assets/harem-generated/06-eastern-european/card-06.png"
+  },
+  {
+    "culture": 5,
+    "group": "06-eastern-european",
+    "card": 7,
+    "file": "assets/harem-generated/06-eastern-european/card-07.png"
+  },
+  {
+    "culture": 5,
+    "group": "06-eastern-european",
+    "card": 8,
+    "file": "assets/harem-generated/06-eastern-european/card-08.png"
+  },
+  {
+    "culture": 5,
+    "group": "06-eastern-european",
+    "card": 9,
+    "file": "assets/harem-generated/06-eastern-european/card-09.png"
+  },
+  {
+    "culture": 6,
+    "group": "07-middle-eastern",
+    "card": 1,
+    "file": "assets/harem-generated/07-middle-eastern/card-01.png"
+  },
+  {
+    "culture": 6,
+    "group": "07-middle-eastern",
+    "card": 2,
+    "file": "assets/harem-generated/07-middle-eastern/card-02.png"
+  },
+  {
+    "culture": 6,
+    "group": "07-middle-eastern",
+    "card": 3,
+    "file": "assets/harem-generated/07-middle-eastern/card-03.png"
+  },
+  {
+    "culture": 6,
+    "group": "07-middle-eastern",
+    "card": 4,
+    "file": "assets/harem-generated/07-middle-eastern/card-04.png"
+  },
+  {
+    "culture": 6,
+    "group": "07-middle-eastern",
+    "card": 5,
+    "file": "assets/harem-generated/07-middle-eastern/card-05.png"
+  },
+  {
+    "culture": 6,
+    "group": "07-middle-eastern",
+    "card": 6,
+    "file": "assets/harem-generated/07-middle-eastern/card-06.png"
+  },
+  {
+    "culture": 6,
+    "group": "07-middle-eastern",
+    "card": 7,
+    "file": "assets/harem-generated/07-middle-eastern/card-07.png"
+  },
+  {
+    "culture": 6,
+    "group": "07-middle-eastern",
+    "card": 8,
+    "file": "assets/harem-generated/07-middle-eastern/card-08.png"
+  },
+  {
+    "culture": 6,
+    "group": "07-middle-eastern",
+    "card": 9,
+    "file": "assets/harem-generated/07-middle-eastern/card-09.png"
+  },
+  {
+    "culture": 7,
+    "group": "08-east-asian",
+    "card": 1,
+    "file": "assets/harem-generated/08-east-asian/card-01.png"
+  },
+  {
+    "culture": 7,
+    "group": "08-east-asian",
+    "card": 2,
+    "file": "assets/harem-generated/08-east-asian/card-02.png"
+  },
+  {
+    "culture": 7,
+    "group": "08-east-asian",
+    "card": 3,
+    "file": "assets/harem-generated/08-east-asian/card-03.png"
+  },
+  {
+    "culture": 7,
+    "group": "08-east-asian",
+    "card": 4,
+    "file": "assets/harem-generated/08-east-asian/card-04.png"
+  },
+  {
+    "culture": 7,
+    "group": "08-east-asian",
+    "card": 5,
+    "file": "assets/harem-generated/08-east-asian/card-05.png"
+  },
+  {
+    "culture": 7,
+    "group": "08-east-asian",
+    "card": 6,
+    "file": "assets/harem-generated/08-east-asian/card-06.png"
+  },
+  {
+    "culture": 7,
+    "group": "08-east-asian",
+    "card": 7,
+    "file": "assets/harem-generated/08-east-asian/card-07.png"
+  },
+  {
+    "culture": 7,
+    "group": "08-east-asian",
+    "card": 8,
+    "file": "assets/harem-generated/08-east-asian/card-08.png"
+  },
+  {
+    "culture": 7,
+    "group": "08-east-asian",
+    "card": 9,
+    "file": "assets/harem-generated/08-east-asian/card-09.png"
+  }
+]

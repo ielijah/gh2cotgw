@@ -20,7 +20,7 @@ for name in ('interface', 'harem-screen', 'harem-ui', 'gameplay-dialogue'):
             assert offset not in entries, f'Duplicate INIT entry {offset:X}'
             entries[offset] = entry
 
-position, count, tabbed = START, 0, 0
+position, count, tabbed, packed_size = START, 0, 0, 0
 while position < END:
     if raw[position] == 0:
         position += 1
@@ -37,9 +37,10 @@ while position < END:
     assert len(lines) <= 7, f'Too many lines {position:X}'
     assert all((len(line) + 1) // 2 * 2 <= 22 for line in lines), f'Too wide {position:X}'
     encoded_size = sum(len(value) if kind == 'raw' else 2 for kind, value in pieces(ru))
-    assert encoded_size <= end - position, f'Too large {position:X}'
+    packed_size += encoded_size+1
     count += 1
     tabbed += '\t' in original
     position = end + 1
 assert count == EXPECTED, (count, EXPECTED)
-print(f'PASS: all {count} biographies translated; {tabbed} tabbed originals; exact source bytes, capacities, 7 lines and 22 columns')
+assert packed_size <= END-START, 'Shared biography bank overflow'
+print(f'PASS: all {count} biographies translated; {tabbed} tabbed originals; exact source bytes, shared bank capacity, 7 lines and 22 columns')

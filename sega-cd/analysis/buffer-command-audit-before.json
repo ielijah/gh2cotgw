@@ -1,0 +1,82 @@
+[
+  {
+    "function": "0x2acf0",
+    "kind": 0,
+    "bytes": 19,
+    "text": "Меха\n9999\nПродать \n",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "function": "0x2acf0",
+    "kind": 1,
+    "bytes": 19,
+    "text": "Шёлк\n9999\nПродать \n",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "function": "0x2acf0",
+    "kind": 2,
+    "bytes": 25,
+    "text": "Самоцветы \n9999\nПродать \n",
+    "stack_intact": false,
+    "error": null
+  },
+  {
+    "function": "0x2b012",
+    "kind": 0,
+    "bytes": 22,
+    "text": "Провиант: 9999\nКупить\n",
+    "stack_intact": true,
+    "error": null
+  },
+  {
+    "function": "0x2b8d0",
+    "kind": 0,
+    "bytes": 26,
+    "text": "Торговля\nВложить средства\n",
+    "stack_intact": false,
+    "error": null
+  },
+  {
+    "function": "0x2b8d0",
+    "kind": 1,
+    "bytes": 26,
+    "text": "Земледел\nВложить средства\n",
+    "stack_intact": false,
+    "error": null
+  },
+  {
+    "function": "0x2b8d0",
+    "kind": 2,
+    "bytes": 26,
+    "text": "Оборона \nВложить средства\n",
+    "stack_intact": false,
+    "error": null
+  },
+  {
+    "function": "0x2bb64",
+    "kind": 0,
+    "bytes": 37,
+    "text": "33:Река Онон Река: \nотправить войска\n",
+    "stack_intact": false,
+    "error": null
+  },
+  {
+    "function": "0x2bcfe",
+    "kind": 0,
+    "bytes": 39,
+    "text": "33:Река Онон Река: \nзолото и провиант \n",
+    "stack_intact": false,
+    "error": null
+  },
+  {
+    "function": "0x2c0d0",
+    "kind": 0,
+    "bytes": 39,
+    "text": "33:Река Онон Река\n8 лет\nЗаключить союз\n",
+    "stack_intact": true,
+    "error": null
+  }
+]

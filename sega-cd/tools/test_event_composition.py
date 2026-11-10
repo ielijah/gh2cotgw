@@ -39,3 +39,15 @@ for offset in offsets+[0x28cd4,0x28d12,0x28d46]:
         assert len(actual.splitlines())==2
         assert max(map(len,actual.splitlines()))<=22
 print('PASS: five policy prompts and seven country outcomes compose in two lines; original call sites and pointer table verified')
+
+# Composed prompts must fit the native two-line speech bubble as a whole.
+rel={int(x['offset'],16):x for x in m['text_compositor']['relocated_texts'] if x['file']=='SMAIN.PRG;1'}
+def joined(parts):return decode(b''.join(encode(p,pairs) for p in parts)).rstrip()
+training=joined([rel[0x28814]['ru'],rel[0x2878c]['ru'],rel[0x2880e]['ru']])
+assert len(training.splitlines())==2 and max(map(len,training.splitlines()))<=22
+for name in ['Чингисхан','Константин']:
+ for years in [1,4,10,99]:
+  for prefix,suffix in [(0x292f8,0x292e6),(0x292d8,0x292c4)]:
+   text=joined([name,rel[prefix]['ru'],str(years),rel[suffix]['ru']])
+   assert len(text.splitlines())==2 and max(map(len,text.splitlines()))<=22,text
+print('PASS: training and alliance/renewal composites fit two lines including names and numbers')

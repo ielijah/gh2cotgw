@@ -28,6 +28,9 @@ def validate(entry, source, files):
     elif entry.get('kind')=='init_chronicle_prefix':
         assert file=='INIT.PRG;1' and off==0x4c5a
         load=0x66000;low,high=0x7ca,0x7ce
+    elif entry.get('kind')=='catalog_confirmation':
+        assert file=='INIT.PRG;1' and off in (0x14f1a,0x14f1c)
+        load=0x66000;low,high=(0x2728,0x272c) if off==0x14f1a else (0x2708,0x270c)
     elif file=='INIT.PRG;1':
         assert 0x4f00<=off<0x522a
         load=0x66000;low,high=0x16cc2,0x16f22

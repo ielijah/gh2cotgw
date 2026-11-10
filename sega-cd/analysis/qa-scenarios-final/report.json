@@ -1,0 +1,89 @@
+{
+  "emulator": "Genesis Plus GX (libretro)",
+  "iso_sha256": "5a62a547b0cde72c71ab3e8b71fb7d40a4651bf1309040ae939e5ec71f2e9794",
+  "iso_bytes": 10602496,
+  "scenarios": [
+    {
+      "id": 0,
+      "name": "Монголия",
+      "year": 1184,
+      "start_season": "весна",
+      "end_season": "зима",
+      "seasonal_transitions": 3,
+      "cold_boot": true,
+      "final_pc": "0x6196",
+      "command_menu_responsive": true,
+      "screenshot": "s0-final-menu.png"
+    },
+    {
+      "id": 1,
+      "name": "Гэмпэй",
+      "year": 1180,
+      "start_season": "весна",
+      "end_season": "зима",
+      "seasonal_transitions": 3,
+      "cold_boot": true,
+      "final_pc": "0x6196",
+      "command_menu_responsive": true,
+      "screenshot": "s1-final-menu.png"
+    },
+    {
+      "id": 2,
+      "name": "Чингисхан",
+      "year": 1206,
+      "start_season": "весна",
+      "end_season": "зима",
+      "seasonal_transitions": 3,
+      "cold_boot": true,
+      "final_pc": "0x6196",
+      "command_menu_responsive": true,
+      "screenshot": "s2-final-menu.png"
+    },
+    {
+      "id": 3,
+      "name": "Эпоха Юань",
+      "year": 1271,
+      "start_season": "весна",
+      "end_season": "зима",
+      "seasonal_transitions": 3,
+      "cold_boot": true,
+      "final_pc": "0x6196",
+      "command_menu_responsive": true,
+      "screenshot": "s3-final-menu.png"
+    },
+    {
+      "id": 4,
+      "name": "Покорить мир",
+      "year": 1185,
+      "start_season": "весна",
+      "end_season": "зима",
+      "seasonal_transitions": 3,
+      "cold_boot": true,
+      "final_pc": "0x6196",
+      "command_menu_responsive": true,
+      "screenshot": "s4-final-menu.png"
+    }
+  ],
+  "scope": "Default ruler in each scenario; foreign battle visualization disabled through normal menu inputs. No full campaigns or all-ruler coverage. Internal states continue the same cold-boot session; no stale user save states.",
+  "baseline": "Old build crashed in Yuan scenario before winter (PC 0x278); final build reached winter and responsive command menu.",
+  "confirmed_additional_overflows": [
+    "sale 0x2ACF0",
+    "investment 0x2B8D0",
+    "troop dispatch 0x2BB64",
+    "resource dispatch 0x2BCFE"
+  ],
+  "expanded_related_buffers": 6,
+  "validation": [
+    "test_command_buffers_cpu.py --strict: 10 cases",
+    "test_recruitment_buffer_cpu.py: 4 cases",
+    "test_dialogue_buffers_cpu.py: 18 cases",
+    "test_event_composition.py",
+    "verify.py: both CD packages, all audio tracks and preserved assets"
+  ],
+  "command_window_checks": "10 controlled native-renderer fixtures in ../qa-command-windows; distinct from ordinary scenario playthrough. Representative longest sale, investment, troop/resource dispatch and alliance windows visually checked: two lines inside frame.",
+  "packages": [
+    "build/playable-dub/game.cue",
+    "build/playable-japanese-audio/game.cue"
+  ],
+  "preserved": "Expanded ISO, generated and original cards, all audio tracks; Mega Drive unchanged."
+}

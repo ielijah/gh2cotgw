@@ -1,0 +1,1180 @@
+{
+  "iso_sha256": "95a47b0807e747f8bddaa7eaea1c131ef256ab2ff1e36f4280aac655199bc7a8",
+  "method": "Controlled Genesis Plus GX success scenes using a current-build cold-boot state.\n\nSkips the minigame and holds the success scene for pixel checks. Does not alter\nthe production ISO. Native palette, CD filesystem and rendering code execute.\n",
+  "cases": [
+    {
+      "culture": 0,
+      "card": 1,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-01.png"
+    },
+    {
+      "culture": 0,
+      "card": 3,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-03.png"
+    },
+    {
+      "culture": 0,
+      "card": 4,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-04.png"
+    },
+    {
+      "culture": 0,
+      "card": 5,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-05.png"
+    },
+    {
+      "culture": 0,
+      "card": 6,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-06.png"
+    },
+    {
+      "culture": 0,
+      "card": 7,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-07.png"
+    },
+    {
+      "culture": 0,
+      "card": 8,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-08.png"
+    },
+    {
+      "culture": 0,
+      "card": 9,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-09.png"
+    },
+    {
+      "culture": 0,
+      "card": 10,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-10.png"
+    },
+    {
+      "culture": 0,
+      "card": 11,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-new-11.png"
+    },
+    {
+      "culture": 0,
+      "card": 0,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 0,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-original-00-off0.png"
+    },
+    {
+      "culture": 0,
+      "card": 1,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 1,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-original-01-off0.png"
+    },
+    {
+      "culture": 0,
+      "card": 2,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 7,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-original-02-off0.png"
+    },
+    {
+      "culture": 0,
+      "card": 3,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-original-03-off0.png"
+    },
+    {
+      "culture": 0,
+      "card": 0,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 0,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-original-00-off1.png"
+    },
+    {
+      "culture": 0,
+      "card": 1,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 1,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-original-01-off1.png"
+    },
+    {
+      "culture": 0,
+      "card": 2,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 7,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-original-02-off1.png"
+    },
+    {
+      "culture": 0,
+      "card": 3,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c0-original-03-off1.png"
+    },
+    {
+      "culture": 1,
+      "card": 1,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-01.png"
+    },
+    {
+      "culture": 1,
+      "card": 2,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-02.png"
+    },
+    {
+      "culture": 1,
+      "card": 3,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-03.png"
+    },
+    {
+      "culture": 1,
+      "card": 4,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-04.png"
+    },
+    {
+      "culture": 1,
+      "card": 5,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-05.png"
+    },
+    {
+      "culture": 1,
+      "card": 6,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-06.png"
+    },
+    {
+      "culture": 1,
+      "card": 7,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-07.png"
+    },
+    {
+      "culture": 1,
+      "card": 8,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-08.png"
+    },
+    {
+      "culture": 1,
+      "card": 9,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-09.png"
+    },
+    {
+      "culture": 1,
+      "card": 10,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-new-10.png"
+    },
+    {
+      "culture": 1,
+      "card": 4,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-original-04-off0.png"
+    },
+    {
+      "culture": 1,
+      "card": 4,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c1-original-04-off1.png"
+    },
+    {
+      "culture": 2,
+      "card": 1,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-01.png"
+    },
+    {
+      "culture": 2,
+      "card": 2,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-02.png"
+    },
+    {
+      "culture": 2,
+      "card": 3,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-03.png"
+    },
+    {
+      "culture": 2,
+      "card": 4,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-04.png"
+    },
+    {
+      "culture": 2,
+      "card": 5,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-05.png"
+    },
+    {
+      "culture": 2,
+      "card": 6,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-06.png"
+    },
+    {
+      "culture": 2,
+      "card": 7,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-07.png"
+    },
+    {
+      "culture": 2,
+      "card": 8,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-08.png"
+    },
+    {
+      "culture": 2,
+      "card": 9,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-09.png"
+    },
+    {
+      "culture": 2,
+      "card": 10,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-new-10.png"
+    },
+    {
+      "culture": 2,
+      "card": 5,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-original-05-off0.png"
+    },
+    {
+      "culture": 2,
+      "card": 5,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c2-original-05-off1.png"
+    },
+    {
+      "culture": 3,
+      "card": 1,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-01.png"
+    },
+    {
+      "culture": 3,
+      "card": 2,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-02.png"
+    },
+    {
+      "culture": 3,
+      "card": 3,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-03.png"
+    },
+    {
+      "culture": 3,
+      "card": 4,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-04.png"
+    },
+    {
+      "culture": 3,
+      "card": 5,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-05.png"
+    },
+    {
+      "culture": 3,
+      "card": 6,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-06.png"
+    },
+    {
+      "culture": 3,
+      "card": 7,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-07.png"
+    },
+    {
+      "culture": 3,
+      "card": 8,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-08.png"
+    },
+    {
+      "culture": 3,
+      "card": 9,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-09.png"
+    },
+    {
+      "culture": 3,
+      "card": 10,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-new-10.png"
+    },
+    {
+      "culture": 3,
+      "card": 6,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-original-06-off0.png"
+    },
+    {
+      "culture": 3,
+      "card": 6,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c3-original-06-off1.png"
+    },
+    {
+      "culture": 4,
+      "card": 1,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-new-01.png"
+    },
+    {
+      "culture": 4,
+      "card": 2,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-new-02.png"
+    },
+    {
+      "culture": 4,
+      "card": 3,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-new-03.png"
+    },
+    {
+      "culture": 4,
+      "card": 4,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-new-04.png"
+    },
+    {
+      "culture": 4,
+      "card": 5,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-new-05.png"
+    },
+    {
+      "culture": 4,
+      "card": 6,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-new-06.png"
+    },
+    {
+      "culture": 4,
+      "card": 7,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-new-07.png"
+    },
+    {
+      "culture": 4,
+      "card": 8,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-new-08.png"
+    },
+    {
+      "culture": 4,
+      "card": 9,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-new-09.png"
+    },
+    {
+      "culture": 4,
+      "card": 7,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-original-07-off0.png"
+    },
+    {
+      "culture": 4,
+      "card": 7,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c4-original-07-off1.png"
+    },
+    {
+      "culture": 5,
+      "card": 1,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-new-01.png"
+    },
+    {
+      "culture": 5,
+      "card": 2,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-new-02.png"
+    },
+    {
+      "culture": 5,
+      "card": 3,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-new-03.png"
+    },
+    {
+      "culture": 5,
+      "card": 4,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-new-04.png"
+    },
+    {
+      "culture": 5,
+      "card": 5,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-new-05.png"
+    },
+    {
+      "culture": 5,
+      "card": 6,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-new-06.png"
+    },
+    {
+      "culture": 5,
+      "card": 7,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-new-07.png"
+    },
+    {
+      "culture": 5,
+      "card": 8,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-new-08.png"
+    },
+    {
+      "culture": 5,
+      "card": 9,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-new-09.png"
+    },
+    {
+      "culture": 5,
+      "card": 8,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-original-08-off0.png"
+    },
+    {
+      "culture": 5,
+      "card": 8,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c5-original-08-off1.png"
+    },
+    {
+      "culture": 6,
+      "card": 1,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-new-01.png"
+    },
+    {
+      "culture": 6,
+      "card": 2,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-new-02.png"
+    },
+    {
+      "culture": 6,
+      "card": 3,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-new-03.png"
+    },
+    {
+      "culture": 6,
+      "card": 4,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-new-04.png"
+    },
+    {
+      "culture": 6,
+      "card": 5,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-new-05.png"
+    },
+    {
+      "culture": 6,
+      "card": 6,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-new-06.png"
+    },
+    {
+      "culture": 6,
+      "card": 7,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-new-07.png"
+    },
+    {
+      "culture": 6,
+      "card": 8,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-new-08.png"
+    },
+    {
+      "culture": 6,
+      "card": 9,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-new-09.png"
+    },
+    {
+      "culture": 6,
+      "card": 9,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-original-09-off0.png"
+    },
+    {
+      "culture": 6,
+      "card": 9,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c6-original-09-off1.png"
+    },
+    {
+      "culture": 7,
+      "card": 1,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-new-01.png"
+    },
+    {
+      "culture": 7,
+      "card": 2,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-new-02.png"
+    },
+    {
+      "culture": 7,
+      "card": 3,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-new-03.png"
+    },
+    {
+      "culture": 7,
+      "card": 4,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-new-04.png"
+    },
+    {
+      "culture": 7,
+      "card": 5,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-new-05.png"
+    },
+    {
+      "culture": 7,
+      "card": 6,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-new-06.png"
+    },
+    {
+      "culture": 7,
+      "card": 7,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-new-07.png"
+    },
+    {
+      "culture": 7,
+      "card": 8,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-new-08.png"
+    },
+    {
+      "culture": 7,
+      "card": 9,
+      "generated": true,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": true,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-new-09.png"
+    },
+    {
+      "culture": 7,
+      "card": 10,
+      "generated": false,
+      "disabled": false,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-original-10-off0.png"
+    },
+    {
+      "culture": 7,
+      "card": 10,
+      "generated": false,
+      "disabled": true,
+      "wife_id": 4,
+      "all_pixels_match": false,
+      "opaque_pixels_match": true,
+      "screenshot": "c7-original-10-off1.png"
+    }
+  ],
+  "palette_mapping": [
+    [
+      [
+        72,
+        109,
+        145
+      ],
+      [
+        65,
+        101,
+        139
+      ]
+    ],
+    [
+      [
+        72,
+        72,
+        72
+      ],
+      [
+        65,
+        68,
+        65
+      ]
+    ],
+    [
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    [
+      [
+        36,
+        36,
+        145
+      ],
+      [
+        32,
+        32,
+        139
+      ]
+    ],
+    [
+      [
+        218,
+        145,
+        109
+      ],
+      [
+        205,
+        137,
+        98
+      ]
+    ],
+    [
+      [
+        255,
+        218,
+        145
+      ],
+      [
+        238,
+        206,
+        139
+      ]
+    ],
+    [
+      [
+        182,
+        109,
+        145
+      ],
+      [
+        172,
+        101,
+        139
+      ]
+    ],
+    [
+      [
+        145,
+        72,
+        72
+      ],
+      [
+        139,
+        68,
+        65
+      ]
+    ],
+    [
+      [
+        255,
+        218,
+        218
+      ],
+      [
+        238,
+        206,
+        205
+      ]
+    ],
+    [
+      [
+        255,
+        255,
+        255
+      ],
+      [
+        238,
+        238,
+        238
+      ]
+    ],
+    [
+      [
+        182,
+        145,
+        218
+      ],
+      [
+        172,
+        137,
+        205
+      ]
+    ],
+    [
+      [
+        218,
+        182,
+        255
+      ],
+      [
+        205,
+        170,
+        238
+      ]
+    ],
+    [
+      [
+        255,
+        145,
+        218
+      ],
+      [
+        238,
+        137,
+        205
+      ]
+    ],
+    [
+      [
+        36,
+        109,
+        36
+      ],
+      [
+        32,
+        101,
+        32
+      ]
+    ],
+    [
+      [
+        72,
+        145,
+        218
+      ],
+      [
+        65,
+        137,
+        205
+      ]
+    ],
+    [
+      [
+        218,
+        72,
+        109
+      ],
+      [
+        205,
+        68,
+        98
+      ]
+    ]
+  ]
+}

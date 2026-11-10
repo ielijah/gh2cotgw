@@ -1,0 +1,512 @@
+{
+  "iso_sha256": "be0e77b4ed5837d7efe65d3e80d3af63a6b50580ceec5916b1105d2652c0188b",
+  "emulator": "Genesis Plus GX libretro",
+  "cold_boot": true,
+  "cards": [
+    {
+      "index": 0,
+      "original_index": 0,
+      "name": "Айджарук",
+      "screenshot": "card-00.png"
+    },
+    {
+      "index": 1,
+      "original_index": 3,
+      "name": "Алан",
+      "screenshot": "card-01.png"
+    },
+    {
+      "index": 2,
+      "original_index": 2,
+      "name": "Анис",
+      "screenshot": "card-02.png"
+    },
+    {
+      "index": 3,
+      "original_index": 4,
+      "name": "Анна",
+      "screenshot": "card-03.png"
+    },
+    {
+      "index": 4,
+      "original_index": 1,
+      "name": "Атула Тири",
+      "screenshot": "card-04.png"
+    },
+    {
+      "index": 5,
+      "original_index": 67,
+      "name": "Беатриса",
+      "screenshot": "card-05.png"
+    },
+    {
+      "index": 6,
+      "original_index": 68,
+      "name": "Беренгария",
+      "screenshot": "card-06.png"
+    },
+    {
+      "index": 7,
+      "original_index": 69,
+      "name": "Беренгела",
+      "screenshot": "card-07.png"
+    },
+    {
+      "index": 8,
+      "original_index": 73,
+      "name": "Бортэ",
+      "screenshot": "card-08.png"
+    },
+    {
+      "index": 9,
+      "original_index": 71,
+      "name": "Ботохуй",
+      "screenshot": "card-09.png"
+    },
+    {
+      "index": 10,
+      "original_index": 28,
+      "name": "Гертруда",
+      "screenshot": "card-10.png"
+    },
+    {
+      "index": 11,
+      "original_index": 29,
+      "name": "Гуанмин",
+      "screenshot": "card-11.png"
+    },
+    {
+      "index": 12,
+      "original_index": 58,
+      "name": "Деспина",
+      "screenshot": "card-12.png"
+    },
+    {
+      "index": 13,
+      "original_index": 40,
+      "name": "Джемкин",
+      "screenshot": "card-13.png"
+    },
+    {
+      "index": 14,
+      "original_index": 42,
+      "name": "Дзидзю",
+      "screenshot": "card-14.png"
+    },
+    {
+      "index": 15,
+      "original_index": 59,
+      "name": "Дония",
+      "screenshot": "card-15.png"
+    },
+    {
+      "index": 16,
+      "original_index": 14,
+      "name": "Евфимия",
+      "screenshot": "card-16.png"
+    },
+    {
+      "index": 17,
+      "original_index": 7,
+      "name": "Есугэн",
+      "screenshot": "card-17.png"
+    },
+    {
+      "index": 18,
+      "original_index": 6,
+      "name": "Есуй",
+      "screenshot": "card-18.png"
+    },
+    {
+      "index": 19,
+      "original_index": 51,
+      "name": "Зубайда",
+      "screenshot": "card-19.png"
+    },
+    {
+      "index": 20,
+      "original_index": 8,
+      "name": "Изабелла",
+      "screenshot": "card-20.png"
+    },
+    {
+      "index": 21,
+      "original_index": 9,
+      "name": "Изабелла",
+      "screenshot": "card-21.png"
+    },
+    {
+      "index": 22,
+      "original_index": 10,
+      "name": "Иоланда",
+      "screenshot": "card-22.png"
+    },
+    {
+      "index": 23,
+      "original_index": 5,
+      "name": "Итимад",
+      "screenshot": "card-23.png"
+    },
+    {
+      "index": 24,
+      "original_index": 19,
+      "name": "Кадаан",
+      "screenshot": "card-24.png"
+    },
+    {
+      "index": 25,
+      "original_index": 20,
+      "name": "Камала",
+      "screenshot": "card-25.png"
+    },
+    {
+      "index": 26,
+      "original_index": 21,
+      "name": "Камэ",
+      "screenshot": "card-26.png"
+    },
+    {
+      "index": 27,
+      "original_index": 22,
+      "name": "Карчу",
+      "screenshot": "card-27.png"
+    },
+    {
+      "index": 28,
+      "original_index": 26,
+      "name": "Клеменция",
+      "screenshot": "card-28.png"
+    },
+    {
+      "index": 29,
+      "original_index": 30,
+      "name": "Кодзайсё",
+      "screenshot": "card-29.png"
+    },
+    {
+      "index": 30,
+      "original_index": 31,
+      "name": "Кодзидзю",
+      "screenshot": "card-30.png"
+    },
+    {
+      "index": 31,
+      "original_index": 33,
+      "name": "Констанция",
+      "screenshot": "card-31.png"
+    },
+    {
+      "index": 32,
+      "original_index": 27,
+      "name": "Кун",
+      "screenshot": "card-32.png"
+    },
+    {
+      "index": 33,
+      "original_index": 24,
+      "name": "Кунигунда",
+      "screenshot": "card-33.png"
+    },
+    {
+      "index": 34,
+      "original_index": 81,
+      "name": "Лачи",
+      "screenshot": "card-34.png"
+    },
+    {
+      "index": 35,
+      "original_index": 82,
+      "name": "Лихуа",
+      "screenshot": "card-35.png"
+    },
+    {
+      "index": 36,
+      "original_index": 75,
+      "name": "Маргарита",
+      "screenshot": "card-36.png"
+    },
+    {
+      "index": 37,
+      "original_index": 74,
+      "name": "Маргит",
+      "screenshot": "card-37.png"
+    },
+    {
+      "index": 38,
+      "original_index": 70,
+      "name": "Масако",
+      "screenshot": "card-38.png"
+    },
+    {
+      "index": 39,
+      "original_index": 78,
+      "name": "Матильда",
+      "screenshot": "card-39.png"
+    },
+    {
+      "index": 40,
+      "original_index": 76,
+      "name": "Муарун",
+      "screenshot": "card-40.png"
+    },
+    {
+      "index": 41,
+      "original_index": 77,
+      "name": "Мумтаз",
+      "screenshot": "card-41.png"
+    },
+    {
+      "index": 42,
+      "original_index": 62,
+      "name": "Нидун",
+      "screenshot": "card-42.png"
+    },
+    {
+      "index": 43,
+      "original_index": 18,
+      "name": "Органа",
+      "screenshot": "card-43.png"
+    },
+    {
+      "index": 44,
+      "original_index": 66,
+      "name": "Пуска",
+      "screenshot": "card-44.png"
+    },
+    {
+      "index": 45,
+      "original_index": 83,
+      "name": "Росан",
+      "screenshot": "card-45.png"
+    },
+    {
+      "index": 46,
+      "original_index": 65,
+      "name": "Рэйко",
+      "screenshot": "card-46.png"
+    },
+    {
+      "index": 47,
+      "original_index": 36,
+      "name": "Саломея",
+      "screenshot": "card-47.png"
+    },
+    {
+      "index": 48,
+      "original_index": 37,
+      "name": "Сансалма",
+      "screenshot": "card-48.png"
+    },
+    {
+      "index": 49,
+      "original_index": 34,
+      "name": "Сануки",
+      "screenshot": "card-49.png"
+    },
+    {
+      "index": 50,
+      "original_index": 35,
+      "name": "Сафия",
+      "screenshot": "card-50.png"
+    },
+    {
+      "index": 51,
+      "original_index": 41,
+      "name": "Сигрида",
+      "screenshot": "card-51.png"
+    },
+    {
+      "index": 52,
+      "original_index": 43,
+      "name": "Сидзука",
+      "screenshot": "card-52.png"
+    },
+    {
+      "index": 53,
+      "original_index": 48,
+      "name": "Синмё",
+      "screenshot": "card-53.png"
+    },
+    {
+      "index": 54,
+      "original_index": 50,
+      "name": "Сочи",
+      "screenshot": "card-54.png"
+    },
+    {
+      "index": 55,
+      "original_index": 49,
+      "name": "Сюаньдэ",
+      "screenshot": "card-55.png"
+    },
+    {
+      "index": 56,
+      "original_index": 53,
+      "name": "Тамача",
+      "screenshot": "card-56.png"
+    },
+    {
+      "index": 57,
+      "original_index": 54,
+      "name": "Таруб",
+      "screenshot": "card-57.png"
+    },
+    {
+      "index": 58,
+      "original_index": 52,
+      "name": "Токико",
+      "screenshot": "card-58.png"
+    },
+    {
+      "index": 59,
+      "original_index": 60,
+      "name": "Томоэ",
+      "screenshot": "card-59.png"
+    },
+    {
+      "index": 60,
+      "original_index": 61,
+      "name": "Торэгэнэ",
+      "screenshot": "card-60.png"
+    },
+    {
+      "index": 61,
+      "original_index": 46,
+      "name": "Тхуантхьен",
+      "screenshot": "card-61.png"
+    },
+    {
+      "index": 62,
+      "original_index": 47,
+      "name": "Тьеу Тхань",
+      "screenshot": "card-62.png"
+    },
+    {
+      "index": 63,
+      "original_index": 57,
+      "name": "Феодора",
+      "screenshot": "card-63.png"
+    },
+    {
+      "index": 64,
+      "original_index": 64,
+      "name": "Хангаку",
+      "screenshot": "card-64.png"
+    },
+    {
+      "index": 65,
+      "original_index": 63,
+      "name": "Хатидзё",
+      "screenshot": "card-65.png"
+    },
+    {
+      "index": 66,
+      "original_index": 32,
+      "name": "Хориджин",
+      "screenshot": "card-66.png"
+    },
+    {
+      "index": 67,
+      "original_index": 72,
+      "name": "Хориути",
+      "screenshot": "card-67.png"
+    },
+    {
+      "index": 68,
+      "original_index": 25,
+      "name": "Хулан",
+      "screenshot": "card-68.png"
+    },
+    {
+      "index": 69,
+      "original_index": 23,
+      "name": "Циго",
+      "screenshot": "card-69.png"
+    },
+    {
+      "index": 70,
+      "original_index": 56,
+      "name": "Чаби",
+      "screenshot": "card-70.png"
+    },
+    {
+      "index": 71,
+      "original_index": 55,
+      "name": "Чака",
+      "screenshot": "card-71.png"
+    },
+    {
+      "index": 72,
+      "original_index": 45,
+      "name": "Шаджар",
+      "screenshot": "card-72.png"
+    },
+    {
+      "index": 73,
+      "original_index": 44,
+      "name": "Шара",
+      "screenshot": "card-73.png"
+    },
+    {
+      "index": 74,
+      "original_index": 38,
+      "name": "Шира",
+      "screenshot": "card-74.png"
+    },
+    {
+      "index": 75,
+      "original_index": 39,
+      "name": "Ширин",
+      "screenshot": "card-75.png"
+    },
+    {
+      "index": 76,
+      "original_index": 12,
+      "name": "Эйнти",
+      "screenshot": "card-76.png"
+    },
+    {
+      "index": 77,
+      "original_index": 15,
+      "name": "Элеонора",
+      "screenshot": "card-77.png"
+    },
+    {
+      "index": 78,
+      "original_index": 17,
+      "name": "Элеонора",
+      "screenshot": "card-78.png"
+    },
+    {
+      "index": 79,
+      "original_index": 16,
+      "name": "Эржебет",
+      "screenshot": "card-79.png"
+    },
+    {
+      "index": 80,
+      "original_index": 13,
+      "name": "Юдит",
+      "screenshot": "card-80.png"
+    },
+    {
+      "index": 81,
+      "original_index": 11,
+      "name": "Юнсин",
+      "screenshot": "card-81.png"
+    },
+    {
+      "index": 82,
+      "original_index": 79,
+      "name": "Ядвига",
+      "screenshot": "card-82.png"
+    },
+    {
+      "index": 83,
+      "original_index": 80,
+      "name": "Ярославна",
+      "screenshot": "card-83.png"
+    }
+  ],
+  "visual_review": "Selected screenshots inspected separately; opening all cards alone is not pixel-by-pixel review."
+}

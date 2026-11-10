@@ -70,10 +70,17 @@ def install(main, codes, unused, pairs, rows, start_prompt=None, relocated=()):
     music_titles=allocate_music(reserve,put)
     from catalog_list import allocate as allocate_catalog_list
     catalog_list=allocate_catalog_list(reserve,put,Code)
+    from harem_options import allocate as allocate_harem_options
+    harem_options=allocate_harem_options(reserve,put,{p:pair_code(i) for i,p in enumerate(pairs)},Code)
+    from map_labels import allocate as allocate_map_labels
+    map_labels=allocate_map_labels(reserve,put,Code)
     name_trim = reserve(96 + 2*(len(padded_codes)+1), 'nameplate_trim')
     n = Code()
     n.emit('2f2f00044eb90000ff58588f')  # original width function, same argument
     n.emit('48e740c0')                 # preserve D1/A0/A1
+    n.emit('0c40000a'); n.branch('63','within')
+    n.emit('700a'); n.branch('60','done')
+    n.label('within')
     n.emit('0c400002'); n.branch('65','done')
     n.emit('206f0010')                 # original string argument
     n.label('scan'); n.emit('4a18'); n.branch('66','scan')
@@ -88,6 +95,26 @@ def install(main, codes, unused, pairs, rows, start_prompt=None, relocated=()):
     assert len(trim_code) <= 96
     put(name_trim, trim_code)
     put(name_trim+96, bytes.fromhex(''.join(padded_codes)+'0000'))
+    # The native nameplate has ten columns and a 40-byte stack tilemap.
+    # Longer names used to underflow the clear width and overwrite that map.
+    name_draw = reserve(192, 'nameplate_draw')
+    q = Code()
+    q.emit('48e7f0e04fefffe02f2f00404eb90000ff58588f0c40000a')
+    q.branch('63','original')
+    q.emit('206f004043d77400')  # A0 source, A1 local buffer, D2 columns
+    q.label('scan'); q.emit('70001010'); q.branch('67','suffix')
+    q.emit('72010c000080'); q.branch('65','fits')
+    q.emit('72020c0000fc'); q.branch('66','fits'); q.emit('7201')
+    q.label('fits'); q.emit('3602d6410c430008'); q.branch('62','suffix')
+    q.emit('12d80c000080'); q.branch('65','next'); q.emit('12d8')
+    q.label('next'); q.emit('3403'); q.branch('60','scan')
+    q.label('suffix'); q.emit('12fc002e12fc002e42112f0f')
+    q.branch('60','draw')
+    q.label('original'); q.emit('2f2f0040')
+    q.label('draw'); q.emit('4eb900010af8588f4fef00204cdf070f4e75')
+    draw_code=q.finish(); assert len(draw_code)<=192
+    put(name_draw,draw_code)
+
     from generated_names import allocate as allocate_generated, apply as apply_generated
     generated_names=allocate_generated(reserve,put,Code,list(rows),{p:pair_code(i) for i,p in enumerate(pairs)})
     apply_generated(main,generated_names)
@@ -181,6 +208,7 @@ def install(main, codes, unused, pairs, rows, start_prompt=None, relocated=()):
     assert alphabet[:67]==list(''.join(chr(ord('А')+i) for i in range(64))+'Ёё ')
     singles=finish_singles(main,reserve,put,singles,Code,FONT,font_table,hook,hook+c.labels['render_pair'])
     patches = [
+        (0x7312, '4eb900010af8', '4eb9'+f'{LOAD+name_draw:08x}'),
         (0x731a, '4eb90000ff58', '4eb9'+f'{LOAD+name_trim:08x}'),
         (0x4a1c, '4e56ff7c', '4e56ff5c'),  # local frame: 132 -> 164 bytes
         (0x4a28, '302e000a2f00', '4ef9'+f"{LOAD+singles['dispatch']:08x}"),
@@ -194,4 +222,4 @@ def install(main, codes, unused, pairs, rows, start_prompt=None, relocated=()):
                 dictionary_root=root, hook=hook, hook_size=len(code), helper=helper,
                 helper_size=len(h), storage=used,
                 patches=[dict(offset=o, before=b, after=a) for o,b,a in patches],
-                extra_stack_bytes=32, single_letters=singles, generated_names=generated_names, battle_text=battle_text, music_titles=music_titles, catalog_list=catalog_list, chronicle_tables=chronicle_tables, nameplate_trim=name_trim, nameplate_trim_size=len(trim_code), start_prompt=prompt_record, relocated_texts=relocated_records), {pair:pair_code(i) for i,pair in enumerate(pairs)}
+                extra_stack_bytes=32, harem_options=harem_options, map_labels=map_labels, single_letters=singles, generated_names=generated_names, battle_text=battle_text, music_titles=music_titles, catalog_list=catalog_list, chronicle_tables=chronicle_tables, nameplate_draw=name_draw, nameplate_draw_size=len(draw_code), nameplate_trim=name_trim, nameplate_trim_size=len(trim_code), start_prompt=prompt_record, relocated_texts=relocated_records), {pair:pair_code(i) for i,pair in enumerate(pairs)}

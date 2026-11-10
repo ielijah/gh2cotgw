@@ -11,23 +11,23 @@ source=(ROOT/'disc'/inventory['image']).read_bytes()
 image=(ROOT/'build/genchou-hishi-ru-experimental.iso').read_bytes()
 assert hashlib.sha256(source).hexdigest()==inventory['sha256']==manifest['source_sha256']
 assert hashlib.sha256(image).hexdigest()==manifest['iso_sha256']
-assert len(source)==len(image)==inventory['size']
+assert len(source)==inventory['size'] and len(image)==manifest['harem_success']['expanded_size']
 main_file=next(f for f in inventory['files'] if f['path']=='SMAIN.PRG;1')
 base=main_file['lba']*2048
 FONT,TABLE,COUNT=0x37490,0x47690,2064
 assert source[base+TABLE:base+TABLE+COUNT*2]==image[base+TABLE:base+TABLE+COUNT*2]
 codes=struct.unpack('>2064H',source[base+TABLE:base+TABLE+COUNT*2])
-allowed=bytearray(len(source))
+allowed=bytearray(len(image))
 compositor=manifest['text_compositor']
 for region in compositor['storage']:
     start=base+region['offset'];length=region['length']
     assert FONT<=region['offset'] and region['offset']+length<=TABLE
     allowed[start:start+length]=b'\1'*length
-expected_patches={0x731a:('4eb90000ff58','4eb9'+f"{0xc000+compositor['nameplate_trim']:08x}"),
+expected_patches={0x7312:('4eb900010af8','4eb9'+f"{0xc000+compositor['nameplate_draw']:08x}"),0x731a:('4eb90000ff58','4eb9'+f"{0xc000+compositor['nameplate_trim']:08x}"),
                   0x4a1c:('4e56ff7c','4e56ff5c'),
                   0x4a28:('302e000a2f00','4ef9'+f"{0xc000+compositor['single_letters']['dispatch']:08x}"),
                   0x4aee:('4cee1cfcff58','4cee1cfcff38')}
-assert len(compositor['patches'])==4
+assert len(compositor['patches'])==5
 for patch in compositor['patches']:
     offset=patch['offset'];old,new=expected_patches[offset]
     assert (patch['before'],patch['after'])==(old,new)
@@ -56,7 +56,9 @@ from catalog_list import patches as catalog_list_patches
 from music_titles import patches as music_patches
 from chronicle_tables import patches as chronicle_patches
 from battle_text import patches as battle_patches
-for file,off,old,new in battle_patches(compositor['battle_text'])+chronicle_patches(compositor['chronicle_tables'])+music_patches(compositor['music_titles'])+catalog_list_patches(compositor['catalog_list']):
+from map_labels import patches as map_label_patches
+from harem_options import patches as harem_option_patches
+for file,off,old,new in map_label_patches(compositor['map_labels'])+harem_option_patches(compositor['harem_options'])+battle_patches(compositor['battle_text'])+chronicle_patches(compositor['chronicle_tables'])+music_patches(compositor['music_titles'])+catalog_list_patches(compositor['catalog_list']):
     a=next(f['lba']*2048 for f in inventory['files'] if f['path']==file)+off
     before=bytes.fromhex(old);after=bytes.fromhex(new)
     assert source[a:a+len(before)]==before and image[a:a+len(after)]==after
@@ -114,6 +116,9 @@ for entry in compositor.get('relocated_texts',[]):
     elif entry.get('kind')=='init_chronicle_prefix':
         assert entry['file']=='INIT.PRG;1' and off==0x4c5a
         load=0x66000;low,high=0x7ca,0x7ce
+    elif entry.get('kind')=='catalog_confirmation':
+        assert entry['file']=='INIT.PRG;1' and off in (0x14f1a,0x14f1c)
+        load=0x66000;low,high=(0x2728,0x272c) if off==0x14f1a else (0x2708,0x270c)
     elif entry['file']=='INIT.PRG;1':
         assert 0x4f00<=off<0x522a
         load=0x66000;low,high=0x16cc2,0x16f22
@@ -155,7 +160,11 @@ for entry in compositor.get('relocated_texts',[]):
         address=origin+ptr
         assert address not in seen_refs;seen_refs.add(address)
         assert source[address:address+4]==struct.pack('>I',load+off)==bytes.fromhex(ref['before'])
-        assert image[address:address+4]==struct.pack('>I',0xc000+dest)
+        target=address
+        if ref['file']=='INIT.PRG;1' and 0x16dc2<=ptr<0x16f12:
+            old_index=(ptr-0x16dc2)//4
+            target=origin+0x16dc2+manifest['catalog_index']['wives']['order'].index(old_index)*4
+        assert image[target:target+4]==struct.pack('>I',0xc000+dest)
         allowed[address:address+4]=b'\1'*4
 print(f'PASS: {len(seen_refs)} relocated name/unit pointers, original fields retained, full strings in disjoint storage')
 from catalog_graphics import FIELDS,BANKS,LOAD_BASE as CAT_LOAD,pixels as catalog_pixels
@@ -257,16 +266,70 @@ from catalog_index import START as CAT_REC, COUNT as CAT_COUNT, STRIDE as CAT_ST
 order,counts,names=catalog_plan(manifest['applied']);assert manifest['catalog_index']['order']==order and manifest['catalog_index']['counts']==counts
 assert sorted(order)==list(range(342))
 cat_base=menu_base
+bank=manifest['biography_bank']
+assert (bank['start'],bank['end'])==(0x522a,0x14f1a)
+bio_entries={int(e['offset'],16):e for e in manifest['applied'] if e['file']=='INIT.PRG;1'}
+original_bios=struct.unpack_from('>453I',source,cat_base+0x16fba)
+assert len(bank['records'])==453 and len(set(original_bios))==453
+cursor=0x522a
+bio_pointers=[]
+for ptr,record in zip(original_bios,bank['records']):
+    assert record['source_offset']==ptr-0x66000 and record['offset']==cursor
+    entry=bio_entries[ptr-0x66000]
+    raw=encode_prompt(entry['ru'],{k:bytes.fromhex(v) for k,v in manifest['paired_glyphs'].items()})+b'\0'
+    assert record['length']==len(raw) and int(entry['destination_offset'],16)==cursor
+    assert image[cat_base+cursor:cat_base+cursor+len(raw)]==raw
+    bio_pointers.append(0x66000+cursor)
+    cursor+=len(raw)
+assert cursor<=0x14f1a and bank['free']==0x14f1a-cursor and bank['used']==cursor-0x522a
+traits=manifest['women_traits']
+assert cursor<=traits['table']<traits['helper']<traits['end']<=0x14f1a
+assert image[cat_base+traits['end']:cat_base+0x14f1a]==bytes(0x14f1a-traits['end'])
+from women_traits import texts as inheritance_texts
+assert len(traits['records'])==84
+for record,text in zip(traits['records'],inheritance_texts()):
+    raw=encode_prompt(text,{k:bytes.fromhex(v) for k,v in manifest['paired_glyphs'].items()})+b'\0'
+    assert record['text']==text and record['length']==len(raw)
+    assert image[cat_base+record['offset']:cat_base+record['offset']+len(raw)]==raw
+for dest,old in enumerate(manifest['catalog_index']['wives']['order']):
+    assert struct.unpack_from('>I',image,cat_base+traits['table']+dest*4)[0]==0x66000+traits['records'][old]['offset']
+for off,old,new in traits['patches']:
+    assert source[cat_base+off:cat_base+off+len(bytes.fromhex(old))]==bytes.fromhex(old)
+    assert image[cat_base+off:cat_base+off+len(bytes.fromhex(new))]==bytes.fromhex(new)
+    allowed[cat_base+off:cat_base+off+len(bytes.fromhex(new))]=b'\1'*len(bytes.fromhex(new))
+assert image[cat_base+traits['helper']:cat_base+traits['end']]==bytes.fromhex(traits['code'])
+allowed[cat_base+0x522a:cat_base+0x14f1a]=b'\1'*(0x14f1a-0x522a)
+allowed[cat_base+0x16fba:cat_base+0x176ce]=b'\1'*(453*4)
+assert struct.unpack_from('>27I',image,cat_base+0x17662)==tuple(bio_pointers[426:])
+print(f'PASS: all 453 biographies repacked, {bank["free"]} bytes spare; children retain matching pointers')
 for dest,old in enumerate(order):
     a=cat_base+CAT_REC+dest*20;b=cat_base+CAT_REC+old*20
     assert image[a+16:a+20]==source[b+16:b+20], 'Portrait and attributes changed'
-    assert image[cat_base+CAT_BIO+dest*4:cat_base+CAT_BIO+(dest+1)*4]==source[cat_base+CAT_BIO+old*4:cat_base+CAT_BIO+(old+1)*4], 'Biography mismatch'
+    assert struct.unpack_from('>I',image,cat_base+CAT_BIO+dest*4)[0]==bio_pointers[old], 'Biography mismatch'
 assert image[cat_base+CAT_COUNTS:cat_base+CAT_COUNTS+10]==bytes(counts)
 for off,size in [(CAT_REC,CAT_COUNT*20),(CAT_BIO,CAT_COUNT*4),(CAT_COUNTS,10)]:allowed[cat_base+off:cat_base+off+size]=b'\1'*size
+from catalog_index import wives_plan, WIFE_NAMES, WIFE_PORTRAITS, WIFE_BIOS, WIFE_COUNTS, WIFE_COUNT
+wo,wc,wn=wives_plan(source,{f['path']:f for f in inventory['files']},manifest['applied'],compositor['relocated_texts'])
+assert manifest['catalog_index']['wives']==dict(order=wo,counts=wc,names=[wn[i] for i in wo])
+assert sorted(wo)==list(range(84))
+expected_names=bytearray(source[cat_base+WIFE_NAMES:cat_base+WIFE_NAMES+336])
+for entry in compositor['relocated_texts']:
+    for ref in entry['references']:
+        off=int(ref['offset'],16)
+        if ref['file']=='INIT.PRG;1' and WIFE_NAMES<=off<WIFE_NAMES+336:
+            struct.pack_into('>I',expected_names,off-WIFE_NAMES,0xc000+entry['storage_offset'])
+for table,stride in [(WIFE_NAMES,4),(WIFE_PORTRAITS,2),(WIFE_BIOS,4)]:
+    original=expected_names if table==WIFE_NAMES else struct.pack('>84I',*bio_pointers[342:426]) if table==WIFE_BIOS else source[cat_base+table:cat_base+table+84*stride]
+    for dest,old in enumerate(wo):
+        assert image[cat_base+table+dest*stride:cat_base+table+(dest+1)*stride]==original[old*stride:(old+1)*stride]
+    allowed[cat_base+table:cat_base+table+84*stride]=b'\1'*(84*stride)
+assert image[cat_base+WIFE_COUNTS:cat_base+WIFE_COUNTS+10]==bytes(wc)
+allowed[cat_base+WIFE_COUNTS:cat_base+WIFE_COUNTS+10]=b'\1'*10
+print('PASS: all 84 wives sorted in Russian groups; name, portrait and biography identities preserved')
 for entry in manifest['applied']:
     item=next(f for f in inventory['files'] if f['path']==entry['file'])
     offset=item['lba']*2048+int(entry.get('destination_offset',entry['offset']),16)
-    length=entry['original_bytes']+1
+    length=(entry['translated_bytes'] if entry['file']=='INIT.PRG;1' and 0x522a<=int(entry['offset'],16)<0x14f1a else entry['original_bytes'])+1
     allowed[offset:offset+length]=b'\1'*length
     assert image[offset+entry['translated_bytes']]==0
     if entry.get('native_stream'):
@@ -307,7 +370,12 @@ for entry in manifest['applied']:
     if entry['ja'].endswith('\x1bW'): expected+=b'\x1bW'
     assert image[offset:offset+entry['translated_bytes']]==expected,entry
 
+from harem_cards import verify as verify_harem_success
+verify_harem_success(source,image,{f['path']:f for f in inventory['files']},manifest['harem_success'])
+for off,length in manifest['harem_success']['ranges']:
+    allowed[off:off+length]=b'\1'*length
 assert all(old==new or permit for old,new,permit in zip(source,image,allowed))
+assert all(allowed[len(source):]), 'Unaccounted ISO extension'
 font=(ROOT/'assets/cyrillic-8x16.bin').read_bytes()
 alphabet=''.join(chr(ord('А')+n) for n in range(64))+'Ёё'
 rows={ch:font[n*16:(n+1)*16] for n,ch in enumerate(alphabet)}
@@ -374,7 +442,7 @@ for track in inventory['tracks']:
     with path.open('rb') as stream:
         assert hashlib.file_digest(stream,'sha256').hexdigest()==track['sha256'],track['name']
 assert manifest['audio_tracks_modified']==0
-print('PASS: allowed patch ranges, unchanged ISO metadata and code outside verified renderer/menu patches, native font table, original Japanese glyphs outside declared substitutions, exact Cyrillic pixels, all source-track hashes')
+print('PASS: allowed patch ranges, verified ISO directory extension and code outside verified renderer/menu patches, native font table, original Japanese glyphs outside declared substitutions, exact Cyrillic pixels, all source-track hashes')
 print(f'PASS: {len(modified)} translated graphics, including {sum(e.get("origin")=="sega-cd-harem" for e in modified.values())} native harem labels and {adapted_count} two-line adaptations; all {255-len(modified)} other resources unchanged')
 
 # Validate the actual launch packages, not only the patched ISO.

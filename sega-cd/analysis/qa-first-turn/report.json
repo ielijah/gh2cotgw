@@ -1,0 +1,25 @@
+{
+  "iso_sha256": "7ee4a617eecd61c53bebbc9034441b9e2408ee5a734af2dfa395c842d3378b7c",
+  "reproduced_from_cold_boot": true,
+  "scenario": "World 1185",
+  "cause": "Native recruitment command at CPU 0x2B18C concatenated a 27-byte Russian report into a 20-byte local string, overwriting local values and saved A6. Return chain eventually entered BIOS 0x104.",
+  "fix": "128-byte frame; 124-byte string area; local numeric fields remain at -4..-1; saved-register restore moved consistently.",
+  "qa": [
+    "4 real 68000 recruitment paths: stack and saved-register guards",
+    "5 HUD label widths including 32 characters: no source mutation",
+    "Native composed training/alliance messages: 2 lines <=22 columns",
+    "Fresh final build cold boot into first player interaction",
+    "Player command menu response and end-turn transition into AI battle",
+    "verify.py: ISO, original assets, both 90-track packages, unchanged audio",
+    "1848 card selector and 512 menu toggle CPU cases"
+  ],
+  "screenshots": [
+    "final-cold.png",
+    "player-map.png",
+    "next-turn.png",
+    "hud-fixed.png",
+    "training-fixed.png",
+    "alliance-fixed.png"
+  ],
+  "scope": "Not a full campaign or full-season playthrough"
+}
