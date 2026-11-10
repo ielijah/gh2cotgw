@@ -1,0 +1,4130 @@
+[
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "6910",
+    "ref": "1EFA",
+    "ja": "*ﾘ8ﾀ@ｬF廱訓tT`VLX88ﾘBﾄJｰR弖型vdbhLj8"
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "6922",
+    "ref": "1F10",
+    "ja": "8ﾘBﾄJｰR弖型vdbhLj8"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "5EA",
+    "ref": "A2",
+    "ja": "N菱x"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "EEB9",
+    "ref": "A60",
+    "ja": "ｬHx"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "EEB9",
+    "ref": "1C52",
+    "ja": "ｬHx"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "EEB9",
+    "ref": "4B12",
+    "ja": "ｬHx"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "6E",
+    "ref": "56FA",
+    "ja": "\\秣"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "AC03",
+    "ref": "6B3E",
+    "ja": "ﾀ辷 @09"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14D44",
+    "ref": "6D40",
+    "ja": "ﾀﾁﾂﾃﾄﾅﾆ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "EEB9",
+    "ref": "7426",
+    "ja": "ｬHx"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14D9C",
+    "ref": "7ED8",
+    "ja": "ﾈﾉﾊ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "EEB9",
+    "ref": "80E4",
+    "ja": "ｬHx"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "EEB9",
+    "ref": "80F2",
+    "ja": "ｬHx"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14E58",
+    "ref": "8EDA",
+    "ja": "ﾀﾀﾁﾂﾃﾄﾅ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14E60",
+    "ref": "8F60",
+    "ja": "ﾋﾌﾍｱ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "5081",
+    "ref": "F01E",
+    "ja": "ｹ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "15126",
+    "ref": "F380",
+    "ja": "ﾚﾛﾆ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "EEB9",
+    "ref": "F662",
+    "ja": "ｬHx"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "15178",
+    "ref": "F88A",
+    "ja": "ﾏﾎ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "9FF9",
+    "ref": "FA24",
+    "ja": "ｼ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "A280",
+    "ref": "FC10",
+    "ja": "a\\X繍@g~/\na"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "506F",
+    "ref": "10106",
+    "ja": "ｹ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "151C6",
+    "ref": "1126A",
+    "ja": "ﾗﾘﾙ"
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "A280",
+    "ref": "11EA0",
+    "ja": "a\\X繍@g~/\na"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1216B",
+    "ref": "5AE",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "14CB9",
+    "ref": "7CE",
+    "ja": "ｧHx"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "12148",
+    "ref": "149E",
+    "ja": "P秋y"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "12148",
+    "ref": "176C",
+    "ja": "P秋y"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "275E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "27A0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "27DE",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "28A2",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2AE2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2C38",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2C86",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2D54",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2E28",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2F8A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2FE0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "3038",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "3068",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "3094",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "314A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "317C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "31AE",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "31C0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "32C0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "333A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "337E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "3390",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "3436",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "3500",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "357C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "35D0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "35F6",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "3628",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "367C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "36A2",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "36D4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "36FE",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "37F4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "3BB8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "3C6E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "406A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "40EC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "48A2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "4DA0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "4F06",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "4F64",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "4FCC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "5026",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "523E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "53FC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "5636",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "5690",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "56AC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "6005",
+    "ref": "576A",
+    "ja": "Eｺn"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "586C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "486B0",
+    "ref": "58D4",
+    "ja": "ｹｺ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "5B76",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "5BCC",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "5BDE",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "5DB0",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "5ECA",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "603A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6092",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "60C0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6138",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6174",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "A00C",
+    "ref": "63CE",
+    "ja": "滲 9"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6500",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "653C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "65BE",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "671E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6934",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6A00",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "6C6C",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6D36",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6D8A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6E0C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6F3E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "6FA8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "722A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "725C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "14283",
+    "ref": "766A",
+    "ja": "ﾈ`"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "7750",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "7772",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "77D6",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "77E4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "7802",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "7882",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "7EE4",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "7F2C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "7FFE",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "8012",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "802E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "80E6",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "863E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "8706",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "890E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "8994",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "8A40",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "8A94",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "8AE4",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "8BAC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "8C08",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "8DAA",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "8E1A",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "8FF4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "9036",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "90B8",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "91F6",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "9234",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "924E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "925E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "9276",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "928A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "9294",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "92FC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "9320",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "93C8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "93E2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "9434",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "94BC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "975A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "9934",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "9FC6",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "9FF0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A190",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A1B6",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A1DC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A202",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A232",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A270",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A2A4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A2D8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A308",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A33C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A36C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A3A8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1EE",
+    "ref": "A3F4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "A4E4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "A4F2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "A5C4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "A6C2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "AE8A",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "AF52",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "B07A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4B010",
+    "ref": "B632",
+    "ja": "ﾝｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜｶｷｸｹｺｻｼｽｾｿﾀﾃﾄﾊﾋﾌﾍﾎｬｭｮｨｩ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268D0",
+    "ref": "B646",
+    "ja": "ﾞ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268CE",
+    "ref": "B68A",
+    "ja": "ｰ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4B010",
+    "ref": "B69A",
+    "ja": "ﾝｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜｶｷｸｹｺｻｼｽｾｿﾀﾃﾄﾊﾋﾌﾍﾎｬｭｮｨｩ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D44",
+    "ref": "BC9A",
+    "ja": "姫"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D3E",
+    "ref": "BCA8",
+    "ja": "公主"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DBE",
+    "ref": "BD6C",
+    "ja": "北条"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DB8",
+    "ref": "BDC4",
+    "ja": "藤原"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DB2",
+    "ref": "BDD4",
+    "ja": "佐竹"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DAE",
+    "ref": "BDE4",
+    "ja": "平 "
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DA8",
+    "ref": "BDF4",
+    "ja": "木曾"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DA4",
+    "ref": "BE02",
+    "ja": "源 "
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D9E",
+    "ref": "BE10",
+    "ja": "河野"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D98",
+    "ref": "BE1E",
+    "ja": "菊池"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D94",
+    "ref": "BE58",
+    "ja": "源 "
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DC4",
+    "ref": "BF1A",
+    "ja": "族\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "8E93",
+    "ref": "C324",
+    "ja": "ｧHx"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "8E93",
+    "ref": "C368",
+    "ja": "ｧHx"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "D840",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "D84E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "D970",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "E7C8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "E90C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "E9DA",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "EA28",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "EA72",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "EAE2",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "EBB4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "EC34",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "F0A0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "FA40",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "FB10",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "FBA6",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "FD20",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "9202",
+    "ref": "FEDC",
+    "ja": "ﾈ$p"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1013A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "101A2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "101CA",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "107C2",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4BEA2",
+    "ref": "10E26",
+    "ja": "賈煕熹奎崔襄弩"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "10EAC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "10EBA",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "10EEA",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "10EF8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F0A",
+    "ref": "111C6",
+    "ja": "魯"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "112D0",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "A00C",
+    "ref": "113D6",
+    "ja": "滲 9"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "11478",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "118BA",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1192A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F645",
+    "ref": "119C4",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "11A4A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "11B64",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0B",
+    "ref": "12882",
+    "ja": "侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1A608",
+    "ref": "12DE2",
+    "ja": "$ｴ/"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "131DA",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "13208",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "13C94",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "8E93",
+    "ref": "14614",
+    "ja": "ｧHx"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "14AEE",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "14B18",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "14BBE",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1519E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1A010",
+    "ref": "154F6",
+    "ja": "蛻 |"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "156B0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "158D6",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "15A54",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "15F8C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "6F0B",
+    "ref": "16B5C",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "17078",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "170E6",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0B",
+    "ref": "1732A",
+    "ja": "侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "1778E",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "17894",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0B",
+    "ref": "17D0A",
+    "ja": "侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "18012",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "18746",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "18944",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "18A3A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "18A7A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "19C5E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F39",
+    "ref": "1A586",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1AE0A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1AEF6",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1AF3A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1B63A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1B648",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1B73A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "1B96E",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1BA42",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1BB48",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F0A",
+    "ref": "1BDBE",
+    "ja": "魯"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1C330",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1C33E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1C3A2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1C3B0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1C4D8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "1C65C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "1CC7C",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1A024",
+    "ref": "1DFA4",
+    "ja": "N禰y"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "1EE1C",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "1EEAA",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "1EEB2",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "263CA",
+    "ref": "1EF3C",
+    "ja": "H遐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "20500",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "206F2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "8E93",
+    "ref": "209BE",
+    "ja": "ｧHx"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "8E93",
+    "ref": "20A60",
+    "ja": "ｧHx"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "20A6E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "6F0B",
+    "ref": "20D28",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "20EB6",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "212FE",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "21506",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "215E8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2163C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "21984",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "2397C",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "24036",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "16F0A",
+    "ref": "24294",
+    "ja": "N侵uNV"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "246FC",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2472A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "24758",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "24AA4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24642",
+    "ref": "24B1A",
+    "ja": "4朗ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "24B40",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24642",
+    "ref": "24B50",
+    "ja": "4朗ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "24B76",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "24D86",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "24DB2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "24E28",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "24E4A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "24EEE",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "250E2",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "25384",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2542C",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2549E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "25540",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2554A",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "25606",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "2565E",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "256B0",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "257A6",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "25806",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "258F4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "259C4",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "25A62",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "261A8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "F4",
+    "ref": "261D8",
+    "ja": "@躁V"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4B8",
+    "ref": "268E2",
+    "ja": "ﾉﾂ ."
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "693",
+    "ref": "2970A",
+    "ja": "ﾃp"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "2DE60",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1D42",
+    "ref": "3079C",
+    "ja": "Rざｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1D42",
+    "ref": "34CE4",
+    "ja": "Rざｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "18523",
+    "ref": "36CB0",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "14502",
+    "ref": "36CE0",
+    "ja": "ｴ9"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24117",
+    "ref": "397B0",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24407",
+    "ref": "3B370",
+    "ja": "ﾀ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24D01",
+    "ref": "3C630",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3890",
+    "ref": "3D6F8",
+    "ja": "Lﾟ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4701",
+    "ref": "3E430",
+    "ja": "ｲ3ﾀ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24C03",
+    "ref": "3E4F0",
+    "ja": "滴x"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4301",
+    "ref": "3EF10",
+    "ja": "ｼ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "411F",
+    "ref": "3F4B0",
+    "ja": "ﾟ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24301",
+    "ref": "3F750",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "5F11",
+    "ref": "3FC50",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24D01",
+    "ref": "3FFD0",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24301",
+    "ref": "400B0",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24203",
+    "ref": "42F90",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3890",
+    "ref": "4575C",
+    "ja": "Lﾟ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24301",
+    "ref": "45DB0",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "3890",
+    "ref": "46266",
+    "ja": "Lﾟ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24011",
+    "ref": "48838",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24011",
+    "ref": "4889C",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "14017",
+    "ref": "488DC",
+    "ja": "tX繍@g@Hx"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "14017",
+    "ref": "48904",
+    "ja": "tX繍@g@Hx"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24011",
+    "ref": "48978",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24011",
+    "ref": "4898C",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24011",
+    "ref": "489B4",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492B8",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492BA",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492BC",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492BE",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492C0",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492C2",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492C4",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492C6",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492C8",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "492CA",
+    "ja": "ｹ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268F0",
+    "ref": "4B054",
+    "ja": "ﾀﾞｲ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268EA",
+    "ref": "4B058",
+    "ja": "ｶﾞｲ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268E4",
+    "ref": "4B05C",
+    "ja": "ﾄｸ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268DC",
+    "ref": "4B060",
+    "ja": "･ﾍﾞｷ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268D6",
+    "ref": "4B064",
+    "ja": "ｸﾙ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26910",
+    "ref": "4B068",
+    "ja": "ｼﾞｬﾔ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26908",
+    "ref": "4B06C",
+    "ja": "ﾗｰｼﾞｬ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26902",
+    "ref": "4B070",
+    "ja": "ｸﾗ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268FC",
+    "ref": "4B074",
+    "ja": "ﾄﾞﾗ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "268F6",
+    "ref": "4B078",
+    "ja": "ﾄｩ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269E6",
+    "ref": "4B07C",
+    "ja": "藤原"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269E0",
+    "ref": "4B080",
+    "ja": "和田"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269DA",
+    "ref": "4B084",
+    "ja": "北条"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269D4",
+    "ref": "4B088",
+    "ja": "比企"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269D0",
+    "ref": "4B08C",
+    "ja": "平 "
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269CA",
+    "ref": "4B090",
+    "ja": "佐竹"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269C4",
+    "ref": "4B094",
+    "ja": "大庭"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269BE",
+    "ref": "4B098",
+    "ja": "佐藤"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269B8",
+    "ref": "4B09C",
+    "ja": "足利"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269B2",
+    "ref": "4B0A0",
+    "ja": "安達"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269AC",
+    "ref": "4B0A4",
+    "ja": "阿野"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269A6",
+    "ref": "4B0A8",
+    "ja": "九条"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269A0",
+    "ref": "4B0AC",
+    "ja": "武田"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2699A",
+    "ref": "4B0B0",
+    "ja": "一条"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26994",
+    "ref": "4B0B4",
+    "ja": "板垣"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2698E",
+    "ref": "4B0B8",
+    "ja": "新田"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26986",
+    "ref": "4B0BC",
+    "ja": "佐々木"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26980",
+    "ref": "4B0C0",
+    "ja": "中原"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2697A",
+    "ref": "4B0C4",
+    "ja": "鎌田"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26974",
+    "ref": "4B0C8",
+    "ja": "里見"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2696C",
+    "ref": "4B0CC",
+    "ja": "宇都宮"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26966",
+    "ref": "4B0D0",
+    "ja": "小山"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26960",
+    "ref": "4B0D4",
+    "ja": "結城"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2695A",
+    "ref": "4B0D8",
+    "ja": "江戸"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26954",
+    "ref": "4B0DC",
+    "ja": "越智"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2694E",
+    "ref": "4B0E0",
+    "ja": "曾我"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26948",
+    "ref": "4B0E4",
+    "ja": "河越"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26942",
+    "ref": "4B0E8",
+    "ja": "菊池"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2693C",
+    "ref": "4B0EC",
+    "ja": "村上"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26936",
+    "ref": "4B0F0",
+    "ja": "中山"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26930",
+    "ref": "4B0F4",
+    "ja": "山本"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2692C",
+    "ref": "4B0F8",
+    "ja": "源 "
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26924",
+    "ref": "4B0FC",
+    "ja": "津々見"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2691E",
+    "ref": "4B100",
+    "ja": "豊島"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26918",
+    "ref": "4B104",
+    "ja": "新田"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A38",
+    "ref": "4B108",
+    "ja": "頼"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A34",
+    "ref": "4B10C",
+    "ja": "実"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A30",
+    "ref": "4B110",
+    "ja": "義"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A2C",
+    "ref": "4B114",
+    "ja": "泰"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A28",
+    "ref": "4B118",
+    "ja": "清"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A24",
+    "ref": "4B11C",
+    "ja": "忠"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A20",
+    "ref": "4B120",
+    "ja": "為"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A1C",
+    "ref": "4B124",
+    "ja": "道"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A18",
+    "ref": "4B128",
+    "ja": "幸"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A14",
+    "ref": "4B12C",
+    "ja": "宗"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A10",
+    "ref": "4B130",
+    "ja": "光"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A0C",
+    "ref": "4B134",
+    "ja": "兼"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A08",
+    "ref": "4B138",
+    "ja": "和"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A04",
+    "ref": "4B13C",
+    "ja": "貞"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A00",
+    "ref": "4B140",
+    "ja": "国"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269FC",
+    "ref": "4B144",
+    "ja": "朝"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269F8",
+    "ref": "4B148",
+    "ja": "通"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269F4",
+    "ref": "4B14C",
+    "ja": "利"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269F0",
+    "ref": "4B150",
+    "ja": "資"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "269EC",
+    "ref": "4B154",
+    "ja": "教"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A88",
+    "ref": "4B158",
+    "ja": "時"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A84",
+    "ref": "4B15C",
+    "ja": "親"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A80",
+    "ref": "4B160",
+    "ja": "政"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A7C",
+    "ref": "4B164",
+    "ja": "家"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A78",
+    "ref": "4B168",
+    "ja": "高"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A74",
+    "ref": "4B16C",
+    "ja": "氏"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A70",
+    "ref": "4B170",
+    "ja": "綱"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A6C",
+    "ref": "4B174",
+    "ja": "長"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A68",
+    "ref": "4B178",
+    "ja": "盛"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A64",
+    "ref": "4B17C",
+    "ja": "遠"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A60",
+    "ref": "4B180",
+    "ja": "景"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A5C",
+    "ref": "4B184",
+    "ja": "季"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A58",
+    "ref": "4B188",
+    "ja": "衡"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A54",
+    "ref": "4B18C",
+    "ja": "信"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A50",
+    "ref": "4B190",
+    "ja": "経"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A4C",
+    "ref": "4B194",
+    "ja": "成"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A48",
+    "ref": "4B198",
+    "ja": "平"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A44",
+    "ref": "4B19C",
+    "ja": "隆"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A40",
+    "ref": "4B1A0",
+    "ja": "茂"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A3C",
+    "ref": "4B1A4",
+    "ja": "久"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AA8",
+    "ref": "4B1A8",
+    "ja": "ﾊﾞｰﾄ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AA0",
+    "ref": "4B1AC",
+    "ja": "ﾍﾞｽﾄ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A9A",
+    "ref": "4B1B0",
+    "ja": "ﾄｩｽ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A94",
+    "ref": "4B1B4",
+    "ja": "ｽﾀﾝ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26A8C",
+    "ref": "4B1B8",
+    "ja": "ｳﾞｨﾋ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ACA",
+    "ref": "4B1BC",
+    "ja": "ｼｵｽ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AC4",
+    "ref": "4B1C0",
+    "ja": "ﾄﾘ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ABC",
+    "ref": "4B1C4",
+    "ja": "ﾄﾞﾛｽ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AB6",
+    "ref": "4B1C8",
+    "ja": "ｽﾗﾌ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AB0",
+    "ref": "4B1CC",
+    "ja": "ｽｷ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AF2",
+    "ref": "4B1D0",
+    "ja": "\u001bKｱﾙ･"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AEC",
+    "ref": "4B1D4",
+    "ja": "\u001bKｹｲ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AE6",
+    "ref": "4B1D8",
+    "ja": "\u001bKﾏﾌ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ADE",
+    "ref": "4B1DC",
+    "ja": "\u001bKｲﾌﾞﾝ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AD6",
+    "ref": "4B1E0",
+    "ja": "\u001bKｱﾌﾞﾄﾞ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AD0",
+    "ref": "4B1E4",
+    "ja": "\u001bKﾅｰ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B34",
+    "ref": "4B1E8",
+    "ja": "李"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B30",
+    "ref": "4B1EC",
+    "ja": "陳"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B2C",
+    "ref": "4B1F0",
+    "ja": "王"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B28",
+    "ref": "4B1F4",
+    "ja": "朱"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B24",
+    "ref": "4B1F8",
+    "ja": "劉"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B20",
+    "ref": "4B1FC",
+    "ja": "金"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B1C",
+    "ref": "4B200",
+    "ja": "張"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B18",
+    "ref": "4B204",
+    "ja": "関"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B14",
+    "ref": "4B208",
+    "ja": "陸"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B10",
+    "ref": "4B20C",
+    "ja": "厳"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B0C",
+    "ref": "4B210",
+    "ja": "石"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B08",
+    "ref": "4B214",
+    "ja": "楊"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B04",
+    "ref": "4B218",
+    "ja": "高"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B00",
+    "ref": "4B21C",
+    "ja": "郭"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AFC",
+    "ref": "4B220",
+    "ja": "孟"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26AF8",
+    "ref": "4B224",
+    "ja": "韓"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B72",
+    "ref": "4B228",
+    "ja": "徳"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B6E",
+    "ref": "4B22C",
+    "ja": "元"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B6A",
+    "ref": "4B230",
+    "ja": "大"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B66",
+    "ref": "4B234",
+    "ja": "健"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B62",
+    "ref": "4B238",
+    "ja": "安"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B5E",
+    "ref": "4B23C",
+    "ja": "文"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B5A",
+    "ref": "4B240",
+    "ja": "子"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B56",
+    "ref": "4B244",
+    "ja": "宝"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B52",
+    "ref": "4B248",
+    "ja": "克"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B4E",
+    "ref": "4B24C",
+    "ja": "継"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B4A",
+    "ref": "4B250",
+    "ja": "紹"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B46",
+    "ref": "4B254",
+    "ja": "敬"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B42",
+    "ref": "4B258",
+    "ja": "宗"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B3E",
+    "ref": "4B25C",
+    "ja": "承"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B3A",
+    "ref": "4B260",
+    "ja": "世"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BB2",
+    "ref": "4B268",
+    "ja": "明"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BAE",
+    "ref": "4B26C",
+    "ja": "昭"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BAA",
+    "ref": "4B270",
+    "ja": "順"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BA6",
+    "ref": "4B274",
+    "ja": "融"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BA2",
+    "ref": "4B278",
+    "ja": "惇"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B9E",
+    "ref": "4B27C",
+    "ja": "広"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B9A",
+    "ref": "4B280",
+    "ja": "仁"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B96",
+    "ref": "4B284",
+    "ja": "成"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B92",
+    "ref": "4B288",
+    "ja": "貞"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B8E",
+    "ref": "4B28C",
+    "ja": "信"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B8A",
+    "ref": "4B290",
+    "ja": "遠"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B86",
+    "ref": "4B294",
+    "ja": "裕"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B82",
+    "ref": "4B298",
+    "ja": "義"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B7E",
+    "ref": "4B29C",
+    "ja": "民"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B7A",
+    "ref": "4B2A0",
+    "ja": "秀"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26B76",
+    "ref": "4B2A4",
+    "ja": "真"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BCC",
+    "ref": "4B2C8",
+    "ja": "ｱﾝ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BC6",
+    "ref": "4B2CC",
+    "ja": "ﾙﾝ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BC0",
+    "ref": "4B2D0",
+    "ja": "ﾙﾃ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BBA",
+    "ref": "4B2D4",
+    "ja": "ﾗﾝ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BE4",
+    "ref": "4B2D8",
+    "ja": "ｽｶ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BDE",
+    "ref": "4B2DC",
+    "ja": "ｻﾝ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BD8",
+    "ref": "4B2E0",
+    "ja": "ｸﾝ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BD2",
+    "ref": "4B2E4",
+    "ja": "ｷﾅ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BFC",
+    "ref": "4B2E8",
+    "ja": "ｼｬﾅ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BF6",
+    "ref": "4B2EC",
+    "ja": "ﾊｰﾙ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BF0",
+    "ref": "4B2F0",
+    "ja": "ﾗｰﾀ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26BEA",
+    "ref": "4B2F4",
+    "ja": "ﾃｨ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C14",
+    "ref": "4B2F8",
+    "ja": "ﾃﾞｨｱ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C0E",
+    "ref": "4B2FC",
+    "ja": "ﾘｰﾅ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C08",
+    "ref": "4B300",
+    "ja": "ﾘｽ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C02",
+    "ref": "4B304",
+    "ja": "ﾚｯﾄ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C30",
+    "ref": "4B308",
+    "ja": "ﾄﾞｰﾗ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C2A",
+    "ref": "4B30C",
+    "ja": "ｼｱ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C22",
+    "ref": "4B310",
+    "ja": "ﾘｰﾁｪ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C1C",
+    "ref": "4B314",
+    "ja": "ｱﾝﾇ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C4A",
+    "ref": "4B318",
+    "ja": "ｻﾞｰﾄﾞ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C44",
+    "ref": "4B31C",
+    "ja": "ﾘｰﾝ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C3E",
+    "ref": "4B320",
+    "ja": "ｲﾀﾞ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C38",
+    "ref": "4B324",
+    "ja": "ﾃｨﾏ\u001bH"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C66",
+    "ref": "4B328",
+    "ja": "光"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C62",
+    "ref": "4B32C",
+    "ja": "順"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C5E",
+    "ref": "4B330",
+    "ja": "昭"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C5A",
+    "ref": "4B334",
+    "ja": "永"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C56",
+    "ref": "4B338",
+    "ja": "慈"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C52",
+    "ref": "4B33C",
+    "ja": "恭"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C7E",
+    "ref": "4B340",
+    "ja": "徳"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C7A",
+    "ref": "4B344",
+    "ja": "智"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C76",
+    "ref": "4B348",
+    "ja": "明"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C72",
+    "ref": "4B34C",
+    "ja": "真"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C6E",
+    "ref": "4B350",
+    "ja": "仁"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C6A",
+    "ref": "4B354",
+    "ja": "興"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D3A",
+    "ref": "4B358",
+    "ja": "静"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D36",
+    "ref": "4B35C",
+    "ja": "薫"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D32",
+    "ref": "4B360",
+    "ja": "雪"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D2E",
+    "ref": "4B364",
+    "ja": "遥"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D2A",
+    "ref": "4B368",
+    "ja": "琴"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D26",
+    "ref": "4B36C",
+    "ja": "綾"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D22",
+    "ref": "4B370",
+    "ja": "茜"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D1E",
+    "ref": "4B374",
+    "ja": "霞"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D1A",
+    "ref": "4B378",
+    "ja": "鶴"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D16",
+    "ref": "4B37C",
+    "ja": "巴"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D12",
+    "ref": "4B380",
+    "ja": "桂"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D0E",
+    "ref": "4B384",
+    "ja": "梓"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D0A",
+    "ref": "4B388",
+    "ja": "橘"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D06",
+    "ref": "4B38C",
+    "ja": "愛"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D02",
+    "ref": "4B390",
+    "ja": "葵"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CFE",
+    "ref": "4B394",
+    "ja": "文"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CFA",
+    "ref": "4B398",
+    "ja": "桜"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CF6",
+    "ref": "4B39C",
+    "ja": "乙"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CF2",
+    "ref": "4B3A0",
+    "ja": "織"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CEE",
+    "ref": "4B3A4",
+    "ja": "渚"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CEA",
+    "ref": "4B3A8",
+    "ja": "清"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CE6",
+    "ref": "4B3AC",
+    "ja": "紫"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CE2",
+    "ref": "4B3B0",
+    "ja": "桃"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CDE",
+    "ref": "4B3B4",
+    "ja": "忍"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CDA",
+    "ref": "4B3B8",
+    "ja": "妙"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CD6",
+    "ref": "4B3BC",
+    "ja": "藤"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CD2",
+    "ref": "4B3C0",
+    "ja": "鈴"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CCE",
+    "ref": "4B3C4",
+    "ja": "鞠"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CCA",
+    "ref": "4B3C8",
+    "ja": "唯"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CC6",
+    "ref": "4B3CC",
+    "ja": "夕"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CC2",
+    "ref": "4B3D0",
+    "ja": "弓"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CBE",
+    "ref": "4B3D4",
+    "ja": "恋"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CBA",
+    "ref": "4B3D8",
+    "ja": "淀"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CB6",
+    "ref": "4B3DC",
+    "ja": "徳"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CB2",
+    "ref": "4B3E0",
+    "ja": "月"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CAE",
+    "ref": "4B3E4",
+    "ja": "菊"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CAA",
+    "ref": "4B3E8",
+    "ja": "朝"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CA6",
+    "ref": "4B3EC",
+    "ja": "星"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26CA2",
+    "ref": "4B3F0",
+    "ja": "和"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C9E",
+    "ref": "4B3F4",
+    "ja": "舞"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C9A",
+    "ref": "4B3F8",
+    "ja": "泉"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C96",
+    "ref": "4B3FC",
+    "ja": "恵"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C92",
+    "ref": "4B400",
+    "ja": "涼"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C8E",
+    "ref": "4B404",
+    "ja": "香"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C88",
+    "ref": "4B408",
+    "ja": "沙羅"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26C82",
+    "ref": "4B40C",
+    "ja": "瑠璃"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D68",
+    "ref": "4B430",
+    "ja": "藤原"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D62",
+    "ref": "4B434",
+    "ja": "佐竹"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D5E",
+    "ref": "4B438",
+    "ja": "平 "
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D58",
+    "ref": "4B43C",
+    "ja": "木曾"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D54",
+    "ref": "4B440",
+    "ja": "源 "
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D4E",
+    "ref": "4B444",
+    "ja": "河野"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D48",
+    "ref": "4B448",
+    "ja": "菊池"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D8E",
+    "ref": "4B44C",
+    "ja": "藤原"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D88",
+    "ref": "4B450",
+    "ja": "佐竹"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D84",
+    "ref": "4B454",
+    "ja": "平 "
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D7E",
+    "ref": "4B458",
+    "ja": "木曾"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D7A",
+    "ref": "4B45C",
+    "ja": "源 "
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D74",
+    "ref": "4B460",
+    "ja": "河野"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26D6E",
+    "ref": "4B464",
+    "ja": "菊池"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DFE",
+    "ref": "4B468",
+    "ja": "東"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DFA",
+    "ref": "4B46C",
+    "ja": "西"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DF6",
+    "ref": "4B470",
+    "ja": "南"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DF2",
+    "ref": "4B474",
+    "ja": "北"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DEE",
+    "ref": "4B478",
+    "ja": "大"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DEA",
+    "ref": "4B47C",
+    "ja": "上"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DE6",
+    "ref": "4B480",
+    "ja": "下"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DE2",
+    "ref": "4B484",
+    "ja": "中"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DDE",
+    "ref": "4B488",
+    "ja": "新"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DDA",
+    "ref": "4B48C",
+    "ja": "前"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DD6",
+    "ref": "4B490",
+    "ja": "赤"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DD2",
+    "ref": "4B494",
+    "ja": "白"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DCE",
+    "ref": "4B498",
+    "ja": "黒"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26DCA",
+    "ref": "4B49C",
+    "ja": "青"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E3E",
+    "ref": "4B4A0",
+    "ja": "山"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E3A",
+    "ref": "4B4A4",
+    "ja": "川"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E36",
+    "ref": "4B4A8",
+    "ja": "谷"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E32",
+    "ref": "4B4AC",
+    "ja": "海"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E2E",
+    "ref": "4B4B0",
+    "ja": "森"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E2A",
+    "ref": "4B4B4",
+    "ja": "泉"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E26",
+    "ref": "4B4B8",
+    "ja": "河"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E22",
+    "ref": "4B4BC",
+    "ja": "倉"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E1E",
+    "ref": "4B4C0",
+    "ja": "風"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E1A",
+    "ref": "4B4C4",
+    "ja": "城"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E16",
+    "ref": "4B4C8",
+    "ja": "岸"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E12",
+    "ref": "4B4CC",
+    "ja": "浜"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E0E",
+    "ref": "4B4D0",
+    "ja": "島"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E0A",
+    "ref": "4B4D4",
+    "ja": "丘"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E06",
+    "ref": "4B4D8",
+    "ja": "野"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E02",
+    "ref": "4B4DC",
+    "ja": "原"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E70",
+    "ref": "4B4E0",
+    "ja": "幕府"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E68",
+    "ref": "4B4E4",
+    "ja": "執政府"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E62",
+    "ref": "4B4E8",
+    "ja": "政権"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E5C",
+    "ref": "4B4EC",
+    "ja": "国府"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E56",
+    "ref": "4B4F0",
+    "ja": "王国"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E50",
+    "ref": "4B4F4",
+    "ja": "王朝"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E48",
+    "ref": "4B4F8",
+    "ja": "武士団"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E42",
+    "ref": "4B4FC",
+    "ja": "軍団"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E84",
+    "ref": "4B500",
+    "ja": "朝"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E7E",
+    "ref": "4B504",
+    "ja": "王国"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E7A",
+    "ref": "4B508",
+    "ja": "領"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E76",
+    "ref": "4B50C",
+    "ja": "国"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EA2",
+    "ref": "4B510",
+    "ja": "帝国"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E9C",
+    "ref": "4B514",
+    "ja": "王国"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E96",
+    "ref": "4B518",
+    "ja": "公国"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E90",
+    "ref": "4B51C",
+    "ja": "連合"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26E8C",
+    "ref": "4B520",
+    "ja": "朝"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EC6",
+    "ref": "4B524",
+    "ja": "前"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EC2",
+    "ref": "4B528",
+    "ja": "後"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EBE",
+    "ref": "4B52C",
+    "ja": "南"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EBA",
+    "ref": "4B530",
+    "ja": "北"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EB6",
+    "ref": "4B534",
+    "ja": "西"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EB2",
+    "ref": "4B538",
+    "ja": "東"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EAE",
+    "ref": "4B53C",
+    "ja": "大"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F2A",
+    "ref": "4B544",
+    "ja": "遼"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F26",
+    "ref": "4B548",
+    "ja": "燕"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F22",
+    "ref": "4B54C",
+    "ja": "韓"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F1E",
+    "ref": "4B550",
+    "ja": "漢"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F1A",
+    "ref": "4B554",
+    "ja": "周"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F16",
+    "ref": "4B558",
+    "ja": "楚"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F12",
+    "ref": "4B55C",
+    "ja": "呉"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F0E",
+    "ref": "4B560",
+    "ja": "晋"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F0A",
+    "ref": "4B564",
+    "ja": "魯"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F06",
+    "ref": "4B568",
+    "ja": "新"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F02",
+    "ref": "4B56C",
+    "ja": "秦"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EFE",
+    "ref": "4B570",
+    "ja": "斉"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EFA",
+    "ref": "4B574",
+    "ja": "曹"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EF6",
+    "ref": "4B578",
+    "ja": "鄭"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EF2",
+    "ref": "4B57C",
+    "ja": "唐"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EEE",
+    "ref": "4B580",
+    "ja": "商"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EEA",
+    "ref": "4B584",
+    "ja": "梁"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EE6",
+    "ref": "4B588",
+    "ja": "越"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EE2",
+    "ref": "4B58C",
+    "ja": "陳"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EDE",
+    "ref": "4B590",
+    "ja": "明"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26EDA",
+    "ref": "4B594",
+    "ja": "衛"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ED6",
+    "ref": "4B598",
+    "ja": "金"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ED2",
+    "ref": "4B59C",
+    "ja": "許"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ECE",
+    "ref": "4B5A0",
+    "ja": "夏"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26ECA",
+    "ref": "4B5A4",
+    "ja": "清"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F3E",
+    "ref": "4B5A8",
+    "ja": "帝国"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F38",
+    "ref": "4B5AC",
+    "ja": "王朝"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F34",
+    "ref": "4B5B0",
+    "ja": "朝"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "26F30",
+    "ref": "4B5B4",
+    "ja": "国"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "1423C",
+    "ref": "4D120",
+    "ja": "P渋"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24404",
+    "ref": "4D548",
+    "ja": "8L#ﾀ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24404",
+    "ref": "4D56C",
+    "ja": "8L#ﾀ"
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "24003",
+    "ref": "4D680",
+    "ja": "ｹ"
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "483C",
+    "ref": "2972",
+    "ja": "334567:?FNV]ipx∴件髄駐酎随決』pi]VNF?:76543"
+  }
+]

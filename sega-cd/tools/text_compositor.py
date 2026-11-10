@@ -88,6 +88,9 @@ def install(main, codes, unused, pairs, rows, start_prompt=None, relocated=()):
     assert len(trim_code) <= 96
     put(name_trim, trim_code)
     put(name_trim+96, bytes.fromhex(''.join(padded_codes)+'0000'))
+    from generated_names import allocate as allocate_generated, apply as apply_generated
+    generated_names=allocate_generated(reserve,put,Code,list(rows),{p:pair_code(i) for i,p in enumerate(pairs)})
+    apply_generated(main,generated_names)
     # Allocate the longest contiguous objects before the scattered pages.
     alphabet = list(rows)
     font_table = reserve(len(alphabet)*2, 'character_offsets')
@@ -123,12 +126,15 @@ def install(main, codes, unused, pairs, rows, start_prompt=None, relocated=()):
 
     relocated_records = []
     for entry in relocated:
-        from text_encoding import encode
-        data = encode(entry['ru'], {pair:pair_code(i) for i,pair in enumerate(pairs)}) + b'\0'
+        from text_encoding import encode, encode_stream
+        encoder = encode_stream if entry.get('native_stream') else encode
+        data = encoder(entry['ru'], {pair:pair_code(i) for i,pair in enumerate(pairs)}) + b'\0'
         address = reserve(len(data), 'relocated_text')
         put(address, data)
         relocated_records.append(dict(**entry, storage_offset=address, storage_length=len(data)))
 
+    from battle_text import allocate as allocate_battle_text
+    battle_text=allocate_battle_text(reserve,put,{pair:pair_code(i) for i,pair in enumerate(pairs)})
     from chronicle_tables import allocate as allocate_chronicles
     chronicle_tables=allocate_chronicles(reserve,put,{pair:pair_code(i) for i,pair in enumerate(pairs)})
 
@@ -188,4 +194,4 @@ def install(main, codes, unused, pairs, rows, start_prompt=None, relocated=()):
                 dictionary_root=root, hook=hook, hook_size=len(code), helper=helper,
                 helper_size=len(h), storage=used,
                 patches=[dict(offset=o, before=b, after=a) for o,b,a in patches],
-                extra_stack_bytes=32, single_letters=singles, music_titles=music_titles, catalog_list=catalog_list, chronicle_tables=chronicle_tables, nameplate_trim=name_trim, nameplate_trim_size=len(trim_code), start_prompt=prompt_record, relocated_texts=relocated_records), {pair:pair_code(i) for i,pair in enumerate(pairs)}
+                extra_stack_bytes=32, single_letters=singles, generated_names=generated_names, battle_text=battle_text, music_titles=music_titles, catalog_list=catalog_list, chronicle_tables=chronicle_tables, nameplate_trim=name_trim, nameplate_trim_size=len(trim_code), start_prompt=prompt_record, relocated_texts=relocated_records), {pair:pair_code(i) for i,pair in enumerate(pairs)}

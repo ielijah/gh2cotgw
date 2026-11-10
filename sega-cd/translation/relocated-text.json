@@ -2769,22 +2769,6 @@
   },
   {
     "file": "SMAIN.PRG;1",
-    "offset": "2702C",
-    "ja": "様ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
-    "ru": "\nПодтверждаете?",
-    "kind": "dialogue_fragment",
-    "max_columns": 22,
-    "max_lines": 4,
-    "references": [
-      {
-        "file": "SMAIN.PRG;1",
-        "offset": "DF94",
-        "before": "0003302c"
-      }
-    ]
-  },
-  {
-    "file": "SMAIN.PRG;1",
     "offset": "2706C",
     "ja": "様ｶﾞ\nｵ亡ｸﾅﾘﾆﾅﾗﾚﾀ",
     "ru": "\nЕго не стало...",
@@ -3196,22 +3180,6 @@
         "file": "SMAIN.PRG;1",
         "offset": "17DE8",
         "before": "00034488"
-      }
-    ]
-  },
-  {
-    "file": "SMAIN.PRG;1",
-    "offset": "2848E",
-    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
-    "ru": "\nПодтверждаете?",
-    "kind": "dialogue_fragment",
-    "max_columns": 22,
-    "max_lines": 4,
-    "references": [
-      {
-        "file": "SMAIN.PRG;1",
-        "offset": "17D36",
-        "before": "0003448e"
       }
     ]
   },
@@ -4961,22 +4929,6 @@
   },
   {
     "file": "SMAIN.PRG;1",
-    "offset": "29788",
-    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
-    "ru": "\nПодтверждаете?",
-    "kind": "dialogue_fragment",
-    "max_columns": 22,
-    "max_lines": 4,
-    "references": [
-      {
-        "file": "SMAIN.PRG;1",
-        "offset": "20EDE",
-        "before": "00035788"
-      }
-    ]
-  },
-  {
-    "file": "SMAIN.PRG;1",
     "offset": "29796",
     "ja": "軍団ｦ任ｾﾏｽｶ",
     "ru": "\nПоручить легион?",
@@ -5171,7 +5123,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "27D92",
     "ja": "天下ｦ夢見ﾀ男ｶﾞ､ﾏﾀ一人､消ｴﾀ…｡",
-    "ru": "Ещё один герой,\nмечтавший о мире, пал.",
+    "ru": "Пал ещё один герой,\nмечтавший о власти.",
     "kind": "dialogue_fragment",
     "max_columns": 22,
     "max_lines": 4,
@@ -6062,5 +6014,699 @@
     ],
     "max_columns": 4,
     "max_lines": 1
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13ACA",
+    "ja": "ｺﾞ命令ｦ",
+    "ru": "Ваш приказ?",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "92E",
+        "before": "00079aca"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13AD2",
+    "ja": "命令ｦ終了ｼ",
+    "ru": "Закончить приказы",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "954",
+        "before": "00079ad2"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C0A",
+    "ja": "\nｺﾞ自分ﾃﾞ\n軍団配置ﾅｻｲ",
+    "ru": "\nРасставьте\nлегионы сами",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "424A",
+        "before": "00079c0a"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C66",
+    "ja": "補給ｦ",
+    "ru": "пополняет запасы",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "5B78",
+        "before": "00079c66"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C6C",
+    "ja": "狩猟ｦ",
+    "ru": "охотится",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "5B70",
+        "before": "00079c6c"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C78",
+    "ja": "第",
+    "ru": "Легион ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "5B2A",
+        "before": "00079c78"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C7C",
+    "ja": "金･食糧ｦ",
+    "ru": "золото и припасы",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14CD4",
+        "before": "00079c7c"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C8E",
+    "ja": "敵軍ｶﾞ",
+    "ru": "Враг грабит:\n",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "5CCA",
+        "before": "00079c8e"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C96",
+    "ja": "調達ｼﾏｼﾀ",
+    "ru": "\nдобыты.",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "5C9A",
+        "before": "00079c96"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CA8",
+    "ja": "第",
+    "ru": "Легион ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "5C52",
+        "before": "00079ca8"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CAC",
+    "ja": "退却",
+    "ru": "отход",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14D0C",
+        "before": "00079cac"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CB2",
+    "ja": "補給",
+    "ru": "снабжение",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14D08",
+        "before": "00079cb2"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CB8",
+    "ja": "伏兵",
+    "ru": "засада",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14D04",
+        "before": "00079cb8"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CC4",
+    "ja": "追撃",
+    "ru": "погоня",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14CFC",
+        "before": "00079cc4"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CCA",
+    "ja": "占拠",
+    "ru": "захват",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14CF8",
+        "before": "00079cca"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CD6",
+    "ja": "ｺｺ%sﾊﾃﾞｷﾏｾﾝ",
+    "ru": "%s:\nздесь нельзя",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "685A",
+        "before": "00079cd6"
+      }
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CE2",
+    "ja": "ｶﾗ退却",
+    "ru": "Откуда отступать",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14D20",
+        "before": "00079ce2"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CEA",
+    "ja": "ﾃﾞ補給",
+    "ru": "Где пополнить запасы",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14D1C",
+        "before": "00079cea"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CF2",
+    "ja": "ﾆ伏兵",
+    "ru": "Где ждать в засаде",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14D18",
+        "before": "00079cf2"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CF8",
+    "ja": "COMAND",
+    "ru": "Куда направить",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14D14",
+        "before": "00079cf8"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13D00",
+    "ja": "ﾆ行軍",
+    "ru": "Куда пойти",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14D10",
+        "before": "00079d00"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13D40",
+    "ja": "遊撃ｻｾﾃ",
+    "ru": "Начать рейд?",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "6C2C",
+        "before": "00079d40"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13D48",
+    "ja": "全ﾃｦ委任ｼﾃ",
+    "ru": "Передать командование",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "6CF8",
+        "before": "00079d48"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13D84",
+    "ja": "軍団",
+    "ru": "легион",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "6E6A",
+        "before": "00079d84"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13FCC",
+    "ja": "ﾊ停戦交渉ｦ拒否ｼﾏｼﾀ",
+    "ru": "\nотверг перемирие.",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "7E20",
+        "before": "00079fcc"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "140C4",
+    "ja": "%s司令官",
+    "ru": "%s командир",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "8682",
+        "before": "0007a0c4"
+      }
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "140F4",
+    "ja": "軍団",
+    "ru": "Легион",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "14E3C",
+        "before": "0007a0f4"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "1417C",
+    "ja": "軍団",
+    "ru": "Легион",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "9DC2",
+        "before": "0007a17c"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14198",
+    "ja": "甚大ﾅ\n",
+    "ru": "тяжёлые ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "A07A",
+        "before": "0007a198"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "141A8",
+    "ja": "\n第",
+    "ru": "\nЛегион ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "A040",
+        "before": "0007a1a8"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "142AC",
+    "ja": "混乱ｶﾗ回復",
+    "ru": "пришёл в себя",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "CC9A",
+        "before": "0007a2ac"
+      }
+    ],
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "142B8",
+    "ja": "%sﾊ陣頭ﾆ立ﾁﾏｼﾀ",
+    "ru": "%s\nведёт войска.",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "CD1A",
+        "before": "0007a2b8"
+      }
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "144AE",
+    "ja": "%sｶﾞ\n戦死ｼﾏｼﾀ",
+    "ru": "%s\nпогиб в бою.",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "1095E",
+        "before": "0007a4ae"
+      }
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13AFA",
+    "ja": "回",
+    "ru": "раз",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "1ADE",
+        "before": "00079afa"
+      }
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13BB0",
+    "ja": "ﾊ",
+    "ru": ",",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "2AB4",
+        "before": "00079bb0"
+      }
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13E9C",
+    "ja": "ﾊ",
+    "ru": ",\n",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "7A38",
+        "before": "00079e9c"
+      }
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14158",
+    "ja": "第%d国:%s",
+    "ru": "Земля %d:\n%s",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "8C64",
+        "before": "0007a158"
+      }
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "143B8",
+    "ja": "%3d才",
+    "ru": "%3d лет",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true,
+    "references": [
+      {
+        "file": "HEX.PRG;1",
+        "offset": "F580",
+        "before": "0007a3b8"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4AF4E",
+    "ja": "様\nｺﾞ命令ｦ",
+    "ru": ",\nВаш приказ?",
+    "kind": "dialogue_fragment",
+    "native_stream": true,
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "A944",
+        "before": "00056f4e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CA46",
+    "ja": "将軍候補ﾉｵ子様ﾊ\nｲﾗｯｼｬｲﾏｾﾝ",
+    "ru": "Нет детей,\nготовых командовать.",
+    "kind": "dialogue_fragment",
+    "native_stream": true,
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "17AB4",
+        "before": "00058a46"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CD60",
+    "ja": "何ｦ\n移動ｽﾙﾉﾃﾞｽｶ",
+    "ru": "Что переместить?",
+    "kind": "dialogue_fragment",
+    "native_stream": true,
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "193FC",
+        "before": "00058d60"
+      }
+    ]
   }
 ]

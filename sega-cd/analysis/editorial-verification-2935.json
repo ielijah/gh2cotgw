@@ -1,0 +1,17 @@
+{
+  "translated_fields": 2935,
+  "new_translated_fields": 0,
+  "revised_fields": 31,
+  "changes": "editorial-wave-2935.json",
+  "iso_sha256": "259705f4eeef741ab52ac1ba62aebbe30952a90584a4163add6fa24ca7a75e73",
+  "checks": [
+    "build.py: original field capacity and line limits, IPS replay",
+    "test_text_encoding.py",
+    "test_event_composition.py",
+    "test_personnel_hints.py",
+    "test_late_fields.py"
+  ],
+  "emulator_run": false,
+  "audit": "Compared candidate ranges against both in-place translations and relocated source ranges; searched unchanged absolute pointers. Remaining pointer candidates include executable bytes, keyboard lookup tables and generator inputs translated at output. The candidate list is not a count of untranslated text.",
+  "limits": "No exhaustive graphics or runtime path coverage; no claim of full completion."
+}

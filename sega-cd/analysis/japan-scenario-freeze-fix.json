@@ -1,0 +1,15 @@
+{
+  "issue": "Japan 1180 scenario freezes after final setup confirmation",
+  "reproduced_from_cold_boot": true,
+  "root_cause": "Native resource-gift report at CPU 0x19160 used 20-byte local buffer; translated prefix, decimal quantity and relocated suffix overwrote saved A6 and return PC. Observed invalid return 0xF063F673, followed by Sub-CPU BIOS checksum loop.",
+  "fix": "Expanded resource-gift report to 128 bytes; related resource report to 126 usable bytes with corrected saved A2/A3 offset.",
+  "iso_sha256": "80a535d80080bfd8967147c9342981dd2abc51d80f7f3efe6d8b77f35abf940e",
+  "validation": [
+    "Cold boot Genesis Plus GX: Genpei 1180, Fujiwara Oshu, complete setup, first AI actions completed, player command menu reacts to C.",
+    "18 native CPU report cases: long Cyrillic strings, numeric limits, return address, arguments, stack and saved-register guards.",
+    "5500 generated-name cases and existing catalogue, keyboard and music-title CPU regressions passed.",
+    "verify.py passed including both playable package hashes and approved audio."
+  ],
+  "screenshot": "qa-japan-menu-responsive.png",
+  "no_harem_traversal": true
+}

@@ -24,7 +24,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "280E4",
     "ja": "ﾓｳ少ｼｺﾞ成長ﾅｻｯﾃ\nｶﾗﾉ方ｶﾞﾖﾛｼｲｶﾄ…",
-    "ru": "Пусть\nсперва подрастёт",
+    "ru": "Пусть ещё\nнемного подрастёт.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -52,7 +52,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2816C",
     "ja": "ﾀﾏﾆﾊ休養ﾓﾖｲﾓﾉ\nﾃﾞｽﾅ ﾜｯﾊｯﾊｯﾊ",
-    "ru": "Отдых\nтоже полезен",
+    "ru": "Отдых полезен.\nХа-ха-ха!",
     "kind": "gameplay_dialogue"
   },
   {
@@ -73,7 +73,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "281DE",
     "ja": "ﾏﾂﾘｺﾞﾄﾊ私ﾒﾉ\n専門ﾆｺﾞｻﾞｲﾏｽ",
-    "ru": "Я сведущ\nв управлении",
+    "ru": "Я знаток\nуправления.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -94,7 +94,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "28240",
     "ja": "私ﾓｺﾚﾃﾞ骨休ﾒｶﾞ\nﾃﾞｷﾙﾄｲｳﾓﾉﾃﾞｽ",
-    "ru": "Теперь можно\nотдыхать",
+    "ru": "Теперь и я\nсмогу отдохнуть.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -164,14 +164,14 @@
     "file": "SMAIN.PRG;1",
     "offset": "28386",
     "ja": "ｺﾉ日ｶﾞ来ﾙｺﾄｦ\n待ﾁ望ﾝﾃﾞｵﾘﾏｼﾀ",
-    "ru": "Я долго\nждал этого дня",
+    "ru": "Как я ждал\nэтого дня!",
     "kind": "gameplay_dialogue"
   },
   {
     "file": "SMAIN.PRG;1",
     "offset": "283A2",
     "ja": "私ﾓﾔｯﾄ一人前ﾆ\nﾅｯﾀ思ｲｶﾞｲﾀｼﾏｽ",
-    "ru": "Теперь и я\nстал взрослым",
+    "ru": "Теперь я\nсовсем взрослый.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -192,7 +192,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2843A",
     "ja": "ｵ任ｾｸﾀﾞｻﾚ､決ｼﾃ\n不幸ﾅ思ｲﾊｻｾﾏｾﾇ",
-    "ru": "Верьте мне\nЯ её не обижу",
+    "ru": "Верьте мне.\nЯ её не обижу.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -283,7 +283,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "286EA",
     "ja": "輸送ﾃﾞｷﾙ国ﾊ\nﾄﾞｺﾆﾓｺﾞｻﾞｲﾏｾﾝ",
-    "ru": "Некуда\nотправить груз",
+    "ru": "Некуда\nотправить груз.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -353,7 +353,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2888C",
     "ja": "住民\u001bKﾓﾗﾙ\u001bHｶﾞ\nｻｶﾞｯﾃｼﾏｲﾏｼﾀｿﾞ",
-    "ru": "Дух народа\nупал",
+    "ru": "Народ стал\nменее доволен.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -409,7 +409,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2895E",
     "ja": "ｺﾚ以上､ｺﾉ品物ｦ\n売ﾙｺﾄﾊﾃﾞｷﾏｾﾝ",
-    "ru": "Продать больше\nнельзя",
+    "ru": "Больше продать\nневозможно.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -423,7 +423,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "289AA",
     "ja": "買ｳﾆﾊ金ｶﾞ少々\n足ﾘﾅｲﾖｳﾃﾞｽｶﾞ…",
-    "ru": "На покупку\nмало золота",
+    "ru": "Для покупки\nмало золота.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -588,7 +588,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2924E",
     "ja": "ｺﾁﾗﾆﾓ相応ﾉ\n考ｴｶﾞｺﾞｻﾞｲﾏｽｿﾞ",
-    "ru": "Мы примем\nответные меры",
+    "ru": "Мы примем\nответные меры!",
     "kind": "diplomacy_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -759,7 +759,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2952C",
     "ja": "ｿﾉ国ﾄﾊ既ﾆ最長ﾉ\n同盟ｶﾞｻﾚﾃｲﾏｽ",
-    "ru": "Союз уже\nнельзя продлить",
+    "ru": "Срок союза\nуже предельный.",
     "kind": "diplomacy_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -795,7 +795,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "29598",
     "ja": "貢物ｦ要求ﾃﾞｷﾙ国ﾄ\n隣接ｼﾃｵﾘﾏｾﾇ",
-    "ru": "Дань требовать\nне у кого",
+    "ru": "Дань требовать\nне у кого.",
     "kind": "diplomacy_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -930,7 +930,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2995E",
     "ja": "ｵ喜ﾋﾞｸﾀﾞｻｲ\n我ｶﾞ方ﾉ勝利ﾃﾞｽｿﾞ",
-    "ru": "Радуйтесь\nПобеда за нами",
+    "ru": "Радуйтесь!\nПобеда за нами!",
     "kind": "captives_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -957,7 +957,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "299AC",
     "ja": "私ｯﾃ､ﾅﾝﾃ不幸ﾅ\n星ﾉ下ﾆ生ﾏﾚﾃｷﾀﾉ…",
-    "ru": "Моя\nзвезда несчастливая",
+    "ru": "Я родилась\nна свою беду...",
     "kind": "captives_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -1227,7 +1227,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "27802",
     "ja": "ｺﾉﾜｼﾓﾄﾞｳﾔﾗ\n先ｶﾞ長ｸﾅｲﾖｳﾀﾞ",
-    "ru": "Мне недолго жить",
+    "ru": "Мне недолго жить.",
     "kind": "governance_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -1245,7 +1245,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2787C",
     "ja": "ｿﾚﾃﾞﾊ将軍ﾉ中ｶﾗ\nｵ選ﾋﾞｸﾀﾞｻｲ",
-    "ru": "Выберите\nиз генералов",
+    "ru": "Выберите\nиз генералов.",
     "kind": "governance_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -1254,7 +1254,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "27944",
     "ja": "ｵ体ﾉ具合ｲｶﾞ\nﾖﾛｼｸﾅｯﾀﾖｳﾃﾞｽﾅ",
-    "ru": "Вам стало\nлучше",
+    "ru": "Вам уже\nлучше, верно?",
     "kind": "governance_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -1263,7 +1263,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2795E",
     "ja": "ｵｶｹﾞ様ﾃﾞ\n体ﾉ調子ｶﾞﾖｸﾅﾘﾏｼﾀ",
-    "ru": "Спасибо\nМне стало лучше",
+    "ru": "Спасибо.\nМне стало лучше.",
     "kind": "governance_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -1362,7 +1362,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2704C",
     "ja": "ｲｯﾀｲﾄﾞﾅﾀｶﾞ跡目ｦ\nｵ継ｷﾞﾆﾅﾗﾚﾙﾉｶ…",
-    "ru": "Кто станет\nнаследником?",
+    "ru": "Кто же станет\nнаследником?..",
     "kind": "governance_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -1380,7 +1380,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "27834",
     "ja": "年ﾉｾｲｶ､近頃ﾊ\n体ｶﾞ思ｳﾖｳﾆ動ｶﾇ",
-    "ru": "Старею\nТело не слушается",
+    "ru": "Старею.\nТело не слушается.",
     "kind": "governance_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -1443,7 +1443,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "27ACE",
     "ja": "ﾓｯﾀｲﾌﾞﾗｽﾞﾆ\n早ｸ秘薬ｦ出ｼﾃｸﾚ",
-    "ru": "Дай лекарство\nскорее!",
+    "ru": "Скорей давай\nлекарство!",
     "kind": "policy_and_advice_dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -2325,19 +2325,21 @@
     "file": "HEX.PRG;1",
     "offset": "13BB2",
     "ja": "軍団ｦ配置ｼﾃ下ｻｲ",
-    "ru": "Расставьте",
+    "ru": ": расставьте",
     "kind": "battle_dialogue",
     "max_columns": 22,
-    "max_lines": 2
+    "max_lines": 2,
+    "native_stream": true
   },
   {
     "file": "HEX.PRG;1",
     "offset": "13BF0",
     "ja": "軍団ｦ配置ｼﾃ下ｻｲ",
-    "ru": "Расставьте",
+    "ru": ": расставьте",
     "kind": "battle_dialogue",
     "max_columns": 22,
-    "max_lines": 2
+    "max_lines": 2,
+    "native_stream": true
   },
   {
     "file": "HEX.PRG;1",
@@ -13972,7 +13974,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4C5D8",
     "ja": "ｺﾞ覧ﾉ命令書ﾆ\n何ｶｺﾞ不満ﾊｱﾘﾏｽｶ",
-    "ru": "Чем плох этот приказ?",
+    "ru": "Вас не устраивает\nприказ?",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -14044,7 +14046,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4C77E",
     "ja": "部隊ﾉ移動ｦ\nﾄﾞﾚﾀﾞｹｵ望ﾐﾃﾞｽｶﾅ",
-    "ru": "Сколько войск\nпослать?",
+    "ru": "Сколько войск\nперевести?",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -14179,7 +14181,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4CCF2",
     "ja": "部隊ｦﾄﾞﾚﾀﾞｹ\n移動ｻｾﾙﾉﾃﾞｽｶﾅ",
-    "ru": "Сколько войск\nпослать?",
+    "ru": "Сколько войск\nперевести?",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -14197,7 +14199,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4CDEE",
     "ja": "ﾄﾞﾉ部隊ｦ\n解雇ﾅｻｲﾏｽｶ          ",
-    "ru": "Какие войска\nуволить?",
+    "ru": "Какие войска\nраспустить?",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -14224,7 +14226,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4D43E",
     "ja": "ｿﾚﾃﾞﾊﾄﾞﾉ将軍ﾆ\n指揮権ｦ委ﾈﾏｽｶ",
-    "ru": "Кому доверить\nвойско?",
+    "ru": "Какому генералу\nпоручить?",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -14287,7 +14289,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4B6B2",
     "ja": "ｲｯﾀｲﾄﾞﾅﾀｶﾞ跡目ｦ\nｵ継ｷﾞﾆﾅﾗﾚﾙﾉｶ",
-    "ru": "Кто станет\nнаследником?",
+    "ru": "Кто же станет\nнаследником?",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -14674,7 +14676,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4C558",
     "ja": "ﾄﾞﾉ国ﾉ命令書ｦ\n修正ﾅｻﾙﾉﾃﾞｽｶﾅ",
-    "ru": "Чей приказ исправим?",
+    "ru": "Чей приказ\nисправить?",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -14692,7 +14694,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4C7F0",
     "ja": "脅迫ｻｾﾏｽｶｿﾚﾄﾓ\n貢物ｦ要求ｻｾﾏｽｶ",
-    "ru": "Угроза\nили дань?",
+    "ru": "Угроза\nили требование дани?",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -21267,7 +21269,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4AF5A",
     "ja": "命令ｦｽﾍﾞﾃ\n終了ｼﾃ",
-    "ru": "Конец приказов",
+    "ru": "Завершить ход\n",
     "kind": "dialogue_fragment",
     "max_columns": 22,
     "max_lines": 2
@@ -21290,5 +21292,586 @@
     "native_stream": true,
     "max_columns": 4,
     "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2702C",
+    "ja": "様ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "\nВерно?",
+    "kind": "gameplay_dialogue",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2848E",
+    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "\nВерно?",
+    "kind": "gameplay_dialogue",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "29788",
+    "ja": "殿ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "\nВерно?",
+    "kind": "gameplay_dialogue",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "150A8",
+    "ja": "ﾃﾞ\nﾖﾛｼｲﾃﾞｽｶ",
+    "ru": "\nВерно?",
+    "kind": "scenario_confirmation",
+    "max_columns": 22,
+    "max_lines": 2
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13ABC",
+    "ja": "ﾏｽｶ",
+    "ru": "?",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13AEC",
+    "ja": "様､",
+    "ru": ",",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13B42",
+    "ja": "ｵﾉﾚ",
+    "ru": "!",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13B8A",
+    "ja": "様､\n",
+    "ru": ",\n",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13BC2",
+    "ja": "攻撃側第",
+    "ru": "Атака ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C00",
+    "ja": "守備側第",
+    "ru": "Защита ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C60",
+    "ja": "ｼﾃｲﾏｽ",
+    "ru": ".",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C72",
+    "ja": "軍団ﾊ",
+    "ru": ":\n",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C86",
+    "ja": "奪ｯﾃｲﾏｽ",
+    "ru": ".",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CA0",
+    "ja": "軍団ｶﾞ",
+    "ru": ":\n",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CBE",
+    "ja": "遊撃",
+    "ru": "рейд",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13CD0",
+    "ja": "行軍",
+    "ru": "марш",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13D06",
+    "ja": "ｻｾﾏｽｶ",
+    "ru": "?",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13D0C",
+    "ja": "ﾄﾞｺ",
+    "ru": "",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "1402C",
+    "ja": "精鋭",
+    "ru": "Элит",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14032",
+    "ja": "優秀",
+    "ru": "Отл",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14038",
+    "ja": "良好",
+    "ru": "Хор",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "1403E",
+    "ja": "通常",
+    "ru": "Сред",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14044",
+    "ja": "劣悪",
+    "ru": "Плох",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "140EE",
+    "ja": "人物",
+    "ru": "Воин",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14118",
+    "ja": "ﾄﾞﾁﾗﾉ%sｦ見ﾏｽｶ",
+    "ru": "Показать %s?",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14188",
+    "ja": "被害ｶﾞ発生ｼﾏｼﾀ",
+    "ru": "потери.",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "141A0",
+    "ja": "軍団ﾆ\n",
+    "ru": ":\n",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14264",
+    "ja": "様､",
+    "ru": ",",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14278",
+    "ja": "様､\n",
+    "ru": ",\n",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14294",
+    "ja": "%s軍\n第%d部隊ｶﾞ\n%sｼﾏｼﾀ",
+    "ru": "%s:\nюнит %d\n%s.",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "1445A",
+    "ja": "ﾄﾞﾁﾗﾉ%sｦ見ﾏｽｶ",
+    "ru": "Показать %s?",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14492",
+    "ja": "%sｶﾞ\n負傷ｼ､体力ｶﾞ\n%dﾆﾅﾘﾏｼﾀ",
+    "ru": "%s ранен.\nЗдоровье: %d",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13B5C",
+    "ja": "第",
+    "ru": " ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13B86",
+    "ja": "第",
+    "ru": " ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13C34",
+    "ja": "第",
+    "ru": " ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13D8A",
+    "ja": "第",
+    "ru": " ",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13F60",
+    "ja": "ﾆ投降ｼﾏｼﾀ",
+    "ru": ".",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13F6A",
+    "ja": "ﾊ",
+    "ru": "\n",
+    "kind": "battle_dialogue",
+    "max_columns": 22,
+    "max_lines": 4
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D8F8",
+    "ja": "\u001bKｼｷﾞ･ｸﾄｸ\u001bH",
+    "ru": "Шиги-Хутуг",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F2E0",
+    "ja": "完顔福興",
+    "ru": "Ваньянь Фусин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F876",
+    "ja": "\u001bKｱﾙﾌｫﾝｿ8世\u001bH",
+    "ru": "Альфонс VIII",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 1,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2FA4A",
+    "ja": "\u001bKｼﾞｭﾊﾞｲﾙ\u001bH",
+    "ru": "Ибн Джубайр",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2FA64",
+    "ja": "\u001bKｱﾙ･ｱｼｰﾙ\u001bH",
+    "ru": "Ибн аль-Асир",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31C6C",
+    "ja": "文天祥",
+    "ru": "Вэнь Тяньсян",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31D56",
+    "ja": "\u001bKｱﾐﾙ･ﾎｽﾛｰ\u001bH",
+    "ru": "Амир Хосров",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 2,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33828",
+    "ja": "完顔福興",
+    "ru": "Ваньянь Фусин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33B82",
+    "ja": "\u001bKﾌﾟﾘﾄﾋﾞﾗｰｼﾞｬ\u001bH",
+    "ru": "Притхвирадж",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33F92",
+    "ja": "\u001bKｼﾞｭﾊﾞｲﾙ\u001bH",
+    "ru": "Ибн Джубайр",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33FAC",
+    "ja": "\u001bKｱﾙ･ｱｼｰﾙ\u001bH",
+    "ru": "Ибн аль-Асир",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CD0E",
+    "ja": "侍従",
+    "ru": "Дзидзю",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CD3A",
+    "ja": "静御前",
+    "ru": "Сидзука",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8,
+    "name_capacity": 14
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13A1C",
+    "ja": "武    士",
+    "ru": "Самураи",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4EEC",
+    "ja": "ﾃﾞ",
+    "ru": "",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "150F2",
+    "ja": "\u001bKﾃﾞ-ﾀ\u001bHｶﾞ\n\u001bKｾｰﾌﾞ\u001bHｻﾚﾃｵﾘﾏｾﾝ",
+    "ru": "Нет сохранённых\nданных",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CF3E",
+    "ja": "ﾄﾞﾉ交易商人ﾆ\nｲﾀｼﾏｽｶ(    )",
+    "ru": "Какой купец?\n(    )",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4D62A",
+    "ja": "\u001bKｸﾞﾜｱｱｱｱｧ…\u001bH",
+    "ru": "А-а-а-а!",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4438",
+    "ja": "ｵｫ",
+    "ru": "! ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4446",
+    "ja": "ｶﾞ",
+    "ru": ": ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
   }
 ]

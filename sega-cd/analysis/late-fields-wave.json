@@ -1,0 +1,264 @@
+[
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2D8F8",
+    "ja": "\u001bKｼｷﾞ･ｸﾄｸ\u001bH",
+    "ru": "Шиги-Хутуг",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F2E0",
+    "ja": "完顔福興",
+    "ru": "Ваньянь Фусин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2F876",
+    "ja": "\u001bKｱﾙﾌｫﾝｿ8世\u001bH",
+    "ru": "Альфонс VIII",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 1,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2FA4A",
+    "ja": "\u001bKｼﾞｭﾊﾞｲﾙ\u001bH",
+    "ru": "Ибн Джубайр",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2FA64",
+    "ja": "\u001bKｱﾙ･ｱｼｰﾙ\u001bH",
+    "ru": "Ибн аль-Асир",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31C6C",
+    "ja": "文天祥",
+    "ru": "Вэнь Тяньсян",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "31D56",
+    "ja": "\u001bKｱﾐﾙ･ﾎｽﾛｰ\u001bH",
+    "ru": "Амир Хосров",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 2,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33828",
+    "ja": "完顔福興",
+    "ru": "Ваньянь Фусин",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 6,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33B82",
+    "ja": "\u001bKﾌﾟﾘﾄﾋﾞﾗｰｼﾞｬ\u001bH",
+    "ru": "Притхвирадж",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33F92",
+    "ja": "\u001bKｼﾞｭﾊﾞｲﾙ\u001bH",
+    "ru": "Ибн Джубайр",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "33FAC",
+    "ja": "\u001bKｱﾙ･ｱｼｰﾙ\u001bH",
+    "ru": "Ибн аль-Асир",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 3,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CD0E",
+    "ja": "侍従",
+    "ru": "Дзидзю",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 10,
+    "name_capacity": 14
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2CD3A",
+    "ja": "静御前",
+    "ru": "Сидзука",
+    "kind": "person_name",
+    "max_columns": 14,
+    "max_lines": 1,
+    "original_padding_bytes": 8,
+    "name_capacity": 14
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13A1C",
+    "ja": "武    士",
+    "ru": "Самураи",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4EEC",
+    "ja": "ﾃﾞ",
+    "ru": "",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "150F2",
+    "ja": "\u001bKﾃﾞ-ﾀ\u001bHｶﾞ\n\u001bKｾｰﾌﾞ\u001bHｻﾚﾃｵﾘﾏｾﾝ",
+    "ru": "Нет сохранённых\nданных",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CF3E",
+    "ja": "ﾄﾞﾉ交易商人ﾆ\nｲﾀｼﾏｽｶ(    )",
+    "ru": "Какой купец?\n(    )",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4D62A",
+    "ja": "\u001bKｸﾞﾜｱｱｱｱｧ…\u001bH",
+    "ru": "А-а-а-а!",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4438",
+    "ja": "ｵｫ",
+    "ru": "! ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4446",
+    "ja": "ｶﾞ",
+    "ru": ": ",
+    "kind": "dialogue_fragment",
+    "max_columns": 22,
+    "max_lines": 4,
+    "native_stream": true
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4AF4E",
+    "ja": "様\nｺﾞ命令ｦ",
+    "ru": ",\nВаш приказ?",
+    "kind": "dialogue_fragment",
+    "native_stream": true,
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "A944",
+        "before": "00056f4e"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CA46",
+    "ja": "将軍候補ﾉｵ子様ﾊ\nｲﾗｯｼｬｲﾏｾﾝ",
+    "ru": "Нет детей,\nготовых командовать.",
+    "kind": "dialogue_fragment",
+    "native_stream": true,
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "17AB4",
+        "before": "00058a46"
+      }
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CD60",
+    "ja": "何ｦ\n移動ｽﾙﾉﾃﾞｽｶ",
+    "ru": "Что переместить?",
+    "kind": "dialogue_fragment",
+    "native_stream": true,
+    "max_columns": 22,
+    "max_lines": 4,
+    "references": [
+      {
+        "file": "SMAIN.PRG;1",
+        "offset": "193FC",
+        "before": "00058d60"
+      }
+    ]
+  }
+]

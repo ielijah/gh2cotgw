@@ -1,6 +1,7 @@
 """Expanded city/season tables used by unification chronicles and scenario summaries."""
 import struct
 BANKS=[
+ ('missions',12,['Поход','Переход','Доставка']),
  ('cities',16,['Хираидзуми','Кисо','Фукухара','Камакура']),
  ('seasons',12,['Весна','Лето','Осень','Зима']),
  ('shogunates',24,['Сёгунат Камакура','Сёгунат Фукухара','Сёгунат Кисо','Сёгунат Хираидзуми']),
@@ -24,7 +25,9 @@ def allocate(reserve,put,pairs):
 def patches(data):
  banks={x['name']:x['offset']+0xc000 for x in data['banks']}
  def ptr(value):return struct.pack('>I',value).hex()
- result=[('SMAIN.PRG;1',0x15564,'c0fc0003','c0fc000c'),
+ result=[('SMAIN.PRG;1',0x199d4,'c0fc0005','c0fc000c'),
+ ('SMAIN.PRG;1',0x199da,'00058e4a',ptr(banks['missions'])),
+ ('SMAIN.PRG;1',0x15564,'c0fc0003','c0fc000c'),
  ('SMAIN.PRG;1',0x1556a,'0005832a',ptr(banks['seasons'])),
  ('SMAIN.PRG;1',0x155b0,'c0fc0005','c0fc0010'),
  ('SMAIN.PRG;1',0x155b6,'00058316',ptr(banks['cities'])),

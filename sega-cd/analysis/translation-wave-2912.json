@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-09",
+  "translated_fields": 2912,
+  "new_battle_fields": 72,
+  "relocated_fields": 414,
+  "reviewed_battle_pool": [
+    "HEX.PRG;1",
+    "13ABC",
+    "144D0"
+  ],
+  "remaining_in_reviewed_pool": [],
+  "generator_original_components": 341,
+  "generator_dictionary_tokens": 413,
+  "iso_sha256": "22d2cdc228c67ccdb5973fcb1ed885d7d54813b9e6626ce31d1f39e40d1edc08",
+  "cpu_checks": [
+    "72 native format cases, actual substitutions, shared legion/resource/destination composition, end-turn confirmation and surrender helper",
+    "5500 name/dictionary cases and 120 scenario/culture country-generator calls",
+    "18 stack-buffer regressions",
+    "Catalogue, keyboard, music and text-encoding checks"
+  ],
+  "emulator_checks": [
+    "Cold boot Japan 1180, first AI turns complete",
+    "End-turn prompt displays on separate lines",
+    "Attack preparation, auto formation, money/food selection, entry to battlefield",
+    "Deployment caption: Атака 1: расставьте"
+  ],
+  "screenshots": [
+    "qa-battle-wave-endturn.png",
+    "qa-battle-wave-deployment.png"
+  ],
+  "verification": "verify.py passed; both 90-track packages match; approved audio unchanged",
+  "limitations": [
+    "This closes the reviewed battle text pool, not a proof of complete translation across all game resources.",
+    "Generated names retain the native 14-byte output bound; long names can be shortened.",
+    "Not every battle outcome was reproduced visually; all new format strings were executed in the CPU test."
+  ],
+  "harem_tested": false,
+  "mega_drive_built": false,
+  "git_pushed": false
+}

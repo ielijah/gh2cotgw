@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-10",
+  "iso_sha256": "3e19544b2c2754e8c17a587ac4e8b6786043aa8f5dd5311b7248496cb56cbb88",
+  "fix": {
+    "helper": 228208,
+    "size": 78,
+    "columns": 10,
+    "card_frame": 230704,
+    "card_columns": 16,
+    "card_width": 18,
+    "card_rows": 4,
+    "card_glyph_tiles": 32
+  },
+  "cause": [
+    "10-cell gold frame",
+    "20-tile cyclic header pool overwrote first glyphs for longer names"
+  ],
+  "verification": {
+    "emulator": [
+      "Alexei III, cold boot and normal biography navigation",
+      "Amir Khusrow, same running build, normal navigation"
+    ],
+    "cpu": [
+      "453 names, maximum 14 display cells",
+      "16-cell all-pair stress case",
+      "header and body tile allocations do not overlap"
+    ],
+    "screenshots": [
+      "qa-biocard-fixed-alexei.png",
+      "qa-biocard-fixed-amir.png"
+    ]
+  },
+  "smd_built": false,
+  "audio_changed": false
+}

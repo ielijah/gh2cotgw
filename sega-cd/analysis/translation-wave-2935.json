@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-09",
+  "translated_fields": 2935,
+  "new_fields": 23,
+  "new_scenario_name_occurrences": 13,
+  "new_messages_and_labels": 10,
+  "expanded_mission_labels": [
+    "Поход",
+    "Переход",
+    "Доставка"
+  ],
+  "relocated_fields": 417,
+  "changes": "late-fields-wave.json",
+  "iso_sha256": "37f69c55207001007adb6578593d04df0772b46c6bc0783afa2533d36a815808",
+  "checks_passed": [
+    "test_late_fields.py",
+    "test_battle_text_cpu.py",
+    "test_chronicle_composition.py",
+    "test_generated_names_cpu.py",
+    "test_dialogue_buffers_cpu.py",
+    "test_catalog_cpu.py",
+    "test_text_encoding.py",
+    "verify.py"
+  ],
+  "emulator_checks": [
+    "Cold boot Japan 1180 reaches map/menu",
+    "Continue without usable saved data displays existing Запись недоступна error; newly translated alternate no-data message not visually exercised"
+  ],
+  "screenshots": [
+    "qa-late-fields-japan.png"
+  ],
+  "packaging": "Both 90-track packages verified; approved audio unchanged",
+  "limitations": [
+    "Not every new event was reproduced in the emulator.",
+    "Referenced text-pool review is not proof that every graphic and runtime message is translated.",
+    "Generated names retain native 14-byte bound."
+  ]
+}

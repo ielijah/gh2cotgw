@@ -1,6 +1,6 @@
 """Experimental, size-preserving SEGA CD patch. Source images remain local."""
 from pathlib import Path
-import hashlib, json, struct, re, sys
+import hashlib, json, struct, re, sys, os
 sys.path.insert(0,str(Path(__file__).resolve().parent))
 from apply_buttons import apply as apply_buttons
 
@@ -77,8 +77,9 @@ native_pair = lambda pair: all(ch in '0123456789/ ?,CIVX-!.:;()' for ch in pair)
 prompt = json.loads((ROOT/'translation/start-menu-prompt.json').read_text('utf8'))
 relocated = json.loads((ROOT/'translation/relocated-text.json').read_text('utf8'))
 from chronicle_tables import TEXTS as CHRONICLE_TEXTS, apply as apply_chronicle_tables
+from battle_text import TEXTS as BATTLE_TEXTS, apply as apply_battle_text
 pairs = []
-for entry in translations + [prompt] + relocated + CHRONICLE_TEXTS:
+for entry in translations + [prompt] + relocated + CHRONICLE_TEXTS + BATTLE_TEXTS:
     formatted=entry.get('native_decimal_format',False)
     if entry.get('native_stream'):
         oldstream=re.sub(r'\x1b[KH]','',entry['ja'])
@@ -93,6 +94,9 @@ for entry in translations + [prompt] + relocated + CHRONICLE_TEXTS:
         if kind=='pair':
             assert all(ch in letter_rows for ch in value),value
             if value not in pairs:pairs.append(value)
+from generated_names_data import required_pairs
+for pair in required_pairs():
+    if not native_pair(pair) and pair not in pairs:pairs.append(pair)
 from text_compositor import install
 compositor, pair_codes = install(main, codes, unused, pairs, letter_rows, prompt['ru'], relocated)
 replaced = []
@@ -152,6 +156,10 @@ from menu_frame import apply as apply_menu_frame
 menu_frame=apply_menu_frame(image,source,files,compositor['start_prompt']['offset'])
 from opening_text import apply as apply_opening
 opening_text=apply_opening(image,source,files)
+from ending_graphics import apply as apply_ending_graphics
+ending_graphics=apply_ending_graphics(image,source,files)
+from title_graphics import apply as apply_title_graphics
+title_graphics=apply_title_graphics(image,source,files)
 buttons=apply_buttons(image,source,files)
 assert len(image)==len(source)
 # Encode and replay standard IPS. No source file is included in the patch.
@@ -161,6 +169,10 @@ from music_titles import apply as apply_music_titles
 apply_music_titles(image,source,files,compositor['music_titles'])
 from catalog_list import apply as apply_catalog_list
 apply_catalog_list(image,source,files,compositor['catalog_list'])
+
+from dialogue_buffers import apply as apply_dialogue_buffers
+dialogue_buffers=apply_dialogue_buffers(image,source,files)
+apply_battle_text(image,source,files,compositor['battle_text'])
 
 patch = bytearray(b'PATCH')
 pos = 0
@@ -183,17 +195,18 @@ report=dict(version='0.0.5-experimental', source_sha256=inventory['sha256'],
             iso_size=len(image), audio_tracks_modified=0, applied=applied, glyph_replacements=replaced,
             translated_field_count=len(applied)+len(relocated),
             paired_glyphs={pair:code.hex() for pair,code in pair_codes.items()},buttons=buttons,
-            text_compositor=compositor, catalog_graphics=catalog_graphics, catalog_index=catalog_index, menu_frame=menu_frame, opening_text=opening_text,
+            text_compositor=compositor, dialogue_buffers=dialogue_buffers, catalog_graphics=catalog_graphics, catalog_index=catalog_index, menu_frame=menu_frame, opening_text=opening_text, ending_graphics=ending_graphics, title_graphics=title_graphics,
             limitations=['8px glyphs packed in native 16px cells; UI width must be checked.',
                          'Compositor and font data occupy statically unused glyph cells; dynamic/resource usage not proven.',
                          'Partial interface and harem dialogue translation.'])
 (OUT/'manifest.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf8')
 print(f'PASS: IPS replay, fixed ISO size, {len(applied)+len(relocated)} fields ({len(relocated)} relocated), 66 source Cyrillic glyphs, {len(pairs)} pairs; CDDA unchanged')
 
-from package_disc import package
-package('japanese-audio')
-if all((OUT/f'audio-ru/track{n:02}-ru.wav').is_file() for n in range(2,80)):
-    package('dub')
-for old_name in ('genchou-hishi-ru-experimental.cue','genchou-hishi-ru-dub.cue'):
-    old=OUT/old_name
-    if old.exists(): old.replace(OUT/(old_name+'.disabled'))
+if os.getenv('GH2_SKIP_PACKAGES')!='1':
+    from package_disc import package
+    package('japanese-audio')
+    if all((OUT/f'audio-ru/track{n:02}-ru.wav').is_file() for n in range(2,80)):
+        package('dub')
+    for old_name in ('genchou-hishi-ru-experimental.cue','genchou-hishi-ru-dub.cue'):
+        old=OUT/old_name
+        if old.exists(): old.replace(OUT/(old_name+'.disabled'))

@@ -1,0 +1,900 @@
+[
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "5C68",
+    "ja": "Nｹ",
+    "references": [
+      "52"
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "6910",
+    "ja": "*ﾘ8ﾀ@ｬF廱訓tT`VLX88ﾘBﾄJｰR弖型vdbhLj8",
+    "references": [
+      "1EFA"
+    ]
+  },
+  {
+    "file": "ENDING.PRG;1",
+    "offset": "6922",
+    "ja": "8ﾘBﾄJｰR弖型vdbhLj8",
+    "references": [
+      "1F10"
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "13A1C",
+    "ja": "武    士",
+    "references": [
+      "145EE"
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14D44",
+    "ja": "ﾀﾁﾂﾃﾄﾅﾆ",
+    "references": [
+      "6D40"
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14D9C",
+    "ja": "ﾈﾉﾊ",
+    "references": [
+      "7ED8"
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14E58",
+    "ja": "ﾀﾀﾁﾂﾃﾄﾅ",
+    "references": [
+      "8EDA"
+    ]
+  },
+  {
+    "file": "HEX.PRG;1",
+    "offset": "14E60",
+    "ja": "ﾋﾌﾍｱ",
+    "references": [
+      "8F60"
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4B6A",
+    "ja": "Nｹ",
+    "references": [
+      "1ECC"
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4B9A",
+    "ja": "鎌倉",
+    "references": [
+      "298"
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4BA0",
+    "ja": "福原",
+    "references": [
+      "290"
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4BA6",
+    "ja": "木曾",
+    "references": [
+      "288"
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4BAC",
+    "ja": "平泉",
+    "references": [
+      "280"
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "4EEC",
+    "ja": "ﾃﾞ",
+    "references": [
+      "259C"
+    ]
+  },
+  {
+    "file": "INIT.PRG;1",
+    "offset": "150F2",
+    "ja": "\u001bKﾃﾞ-ﾀ\u001bHｶﾞ\n\u001bKｾｰﾌﾞ\u001bHｻﾚﾃｵﾘﾏｾﾝ",
+    "references": [
+      "1492"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275A2",
+    "ja": "ｳﾞ",
+    "references": [
+      "4BD4A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275A6",
+    "ja": "･",
+    "references": [
+      "4BD46"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275AA",
+    "ja": "ｰ",
+    "references": [
+      "4BD3E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275AC",
+    "ja": "ｯ",
+    "references": [
+      "4BD3A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275AE",
+    "ja": "ｮ",
+    "references": [
+      "4BD36"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275B2",
+    "ja": "ｭ",
+    "references": [
+      "4BD2E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275B6",
+    "ja": "ｬ",
+    "references": [
+      "4BD26"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275B8",
+    "ja": "ｫ",
+    "references": [
+      "4BD22"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275BA",
+    "ja": "ｪ",
+    "references": [
+      "4BD1E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275BC",
+    "ja": "ｩ",
+    "references": [
+      "4BD1A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275BE",
+    "ja": "ｨ",
+    "references": [
+      "4BD16"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275C0",
+    "ja": "ｧ",
+    "references": [
+      "4BD12"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275C2",
+    "ja": "ﾎﾟ",
+    "references": [
+      "4BD0E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275C6",
+    "ja": "ﾍﾟ",
+    "references": [
+      "4BD0A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275CA",
+    "ja": "ﾌﾟ",
+    "references": [
+      "4BD06"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275CE",
+    "ja": "ﾋﾟ",
+    "references": [
+      "4BD02"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275D2",
+    "ja": "ﾊﾟ",
+    "references": [
+      "4BCFE"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275D6",
+    "ja": "ﾎﾞ",
+    "references": [
+      "4BCFA"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275DA",
+    "ja": "ﾍﾞ",
+    "references": [
+      "4BCF6"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275DE",
+    "ja": "ﾌﾞ",
+    "references": [
+      "4BCF2"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275E2",
+    "ja": "ﾋﾞ",
+    "references": [
+      "4BCEE"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275E6",
+    "ja": "ﾊﾞ",
+    "references": [
+      "4BCEA"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275EA",
+    "ja": "ﾄﾞ",
+    "references": [
+      "4BCE6"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275EE",
+    "ja": "ﾃﾞ",
+    "references": [
+      "4BCE2"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275F2",
+    "ja": "ﾂﾞ",
+    "references": [
+      "4BCDE"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275F6",
+    "ja": "ﾁﾞ",
+    "references": [
+      "4BCDA"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275FA",
+    "ja": "ﾀﾞ",
+    "references": [
+      "4BCD6"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "275FE",
+    "ja": "ｿﾞ",
+    "references": [
+      "4BCD2"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27602",
+    "ja": "ｾﾞ",
+    "references": [
+      "4BCCE"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27606",
+    "ja": "ｽﾞ",
+    "references": [
+      "4BCCA"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2760A",
+    "ja": "ｼﾞ",
+    "references": [
+      "4BCC6"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2760E",
+    "ja": "ｻﾞ",
+    "references": [
+      "4BCC2"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27612",
+    "ja": "ｺﾞ",
+    "references": [
+      "4BCBE"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27616",
+    "ja": "ｹﾞ",
+    "references": [
+      "4BCBA"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2761A",
+    "ja": "ｸﾞ",
+    "references": [
+      "4BCB6"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2761E",
+    "ja": "ｷﾞ",
+    "references": [
+      "4BCB2"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27622",
+    "ja": "ｶﾞ",
+    "references": [
+      "4BCAE"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27626",
+    "ja": "ﾝ",
+    "references": [
+      "4BCAA"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2762A",
+    "ja": "ｦ",
+    "references": [
+      "4BCA2"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2762E",
+    "ja": "ﾜ",
+    "references": [
+      "4BC9A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27630",
+    "ja": "ﾛ",
+    "references": [
+      "4BC96"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27632",
+    "ja": "ﾚ",
+    "references": [
+      "4BC92"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27634",
+    "ja": "ﾙ",
+    "references": [
+      "4BC8E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27636",
+    "ja": "ﾘ",
+    "references": [
+      "4BC8A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27638",
+    "ja": "ﾗ",
+    "references": [
+      "4BC86"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2763A",
+    "ja": "ﾖ",
+    "references": [
+      "4BC82"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2763E",
+    "ja": "ﾕ",
+    "references": [
+      "4BC7A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27642",
+    "ja": "ﾔ",
+    "references": [
+      "4BC72"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27644",
+    "ja": "ﾓ",
+    "references": [
+      "4BC6E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27646",
+    "ja": "ﾒ",
+    "references": [
+      "4BC6A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27648",
+    "ja": "ﾑ",
+    "references": [
+      "4BC66"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2764A",
+    "ja": "ﾐ",
+    "references": [
+      "4BC62"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2764C",
+    "ja": "ﾏ",
+    "references": [
+      "4BC5E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2764E",
+    "ja": "ﾎ",
+    "references": [
+      "4BC5A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27650",
+    "ja": "ﾍ",
+    "references": [
+      "4BC56"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27652",
+    "ja": "ﾌ",
+    "references": [
+      "4BC52"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27654",
+    "ja": "ﾋ",
+    "references": [
+      "4BC4E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27656",
+    "ja": "ﾊ",
+    "references": [
+      "4BC4A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27658",
+    "ja": "ﾉ",
+    "references": [
+      "4BC46"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2765A",
+    "ja": "ﾈ",
+    "references": [
+      "4BC42"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2765C",
+    "ja": "ﾇ",
+    "references": [
+      "4BC3E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2765E",
+    "ja": "ﾆ",
+    "references": [
+      "4BC3A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27660",
+    "ja": "ﾅ",
+    "references": [
+      "4BC36"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27662",
+    "ja": "ﾄ",
+    "references": [
+      "4BC32"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27664",
+    "ja": "ﾃ",
+    "references": [
+      "4BC2E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27666",
+    "ja": "ﾂ",
+    "references": [
+      "4BC2A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27668",
+    "ja": "ﾁ",
+    "references": [
+      "4BC26"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2766A",
+    "ja": "ﾀ",
+    "references": [
+      "4BC22"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2766C",
+    "ja": "ｿ",
+    "references": [
+      "4BC1E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2766E",
+    "ja": "ｾ",
+    "references": [
+      "4BC1A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27670",
+    "ja": "ｽ",
+    "references": [
+      "4BC16"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27672",
+    "ja": "ｼ",
+    "references": [
+      "4BC12"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27674",
+    "ja": "ｻ",
+    "references": [
+      "4BC0E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27676",
+    "ja": "ｺ",
+    "references": [
+      "4BC0A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27678",
+    "ja": "ｹ",
+    "references": [
+      "4BC06"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2767A",
+    "ja": "ｸ",
+    "references": [
+      "4BC02"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2767C",
+    "ja": "ｷ",
+    "references": [
+      "4BBFE"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "2767E",
+    "ja": "ｶ",
+    "references": [
+      "4BBFA"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27680",
+    "ja": "ｵ",
+    "references": [
+      "4BBF6"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27682",
+    "ja": "ｴ",
+    "references": [
+      "4BBF2"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27684",
+    "ja": "ｳ",
+    "references": [
+      "4BBEE"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27686",
+    "ja": "ｲ",
+    "references": [
+      "4BBEA"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "27688",
+    "ja": "ｱ",
+    "references": [
+      "4BBE6"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4AF4E",
+    "ja": "様\nｺﾞ命令ｦ",
+    "references": [
+      "A944"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4B010",
+    "ja": "ﾝｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜｶｷｸｹｺｻｼｽｾｿﾀﾃﾄﾊﾋﾌﾍﾎｬｭｮｨｩ",
+    "references": [
+      "B632",
+      "B69A"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4BDEE",
+    "ja": "杏隠雲塩音願銀郡限魂残陣寸膳村談陳鶴電曇汝認濡粘農蛮敏聞鞭凡漫眠娘面門柳夕淀覧麟類錬論腕…亜以右叡甥下企九袈個佐仕諏世曾他値津亭兎奈二濡寧乃巴卑不兵保摩味務冥模也油予羅利瑠令呂倭々賈煕熹奎崔襄弩",
+    "references": [
+      "10DFE"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4BE48",
+    "ja": "亜以右叡甥下企九袈個佐仕諏世曾他値津亭兎奈二濡寧乃巴卑不兵保摩味務冥模也油予羅利瑠令呂倭々賈煕熹奎崔襄弩",
+    "references": [
+      "10E12"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4BEA2",
+    "ja": "賈煕熹奎崔襄弩",
+    "references": [
+      "10E26"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C316",
+    "ja": "平泉",
+    "references": [
+      "155B6"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4C32A",
+    "ja": "春",
+    "references": [
+      "1556A",
+      "155D4"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CA46",
+    "ja": "将軍候補ﾉｵ子様ﾊ\nｲﾗｯｼｬｲﾏｾﾝ",
+    "references": [
+      "17AB4"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CD60",
+    "ja": "何ｦ\n移動ｽﾙﾉﾃﾞｽｶ",
+    "references": [
+      "193FC"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CE4A",
+    "ja": "遠征",
+    "references": [
+      "199DA"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4CF3E",
+    "ja": "ﾄﾞﾉ交易商人ﾆ\nｲﾀｼﾏｽｶ(    )",
+    "references": [
+      "1A35E"
+    ]
+  },
+  {
+    "file": "SMAIN.PRG;1",
+    "offset": "4D62A",
+    "ja": "\u001bKｸﾞﾜｱｱｱｱｧ…\u001bH",
+    "references": [
+      "23A34"
+    ]
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4438",
+    "ja": "ｵｫ",
+    "references": [
+      "E96"
+    ]
+  },
+  {
+    "file": "XXX.PRG;1",
+    "offset": "4446",
+    "ja": "ｶﾞ",
+    "references": [
+      "2036"
+    ]
+  }
+]

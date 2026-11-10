@@ -47,10 +47,16 @@ for patch in single['patches']:
     assert source[a:a+len(bytes.fromhex(old))]==bytes.fromhex(old)
     assert image[a:a+len(bytes.fromhex(new))]==bytes.fromhex(new)
     allowed[a:a+len(bytes.fromhex(new))]=b'\1'*len(bytes.fromhex(new))
+from generated_names import patches as generated_patches
+for off,old,new in generated_patches(compositor['generated_names']):
+    before=bytes.fromhex(old);after=bytes.fromhex(new);a=base+off
+    assert source[a:a+len(before)]==before and image[a:a+len(after)]==after
+    allowed[a:a+len(after)]=b'\1'*len(after)
 from catalog_list import patches as catalog_list_patches
 from music_titles import patches as music_patches
 from chronicle_tables import patches as chronicle_patches
-for file,off,old,new in chronicle_patches(compositor['chronicle_tables'])+music_patches(compositor['music_titles'])+catalog_list_patches(compositor['catalog_list']):
+from battle_text import patches as battle_patches
+for file,off,old,new in battle_patches(compositor['battle_text'])+chronicle_patches(compositor['chronicle_tables'])+music_patches(compositor['music_titles'])+catalog_list_patches(compositor['catalog_list']):
     a=next(f['lba']*2048 for f in inventory['files'] if f['path']==file)+off
     before=bytes.fromhex(old);after=bytes.fromhex(new)
     assert source[a:a+len(before)]==before and image[a:a+len(after)]==after
@@ -65,7 +71,8 @@ for offset,before,after in MENU_PATCHES:
     assert image[start:start+length]==bytes.fromhex(after)
     allowed[start:start+length]=b'\1'*length
 from menu_frame import MAIN_PATCHES
-for offset,before,after in MAIN_PATCHES:
+from dialogue_buffers import PATCHES as REPORT_BUFFER_PATCHES
+for offset,before,after in MAIN_PATCHES + REPORT_BUFFER_PATCHES:
     start=base+offset;length=len(bytes.fromhex(before))
     assert source[start:start+length]==bytes.fromhex(before)
     assert image[start:start+length]==bytes.fromhex(after)
@@ -89,7 +96,10 @@ seen_refs=set()
 for entry in compositor.get('relocated_texts',[]):
     f=next(x for x in inventory['files'] if x['path']==entry['file'])
     origin=f['lba']*2048;off=int(entry['offset'],16)
-    if entry.get('kind')=='xxx_dialogue':
+    if entry.get('kind')=='battle_dialogue':
+        assert entry['file']=='HEX.PRG;1' and 0x13abc<=off<0x144d0
+        load=0x66000;low,high=0x14b00,0x14e80
+    elif entry.get('kind')=='xxx_dialogue':
         assert entry['file']=='XXX.PRG;1' and off in (0x443c,0x444a,0x4450,0x4456,0x445c)
         load=0x66000;low,high=(0xe8a,0xe8e) if off==0x443c else (0x47ea,0x47fa)
     elif entry.get('kind')=='catalog_group':
@@ -108,7 +118,7 @@ for entry in compositor.get('relocated_texts',[]):
         assert 0x4f00<=off<0x522a
         load=0x66000;low,high=0x16cc2,0x16f22
     elif entry.get('kind') in ('interface_label','dialogue_fragment'):
-        assert entry['file']=='SMAIN.PRG;1' and 0x26f40<=off<0x2b100
+        assert entry['file']=='SMAIN.PRG;1' and (0x26f40<=off<0x2b100 or off in (0x4af4e,0x4ca46,0x4cd60))
         load=0xc000;low,high=0x4b000,0x4da00
     elif entry.get('kind')=='season':
         assert entry['file']=='SMAIN.PRG;1' and off in (0x26522,0x26526,0x2652a,0x2652e)
@@ -119,12 +129,15 @@ for entry in compositor.get('relocated_texts',[]):
     old=entry['ja'].encode('shift_jis')+b'\0'
     assert source[origin+off:origin+off+len(old)]==old
     assert image[origin+off:origin+off+len(old)]==old
-    encoded=encode_prompt(entry['ru'],{k:bytes.fromhex(v) for k,v in manifest['paired_glyphs'].items()})+b'\0'
+    from text_encoding import encode_stream, stream_tokens
+    if entry.get('native_stream'): assert stream_tokens(entry['ja'])==stream_tokens(entry['ru'])
+    encoder=encode_stream if entry.get('native_stream') else encode_prompt
+    encoded=encoder(entry['ru'],{k:bytes.fromhex(v) for k,v in manifest['paired_glyphs'].items()})+b'\0'
     if entry.get('kind')=='music_title':
         assert len(entry['ru'].split('\n'))<=3 and all(len(line)<=12 for line in entry['ru'].split('\n'))
     elif entry.get('kind')=='ending_caption':
         assert len(entry['ru'])<=30 and '\n' not in entry['ru']
-    elif entry.get('kind') in ('dialogue_fragment','xxx_dialogue'):
+    elif entry.get('kind') in ('dialogue_fragment','xxx_dialogue','battle_dialogue'):
         assert len(entry['ru'].split('\n'))<=4 and all((len(x)+1)//2*2<=22 for x in entry['ru'].split('\n'))
     else: assert len(entry['ru'])<=10 and '\n' not in entry['ru']
     dest=entry['storage_offset']
@@ -134,7 +147,9 @@ for entry in compositor.get('relocated_texts',[]):
     for ref in entry['references']:
         ptr=int(ref['offset'],16)
         assert ref['file']==entry['file'] and ptr%2==0
-        if entry.get('kind') in ('interface_label','dialogue_fragment') and not low<=ptr<high:
+        if entry.get('kind')=='battle_dialogue' and not low<=ptr<high:
+            assert 0<=ptr<0x13abc and source[origin+ptr-2:origin+ptr]==bytes.fromhex('4879')
+        elif entry.get('kind') in ('interface_label','dialogue_fragment') and not low<=ptr<high:
             assert 0<=ptr<0x264fe and (source[origin+ptr-2:origin+ptr]==bytes.fromhex('4879') or (off,ptr)==(0x296c2,0x1f0f4) and source[origin+ptr-2:origin+ptr]==bytes.fromhex('207c'))
         else: assert low<=ptr<high
         address=origin+ptr
@@ -158,6 +173,21 @@ for e in catalog['labels']:
     assert hashlib.sha256(raw).hexdigest()==e['raw_sha256']
 for off,length in catalog['ranges']:allowed[catalog_base+off:catalog_base+off+length]=b'\1'*length
 assert image[catalog_base+0x30971c:catalog_base+0x309728]==source[catalog_base+0x30971c:catalog_base+0x309728]
+from title_graphics import patches as title_graphic_patches
+for file,off,raw in title_graphic_patches(source,{f['path']:f for f in inventory['files']}):
+    start=next(f['lba']*2048 for f in inventory['files'] if f['path']==file)+off
+    assert image[start:start+len(raw)]==raw
+    allowed[start:start+len(raw)]=b'\1'*len(raw)
+print('PASS: Russian title, subtitle and blinking prompt; relocated pointers and all five blink bounds')
+from ending_graphics import patches as ending_graphic_patches
+ending_base=next(f['lba']*2048 for f in inventory['files'] if f['path']=='G2GRPOE.DAT;1')
+ending_ranges=list(ending_graphic_patches(source,ending_base))
+assert len(ending_ranges)==10 and manifest['ending_graphics']['variants']==5
+for off,raw in ending_ranges:
+    start=ending_base+off
+    assert image[start:start+len(raw)]==raw
+    allowed[start:start+len(raw)]=b'\1'*len(raw)
+print('PASS: Russian final caption in all five ending banks; native map, tile count and palette retained')
 opening=manifest['opening_text']
 opening_base=next(f['lba']*2048 for f in inventory['files'] if f['path']=='G2GRPOE.DAT;1')
 opening_ranges={(0xf0,14*2*2),(0x128,24*3*2),(0x1b8,28*2*2),
@@ -386,3 +416,9 @@ with wave.open(str(original)) as a, wave.open(str(translated)) as b:
 assert all(x['end']<=y['start'] for x,y in zip(intro['cues'],intro['cues'][1:]))
 assert intro['peak']<1
 print('PASS: intro CD frames unchanged; PCM outside narration unchanged; no clipping or overlapping clauses')
+
+from dialogue_buffers import PATCHES as REPORT_BUFFER_PATCHES
+main_base=next(f['lba']*2048 for f in inventory['files'] if f['path']=='SMAIN.PRG;1')
+for off,before,after in REPORT_BUFFER_PATCHES:
+    assert image[main_base+off:main_base+off+len(bytes.fromhex(after))]==bytes.fromhex(after)
+print('PASS: resource-report stack buffers and saved-register offsets')
