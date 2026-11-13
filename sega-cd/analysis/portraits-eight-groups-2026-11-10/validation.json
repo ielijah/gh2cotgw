@@ -1,0 +1,610 @@
+[
+  {
+    "group": "01-mongolian",
+    "card": 1,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "01-mongolian",
+    "card": 3,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "01-mongolian",
+    "card": 4,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "01-mongolian",
+    "card": 5,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "01-mongolian",
+    "card": 6,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "01-mongolian",
+    "card": 7,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "01-mongolian",
+    "card": 8,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "01-mongolian",
+    "card": 9,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "01-mongolian",
+    "card": 10,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "01-mongolian",
+    "card": 11,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 1,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 2,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 3,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 4,
+    "width": 80,
+    "height": 160,
+    "colors": 15,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 5,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 6,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 7,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 8,
+    "width": 80,
+    "height": 160,
+    "colors": 15,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 9,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "02-central-asian",
+    "card": 10,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 1,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 2,
+    "width": 80,
+    "height": 160,
+    "colors": 8,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 3,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 4,
+    "width": 80,
+    "height": 160,
+    "colors": 15,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 5,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 6,
+    "width": 80,
+    "height": 160,
+    "colors": 10,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 7,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 8,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 9,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "03-south-asian",
+    "card": 10,
+    "width": 80,
+    "height": 160,
+    "colors": 10,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 1,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 2,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 3,
+    "width": 80,
+    "height": 160,
+    "colors": 15,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 4,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 5,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 6,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 7,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 8,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 9,
+    "width": 80,
+    "height": 160,
+    "colors": 16,
+    "outside_palette": 0
+  },
+  {
+    "group": "04-japanese",
+    "card": 10,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "05-western-european",
+    "card": 1,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "05-western-european",
+    "card": 2,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "05-western-european",
+    "card": 3,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "05-western-european",
+    "card": 4,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "05-western-european",
+    "card": 5,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "05-western-european",
+    "card": 6,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "05-western-european",
+    "card": 7,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "05-western-european",
+    "card": 8,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "05-western-european",
+    "card": 9,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "06-eastern-european",
+    "card": 1,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "06-eastern-european",
+    "card": 2,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "06-eastern-european",
+    "card": 3,
+    "width": 80,
+    "height": 160,
+    "colors": 10,
+    "outside_palette": 0
+  },
+  {
+    "group": "06-eastern-european",
+    "card": 4,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "06-eastern-european",
+    "card": 5,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "06-eastern-european",
+    "card": 6,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "06-eastern-european",
+    "card": 7,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "06-eastern-european",
+    "card": 8,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "06-eastern-european",
+    "card": 9,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "07-middle-eastern",
+    "card": 1,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "07-middle-eastern",
+    "card": 2,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "07-middle-eastern",
+    "card": 3,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "07-middle-eastern",
+    "card": 4,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "07-middle-eastern",
+    "card": 5,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "07-middle-eastern",
+    "card": 6,
+    "width": 80,
+    "height": 160,
+    "colors": 10,
+    "outside_palette": 0
+  },
+  {
+    "group": "07-middle-eastern",
+    "card": 7,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "07-middle-eastern",
+    "card": 8,
+    "width": 80,
+    "height": 160,
+    "colors": 8,
+    "outside_palette": 0
+  },
+  {
+    "group": "07-middle-eastern",
+    "card": 9,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "08-east-asian",
+    "card": 1,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "08-east-asian",
+    "card": 2,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "08-east-asian",
+    "card": 3,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "08-east-asian",
+    "card": 4,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "outside_palette": 0
+  },
+  {
+    "group": "08-east-asian",
+    "card": 5,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "08-east-asian",
+    "card": 6,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "outside_palette": 0
+  },
+  {
+    "group": "08-east-asian",
+    "card": 7,
+    "width": 80,
+    "height": 160,
+    "colors": 11,
+    "outside_palette": 0
+  },
+  {
+    "group": "08-east-asian",
+    "card": 8,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "outside_palette": 0
+  },
+  {
+    "group": "08-east-asian",
+    "card": 9,
+    "width": 80,
+    "height": 160,
+    "colors": 16,
+    "outside_palette": 0
+  }
+]

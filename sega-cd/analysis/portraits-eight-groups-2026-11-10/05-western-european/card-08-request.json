@@ -1,0 +1,12 @@
+{
+  "num_images": 1,
+  "prompt_style": "rd_pro__default",
+  "upscale_output_factor": 1,
+  "prompt": "Create ONE original character portrait card in early-1990s Sega CD historical strategy game pixel-art style, with the supplied original game palette only. A beautiful YOUNG ADULT woman aged 24, visibly adult, attractive face, healthy youthful skin, graceful adult proportions. Western European woman, varied blonde, red, chestnut or dark hair, subtle medieval Western European-inspired details. heart-shaped face, bright eyes, warm smile. Standing with one hand resting gently on a low stone ledge, looking back over one shoulder in a relaxed nonsexual pose. Hair tied in a high loose bun. Tasteful opaque rose and ivory classical drapery covering breasts, pelvis and upper thighs, bare shoulders and arms, no nudity or sexual activity. CRITICAL FRAMING: the entire head and entire hairstyle fit inside the picture, with at least 10 pixels of colored background above the highest hair pixel and 5 pixels at either side. COMPOSITION: head-to-knees portrait, NOT full body and NOT a close-up. Place top of hair at y=12 pixels, eyes near y=35 pixels, waist near y=100, knees near the bottom. Her complete head and hairstyle must be entirely visible. The uppermost 10 pixel rows contain only colored background. Face is large enough to read clearly, approximately 22 pixels wide. Never cut off the forehead, scalp or hair bun. The lower edge may crop below the knees. Emphasize a beautiful youthful adult face, not an elderly or severe-looking face. Flat deep plum geometric backdrop with sparse decorative pixel dithering fills every image edge. Exact native 80x160 pixels. Coarse hand-placed-looking pixel clusters, restrained 2-3 tone shading, sparse checkerboard dithering, attractive expressive adult face drawn clearly at low resolution. Max 16 colors from supplied palette. No white strips, borders, frames, text, numbers, collage, smooth gradients or antialiasing. Not old, no wrinkles, no gray hair; never childlike or chibi. Distinct face and hairstyle, elegant and relaxed rather than exaggerated.",
+  "seed": 26111407,
+  "width": 80,
+  "bypass_prompt_expansion": true,
+  "height": 160,
+  "reference_images": [],
+  "input_palette": "iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAYAAADXeS5fAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA0SURBVBhXFYkBDQBBDMJezMRgZmIwMzGY6XMNhCZ8BUmcg7vRQp20j7hZcnBrZgf11/MxP1L8KsAA7/f4AAAAAElFTkSuQmCC"
+}

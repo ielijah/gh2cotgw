@@ -45,3 +45,12 @@ __pycache__/
 *.iso
 
 !/sega-cd/dub/track8[0-9].wav
+
+# Local manual renders, previews, and emulator memory dumps
+/sega-cd/tmp/
+/sega-cd/output/pdf/*
+!/sega-cd/output/pdf/Genchou-Hishi-Mega-CD-Manual-RU.pdf
+!/sega-cd/output/pdf/manual-full-layout-validation.json
+/sega-cd/analysis/**/*.bin
+/fix_manual_cover.py
+/revise_war_manual.py

@@ -1,0 +1,19 @@
+{
+  "iso_sha256": "95a47b0807e747f8bddaa7eaea1c131ef256ab2ff1e36f4280aac655199bc7a8",
+  "iso_bytes": 10602496,
+  "original_iso_bytes": 9979904,
+  "expansion_bytes": 622592,
+  "generated_cards": 76,
+  "original_cards": 11,
+  "emulator_success_scenes": 98,
+  "palette_colors": 16,
+  "selector_cpu_cases": 1848,
+  "option_cpu_cases": 512,
+  "default_options_hex": "3f",
+  "disabled_options_hex": "7f",
+  "reenabled_options_hex": "3f",
+  "cancel_keeps_disabled": true,
+  "cold_boot_cdda_peak": 14424,
+  "verification": "tools/verify.py passed including both 90-track packages",
+  "scope": "Controlled final scenes; not a complete harem playthrough for every woman"
+}

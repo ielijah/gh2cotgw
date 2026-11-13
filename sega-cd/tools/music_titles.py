@@ -2,13 +2,14 @@
 import struct
 
 def allocate(reserve,put):
- a=reserve(96,'music_title_draw')
- # The replaced JSR receives eight arguments. Forward all eight unchanged to
- # native rectangle copy, then draw on top of the newly cleared title frame.
- code=bytes.fromhex('700741ef00202f10598851c8fffa4eb90000efee4fef0020'
+ a=reserve(128,'music_title_draw')
+ # The replaced JSR receives eight caller-owned arguments; leave them intact.
+ # A fixed clear replaces the old one-row copy from the Japanese title atlas.
+ # Clear the full 13x6-tile title area, including rows left by longer titles.
+ code=bytes.fromhex('2f3c00008000487800064878000d487800134878000242a74878001a4eb90000c0f44fef001c'
  '3f3900059f4c33fc000200059f4c48780013487800024eb90001047c508f3002e548207c0007d78a2f300000'
  '48790007b0384eb900011034508f33df00059f4c4e75')
- assert len(code)<=96;put(a,code)
+ assert len(code)<=128;put(a,code)
  return dict(helper=a,helper_size=len(code),columns=12,lines=3,cell_first=100,cell_last=175,tile_capacity=150)
 
 def patches(data):

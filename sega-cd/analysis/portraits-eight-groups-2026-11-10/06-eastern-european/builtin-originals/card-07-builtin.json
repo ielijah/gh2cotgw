@@ -1,0 +1,7 @@
+{
+  "generator": "built-in image_gen",
+  "original": "builtin-originals\\card-07.png",
+  "width": 80,
+  "height": 160,
+  "normalization": "Nearest-neighbor sampling and nearest original palette color; no dithering added"
+}

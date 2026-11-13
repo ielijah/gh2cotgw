@@ -1,0 +1,12 @@
+{
+  "num_images": 1,
+  "prompt_style": "rd_pro__default",
+  "upscale_output_factor": 1,
+  "prompt": "Create ONE NEW early 1990s Sega CD pixel-art card of a clearly mature adult European woman. References are ONLY for pixel technique, palette and cloth rendering, NOT for framing or identity. CRITICAL COMPOSITION: whole head and ENTIRE hairstyle must fit comfortably inside image with 12 pixels of colored background ABOVE the highest hair pixel and 5 pixels on both sides. Show a FULL seated figure from the entire head down to FEET, with ALL of her silhouette inside the central 64x130 pixel area; background surrounds her on ALL FOUR sides. NEVER crop head. Opaque classical drapery covers breasts, pelvis and upper thighs, bare shoulders and arms. Tasteful non-explicit character portrait in a relaxed neutral pose. Natural adult proportions, distinct mature face. Flat colored geometric backdrop fills every edge, NO white stripes, NO border, NO frame, NO blank margins. Exact native 80x160 pixels, original limited palette, restrained coarse face details, hard pixel clusters, sparse checkerboard dithering. No smooth shading, antialiasing, text, numbers or collage. A mature adult European woman aged 30, fair skin, auburn hair arranged in a braided crown, broad face, calm smile. Seated upright with hands clasped at one shoulder holding shawl, lilac drapery, plum backdrop.",
+  "seed": 198705,
+  "width": 80,
+  "bypass_prompt_expansion": true,
+  "height": 160,
+  "reference_images": [],
+  "input_palette": "iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAYAAADXeS5fAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA0SURBVBhXFYkBDQBBDMJezMRgZmIwMzGY6XMNhCZ8BUmcg7vRQp20j7hZcnBrZgf11/MxP1L8KsAA7/f4AAAAAElFTkSuQmCC"
+}

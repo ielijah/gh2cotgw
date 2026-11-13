@@ -1,0 +1,12 @@
+{
+  "num_images": 1,
+  "prompt_style": "rd_pro__default",
+  "upscale_output_factor": 1,
+  "prompt": "Create ONE original character portrait card in early-1990s Sega CD historical strategy game pixel-art style, with the supplied original game palette only. A beautiful YOUNG ADULT woman aged 23, visibly adult, attractive face, healthy youthful skin, graceful adult proportions. Eastern European woman, varied Slavic, Byzantine and Hungarian features, light brown, chestnut or black hair, subtle medieval Eastern European-inspired details. oval face, large expressive eyes, gentle smile. Seated three-quarter view, relaxed hands together on her lap, gentle confident smile. Long loose hair with one small braid. Tasteful opaque pink and lilac classical drapery covering breasts, pelvis and upper thighs, bare shoulders and arms, no nudity or sexual activity. CRITICAL FRAMING: the entire head and entire hairstyle fit inside the picture, with at least 10 pixels of colored background above the highest hair pixel and 5 pixels at either side. Show a seated or standing figure from complete head down to feet, entirely contained in the central 66x138 pixel area. Do not enlarge or crop the face. Flat muted blue geometric backdrop with sparse decorative pixel dithering fills every image edge. Exact native 80x160 pixels. Coarse hand-placed-looking pixel clusters, restrained 2-3 tone shading, sparse checkerboard dithering, attractive expressive adult face drawn clearly at low resolution. Max 16 colors from supplied palette. No white strips, borders, frames, text, numbers, collage, smooth gradients or antialiasing. Not old, no wrinkles, no gray hair; never childlike or chibi. Distinct face and hairstyle, elegant and relaxed rather than exaggerated.",
+  "seed": 26111500,
+  "width": 80,
+  "bypass_prompt_expansion": true,
+  "height": 160,
+  "reference_images": [],
+  "input_palette": "iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAYAAADXeS5fAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA0SURBVBhXFYkBDQBBDMJezMRgZmIwMzGY6XMNhCZ8BUmcg7vRQp20j7hZcnBrZgf11/MxP1L8KsAA7/f4AAAAAElFTkSuQmCC"
+}

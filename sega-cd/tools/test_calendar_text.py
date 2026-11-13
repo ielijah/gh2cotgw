@@ -31,3 +31,10 @@ for whole,fraction in [(0,0),(1,0),(9,9),(99,9)]:
     actual=decode(price % (whole,fraction))
     assert actual==('\nЦена%2d.%d' % (whole,fraction))
 print('PASS: all four seasons use exactly eight date cells; colour tokens and numeric price substitutions preserved')
+
+# The province-turn overlay must overwrite all eight cells occupied by the price.
+strategy=entries['26840']['ru']
+for number in range(1,100):
+    text=strategy % number
+    assert len(text)==8 and text.endswith(' '),repr(text)
+print('PASS: province-turn overlay clears the final red price cell for 1..99')

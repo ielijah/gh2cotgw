@@ -1,0 +1,209 @@
+{
+  "scope": "Verified menu and attribute labels; army diagram placement. Historical prose synonyms are not global replacements.",
+  "changes": [
+    {
+      "file": "manual-ru.md",
+      "before": "COM включает",
+      "after": "«ИИ» включает",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "выберите SAVE,",
+      "after": "выберите «Сохр»,",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Выберите END в",
+      "after": "Выберите «Выход» в",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "SAVE — сохранить партию. END — завершить игру.",
+      "after": "«Сохр» — сохранить партию. «Выход» — завершить игру.",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Голоса — включить",
+      "after": "«Голос» — включить",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Комплимент: похвалить",
+      "after": "«Лесть»: похвалить",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Впечатление — рассказать",
+      "after": "«Образ» — рассказать",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Подарок — преподнести",
+      "after": "«Дары» — преподнести",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Командование — A–E.",
+      "after": "Лидерство («Лидер») — A–E.",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Харизма — A–E.",
+      "after": "Харизма («Хариз») — A–E.",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Силы — 0–15.",
+      "after": "Здоровье («Здрав») — запас сил от 0 до 15.",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Холода — весна и зима.",
+      "after": "Морозы — весна и зима.",
+      "occurrences": 1
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "'Комплимент'",
+      "after": "'Лесть'",
+      "occurrences": 2
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "'Впечатление'",
+      "after": "'Образ'",
+      "occurrences": 2
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "'Подарок'",
+      "after": "'Дары'",
+      "occurrences": 2
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "'Командование: A-E'",
+      "after": "'Лидер: A-E'",
+      "occurrences": 1
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "'Военное искусство: A-E'",
+      "after": "'Война: A-E'",
+      "occurrences": 1
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "'Харизма: A-E'",
+      "after": "'Хариз: A-E'",
+      "occurrences": 2
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "'Силы: 0-15'",
+      "after": "'Здрав: 0-15'",
+      "occurrences": 2
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "Силы   12/12",
+      "after": "Здрав  12/12",
+      "occurrences": 1
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "'Керамика'",
+      "after": "'Фарфор'",
+      "occurrences": 1
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "            for j,label in enumerate(['Армия','Легион','Отряд','Солдат']):drawtext(label,[x+12+j*109,y+125,105,45],18,'label',1)",
+      "after": "            # At the horizontal centre the first three rings are 82 units wide.\n            # Centre each label within its own ring; soldier belongs to the core.\n            for j,label in enumerate(['Армия','Легион','Отряд','Солдат']):\n                left=x+j*82\n                width=82 if j<3 else w-3*82-3*16\n                assert pdfmetrics.stringWidth(label,'Bold',18) < width-8\n                drawtext(label,[left+4,y+h/2-11,width-8,28],18,'label',1)",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Политика — A–E.",
+      "after": "Политика («Полит») — A–E.",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Военное искусство — A–E.",
+      "after": "Военное искусство («Война») — A–E.",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "военное искусство, командование",
+      "after": "военное искусство, лидерство",
+      "occurrences": 4
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "доблести, командовании,",
+      "after": "доблести, лидерстве,",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "командования его начальника",
+      "after": "лидерства его начальника",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "с командованием D или E",
+      "after": "с лидерством D или E",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "зависит от командования главнокомандующего",
+      "after": "зависит от лидерства главнокомандующего",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Программа — составить",
+      "after": "PRG (программа) — составить",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Случайный порядок — автоматически",
+      "after": "RND (случайный порядок) — автоматически",
+      "occurrences": 1
+    },
+    {
+      "file": "manual-ru.md",
+      "before": "Выход — вернуться в главное меню.",
+      "after": "EXIT (выход) — вернуться в главное меню.",
+      "occurrences": 1
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "'ПРОГ','ПОВТ','СЛУЧ','ВЫХОД'",
+      "after": "'PRG','ПОВТ','RND','EXIT'",
+      "occurrences": 1
+    },
+    {
+      "file": "build_manual_complete.py",
+      "before": "            if op['file']=='qa-music-switch/title-0.png':\n                for yy,label in [(365,'ПРОГ'),(399,'СЛУЧ'),(417,'ВЫХОД')]:\n                    rect([389,yy,41,17],'#444758');drawtext(label,[389,yy+2,41,15],8,'label',1,'#dad488')\n",
+      "after": "",
+      "occurrences": 1
+    }
+  ]
+}

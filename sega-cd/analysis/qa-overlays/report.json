@@ -1,0 +1,35 @@
+{
+  "wife": "Name plus newline + Очень + trait, max trait line 18 columns",
+  "merchants": "x=8 instead of 15; all four labels padded to 8 columns; no brackets",
+  "music": "Clear entire 13x6-tile title rectangle before each title, not a single-row copy",
+  "emulator": "Genesis Plus GX",
+  "method": "Fresh boot; controlled sequential native render calls, preserved state between labels",
+  "music_sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    0,
+    5,
+    1,
+    8,
+    0
+  ],
+  "merchant_sequence": [
+    0,
+    1,
+    2,
+    3,
+    0
+  ],
+  "validation": [
+    "test_music_titles_cpu.py",
+    "verify.py both audio packages"
+  ],
+  "limitations": "Does not constitute full playthrough of wife/merchant events or CD playback verification for each track"
+}

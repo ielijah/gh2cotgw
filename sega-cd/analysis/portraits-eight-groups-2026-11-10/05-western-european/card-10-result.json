@@ -1,0 +1,12 @@
+{
+  "status": "failed",
+  "task_id": "931814e9-fde0-4487-9c23-645aee0b4e4c",
+  "created_at": 1794307919,
+  "updated_at": 1794307919,
+  "error": {
+    "status_code": 400,
+    "code": "insufficient_balance",
+    "message": "Not enough balance.",
+    "request_id": "931814e9-fde0-4487-9c23-645aee0b4e4c"
+  }
+}

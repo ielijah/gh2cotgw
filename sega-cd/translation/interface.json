@@ -650,7 +650,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2AE18",
     "ja": "\u001bKﾌﾟﾚｲ\u001bHｽﾙﾆﾊ､最低ﾃﾞ\n118\u001bKﾌﾞﾛｯｸ\u001bH必要ﾃﾞｽ",
-    "ru": "Для игры нужно\nне менее 118 блоков",
+    "ru": "Для сохранения:\nминимум 118 блоков",
     "kind": "memory_requirement",
     "max_columns": 22,
     "max_lines": 2

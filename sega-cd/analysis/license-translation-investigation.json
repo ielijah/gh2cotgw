@@ -1,0 +1,7 @@
+{
+  "bios_security_block_offset": -1,
+  "length": 340,
+  "boot_restored": true,
+  "status": "Direct replacement rejected by original BIOS. Awaiting choice of additional Russian screen or dedicated BIOS.",
+  "draft": "license-screen-draft.py"
+}

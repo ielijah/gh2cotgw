@@ -1,0 +1,18 @@
+{
+  "iso_sha256": "a8f8ab1154f56249daea189a559589a30b17f90333aa57c67396a184950c3ec3",
+  "emulator": "Genesis Plus GX",
+  "method": "Prepared rendering fixtures with current SMAIN and HEX reloaded; not full battle playthrough.",
+  "cases": [
+    "mission-0",
+    "mission-1",
+    "mission-2",
+    "legions",
+    "supply",
+    "march-counter",
+    "tactical-counter",
+    "march-counter-3",
+    "tactical-counter-30",
+    "province-defence"
+  ],
+  "note": "Deployment sprites can overlap the artificial tactical HUD fixture; this is not a playthrough of a tactical battle."
+}

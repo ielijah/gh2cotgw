@@ -1,0 +1,20 @@
+{
+  "price_fix": "Native strategy format now retains trailing clearing space: eight rendered cells, matching price width",
+  "emulator": "Genesis Plus GX",
+  "method": "Fresh cold boot followed by controlled native overlay/dialogue calls",
+  "dialogues": [
+    "28188",
+    "2829A",
+    "28364",
+    "283BE",
+    "2841C",
+    "2862A",
+    "2879E"
+  ],
+  "visual_result": "All seven edited windows inside borders; no residual red digit after strategy overlay",
+  "tests": [
+    "test_calendar_text.py: all seasons and strategy 1..99",
+    "verify.py: both packages and audio"
+  ],
+  "new_japanese_fields": 0
+}

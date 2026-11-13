@@ -12,11 +12,11 @@ for e in titles:
 for track in range(9):
  u=Uc(UC_ARCH_M68K,UC_MODE_BIG_ENDIAN);u.ctl_set_cpu_model(UC_CPU_M68K_M68000);u.mem_map(0,0x100000);u.mem_write(0xc000,main);u.mem_write(0x66000,init);u.reg_write(UC_M68K_REG_SR,0x2700);u.reg_write(UC_M68K_REG_A7,0x90000);args=list(range(1,9));u.mem_write(0x90000,struct.pack('>9I',0x81000,*args));u.reg_write(UC_M68K_REG_D2,track);u.mem_write(0x59f4c,b'\x00\x0c');calls=[]
  def hook(uc,pc,size,data):
-  if pc in (0xefee,0x1047c,0x11034):
-   sp=uc.reg_read(UC_M68K_REG_A7);n=8 if pc==0xefee else 2;vals=struct.unpack('>'+str(n)+'I',bytes(uc.mem_read(sp+4,n*4)));calls.append((pc,vals))
+  if pc in (0xc0f4,0x1047c,0x11034):
+   sp=uc.reg_read(UC_M68K_REG_A7);n=7 if pc==0xc0f4 else 2;vals=struct.unpack('>'+str(n)+'I',bytes(uc.mem_read(sp+4,n*4)));calls.append((pc,vals))
    if pc==0x11034:assert bytes(uc.mem_read(0x59f4c,2))==b'\0\2'
    ret=int.from_bytes(uc.mem_read(sp,4),'big');uc.reg_write(UC_M68K_REG_A7,sp+4);uc.reg_write(UC_M68K_REG_PC,ret)
  u.hook_add(UC_HOOK_CODE,hook);u.emu_start(record['helper']+0xc000,0x81000,count=1000);pointer=int.from_bytes(init[0x1778a+track*4:0x1778e+track*4],'big')
- assert calls==[(0xefee,tuple(args)),(0x1047c,(2,19)),(0x11034,(0x7b038,pointer))],calls
+ assert calls==[(0xc0f4,(26,0,2,19,13,6,0x8000)),(0x1047c,(2,19)),(0x11034,(0x7b038,pointer))],calls
  assert u.reg_read(UC_M68K_REG_A7)==0x90004 and bytes(u.mem_read(0x59f4c,2))==b'\0\x0c'
 print('PASS: all nine music titles fit frame and tile window; native rectangle arguments, text cursor, selected pointer, restored margin and stack')

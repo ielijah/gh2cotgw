@@ -1,0 +1,136 @@
+005850: 4e56ffd8               link.w a6, #$ffd8
+005876: 4beefff8               lea.l -$8(a6), a5
+0058A0: 486effd8               pea.l -$28(a6)
+005A38: 486effd8               pea.l -$28(a6)
+005A6C: 4cee3cfcffb0           movem.l -$50(a6), d2-d7/a2-a5
+005AEA: 4eb90000feae           jsr $feae.l
+005B02: 4eb90000fecc           jsr $fecc.l
+
+00B558: 4e56fffc               link.w a6, #$fffc
+00B56C: 267c0000feae           movea.l #$feae, a3
+00B63C: 486efffe               pea.l -$2(a6)
+00B6A4: 486efffe               pea.l -$2(a6)
+00B6C8: 4cee3cfcffd4           movem.l -$2c(a6), d2-d7/a2-a5
+00B81E: 4eb90000feae           jsr $feae.l
+00B85A: 4eb90000feae           jsr $feae.l
+00B8A8: 4eb90000feae           jsr $feae.l
+00B908: 4eb90000feae           jsr $feae.l
+00B912: 4eb90000feae           jsr $feae.l
+00B962: 4eb90000feae           jsr $feae.l
+00B9B0: 4eb90000feae           jsr $feae.l
+00BA60: 4eb90000feae           jsr $feae.l
+00BA6A: 4eb90000feae           jsr $feae.l
+00BB26: 4eb90000feae           jsr $feae.l
+00BC20: 4eb90000feae           jsr $feae.l
+00BCAE: 4eb90000feae           jsr $feae.l
+00BEA0: 4eb90000feae           jsr $feae.l
+00BEBC: 4eb90000feae           jsr $feae.l
+00BF20: 4eb90000feae           jsr $feae.l
+00BF6C: 4eb90000feae           jsr $feae.l
+00BF88: 4eb90000feae           jsr $feae.l
+00BFC8: 4eb90000feae           jsr $feae.l
+00BFE8: 4eb90000feae           jsr $feae.l
+00C026: 4eb90000feae           jsr $feae.l
+00C046: 4eb90000feae           jsr $feae.l
+00C092: 4eb90000feae           jsr $feae.l
+00C0AE: 4eb90000feae           jsr $feae.l
+
+00D160: 4e56ffec               link.w a6, #$ffec
+00D166: 45eeffec               lea.l -$14(a6), a2
+00D17C: 4eb90000fecc           jsr $fecc.l
+00D18A: 4eb90000feae           jsr $feae.l
+
+00D242: 4e56ffd8               link.w a6, #$ffd8
+00D24A: 45eeffda               lea.l -$26(a6), a2
+00D24E: 267c0000feae           movea.l #$feae, a3
+00D292: 4cee0c00ffd0           movem.l -$30(a6), a2-a3
+
+010C0C: 4e56ffe0               link.w a6, #$ffe0
+010C18: 47eeffe0               lea.l -$20(a6), a3
+010C5A: 4eb90000feae           jsr $feae.l
+010D2A: 4cee3c0cffc8           movem.l -$38(a6), d2-d3/a2-a5
+
+011A5C: 4e56fff8               link.w a6, #$fff8
+011A64: 45eefffa               lea.l -$6(a6), a2
+011C24: 4eb90000feae           jsr $feae.l
+011C42: 4eb90000feae           jsr $feae.l
+011C5C: 4eb90000feae           jsr $feae.l
+011CA8: 4cee3cfcffd0           movem.l -$30(a6), d2-d7/a2-a5
+
+01A4D2: 4e56ffdc               link.w a6, #$ffdc
+01A4E6: 287c0000feae           movea.l #$feae, a4
+01A522: 486effdc               pea.l -$24(a6)
+01A526: 486efff4               pea.l -$c(a6)
+01A5E0: 4eb90000fecc           jsr $fecc.l
+01A60E: 4eb90000fecc           jsr $fecc.l
+01A6EC: 4eb90000fecc           jsr $fecc.l
+01A760: 4cee3c7cffb8           movem.l -$48(a6), d2-d6/a2-a5
+
+01A8B2: 4e56ffc0               link.w a6, #$ffc0
+01A8C0: 49eeffd8               lea.l -$28(a6), a4
+01A8DC: 486effc0               pea.l -$40(a6)
+01A8E0: 486efff4               pea.l -$c(a6)
+01AAA8: 4eb90000fecc           jsr $fecc.l
+01AAB6: 4eb90000feae           jsr $feae.l
+01AB50: 4cee3c7cff9c           movem.l -$64(a6), d2-d6/a2-a5
+
+01ECF0: 4e56ffe8               link.w a6, #$ffe8
+01ECFE: 49eeffea               lea.l -$16(a6), a4
+01EF72: 4eb90000feae           jsr $feae.l
+01EF7E: 4eb90000fecc           jsr $fecc.l
+01EF8C: 4eb90000feae           jsr $feae.l
+01F008: 4cee3cfcffc0           movem.l -$40(a6), d2-d7/a2-a5
+
+01F012: 4e56ffe4               link.w a6, #$ffe4
+01F01A: 45eeffe6               lea.l -$1a(a6), a2
+01F104: 4eb90000fecc           jsr $fecc.l
+01F112: 4eb90000feae           jsr $feae.l
+01F182: 4cee3c1cffc8           movem.l -$38(a6), d2-d4/a2-a5
+
+01F18C: 4e56ffe8               link.w a6, #$ffe8
+01F1A2: 47eefffe               lea.l -$2(a6), a3
+01F1A6: 49eeffe8               lea.l -$18(a6), a4
+01F1D4: 486efffc               pea.l -$4(a6)
+01F1D8: 486efffe               pea.l -$2(a6)
+01F1DC: 486effff               pea.l -$1(a6)
+01F2F0: 4eb90000feae           jsr $feae.l
+01F438: 4cee3cfcffc0           movem.l -$40(a6), d2-d7/a2-a5
+
+01F8D0: 4e56ffe8               link.w a6, #$ffe8
+01F8DC: 47eeffe8               lea.l -$18(a6), a3
+01F97E: 4eb90000feae           jsr $feae.l
+01F9F2: 4cee1c1cffd0           movem.l -$30(a6), d2-d4/a2-a4
+
+01FB64: 4e56ffdc               link.w a6, #$ffdc
+01FB72: 49eeffdc               lea.l -$24(a6), a4
+01FC7A: 4eb90000feae           jsr $feae.l
+01FCF4: 4cee3c3cffbc           movem.l -$44(a6), d2-d5/a2-a5
+
+01FCFE: 4e56ffdc               link.w a6, #$ffdc
+01FD0C: 49eeffdc               lea.l -$24(a6), a4
+01FE0E: 4eb90000feae           jsr $feae.l
+01FEF8: 4cee3c7cffb8           movem.l -$48(a6), d2-d6/a2-a5
+
+0200D0: 4e56ffd8               link.w a6, #$ffd8
+0200DC: 45eeffd8               lea.l -$28(a6), a2
+0201D4: 4eb90000feae           jsr $feae.l
+0201F8: 4eb90000fecc           jsr $fecc.l
+020206: 4eb90000feae           jsr $feae.l
+02024E: 4cee3c1cffbc           movem.l -$44(a6), d2-d4/a2-a5
+
+025A58: 4e56fff8               link.w a6, #$fff8
+025A66: 47eeffff               lea.l -$1(a6), a3
+025A70: 4beefff8               lea.l -$8(a6), a5
+025D0C: 4cee3cfcffd0           movem.l -$30(a6), d2-d7/a2-a5
+025D2E: 2a7c0000feae           movea.l #$feae, a5
+
+025FC6: 4e56ffcc               link.w a6, #$ffcc
+025FCE: 45eeffd4               lea.l -$2c(a6), a2
+026030: 486effce               pea.l -$32(a6)
+026046: 486effce               pea.l -$32(a6)
+02615E: 486effd2               pea.l -$2e(a6)
+0261F4: 4cee3c1cffb0           movem.l -$50(a6), d2-d4/a2-a5
+02628C: 4eb90000feae           jsr $feae.l
+038DA8: 4cee0020f030           movem.l -$fd0(a6), d5
+03E278: 487048b0               pea.l -$50(a0, d4.l)
+03E27C: 48704abe               pea.l -$42(a0, d4.l)

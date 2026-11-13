@@ -1,0 +1,9 @@
+{
+  "method": "Native game policy panel rendered in Genesis Plus GX from a prepared state",
+  "routines": [
+    "0x21C54",
+    "0x21CF2"
+  ],
+  "province": "capital pointer at 0x7FD48",
+  "artwork_edited": false
+}

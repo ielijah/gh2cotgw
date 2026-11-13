@@ -10,12 +10,10 @@ for name in ['Монголы','Империя монголов','Свящ Рим
  stack=struct.pack('>5I',0x81000,0x330ba,0x80000,29,0x80200)+b'GUARD123';u.mem_write(0x90000,stack);u.reg_write(UC_M68K_REG_A7,0x90000);seen=[]
  def hook(uc,pc,size,data):
   if pc!=0x11034:return
-  sp=uc.reg_read(UC_M68K_REG_A7);args=struct.unpack('>4I',uc.mem_read(sp+4,16));assert (args[0],args[2],args[3])==(0x330ba,29,0x80200)
-  b=bytes(uc.mem_read(args[1],64)).split(b'\0')[0];seen.append(b)
-  cols=0;i=0
-  while i<len(b):cols+=1 if b[i]<128 or b[i]==0xfc else 2;i+=1 if b[i]<128 else 2
-  assert cols<=13,(name,cols)
+  sp=uc.reg_read(UC_M68K_REG_A7);args=struct.unpack('>3I',uc.mem_read(sp+4,12))
+  assert args==(0x330bf,29,0x80200),args
+  seen.append(args)
   uc.reg_write(UC_M68K_REG_PC,int.from_bytes(uc.mem_read(sp,4),'big'));uc.reg_write(UC_M68K_REG_A7,sp+4)
  u.hook_add(UC_HOOK_CODE,hook);u.emu_start(0xc000+m['text_compositor']['map_labels']['helper'],0x81000,count=100000)
  assert seen and bytes(u.mem_read(0x90000,len(stack)))==stack and bytes(u.mem_read(0x80000,len(raw)))==raw
- print('PASS map country',name)
+ print('PASS province-only footer; hidden country:',name)

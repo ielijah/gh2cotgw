@@ -1,0 +1,398 @@
+{
+  "iso_sha256": "1a300f455565a91d856489125b88a547f50f6c03360db43450a4b56eec66d2cd",
+  "method": "Controlled emulator checks: real room setup, success drawing, CD loading and exit.\nQA fixtures skip greeting/minigame and force RNG; production ISO remains untouched.\n",
+  "cases": [
+    {
+      "culture": 4,
+      "card": 1,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-01.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 4,
+      "card": 2,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-02.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 4,
+      "card": 3,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-03.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 4,
+      "card": 4,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-04.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 4,
+      "card": 5,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-05.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 4,
+      "card": 6,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-06.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 4,
+      "card": 7,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-07.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 4,
+      "card": 8,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-08.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 4,
+      "card": 9,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-09.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 4,
+      "card": 10,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-4-card-10.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 1,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-01.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 2,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-02.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 3,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-03.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 4,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-04.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 5,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-05.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 6,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-06.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 7,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-07.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 8,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-08.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 9,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-09.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 5,
+      "card": 10,
+      "all_12800_pixels_match": true,
+      "returned": true,
+      "screenshot": "culture-5-card-10.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 0,
+      "card": "original",
+      "all_12800_pixels_match": false,
+      "returned": true,
+      "screenshot": "culture-0-card-01.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 1,
+      "card": "original",
+      "all_12800_pixels_match": false,
+      "returned": true,
+      "screenshot": "culture-1-card-01.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 2,
+      "card": "original",
+      "all_12800_pixels_match": false,
+      "returned": true,
+      "screenshot": "culture-2-card-01.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 3,
+      "card": "original",
+      "all_12800_pixels_match": false,
+      "returned": true,
+      "screenshot": "culture-3-card-01.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 6,
+      "card": "original",
+      "all_12800_pixels_match": false,
+      "returned": true,
+      "screenshot": "culture-6-card-01.png",
+      "opaque_pixels_match": true
+    },
+    {
+      "culture": 7,
+      "card": "original",
+      "all_12800_pixels_match": false,
+      "returned": true,
+      "screenshot": "culture-7-card-01.png",
+      "opaque_pixels_match": true
+    }
+  ],
+  "palette_mapping": [
+    [
+      [
+        72,
+        109,
+        145
+      ],
+      [
+        65,
+        101,
+        139
+      ]
+    ],
+    [
+      [
+        72,
+        72,
+        72
+      ],
+      [
+        65,
+        68,
+        65
+      ]
+    ],
+    [
+      [
+        218,
+        145,
+        109
+      ],
+      [
+        205,
+        137,
+        98
+      ]
+    ],
+    [
+      [
+        255,
+        218,
+        145
+      ],
+      [
+        238,
+        206,
+        139
+      ]
+    ],
+    [
+      [
+        145,
+        72,
+        72
+      ],
+      [
+        139,
+        68,
+        65
+      ]
+    ],
+    [
+      [
+        182,
+        109,
+        145
+      ],
+      [
+        172,
+        101,
+        139
+      ]
+    ],
+    [
+      [
+        255,
+        218,
+        218
+      ],
+      [
+        238,
+        206,
+        205
+      ]
+    ],
+    [
+      [
+        255,
+        255,
+        255
+      ],
+      [
+        238,
+        238,
+        238
+      ]
+    ],
+    [
+      [
+        218,
+        182,
+        255
+      ],
+      [
+        205,
+        170,
+        238
+      ]
+    ],
+    [
+      [
+        182,
+        145,
+        218
+      ],
+      [
+        172,
+        137,
+        205
+      ]
+    ],
+    [
+      [
+        255,
+        145,
+        218
+      ],
+      [
+        238,
+        137,
+        205
+      ]
+    ],
+    [
+      [
+        36,
+        109,
+        36
+      ],
+      [
+        32,
+        101,
+        32
+      ]
+    ],
+    [
+      [
+        218,
+        72,
+        109
+      ],
+      [
+        205,
+        68,
+        98
+      ]
+    ],
+    [
+      [
+        72,
+        145,
+        218
+      ],
+      [
+        65,
+        137,
+        205
+      ]
+    ],
+    [
+      [
+        36,
+        36,
+        145
+      ],
+      [
+        32,
+        32,
+        139
+      ]
+    ]
+  ],
+  "native_overlay_loader_verified_bytes": 20480,
+  "visual_review": "All ten European card screenshots inspected. Controlled success fixtures, not ten manual minigame playthroughs."
+}

@@ -1,0 +1,78 @@
+{
+  "source_sha256": "be03e0d34e4ca7a0cd5ab26c44440d2e20c8a742623fe8f2e259b3f8f8bc5b29",
+  "count": 11,
+  "width": 80,
+  "height": 160,
+  "scale": 3,
+  "graphics_file": "GH2GRP.DAT;1",
+  "palette_file": "XXX.PRG;1",
+  "palette_offset": "0x4de8",
+  "records": [
+    {
+      "index": 0,
+      "filename": "girl-01.png",
+      "offset": "0xb5800",
+      "raw_sha256": "18a50ef5b7892abfe3a27b913d854562aa49c84059320f2cf796d40b9a6d9b29"
+    },
+    {
+      "index": 1,
+      "filename": "girl-02.png",
+      "offset": "0xb7800",
+      "raw_sha256": "85dbaf316e71465ae601859a65bf5bc1e4605e95ebaad542903875d8af65c425"
+    },
+    {
+      "index": 2,
+      "filename": "girl-03.png",
+      "offset": "0xb9800",
+      "raw_sha256": "e57e8a0d60c94976c5e3263e8860378ef42f3f0f7887ca450e1d428034e8bb35"
+    },
+    {
+      "index": 3,
+      "filename": "girl-04.png",
+      "offset": "0xbb800",
+      "raw_sha256": "34645b0f8ba0d20909c5e61aef1471ff9dcb27edae59445d88acd33cd578b4b4"
+    },
+    {
+      "index": 4,
+      "filename": "girl-05.png",
+      "offset": "0xbd800",
+      "raw_sha256": "97f8363c22ae85a18a0196d5e2ab8fe3aabc1c80e956cbd40e692b2fc216255b"
+    },
+    {
+      "index": 5,
+      "filename": "girl-06.png",
+      "offset": "0xbf800",
+      "raw_sha256": "19db3bbe1f04466a2763d5bfcf9d0e538da92970b6b8668052ef661f0897ce4b"
+    },
+    {
+      "index": 6,
+      "filename": "girl-07.png",
+      "offset": "0xc1800",
+      "raw_sha256": "9cae05483154e0c0aee8b82947b812929b19e5a4ebd240c6bba3234efbce1cdf"
+    },
+    {
+      "index": 7,
+      "filename": "girl-08.png",
+      "offset": "0xc3800",
+      "raw_sha256": "556fcef876dd05a79120f8e3afdaca6bed627828896baa5b6b6856ff90e84b30"
+    },
+    {
+      "index": 8,
+      "filename": "girl-09.png",
+      "offset": "0xc5800",
+      "raw_sha256": "fe8ba5e88f8b77661ad0616ce02cc5332f901d2cdedf295f6a8e623c6cf3c425"
+    },
+    {
+      "index": 9,
+      "filename": "girl-10.png",
+      "offset": "0xc7800",
+      "raw_sha256": "e66d1ce0073fcaca630295a98fd9761d2394cb5538d400a12ecabb50f86f3077"
+    },
+    {
+      "index": 10,
+      "filename": "girl-11.png",
+      "offset": "0xc9800",
+      "raw_sha256": "f694ea3cb9043b46dd5260d6d9cae086be6a6c4388c5eb324a7ebf0e021f56df"
+    }
+  ]
+}

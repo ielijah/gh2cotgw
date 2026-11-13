@@ -1,0 +1,4 @@
+"""Build the complete Russian manual in the original visual layout."""
+from pathlib import Path
+import runpy
+runpy.run_path(str(Path(__file__).with_name("build_manual_complete.py")), run_name="__main__")

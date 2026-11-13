@@ -1,0 +1,42 @@
+{
+  "total": 76,
+  "retro_diffusion": 75,
+  "user_supplied": 1,
+  "built_in_included": 0,
+  "game_modified": false,
+  "stop_reason": "Retro Diffusion plan exhausted; remaining requests failed with insufficient_balance",
+  "groups": [
+    {
+      "group": "01-mongolian",
+      "cards": 10
+    },
+    {
+      "group": "02-central-asian",
+      "cards": 10
+    },
+    {
+      "group": "03-south-asian",
+      "cards": 10
+    },
+    {
+      "group": "04-japanese",
+      "cards": 10
+    },
+    {
+      "group": "05-western-european",
+      "cards": 9
+    },
+    {
+      "group": "06-eastern-european",
+      "cards": 9
+    },
+    {
+      "group": "07-middle-eastern",
+      "cards": 9
+    },
+    {
+      "group": "08-east-asian",
+      "cards": 9
+    }
+  ]
+}

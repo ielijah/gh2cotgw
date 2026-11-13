@@ -1,0 +1,21 @@
+{
+  "iso_sha256": "c3c4970ef16907207f0caee8b920ec9ff6771c9528f50b7a3b950546ac6f1c4f",
+  "cause": "Native ruler nameplate has ten columns. Longer names caused negative clear width and writes beyond its 40-byte stack tilemap. Yuan ruler name Khubilai-khan reproduced the fault.",
+  "fix": "Bound the small nameplate drawing to ten cells, abbreviating long names with two dots; clamp measured frame width. Full source names retained.",
+  "emulator": "Genesis Plus GX libretro",
+  "cold_boot": true,
+  "old_save_states_used_for_final_check": false,
+  "screenshots": [
+    "nameplate-scenario-0.png",
+    "nameplate-scenario-1.png",
+    "nameplate-scenario-2.png",
+    "nameplate-scenario-3.png",
+    "nameplate-scenario-4.png"
+  ],
+  "checks": [
+    "All five scenario player-count screens visually inspected",
+    "40 actual 68000 nameplate cases via test_nameplate_cpu.py",
+    "Full verify.py including both 90-track packages"
+  ],
+  "license_screen": "English license text located at ISO offset 0x30E. No boot-area changes made."
+}

@@ -1,0 +1,12 @@
+{
+  "num_images": 1,
+  "prompt_style": "rd_pro__default",
+  "upscale_output_factor": 1,
+  "prompt": "A small FULL BODY seated adult woman, COMPLETE FIGURE visible from TOP OF HAIR to FEET, surrounded on ALL FOUR sides by a generous colored background margin. Entire silhouette fits inside central 64x130 region of an 80x160 canvas. A clearly adult woman aged 32 with short wavy black bob, square jaw and slight smile, seated diagonally with one knee raised, lavender opaque classical drapery securely covers chest and pelvis, bare shoulders and back. Graceful neutral pose. Full top of head and complete hair are essential. NO CLOSEUP. NO CROPPING. NO ZOOMED PORTRAIT. Early 1990s Sega CD native low resolution pixel art, coarse restrained facial detail, 16-color original palette, simple pixel clusters and checkerboard dithering. Muted slate blue geometric background fills all edges. NO white border, NO frame, NO white stripes. Tasteful non-explicit illustration. Exact 80x160.",
+  "seed": 198564,
+  "width": 80,
+  "bypass_prompt_expansion": true,
+  "height": 160,
+  "reference_images": [],
+  "input_palette": "iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAYAAADXeS5fAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA0SURBVBhXFYkBDQBBDMJezMRgZmIwMzGY6XMNhCZ8BUmcg7vRQp20j7hZcnBrZgf11/MxP1L8KsAA7/f4AAAAAElFTkSuQmCC"
+}

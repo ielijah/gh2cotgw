@@ -64,3 +64,18 @@ assert all(u.reg_read(reg)==val for reg,val in keep.items()) and u.reg_read(UC_M
 call(0x11ade,[0x80000]);call(0x11ade,[ptr(0x13f60)])
 out=decode(cstr(0x59ec8));assert out.rstrip()=='Боорчу\nсдался.\nПобедитель:\nКонстантин.',repr(out)
 print(f'PASS: {len(wave)} native battle formats, numeric/name substitutions, legion reports, destination questions, end-turn confirmation and surrender bridge; stack guards intact')
+
+# The march HUD owns only six font tiles: one digit plus the original suffix.
+# A translated four-column suffix used ten tiles and wrapped over the digit.
+march_suffix=decode(cstr(ptr(0x13afa)))
+assert march_suffix.strip()=='' and (1+len(march_suffix))*2<=6,repr(march_suffix)
+tactical_format=decode(cstr(ptr(0x14248)))
+assert tactical_format=='%2d' and 2*2<=10,repr(tactical_format)
+# Reserve 17 columns for province number/name, then a separate defence field.
+assert files['HEX.PRG;1'][0xd780:0xd782]==bytes.fromhex('0014')
+for amount in (0,4,99,100,255):
+ u.mem_write(0x80200,struct.pack('>I',amount));captured.clear()
+ call(0x10214,[ptr(0x142c8),0x80200,0x82000]);out=decode(b''.join(captured))
+ assert out.startswith(' Защ:') and len(out)<=8,(amount,out)
+ assert 3+3+14<=20 and 20+len(out)<=30
+print('PASS: march/tactical glyph budgets and province/defence column bounds')

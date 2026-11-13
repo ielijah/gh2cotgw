@@ -1,0 +1,12 @@
+{
+  "num_images": 1,
+  "prompt_style": "rd_pro__default",
+  "upscale_output_factor": 1,
+  "prompt": "One native 80x160 pixel portrait card for an early 1990s Sega CD historical game, limited strictly to the supplied palette. A clearly mature adult woman aged 32 with long dark hair loosely braided and a small ivory flower, standing sideways beside a stone wall under soft moonlight from an arched window. Calm self-possessed expression, looking back over her bare shoulder, one hand resting gently against the wall. Relaxed upright natural stance. Opaque lavender drapery securely covers breasts, hips and pelvis, with bare upper back and arms. Tasteful non-explicit romantic atmosphere, no sexual activity, no coercion, no restraints. Frame from COMPLETE TOP OF HAIR to below knees. The entire head and all hair ornaments must be visible, with 12 pixels of colored background above hair and visible margins on both sides. Keep head inside canvas, do not crop it. Coarse authentic 1990s Japanese game pixel art, restrained mature face detail, simple hard shadow clusters, sparse checkerboard dithering, blue and purple moonlight using supplied colors. Colored stone wall and night background extend to every edge, NO white stripes, NO white border, NO blank margins, NO text, NO collage. Exact 80x160, no smoothing or antialiasing.",
+  "seed": 198601,
+  "width": 80,
+  "bypass_prompt_expansion": true,
+  "height": 160,
+  "reference_images": [],
+  "input_palette": "iVBORw0KGgoAAAANSUhEUgAAABAAAAABCAYAAADXeS5fAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA0SURBVBhXFYkBDQBBDMJezMRgZmIwMzGY6XMNhCZ8BUmcg7vRQp20j7hZcnBrZgf11/MxP1L8KsAA7/f4AAAAAElFTkSuQmCC"
+}

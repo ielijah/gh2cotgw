@@ -1,0 +1,26 @@
+{
+  "note": "Cards 1 and 4 use a wider full-figure composition to retain complete head and hair.",
+  "width": 80,
+  "palette": "Original harem palette",
+  "colors": [
+    12,
+    9,
+    15,
+    11
+  ],
+  "height": 160,
+  "generator": "Retro Diffusion",
+  "game_modified": false,
+  "sources": [
+    "retro-diffusion-four-v4/card-01.png",
+    "retro-diffusion-four-v3/card-02.png",
+    "retro-diffusion-four-v2/card-03.png",
+    "retro-diffusion-four-v4/card-04.png"
+  ],
+  "pixels_outside_palette": [
+    0,
+    0,
+    0,
+    0
+  ]
+}

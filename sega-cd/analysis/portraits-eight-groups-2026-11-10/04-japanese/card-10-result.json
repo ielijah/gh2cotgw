@@ -1,0 +1,40 @@
+{
+  "status": "succeeded",
+  "task_id": "fa0b6454-361a-4548-9ecb-ba955fecafd9",
+  "created_at": 1794307911,
+  "updated_at": 1794308005,
+  "result": {
+    "created_at": 1794308005,
+    "credit_cost": 1,
+    "balance_cost": 0.0,
+    "base64_images": [],
+    "output_urls": [],
+    "model": "rd_pro",
+    "remaining_credits": 0,
+    "remaining_balance": 0.0,
+    "request_id": "fa0b6454-361a-4548-9ecb-ba955fecafd9",
+    "outputs_retained_until": 1794394311,
+    "warnings": [
+      {
+        "code": "plan_usage_final",
+        "message": "This job used the last of your plan usage for this month. Your next jobs will use your balance until your usage resets on December 10, 2026."
+      }
+    ],
+    "billing": {
+      "source": "plan",
+      "balance_left": 0.0,
+      "plan_job_limit": 2,
+      "balance_charged": 0.0,
+      "plan_jobs_running": 1,
+      "plan_usage_left_pct": 0
+    }
+  },
+  "billing": {
+    "source": "plan",
+    "plan_jobs_running": 0,
+    "plan_job_limit": 2,
+    "plan_usage_left_pct": 0,
+    "balance_charged": 0.0,
+    "balance_left": 0.0
+  }
+}

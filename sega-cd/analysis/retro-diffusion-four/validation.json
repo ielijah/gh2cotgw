@@ -1,0 +1,30 @@
+[
+  {
+    "card": 1,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "pixels_outside_palette": 0
+  },
+  {
+    "card": 2,
+    "width": 80,
+    "height": 160,
+    "colors": 12,
+    "pixels_outside_palette": 0
+  },
+  {
+    "card": 3,
+    "width": 80,
+    "height": 160,
+    "colors": 13,
+    "pixels_outside_palette": 0
+  },
+  {
+    "card": 4,
+    "width": 80,
+    "height": 160,
+    "colors": 14,
+    "pixels_outside_palette": 0
+  }
+]

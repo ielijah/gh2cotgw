@@ -10,7 +10,10 @@ def allocate(reserve,put,pairs):
     assert len(code)<=32;put(helper,code)
     return dict(helper=helper,text=text,ru=TEXTS[0]['ru'])
 def patches(d):
-    return [('HEX.PRG;1',0x7c50,'207900065504','4eb9'+f'{0xc000+d["helper"]:08x}')]
+    return [('HEX.PRG;1',0x7c50,'207900065504','4eb9'+f'{0xc000+d["helper"]:08x}'),
+            # Province prefix + 14-column name ends at column 19.
+            # Keep a blank separator before the defence field at column 20.
+            ('HEX.PRG;1',0xd780,'0012','0014')]
 def apply(image,source,files,d):
     for file,off,before,after in patches(d):
         a=files[file]['lba']*2048+off;old=bytes.fromhex(before);new=bytes.fromhex(after)

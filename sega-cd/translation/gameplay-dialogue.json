@@ -59,7 +59,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "28188",
     "ja": "ｺﾉ私ｶﾞ戻ｯﾀｶﾗﾆﾊ\nﾓｳ安心ﾃﾞｽｿﾞ",
-    "ru": "Я вернулся\nНе тревожьтесь",
+    "ru": "Я вернулся!\nНе бойтесь.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -108,7 +108,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2829A",
     "ja": "非力ﾅﾚﾄﾞ全力ｦ\n尽ｸｼﾏｼｮｳ…",
-    "ru": "Сделаю\nвсё что смогу",
+    "ru": "Сделаю\nвсё, что смогу.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -157,7 +157,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "28364",
     "ja": "父上ﾉｵ役ﾆﾀﾃﾙﾊ\n無上ﾉ喜ﾋﾞﾃﾞｺﾞｻﾞｲﾏｽ",
-    "ru": "Отец\nЯ рад быть вам полезен",
+    "ru": "Отец,\nя рад быть вам полезен",
     "kind": "gameplay_dialogue"
   },
   {
@@ -178,14 +178,14 @@
     "file": "SMAIN.PRG;1",
     "offset": "283BE",
     "ja": "必ｽﾞﾔ父上ﾉ名ﾆ恥ｼﾞﾇ\n活躍ｦｲﾀｼﾏｼｮｳｿﾞ",
-    "ru": "Отец\nЯ не посрамлю ваше имя",
+    "ru": "Отец,\nя не посрамлю ваше имя",
     "kind": "gameplay_dialogue"
   },
   {
     "file": "SMAIN.PRG;1",
     "offset": "2841C",
     "ja": "ｵ父様……\nｺﾚﾓ乱世ﾉ運命ﾅﾉﾃﾞｽﾈ",
-    "ru": "Отец\nТакова судьба в смуту",
+    "ru": "Отец,\nэто судьба в смуту",
     "kind": "gameplay_dialogue"
   },
   {
@@ -234,7 +234,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2862A",
     "ja": "ﾄﾞﾉ国ﾆ\n遠征ﾅｻﾙﾉﾃﾞｽｶ",
-    "ru": "Куда\nначать поход?",
+    "ru": "Куда\nидти походом?",
     "kind": "gameplay_dialogue"
   },
   {
@@ -318,7 +318,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2879E",
     "ja": "ｺﾚ以上ﾉ訓練ﾊ\n不必要ｶﾄ存ｼﾞﾏｽ",
-    "ru": "Обучать дальше\nне нужно",
+    "ru": "Обучать дальше\nне нужно.",
     "kind": "gameplay_dialogue"
   },
   {
@@ -2994,7 +2994,7 @@
     "file": "HEX.PRG;1",
     "offset": "14248",
     "ja": "%2d\u001bKﾀｰﾝ\u001bH",
-    "ru": "%2d ходов",
+    "ru": "%2d",
     "kind": "numbered_interface",
     "native_decimal_format": true,
     "max_columns": 22,
@@ -3014,7 +3014,7 @@
     "file": "HEX.PRG;1",
     "offset": "142C8",
     "ja": "城防御度%3d",
-    "ru": "Защита: %3d",
+    "ru": " Защ:%3d",
     "kind": "numbered_interface",
     "native_decimal_format": true,
     "max_columns": 22,
@@ -14251,7 +14251,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4D4C6",
     "ja": "軍団ｦｺﾞ自分ﾃﾞ\n編成ﾅｻｲﾏｽｶ",
-    "ru": "Сами создадите\nлегионы?",
+    "ru": "Сформируете\nлегионы?",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -15529,7 +15529,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "297E0",
     "ja": "ﾃﾞ､軍ﾉ\n補給率ﾊ最大ﾆﾅﾘﾏｽ",
-    "ru": "Снабжение\nполное.",
+    "ru": "\nСнабжение полное.",
     "kind": "dialogue",
     "max_columns": 22,
     "max_lines": 2
@@ -16302,7 +16302,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "2750A",
     "ja": "\u001bKﾍﾞﾈﾁｱ\u001bH",
-    "ru": "Венеция",
+    "ru": "Венеция ",
     "kind": "interface",
     "max_columns": 22,
     "max_lines": 2
@@ -16311,7 +16311,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "27514",
     "ja": "\u001bKｲｽﾗﾑ\u001bH",
-    "ru": "Ислам",
+    "ru": "Ислам   ",
     "kind": "interface",
     "max_columns": 22,
     "max_lines": 2
@@ -16320,7 +16320,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "27524",
     "ja": "\u001bKｳｲｸﾞﾙ\u001bH",
-    "ru": "Уйгуры",
+    "ru": "Уйгуры  ",
     "kind": "interface",
     "max_columns": 22,
     "max_lines": 2
@@ -18806,7 +18806,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "49D2A",
     "ja": "興安嶺西麓",
-    "ru": "Зап Хинган",
+    "ru": "Горы Богдо",
     "kind": "province",
     "max_columns": 14,
     "max_lines": 1
@@ -18815,7 +18815,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "49D3A",
     "ja": "内\u001bKﾓﾝｺﾞﾙ高原\u001bH",
-    "ru": "Внутр Монголия",
+    "ru": "Внутр.Монголия",
     "kind": "province",
     "max_columns": 14,
     "max_lines": 1
@@ -18824,7 +18824,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "49D4A",
     "ja": "\u001bKﾔﾌﾞﾛﾉｲ山麓\u001bH",
-    "ru": "Яблоновый хр",
+    "ru": "Горы Баргучин",
     "kind": "province",
     "max_columns": 14,
     "max_lines": 1
@@ -18851,7 +18851,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "49D7A",
     "ja": "\u001bKﾊﾞｲｶﾙ湖東岸\u001bH",
-    "ru": "Вост Байкал",
+    "ru": "Озеро Байкал",
     "kind": "province",
     "max_columns": 14,
     "max_lines": 1
@@ -18869,7 +18869,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "49D9A",
     "ja": "\u001bKｼﾍﾞﾘｱ南部\u001bH",
-    "ru": "Южная Сибирь",
+    "ru": "Степь Ангары",
     "kind": "province",
     "max_columns": 14,
     "max_lines": 1
@@ -18878,7 +18878,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "49DAA",
     "ja": "\u001bKﾊﾞｲｶﾙ湖西岸\u001bH",
-    "ru": "Зап Байкал",
+    "ru": "Озеро Косогол",
     "kind": "province",
     "max_columns": 14,
     "max_lines": 1
@@ -19087,7 +19087,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4A16A",
     "ja": "華北",
-    "ru": "Северный Китай",
+    "ru": "Хэбэй",
     "kind": "province",
     "max_columns": 14,
     "max_lines": 1,
@@ -19154,7 +19154,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4A1DA",
     "ja": "華南",
-    "ru": "Южный Китай",
+    "ru": "Хунань",
     "kind": "province",
     "max_columns": 14,
     "max_lines": 1,
@@ -20703,11 +20703,12 @@
     "file": "SMAIN.PRG;1",
     "offset": "26840",
     "ja": "戦略:%2d ",
-    "ru": "Такт:%2d",
-    "kind": "strategy_rating",
+    "ru": "Ход: %2d ",
+    "kind": "active_province_turn",
     "native_decimal_format": true,
     "max_columns": 10,
-    "max_lines": 1
+    "max_lines": 1,
+    "note": "CPU 0x16600 prints ((current province pointer at 0x7FD48 - 0x7EB14) / 0x34) + 1; not a character rating or elapsed turn count."
   },
   {
     "file": "SMAIN.PRG;1",
@@ -21837,7 +21838,7 @@
     "file": "SMAIN.PRG;1",
     "offset": "4CF3E",
     "ja": "ﾄﾞﾉ交易商人ﾆ\nｲﾀｼﾏｽｶ(    )",
-    "ru": "Какой купец?\n(    )",
+    "ru": "Какой купец?\n        ",
     "kind": "dialogue_fragment",
     "max_columns": 22,
     "max_lines": 4,

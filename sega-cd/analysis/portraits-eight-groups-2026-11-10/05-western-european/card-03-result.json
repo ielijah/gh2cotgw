@@ -1,0 +1,34 @@
+{
+  "status": "succeeded",
+  "task_id": "9fe8b006-aa49-4c1d-b5e3-c79e83a2f081",
+  "created_at": 1794305772,
+  "updated_at": 1794305899,
+  "result": {
+    "created_at": 1794305899,
+    "credit_cost": 1,
+    "balance_cost": 0.0,
+    "base64_images": [],
+    "output_urls": [],
+    "model": "rd_pro",
+    "remaining_credits": 0,
+    "remaining_balance": 0.0,
+    "request_id": "9fe8b006-aa49-4c1d-b5e3-c79e83a2f081",
+    "outputs_retained_until": 1794392172,
+    "billing": {
+      "source": "plan",
+      "balance_left": 0.0,
+      "plan_job_limit": 2,
+      "balance_charged": 0.0,
+      "plan_jobs_running": 2,
+      "plan_usage_left_pct": 48
+    }
+  },
+  "billing": {
+    "source": "plan",
+    "plan_jobs_running": 1,
+    "plan_job_limit": 2,
+    "plan_usage_left_pct": 48,
+    "balance_charged": 0.0,
+    "balance_left": 0.0
+  }
+}

@@ -32,5 +32,6 @@ for index,label in enumerate(['Поход','Переход','Доставка'])
  assert u.reg_read(UC_M68K_REG_PC)==0x259f0 and u.reg_read(UC_M68K_REG_A7)==0x90000
  assert bytes(u.mem_read(0x90000,10))==b'STACKGUARD'
  text=decode(bytes(u.mem_read(0x59ec8,128)).split(b'\0')[0]);assert label in text and 'Выполнить?' in text,text
+ assert len(text.splitlines())<=2,repr(text)
  assert all(len(line.rstrip())<=22 for line in text.splitlines())
 print(f'PASS: {len(wave)} late fields; all 13 names preserve adjacent flags/records; all three expanded mission labels execute and fit the native report')

@@ -1,0 +1,25 @@
+{
+  "original": "戦略:%2d ",
+  "translation": "Ход: %2d ",
+  "meaning": "Number of province currently being processed in the strategic turn",
+  "evidence": [
+    {
+      "cpu": "0x16630",
+      "operation": "Load current province pointer from 0x7FD48"
+    },
+    {
+      "cpu": "0x13894",
+      "operation": "Subtract province table base 0x7EB14, divide by record size 0x34"
+    },
+    {
+      "cpu": "0x16644",
+      "operation": "Add 1 for displayed province number"
+    },
+    {
+      "cpu": "0x1AC70",
+      "operation": "Same index getter is used for province number in map footer"
+    }
+  ],
+  "validation": "test_active_province_cpu.py executes native indicator for all 33 province indices; no character-stat reads involved",
+  "source": "Local Sega CD machine code; not a manual claim"
+}

@@ -1,0 +1,6 @@
+{
+  "status": "accepted",
+  "task_id": "60b62994-8f8f-4132-9d38-c2e394026e07",
+  "request_id": "60b62994-8f8f-4132-9d38-c2e394026e07",
+  "message": "Inference accepted. Poll GET /v2/inferences/tasks/{task_id} for status."
+}
